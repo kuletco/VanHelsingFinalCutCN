@@ -6,203 +6,203 @@
 	<Languages>CHS</Languages>
 	<Artifacts>
 		<ComponentDesc>
-			<CHS>能插入任何有附精华能力的物品中。</CHS>
+			<CHS>可通过实验室插入任何具有精华容量的物品</CHS>
 		</ComponentDesc>
 		<BagDesc>
-			<CHS>在这个袋子里找到一些惊人的战利品! (不能在冒险地图使用!)</CHS>
+			<CHS>Open this bag to find some amazing loot! (Can't be used on the Adventure Map!)</CHS>
 		</BagDesc>
 		<AvailableTypesForEnchant>
-			<CHS>以下物品可用：</CHS>
+			<CHS>在下列物品中可用：</CHS>
 		</AvailableTypesForEnchant>
 		<SetName>
 			<gallowsbog_collection>
-				<CHS>绞刑架沼泽收藏</CHS>
+				<CHS>恐怖沼泽收藏</CHS>
 			</gallowsbog_collection>
 			<the_gorgoniad>
 				<CHS>蛇发女妖套装</CHS>
 			</the_gorgoniad>
 			<dawnbreaker_collection>
-				<CHS>黎明断路器收藏</CHS>
+				<CHS>破晓者收藏</CHS>
 			</dawnbreaker_collection>
 			<manticore_treasures>
-				<CHS>曼提考珍品套装</CHS>
+				<CHS>蝎狮宝藏套装</CHS>
 			</manticore_treasures>
 			<Nephilim>
-				<CHS>纳菲利姆集</CHS>
+				<CHS>堕落者套装</CHS>
 			</Nephilim>
 			<Baskerville_Antiques>
-				<CHS>巴斯克维尔古董套装</CHS>
+				<CHS>巴斯克维尔的古董套装</CHS>
 			</Baskerville_Antiques>
 			<Duskdale_Collection>
-				<CHS>幽暗山谷套装</CHS>
+				<CHS>暮谷套装</CHS>
 			</Duskdale_Collection>
 			<The_Avenger_Set>
 				<CHS>复仇者套装</CHS>
 			</The_Avenger_Set>
 			<Borislav_Heritage>
-				<CHS>鲍里斯拉夫遗产套装</CHS>
+				<CHS>波利斯拉夫的遗产套装</CHS>
 			</Borislav_Heritage>
 			<The_Twilight_Treasures>
-				<CHS>黎明宝藏套装</CHS>
+				<CHS>雷文斯卡的神器套装</CHS>
 			</The_Twilight_Treasures>
 			<Ravenscar_Artifacts>
-				<CHS>雷文斯坎文物套装</CHS>
+				<CHS>暮光珍宝套装</CHS>
 			</Ravenscar_Artifacts>
 			<ancestral>
 				<CHS>先祖套装</CHS>
 			</ancestral>
 			<incantatus>
-				<CHS>伊坎特特斯套装</CHS>
+				<CHS>巫师套装</CHS>
 			</incantatus>
 			<Conjurer>
-				<CHS>魔术师套装</CHS>
+				<CHS>召唤者套装</CHS>
 			</Conjurer>
 			<Hazardist_Knight>
-				<CHS>危险骑士套装</CHS>
+				<CHS>灾难骑士套装</CHS>
 			</Hazardist_Knight>
 			<Apocryphus_Mechanicus>
-				<CHS>阿伯克莱福斯机械套装</CHS>
+				<CHS>神秘机械师套装</CHS>
 			</Apocryphus_Mechanicus>
 			<Exterminator>
-				<CHS>终结者套装</CHS>
+				<CHS>灭绝者套装</CHS>
 			</Exterminator>
 			<expurgator>
 				<CHS>削除者套装</CHS>
 			</expurgator>
 			<Dungeonkeeper>
-				<CHS>地下城守护者套装</CHS>
+				<CHS>地牢守护者套装</CHS>
 			</Dungeonkeeper>
 			<contraptor>
-				<CHS>装置</CHS>
+				<CHS>自制套装</CHS>
 			</contraptor>
 			<vh2set1>
-				<CHS>荣誉套装</CHS>
+				<CHS>霍诺里德套装</CHS>
 			</vh2set1>
 			<ink_vh2set1>
-				<CHS>墨染荣誉套</CHS>
+				<CHS>墨染荣耀套装</CHS>
 			</ink_vh2set1>
 			<vh2set2>
-				<CHS>歹徒套装</CHS>
+				<CHS>放逐者套装</CHS>
 			</vh2set2>
 			<ink_vh2set2>
-				<CHS>墨染歹徒套</CHS>
+				<CHS>墨染暴徒套装</CHS>
 			</ink_vh2set2>
 			<vh2set3>
-				<CHS>利刃套装</CHS>
+				<CHS>斩首套装</CHS>
 			</vh2set3>
 			<ink_vh2set3>
-				<CHS>墨染利刃套</CHS>
+				<CHS>墨染穿刺套装</CHS>
 			</ink_vh2set3>
 			<vh2set4>
-				<CHS>风暴枪手套装</CHS>
+				<CHS>风暴炮手套装</CHS>
 			</vh2set4>
 			<ink_vh2set4>
-				<CHS>墨染风暴枪手套</CHS>
+				<CHS>墨染风暴枪手套装</CHS>
 			</ink_vh2set4>
 			<vh2set5>
-				<CHS>扭木游侠套装</CHS>
+				<CHS>曲木游侠套装</CHS>
 			</vh2set5>
 			<ink_vh2set5>
-				<CHS>墨染扭木游侠套</CHS>
+				<CHS>墨染纳伍德游骑兵套装</CHS>
 			</ink_vh2set5>
 			<vh2set6>
-				<CHS>火法师套装</CHS>
+				<CHS>火焰法师套装</CHS>
 			</vh2set6>
 			<ink_vh2set6>
-				<CHS>墨染利刃套</CHS>
+				<CHS>墨染火欲套装</CHS>
 			</ink_vh2set6>
 			<vh2set7>
-				<CHS>墨境行者军团套装</CHS>
+				<CHS>墨镜奔袭军团套装</CHS>
 			</vh2set7>
 			<ink_vh2set7>
-				<CHS>墨染墨境行者军团套</CHS>
+				<CHS>墨染墨境行者军团套装</CHS>
 			</ink_vh2set7>
 			<vh2set8>
 				<CHS>巨兽猎人套装</CHS>
 			</vh2set8>
 			<ink_vh2set8>
-				<CHS>墨染巨兽猎人套</CHS>
+				<CHS>墨染巨兽猎人套装</CHS>
 			</ink_vh2set8>
 			<vh2set9>
 				<CHS>原始猎人套装</CHS>
 			</vh2set9>
 			<ink_vh2set9>
-				<CHS>墨染原始猎人套</CHS>
+				<CHS>墨染原始猎手套装</CHS>
 			</ink_vh2set9>
 			<vh2set10>
-				<CHS>魂缚套装</CHS>
+				<CHS>魂系套装</CHS>
 			</vh2set10>
 			<ink_vh2set10>
-				<CHS>墨染魂缚套</CHS>
+				<CHS>墨染灵魂链接套装</CHS>
 			</ink_vh2set10>
 			<vh2set11>
 				<CHS>圣战套装</CHS>
 			</vh2set11>
 			<ink_vh2set11>
-				<CHS>墨染圣战套</CHS>
+				<CHS>墨染圣战套装</CHS>
 			</ink_vh2set11>
 			<vh2set12>
-				<CHS>拉马之子套装</CHS>
+				<CHS>拉玛特之子套装</CHS>
 			</vh2set12>
 			<ink_vh2set12>
-				<CHS>墨染拉马之子套</CHS>
+				<CHS>墨染拉马特之子套装</CHS>
 			</ink_vh2set12>
 			<vh2set13>
-				<CHS>完美套装</CHS>
+				<CHS>无斑套装</CHS>
 			</vh2set13>
 			<ink_vh2set13>
-				<CHS>墨染完美套</CHS>
+				<CHS>墨染月鱼套装</CHS>
 			</ink_vh2set13>
 			<vh2set14>
 				<CHS>符文套装</CHS>
 			</vh2set14>
 			<ink_vh2set14>
-				<CHS>墨染符文套</CHS>
+				<CHS>墨染符文套装</CHS>
 			</ink_vh2set14>
 			<vh2set15>
-				<CHS>遗忘套装</CHS>
+				<CHS>遗忘者套装</CHS>
 			</vh2set15>
 			<ink_vh2set15>
-				<CHS>墨染遗忘套</CHS>
+				<CHS>墨染被弃者套装</CHS>
 			</ink_vh2set15>
 			<vh2set16>
-				<CHS>时空战士套装</CHS>
+				<CHS>合金战士套装</CHS>
 			</vh2set16>
 			<ink_vh2set16>
-				<CHS>墨染遗忘套</CHS>
+				<CHS>墨染铬素军团套装</CHS>
 			</ink_vh2set16>
 			<Prodigy>
-				<CHS>奇才套</CHS>
+				<CHS>奇才套装</CHS>
 			</Prodigy>
 			<Graceful_Hunter>
-				<CHS>优雅猎人套</CHS>
+				<CHS>优雅猎人套装</CHS>
 			</Graceful_Hunter>
 			<Seeker_Savant>
-				<CHS>哨兵专家套</CHS>
+				<CHS>搜寻专家套装</CHS>
 			</Seeker_Savant>
 			<Minotaur_Slayer>
-				<CHS>米诺陶杀手套</CHS>
+				<CHS>牛头人猎手套装</CHS>
 			</Minotaur_Slayer>
 			<Sharps_Armoury>
-				<CHS>锋利护甲套</CHS>
+				<CHS>夏普斯武装套装</CHS>
 			</Sharps_Armoury>
 			<Sunguard>
-				<CHS>太阳卫士套</CHS>
+				<CHS>太阳卫士套装</CHS>
 			</Sunguard>
 			<Hexer>
-				<CHS>男巫套</CHS>
+				<CHS>妖法套装</CHS>
 			</Hexer>
 			<Unseen_Slayer>
-				<CHS>隐形杀手套</CHS>
+				<CHS>隐形杀手套装</CHS>
 			</Unseen_Slayer>
 			<Dreadnought>
-				<CHS>无畏套</CHS>
+				<CHS>无畏套装</CHS>
 			</Dreadnought>
 			<Gadget_Master>
-				<CHS>工具大师套</CHS>
+				<CHS>装备大师套装</CHS>
 			</Gadget_Master>
 			<crimson_terror>
-				<CHS>深红恐惧设置</CHS>
+				<CHS>赤恐套装</CHS>
 			</crimson_terror>
 		</SetName>
 		<Popup>
@@ -213,7 +213,7 @@
 				<CHS>伤害</CHS>
 			</Damage>
 			<ArmourPiercing>
-				<CHS>穿甲</CHS>
+				<CHS>护甲穿刺</CHS>
 			</ArmourPiercing>
 			<Defense>
 				<CHS>防御</CHS>
@@ -222,19 +222,19 @@
 				<CHS>偏转</CHS>
 			</Parry>
 			<SpellEnchantment>
-				<CHS>基础法术威力</CHS>
+				<CHS>基本</CHS>
 			</SpellEnchantment>
 			<AttackRate>
-				<CHS>攻击速度</CHS>
+				<CHS>攻速</CHS>
 			</AttackRate>
 			<Cooldown>
-				<CHS>冷却</CHS>
+				<CHS>冷却时间</CHS>
 			</Cooldown>
 			<Ego>
-				<CHS>池</CHS>
+				<CHS>水池</CHS>
 			</Ego>
 			<Value>
-				<CHS>数值</CHS>
+				<CHS>价值</CHS>
 			</Value>
 			<StackCount>
 				<CHS>数量</CHS>
@@ -243,28 +243,28 @@
 				<CHS>单手</CHS>
 			</OneHanded>
 			<TwoHanded>
-				<CHS>双手</CHS>
+				<CHS>两手操作的</CHS>
 			</TwoHanded>
 			<HealingPotions>
-				<CHS>生命药水数量</CHS>
+				<CHS>生命药水数</CHS>
 			</HealingPotions>
 			<ManaPotions>
-				<CHS>魔法药水数量</CHS>
+				<CHS>魔法药水数</CHS>
 			</ManaPotions>
 			<Requirements>
-				<CHS>需求</CHS>
+				<CHS>要求</CHS>
 			</Requirements>
 			<LevelRequirement>
-				<CHS>需求等级</CHS>
+				<CHS>所需等级</CHS>
 			</LevelRequirement>
 			<Class>
-				<CHS>仅限</CHS>
+				<CHS>只有</CHS>
 			</Class>
 			<ClassException>
-				<CHS>不可用于</CHS>
+				<CHS>不可用</CHS>
 			</ClassException>
 			<InactiveEnchantment>
-				<CHS>未激活</CHS>
+				<CHS>不活跃的</CHS>
 			</InactiveEnchantment>
 			<Alchemy>
 				<Enchantment_slot_1>
@@ -274,11 +274,11 @@
 					<CHS>护甲</CHS>
 				</Enchantment_slot_2>
 				<Enchantment_slot_3>
-					<CHS>饰品</CHS>
+					<CHS>配饰</CHS>
 				</Enchantment_slot_3>
 			</Alchemy>
 			<Strength>
-				<CHS>力量</CHS>
+				<CHS>力气</CHS>
 			</Strength>
 			<ConsumableEffects>
 				<CHS>神秘效果</CHS>
@@ -287,57 +287,57 @@
 				<CHS>基础武器伤害</CHS>
 			</FuelDamage>
 			<AccountBound>
-				<CHS>账号绑定</CHS>
+				<CHS>账户绑定</CHS>
 			</AccountBound>
 			<AllResist>
-				<CHS>所有抗性</CHS>
+				<CHS>全抗性</CHS>
 			</AllResist>
 			<CCResistBonus>
-				<CHS>控场抗性</CHS>
+				<CHS>人群控制阻力</CHS>
 			</CCResistBonus>
 			<PhysicalResistBonus>
 				<CHS>物理抗性</CHS>
 			</PhysicalResistBonus>
 			<ElementalResistBonus>
-				<CHS>元素抵抗</CHS>
+				<CHS>元素抗性</CHS>
 			</ElementalResistBonus>
 			<PoisonResistBonus>
-				<CHS>毒素抵抗</CHS>
+				<CHS>抗毒力</CHS>
 			</PoisonResistBonus>
 			<StatBonus>
-				<CHS>所有属性</CHS>
+				<CHS>全属性</CHS>
 			</StatBonus>
 			<already_used>
 				<CHS>已使用</CHS>
 			</already_used>
 			<InkImbound>
-				<CHS>沾满墨水的物品</CHS>
+				<CHS>墨染物品</CHS>
 			</InkImbound>
 			<unabletouse>
-				<CHS>无法使用</CHS>
+				<CHS>不能使用</CHS>
 			</unabletouse>
 			<hpbonus>
-				<CHS>生命加成</CHS>
+				<CHS>生命值加成</CHS>
 			</hpbonus>
 			<manabonus>
 				<CHS>法力加成</CHS>
 			</manabonus>
 			<CritDamageBonus>
-				<CHS>致命伤害</CHS>
+				<CHS>暴击伤害</CHS>
 			</CritDamageBonus>
 			<MinionHpBonus>
-				<CHS>随从生命值</CHS>
+				<CHS>仆从 HP</CHS>
 			</MinionHpBonus>
 			<MinionDPSBonus>
-				<CHS>随处DPS</CHS>
+				<CHS>仆从 DPS</CHS>
 			</MinionDPSBonus>
 			<ShieldBonus>
-				<CHS>盾牌加成</CHS>
+				<CHS>护盾加成</CHS>
 			</ShieldBonus>
 		</Popup>
 		<Types>
 			<notset>
-				<CHS>任意神器</CHS>
+				<CHS>任何圣物</CHS>
 			</notset>
 			<weapon>
 				<CHS>武器</CHS>
@@ -364,7 +364,7 @@
 				<CHS>精华</CHS>
 			</essence>
 			<trophy>
-				<CHS>奖章</CHS>
+				<CHS>奖品</CHS>
 			</trophy>
 			<consumable>
 				<CHS>消耗品</CHS>
@@ -378,7 +378,7 @@
 				<CHS>破裂</CHS>
 			</Cracked>
 			<Masterwork>
-				<CHS>精制</CHS>
+				<CHS>杰作</CHS>
 			</Masterwork>
 		</Quality>
 		<Rarity>
@@ -395,23 +395,23 @@
 				<CHS>史诗</CHS>
 			</Epic>
 			<Set>
-				<CHS>套装</CHS>
+				<CHS>设置</CHS>
 			</Set>
 			<Godlike>
-				<CHS>如神一般</CHS>
+				<CHS>如同神一般</CHS>
 			</Godlike>
 		</Rarity>
 		<Unidentified>
 			<Type>
-				<CHS>未鉴定 %s</CHS>
+				<CHS>未确认%s</CHS>
 			</Type>
 			<Label>
-				<CHS>未鉴定</CHS>
+				<CHS>未确认</CHS>
 			</Label>
 		</Unidentified>
 		<ChangesOnEquip>
 			<Label>
-				<CHS>装备后改变：</CHS>
+				<CHS>装备时改变：</CHS>
 			</Label>
 			<base>
 				<CHS>基础更改:</CHS>
@@ -421,14 +421,14 @@
 			</actual>
 		</ChangesOnEquip>
 		<Alchemy_capacity>
-			<CHS>精华上限: %s</CHS>
+			<CHS>精华上限：%s</CHS>
 		</Alchemy_capacity>
 		<Alchemy_capacity_component>
-			<CHS>精华消耗: %d</CHS>
+			<CHS>精华花费：%d</CHS>
 		</Alchemy_capacity_component>
 		<SubTypes>
 			<Sword>
-				<CHS>剑</CHS>
+				<CHS>长剑</CHS>
 			</Sword>
 			<TwoHandedSword>
 				<CHS>双手剑</CHS>
@@ -455,10 +455,10 @@
 				<CHS>腰带</CHS>
 			</Belt>
 			<Cape>
-				<CHS>长袍</CHS>
+				<CHS>斗篷</CHS>
 			</Cape>
 			<Trophy>
-				<CHS>奖章</CHS>
+				<CHS>奖品</CHS>
 			</Trophy>
 			<Amulet>
 				<CHS>护身符</CHS>
@@ -467,10 +467,10 @@
 				<CHS>戒指</CHS>
 			</Ring>
 			<HealthPotion>
-				<CHS>生命药水</CHS>
+				<CHS>治疗药剂</CHS>
 			</HealthPotion>
 			<ManaPotion>
-				<CHS>魔法药水</CHS>
+				<CHS>魔法值药剂</CHS>
 			</ManaPotion>
 			<QuestItem>
 				<CHS>任务物品</CHS>
@@ -488,13 +488,13 @@
 				<CHS>消耗品</CHS>
 			</Consumable>
 			<Mask>
-				<CHS>隐匿面具</CHS>
+				<CHS>神秘面具</CHS>
 			</Mask>
 			<MageCape>
 				<CHS>符文斗篷</CHS>
 			</MageCape>
 			<Focus>
-				<CHS>法术手铐</CHS>
+				<CHS>咒语护腕</CHS>
 			</Focus>
 			<EngineerHelmet>
 				<CHS>头饰</CHS>
@@ -503,7 +503,7 @@
 				<CHS>充能包</CHS>
 			</Backpack>
 			<Cannon>
-				<CHS>轰击炮</CHS>
+				<CHS>释放器</CHS>
 			</Cannon>
 			<HelmetGeneric>
 				<CHS>头盔</CHS>
@@ -524,7 +524,7 @@
 				<CHS>法杖</CHS>
 			</Staff>
 			<Axe>
-				<CHS>撞击武器</CHS>
+				<CHS>重击武器</CHS>
 			</Axe>
 			<EnchantFragment>
 				<CHS>符文碎片</CHS>
@@ -536,7 +536,7 @@
 				<CHS>大师符文碎片</CHS>
 			</BaseFragment>
 			<BaseRune>
-				<CHS>符文大师</CHS>
+				<CHS>大师符文</CHS>
 			</BaseRune>
 			<candle>
 				<CHS>魔术蜡烛</CHS>
@@ -551,16 +551,16 @@
 				<CHS>外骨骼</CHS>
 			</Exoskeleton>
 			<HeavyDischarger>
-				<CHS>重型轰击炮</CHS>
+				<CHS>重型放电器</CHS>
 			</HeavyDischarger>
 			<katarinamelee>
-				<CHS>鬼爪</CHS>
+				<CHS>灵爪</CHS>
 			</katarinamelee>
 			<KatarinaRanged>
-				<CHS>鬼魂之印</CHS>
+				<CHS>灵印</CHS>
 			</KatarinaRanged>
 			<KatarinaArmor>
-				<CHS>鬼魂斗篷</CHS>
+				<CHS>灵袍</CHS>
 			</KatarinaArmor>
 			<LightArmor>
 				<CHS>轻甲</CHS>
@@ -569,7 +569,7 @@
 				<CHS>匕首</CHS>
 			</Dagger>
 			<SpiritHarness>
-				<CHS>灵魂保护带</CHS>
+				<CHS>灵魂系带</CHS>
 			</SpiritHarness>
 			<SpiritHood>
 				<CHS>灵魂兜帽</CHS>
@@ -581,10 +581,10 @@
 				<CHS>重甲</CHS>
 			</HeavyArmor>
 			<Garb>
-				<CHS>衣服</CHS>
+				<CHS>长袍</CHS>
 			</Garb>
 			<EngineerSuit>
-				<CHS>工程师服</CHS>
+				<CHS>工程师套装</CHS>
 			</EngineerSuit>
 			<Shield>
 				<CHS>盾牌</CHS>
@@ -593,7 +593,7 @@
 				<CHS>护符</CHS>
 			</Talisman>
 			<ArmorVest>
-				<CHS>护甲背心</CHS>
+				<CHS>防护背心</CHS>
 			</ArmorVest>
 			<Bag>
 				<CHS>袋子</CHS>
@@ -601,143 +601,143 @@
 		</SubTypes>
 		<Conditions>
 			<Permanent>
-				<CHS>永久: %s</CHS>
+				<CHS>永久：%s</CHS>
 			</Permanent>
 			<Set>
-				<CHS>套装: %d</CHS>
+				<CHS>套装：%d</CHS>
 			</Set>
 			<kill_soldier>
-				<CHS>击杀敌人: %d/%d</CHS>
+				<CHS>敌人击杀数：%d/%d</CHS>
 			</kill_soldier>
 			<damage_done>
-				<CHS>造成伤害: %d/%d</CHS>
+				<CHS>造成的伤害：%d/%d</CHS>
 			</damage_done>
 			<use_mana>
-				<CHS>使用魔力: %d/%d</CHS>
+				<CHS>使用的法力：%d/%d</CHS>
 			</use_mana>
 			<successful_defense>
-				<CHS>攻击防御: %d/%d</CHS>
+				<CHS>抵御攻击量：%d/%d</CHS>
 			</successful_defense>
 			<successful_parry>
-				<CHS>偏斜打击: %d/%d</CHS>
+				<CHS>招架攻击数：%d/%d</CHS>
 			</successful_parry>
 			<distance_walked>
-				<CHS>所走距离: %d/%d</CHS>
+				<CHS>行走距离：%d/%d</CHS>
 			</distance_walked>
 			<critical_hit>
-				<CHS>致命伤害: %d/%d</CHS>
+				<CHS>暴击次数：%d/%d</CHS>
 			</critical_hit>
 			<powerup_use>
-				<CHS>使用强化: %d/%d</CHS>
+				<CHS>使用的强化：%d/%d</CHS>
 			</powerup_use>
 			<gold_spent>
-				<CHS>金币消耗: %d/%d</CHS>
+				<CHS>花费的金币：%d/%d</CHS>
 			</gold_spent>
 			<enchant_count>
-				<CHS>附魔次数: %d/%d</CHS>
+				<CHS>被魅惑次数：%d/%d</CHS>
 			</enchant_count>
 			<death>
-				<CHS>死亡数: %d/%d</CHS>
+				<CHS>死亡数量：%d/%d</CHS>
 			</death>
 			<potion_drunk>
-				<CHS>饮用药剂数: %d/%d</CHS>
+				<CHS>喝掉的药剂：%d/%d</CHS>
 			</potion_drunk>
 			<kill_special_soldier>
-				<CHS>击杀困难敌人数: %d/%d</CHS>
+				<CHS>击杀的强大敌人：%d/%d</CHS>
 			</kill_special_soldier>
 			<damage_received>
-				<CHS>受到的伤害: %d/%d</CHS>
+				<CHS>受到的伤害:%d/%d</CHS>
 			</damage_received>
 			<near_death>
-				<CHS>濒死: %d/%d</CHS>
+				<CHS>濒死数量：%d/%d</CHS>
 			</near_death>
 			<max_rage_count>
-				<CHS>完全发怒次数: %d/%d</CHS>
+				<CHS>完全被激怒的次数：%d/%d</CHS>
 			</max_rage_count>
 			<charge>
-				<CHS>冲锋: %d/%d</CHS>
+				<CHS>充能：%d/%d</CHS>
 			</charge>
 		</Conditions>
 		<Items>
 			<ring_of_fire>
 				<Name>
-					<CHS>纳瑞亚</CHS>
+					<CHS>纳亚</CHS>
 				</Name>
 			</ring_of_fire>
 			<life_amulet>
 				<Name>
-					<CHS>血液吊坠</CHS>
+					<CHS>血液垂饰</CHS>
 				</Name>
 			</life_amulet>
 			<Old_Rune>
 				<Name>
-					<CHS>旧符文</CHS>
+					<CHS>老旧符文</CHS>
 				</Name>
 			</Old_Rune>
 			<Orichalcum_ore_1>
 				<Name>
-					<CHS>黄铜矿</CHS>
+					<CHS>铜矿石</CHS>
 				</Name>
 			</Orichalcum_ore_1>
 			<Orichalcum_ore_2>
 				<Name>
-					<CHS>黄铜矿</CHS>
+					<CHS>铜矿石</CHS>
 				</Name>
 			</Orichalcum_ore_2>
 			<Superegg_Rat>
 				<Name>
-					<CHS>炽热的鼠肝</CHS>
+					<CHS>发光的老鼠肝脏</CHS>
 				</Name>
 				<Desc>
-					<CHS>这是一只小型巨墨鼠的肝脏，所有猎人都垂涎已久，据说吃了它，就会拥有无穷的力量。</CHS>
+					<CHS>这是有名的袖珍墨境巨鼠肝脏。对于猎人来说可是一道令人垂涎的美味，据说胆敢吃了它的人将会得到无穷的力量。</CHS>
 				</Desc>
 				<ConsumeEffect>
-					<CHS>+10永久攻击点 </CHS>
+					<CHS>永久 打击点 +10</CHS>
 				</ConsumeEffect>
 			</Superegg_Rat>
 			<galaxis_utikalauz>
 				<Name>
-					<CHS>精灵猎手到墨境引导</CHS>
+					<CHS>精灵猎人的墨境指南</CHS>
 				</Name>
 				<Desc>
-					<CHS>有句“不要惊慌！”用友好的大字母写在上面。</CHS>
+					<CHS>上面用友好的大字体写着“别慌！”。</CHS>
 				</Desc>
 				<ConsumeEffect>
-					<CHS>+10 永久增进法力值</CHS>
+					<CHS>永久 法力恢复 +10</CHS>
 				</ConsumeEffect>
 			</galaxis_utikalauz>
 			<Alchemist_poisonup>
 				<ConsumeEffect>
-					<CHS>+50 点永久毒素抵抗</CHS>
+					<CHS>永久+50点毒抗性</CHS>
 				</ConsumeEffect>
 			</Alchemist_poisonup>
 			<Alchemist_poisondown>
 				<ConsumeEffect>
-					<CHS>-20 点永久毒素抵抗</CHS>
+					<CHS>永久-20点毒抗性</CHS>
 				</ConsumeEffect>
 			</Alchemist_poisondown>
 			<gocsortos_kard>
 				<Name>
-					<CHS>卷刃</CHS>
+					<CHS>弯剑</CHS>
 				</Name>
 				<Desc>
-					<CHS>这武器或许看上去很丑很笨拙，但它仍旧是你第一次尝试锻造刀刃的纪念品。</CHS>
+					<CHS>这件武器看起来貌似很丑陋笨重，但是这是你第一次锻造一把合适的剑的纪念品。</CHS>
 				</Desc>
 			</gocsortos_kard>
 			<Capacitive_Essence>
 				<Name>
-					<CHS>可捕获精华</CHS>
+					<CHS>电容精华</CHS>
 				</Name>
 				<desc>
-					<CHS>可以插入任何物品，将其精华能力增加到20。</CHS>
+					<CHS>可被嵌入任意装备，提高装备精华上限最高20点。</CHS>
 				</desc>
 			</Capacitive_Essence>
 			<Extra_Capacitive_Essence>
 				<Name>
-					<CHS>极大电容精华</CHS>
+					<CHS>大储能精华</CHS>
 				</Name>
 				<desc>
-					<CHS>能插入任何物品增加其精华容量，上限为24.</CHS>
+					<CHS>可以插入到任何物品中，最多增加其精华容量24点。</CHS>
 				</desc>
 			</Extra_Capacitive_Essence>
 			<Diamond_Essence>
@@ -747,7 +747,7 @@
 			</Diamond_Essence>
 			<Essence_of_electricity>
 				<Name>
-					<CHS>电子精华</CHS>
+					<CHS>电能精华</CHS>
 				</Name>
 			</Essence_of_electricity>
 			<wolfblood_essence>
@@ -757,25 +757,25 @@
 			</wolfblood_essence>
 			<Essence_of_electricity_quest>
 				<Name>
-					<CHS>电子精华</CHS>
+					<CHS>电能精华</CHS>
 				</Name>
 				<desc>
-					<CHS>一种含有强力电子的神秘精华。现在我明白为什么铁匠急于得到这种精华了。</CHS>
+					<CHS>包含强大电能的神秘精华。现在我明白了为什么铁匠那么想得到它。</CHS>
 				</desc>
 			</Essence_of_electricity_quest>
 			<Irrational_Essence>
 				<Name>
-					<CHS>无理性精华</CHS>
+					<CHS>无礼精华</CHS>
 				</Name>
 			</Irrational_Essence>
 			<tainted_essence>
 				<Name>
-					<CHS>污染精华</CHS>
+					<CHS>被污染的元素</CHS>
 				</Name>
 			</tainted_essence>
 			<Poison_Essence>
 				<Name>
-					<CHS>有毒精华</CHS>
+					<CHS>毒元素</CHS>
 				</Name>
 			</Poison_Essence>
 			<Ink_Essence>
@@ -790,12 +790,12 @@
 			</Fifth_element>
 			<Domovoys_sword>
 				<Name>
-					<CHS>幽灵剑</CHS>
+					<CHS>德莫沃依之剑</CHS>
 				</Name>
 			</Domovoys_sword>
 			<The_One_ring>
 				<Name>
-					<CHS>无疑魔法戒指</CHS>
+					<CHS>一枚特殊的魔法戒指</CHS>
 				</Name>
 			</The_One_ring>
 			<Predators_Gift>
@@ -805,17 +805,17 @@
 			</Predators_Gift>
 			<Zorros_Hat>
 				<Name>
-					<CHS>狐狸的帽子</CHS>
+					<CHS>狐狸之帽</CHS>
 				</Name>
 			</Zorros_Hat>
 			<Primordial_Essence>
 				<Name>
-					<CHS>原始精华</CHS>
+					<CHS>原始元素</CHS>
 				</Name>
 			</Primordial_Essence>
 			<Vigorous_Essence>
 				<Name>
-					<CHS>精力精华</CHS>
+					<CHS>充满活力的精华</CHS>
 				</Name>
 			</Vigorous_Essence>
 			<Mercurial_Essence>
@@ -830,37 +830,37 @@
 			</Ethereal_Essence>
 			<Corporeal_Essence>
 				<Name>
-					<CHS>实体精华</CHS>
+					<CHS>有型精华</CHS>
 				</Name>
 			</Corporeal_Essence>
 			<Essence_of_Foritude>
 				<Name>
-					<CHS>坚韧精华</CHS>
+					<CHS>刚毅精华</CHS>
 				</Name>
 			</Essence_of_Foritude>
 			<Vaporous_Essence>
 				<Name>
-					<CHS>思想精华</CHS>
+					<CHS>雾状精华</CHS>
 				</Name>
 			</Vaporous_Essence>
 			<Material_Essence>
 				<Name>
-					<CHS>物质精华</CHS>
+					<CHS>重要精华</CHS>
 				</Name>
 			</Material_Essence>
 			<Quintessence>
 				<Name>
-					<CHS>精粹</CHS>
+					<CHS>第五元素</CHS>
 				</Name>
 			</Quintessence>
 			<Ferocious_Essence>
 				<Name>
-					<CHS>凶狠精华</CHS>
+					<CHS>残忍精华</CHS>
 				</Name>
 			</Ferocious_Essence>
 			<Profane_Essence>
 				<Name>
-					<CHS>亵渎精华</CHS>
+					<CHS>邪教元素</CHS>
 				</Name>
 			</Profane_Essence>
 			<Essence_of_Vitality>
@@ -870,63 +870,63 @@
 			</Essence_of_Vitality>
 			<Absorbent_Essence>
 				<Name>
-					<CHS>虹吸精华</CHS>
+					<CHS>吸收性精华</CHS>
 				</Name>
 			</Absorbent_Essence>
 			<Ancient_coin>
 				<Name>
-					<CHS>古代钱币</CHS>
+					<CHS>古代硬币</CHS>
 				</Name>
 				<Desc>
-					<CHS>传说中的遗迹，曾经英雄和神灵都来过博格维亚，而且那些奇迹都是真的。</CHS>
+					<CHS>传奇过去的遗迹，那时，英雄和半神生活在博加维亚当中，而所有的奇迹也是真实的。</CHS>
 				</Desc>
 			</Ancient_coin>
 			<weapon_oil>
 				<Name>
-					<CHS>武器油</CHS>
+					<CHS>武器油料</CHS>
 				</Name>
 				<Desc>
-					<CHS>一种非常有用而光滑的物质。现在你只需将其涂抹在所需武器上。</CHS>
+					<CHS>非常有用的，润滑的物质。现在你只需要能够抹上它的武器了。</CHS>
 				</Desc>
 			</weapon_oil>
 			<StatueGem>
 				<Name>
-					<CHS>神秘宝石</CHS>
+					<CHS>神秘的宝石</CHS>
 				</Name>
 				<Desc>
-					<CHS>一块切割成奇特形状的宝石。但与这块宝石相配的凹槽在哪呢？</CHS>
+					<CHS>被切割成诡异形状的宝石。它能被装到什么地方呢？</CHS>
 				</Desc>
 			</StatueGem>
 			<StatueKey>
 				<Name>
-					<CHS>神秘钥匙</CHS>
+					<CHS>神秘的钥匙</CHS>
 				</Name>
 				<Desc>
-					<CHS>能打开三把锁的古代钥匙？这把钥匙背后肯定有什么秘密。</CHS>
+					<CHS>在3把所有的后面隐藏着一把古老的钥匙？这背后肯定有神秘的事情。</CHS>
 				</Desc>
 			</StatueKey>
 			<BagOfTrash>
 				<Name>
-					<CHS>炼金术士的背包</CHS>
+					<CHS>炼金术师的包</CHS>
 				</Name>
 				<Desc>
-					<CHS>村庄的炼金术士带着装满珍贵物品的包包逃离了博格维亚。并不是说这些小玩意看起来一点不珍贵。</CHS>
+					<CHS>村子的炼金术师带着一袋宝贵的部件离开了博加维亚。不是全部的部件看上去都很珍贵。</CHS>
 				</Desc>
 			</BagOfTrash>
 			<Bone_Relic>
 				<Name>
-					<CHS>骨制遗物</CHS>
+					<CHS>骸骨遗物</CHS>
 				</Name>
 				<Desc>
-					<CHS>古代湖妖把美味的肢体献给饥饿的神灵。当肢体用光之后，他们就用骨头代替，神灵从未对此有过任何抱怨。</CHS>
+					<CHS>古代沃迪亚诺伊传统中，人们要用美味的肢体给饥饿的神明喂食。在仪式到自己会耗尽所有的身体部位后，最终，他们把骨头打造成了手的形状：神明们也没有抱怨过。</CHS>
 				</Desc>
 			</Bone_Relic>
 			<Rusty_bomb>
 				<Name>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>当那些奇怪的博格维亚科学家建成第一批战斗机器后，就派机器去森林里猎杀怪物。大部分机器使用的是炸弹，它们生锈之后，炸药被保存了下来。</CHS>
+					<CHS>当这些古怪的博加维亚科学家制造了他们第一批战斗车辆时，他们把战斗车辆派到树林里猎杀怪物。大部分的这些人控机器使用炸弹，而当它们锈烂时，炸弹还留在里面</CHS>
 				</Desc>
 			</Rusty_bomb>
 			<Rusty_bomb2>
@@ -934,23 +934,23 @@
 					<CHS>阿尔卡迪的炸弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>该引爆装置虽然非常可疑，而且已经风化，但是仍然可以使用。完全可以炸毁流出物。</CHS>
+					<CHS>一个老旧，可疑但明显可以正常运作的爆炸装置。它似乎非常适合炸掉导流管。</CHS>
 				</Desc>
 			</Rusty_bomb2>
 			<Electric_Coil>
 				<Name>
-					<CHS>线圈</CHS>
+					<CHS>电子线圈</CHS>
 				</Name>
 				<Desc>
-					<CHS>他们把发光机械装置成为电子发电机，必须用线圈才能正常运行。</CHS>
+					<CHS>这个嗡嗡作响，闪着火花的机器，他们称作发生器。发生器需要线圈才能正常运行。</CHS>
 				</Desc>
 			</Electric_Coil>
 			<Electric_transformer_prototype>
 				<Name>
-					<CHS>电力转换原型</CHS>
+					<CHS>电子变压原型</CHS>
 				</Name>
 				<Desc>
-					<CHS>对你来说，线圈看起来都是一样的，但专业人员知道其中的差别所在。去问问工程师吧。</CHS>
+					<CHS>或许在你看来这东西和电线圈没什么两样，但外行看热闹内行看门道，问问那个工程师去。</CHS>
 				</Desc>
 			</Electric_transformer_prototype>
 			<Machine_part>
@@ -958,39 +958,39 @@
 					<CHS>机械零件</CHS>
 				</Name>
 				<Desc>
-					<CHS>神秘巢穴到处旋转，发出爆裂声的致命装置，反抗势力的工程师们在研究博格维亚科学家的知识后，设计了这些装置。</CHS>
+					<CHS>秘密的巢穴充满着奇怪，更多的的是致命的设备，由反抗军涉猎Borgovia的疯狂科学家后造出来的。</CHS>
 				</Desc>
 			</Machine_part>
 			<Rat_bone>
 				<Name>
-					<CHS>鼠骨</CHS>
+					<CHS>老鼠骨头</CHS>
 				</Name>
 				<Desc>
-					<CHS>一堆肮脏的鼠骨。看来只有巫师才用得上这些骨头。</CHS>
+					<CHS>一管肮脏的老鼠骨头。看起来像是女巫会用的东西。</CHS>
 				</Desc>
 			</Rat_bone>
 			<Swamp_flower>
 				<Name>
-					<CHS>沼泽睡莲</CHS>
+					<CHS>百合沼泽 </CHS>
 				</Name>
 				<Desc>
-					<CHS>生长在沼泽中一种又丑又小的花朵，对河流存在严重污染。</CHS>
+					<CHS>一朵长在沼泽边的低矮丑花，还严重污染了河水。</CHS>
 				</Desc>
 			</Swamp_flower>
 			<Werewolf_note_1>
 				<Name>
-					<CHS>狼人笔记</CHS>
+					<CHS>狼人注解</CHS>
 				</Name>
 				<Desc>
-					<CHS>半本撕破的日记，上面记录着某些奇怪的实验。只要瞄一眼你就要笑疯了。</CHS>
+					<CHS>撕毁的日记本的一半，里面都是难以理解奇异的实验手记。只需瞄一眼，你就想放声大笑。</CHS>
 				</Desc>
 			</Werewolf_note_1>
 			<Werewolf_note_2>
 				<Name>
-					<CHS>狼人笔记</CHS>
+					<CHS>狼人注解</CHS>
 				</Name>
 				<Desc>
-					<CHS>半本撕破的日记，上面记录着某些奇怪的实验。只要瞄一眼你就要笑疯了。</CHS>
+					<CHS>撕毁的日记本的一半，里面都是难以理解奇异的实验手记。只需瞄一眼，你就想放声大笑。</CHS>
 				</Desc>
 			</Werewolf_note_2>
 			<Generator_plan>
@@ -1000,29 +1000,29 @@
 			</Generator_plan>
 			<Mutant_bait>
 				<Name>
-					<CHS>突变诱饵</CHS>
+					<CHS>变异诱饵</CHS>
 				</Name>
 				<Desc>
-					<CHS>一种似乎足以捕杀虎鲨的诱饵蠕虫，看看它的牙齿吧。</CHS>
+					<CHS>凶猛的蠕虫诱饵，看起来用它的牙齿就能捕到虎鲨</CHS>
 				</Desc>
 			</Mutant_bait>
 			<Mutant_fish>
 				<Name>
-					<CHS>突变鱼</CHS>
+					<CHS>变异鱼</CHS>
 				</Name>
 				<Desc>
-					<CHS>看着这条鱼（？）你突然对所有的鱼饵感到难过。</CHS>
+					<CHS>看着这条“鱼”你瞬间觉得作为诱饵的那些虫虫死得好冤。</CHS>
 				</Desc>
 				<ConsumeEffect>
-					<CHS> -10点永久生命值</CHS>
+					<CHS>永久-10生命</CHS>
 				</ConsumeEffect>
 			</Mutant_fish>
 			<Junk_item>
 				<Name>
-					<CHS>破烂的靴子</CHS>
+					<CHS>破碎的靴子</CHS>
 				</Name>
 				<Desc>
-					<CHS>里面已经褪色的字母写着W*RTH.</CHS>
+					<CHS>褪色的信件上写着“W*RTH”。</CHS>
 				</Desc>
 			</Junk_item>
 			<Trap_plan>
@@ -1032,7 +1032,7 @@
 			</Trap_plan>
 			<Borislavs_Scepter>
 				<Name>
-					<CHS>国王鲍里斯拉夫的权杖</CHS>
+					<CHS>波利斯拉夫国王的权杖</CHS>
 				</Name>
 			</Borislavs_Scepter>
 			<BR_Curse>
@@ -1040,7 +1040,7 @@
 					<CHS>诅咒</CHS>
 				</Name>
 				<Desc>
-					<CHS> -50%到目标伤害减少光环30秒</CHS>
+					<CHS>-50%目标减伤光环效果，持续30秒</CHS>
 				</Desc>
 			</BR_Curse>
 			<BR_Invisibility>
@@ -1048,7 +1048,7 @@
 					<CHS>隐形</CHS>
 				</Name>
 				<Desc>
-					<CHS>隐身40秒，怪物和其他玩家都看不见。如果使用任意技能，隐身效果将结束。范围效果还是会作用在你身上。</CHS>
+					<CHS>40内，你对怪物和其它玩家隐形。如果您使用任何技能，隐形就会结束。区域效果仍然对你有效。</CHS>
 				</Desc>
 			</BR_Invisibility>
 			<BR_Untouchable>
@@ -1056,15 +1056,15 @@
 					<CHS>不可触碰</CHS>
 				</Name>
 				<Desc>
-					<CHS>你会无敌10秒。</CHS>
+					<CHS>你将无敌19秒钟。</CHS>
 				</Desc>
 			</BR_Untouchable>
 			<BR_Bullseye>
 				<Name>
-					<CHS>靶眼</CHS>
+					<CHS>百发百中</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标将会变成激战目标，知道他下一次死亡。</CHS>
+					<CHS>目标在下次死亡前将成为战斗荣耀的目标。</CHS>
 				</Desc>
 			</BR_Bullseye>
 			<BR_MonsterBait>
@@ -1072,39 +1072,39 @@
 					<CHS>怪物诱饵</CHS>
 				</Name>
 				<Desc>
-					<CHS>中立怪物自动从双倍范围攻击目标并紧随，知道效果持续时间结束(2分钟)，</CHS>
+					<CHS>中立怪物会自动在双倍范围内攻击目标，并会追杀目标直到效果持续时间结束（2分钟）。</CHS>
 				</Desc>
 			</BR_MonsterBait>
 			<BR_Surge>
 				<Name>
-					<CHS>巨涌</CHS>
+					<CHS>冲动</CHS>
 				</Name>
 				<Desc>
-					<CHS>+400% 伤害，持续25秒。</CHS>
+					<CHS>+400%伤害，持续25秒。</CHS>
 				</Desc>
 			</BR_Surge>
 			<BR_Critical>
 				<Name>
-					<CHS>致命的</CHS>
+					<CHS>致命一击</CHS>
 				</Name>
 				<Desc>
-					<CHS>100%几率致命一击30秒。</CHS>
+					<CHS>30秒内，致命一击率提升到100%。</CHS>
 				</Desc>
 			</BR_Critical>
 			<BR_Slouch>
 				<Name>
-					<CHS>下垂</CHS>
+					<CHS>懒散</CHS>
 				</Name>
 				<Desc>
-					<CHS> -50%到目标的移动速度20秒。</CHS>
+					<CHS>20秒内-50%目标移动速度。</CHS>
 				</Desc>
 			</BR_Slouch>
 			<BR_Cleptomania>
 				<Name>
-					<CHS>偷窃狂</CHS>
+					<CHS>盗窃狂</CHS>
 				</Name>
 				<Desc>
-					<CHS>一个目标激战背包中的物品转移到你身上。目标会知道谁偷的。</CHS>
+					<CHS>从目标的战斗荣耀物品中选一个转到你的名下。目标会知道谁偷了他的东西。</CHS>
 				</Desc>
 			</BR_Cleptomania>
 			<BR_Dispel>
@@ -1112,7 +1112,7 @@
 					<CHS>驱散</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标将失去所有活跃的激战效果。</CHS>
+					<CHS>目标将失去所有战斗荣耀效果。</CHS>
 				</Desc>
 			</BR_Dispel>
 			<BR_Haste>
@@ -1120,7 +1120,7 @@
 					<CHS>急速</CHS>
 				</Name>
 				<Desc>
-					<CHS>+30% 移动速度，持续30秒。</CHS>
+					<CHS>30秒内+30%移动速度。</CHS>
 				</Desc>
 			</BR_Haste>
 			<BR_Key>
@@ -1128,7 +1128,7 @@
 					<CHS>钥匙</CHS>
 				</Name>
 				<Desc>
-					<CHS>用它来打开特殊的箱子。使用后消失。</CHS>
+					<CHS>使用它来打开特殊宝箱。使用后会消失。</CHS>
 				</Desc>
 			</BR_Key>
 			<Demagnetiser>
@@ -1143,12 +1143,12 @@
 			</Necronomicon>
 			<Daedalus_Manuscript>
 				<Name>
-					<CHS>代达罗斯手稿</CHS>
+					<CHS>代达罗斯原稿</CHS>
 				</Name>
 			</Daedalus_Manuscript>
 			<Dark_Force_Cloak>
 				<Name>
-					<CHS>黑暗力量披风</CHS>
+					<CHS>黑暗之力披风</CHS>
 				</Name>
 			</Dark_Force_Cloak>
 			<diamond_earring>
@@ -1161,7 +1161,7 @@
 					<CHS>T95芯片</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</VH2_t95_chip>
 			<Rune_book>
@@ -1171,36 +1171,36 @@
 			</Rune_book>
 			<Altar_amulet_low>
 				<Name>
-					<CHS>心之泪护符</CHS>
+					<CHS>哈特之泪护身符</CHS>
 				</Name>
 			</Altar_amulet_low>
 			<Altar_amulet_high>
 				<Name>
-					<CHS>心之泪护符</CHS>
+					<CHS>哈特之泪护身符</CHS>
 				</Name>
 			</Altar_amulet_high>
 			<Appleshooter_Bow>
 				<Name>
-					<CHS>泰尔的射果弓</CHS>
+					<CHS>特尔的射果之弓</CHS>
 				</Name>
 				<Desc>
-					<CHS>瑞士著名射手的致命弩。</CHS>
+					<CHS>著名瑞士神射手致命的弓弩。</CHS>
 				</Desc>
 			</Appleshooter_Bow>
 			<Don_Quijote_Spear>
 				<Name>
-					<CHS>堂吉诃德的骑枪</CHS>
+					<CHS>堂吉诃德的长矛</CHS>
 				</Name>
 				<Desc>
-					<CHS>这杆长矛的作用是击败巨大又能转动的风车，但对付怪物也有效。</CHS>
+					<CHS>这杆长矛就是制作用来击败巨大，又能移动的战车，但应该对怪物也有效。</CHS>
 				</Desc>
 			</Don_Quijote_Spear>
 			<Resistance_equipment>
 				<Name>
-					<CHS>军事装备</CHS>
+					<CHS>军用装备</CHS>
 				</Name>
 				<Desc>
-					<CHS>反抗军战士们使用的多种高价值装备。</CHS>
+					<CHS>抵抗派士兵所使用的各种珍贵装备。</CHS>
 				</Desc>
 			</Resistance_equipment>
 			<Rare_ore_fragments>
@@ -1208,22 +1208,22 @@
 					<CHS>神秘碎片</CHS>
 				</Name>
 				<Desc>
-					<CHS>神秘矿石的闪耀碎片。铁匠知道它是什么，做什么用。</CHS>
+					<CHS>某种神秘矿石闪耀的碎片。铁匠或者知道可以用它来做什么。</CHS>
 				</Desc>
 			</Rare_ore_fragments>
 			<glass_key>
 				<Name>
-					<CHS>蓝水晶钥匙</CHS>
+					<CHS>蓝色水晶钥匙</CHS>
 				</Name>
 			</glass_key>
 			<glass_key01>
 				<Name>
-					<CHS>绿水晶钥匙</CHS>
+					<CHS>绿色水晶钥匙</CHS>
 				</Name>
 			</glass_key01>
 			<glass_key02>
 				<Name>
-					<CHS>红水晶钥匙</CHS>
+					<CHS>红色水晶钥匙</CHS>
 				</Name>
 			</glass_key02>
 			<Lair_Loot_Key_copper>
@@ -1246,12 +1246,12 @@
 					<CHS>翡翠灯笼</CHS>
 				</Name>
 				<Desc>
-					<CHS>出处未知的文物。它放射着奥术能量，在靠近怪物时会闪光。</CHS>
+					<CHS>一件来源未知的圣器。释放着秘术能量，而且不知道为什么当怪物靠近时会闪光。</CHS>
 				</Desc>
 			</Emerald_lantern>
 			<Ring_of_message>
 				<Name>
-					<CHS>引导之戒</CHS>
+					<CHS>指引之戒</CHS>
 				</Name>
 			</Ring_of_message>
 			<Giant_Fifth_element>
@@ -1261,22 +1261,22 @@
 			</Giant_Fifth_element>
 			<Giant_Electric_coil>
 				<Name>
-					<CHS>线圈</CHS>
+					<CHS>电线圈</CHS>
 				</Name>
 			</Giant_Electric_coil>
 			<Giant_Machine_part>
 				<Name>
-					<CHS>机器零件</CHS>
+					<CHS>机械零件</CHS>
 				</Name>
 			</Giant_Machine_part>
 			<Giant_Orichalcum_ore>
 				<Name>
-					<CHS>黄铜矿</CHS>
+					<CHS>铜矿石</CHS>
 				</Name>
 			</Giant_Orichalcum_ore>
 			<Giant_Rusty_Bomb>
 				<Name>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Name>
 			</Giant_Rusty_Bomb>
 			<Giant_Swamp_lily>
@@ -1286,38 +1286,38 @@
 			</Giant_Swamp_lily>
 			<Jade_Rothar_figure>
 				<Name>
-					<CHS>杰德·多布雷纳塑像</CHS>
+					<CHS>玉制多不列娜公仔</CHS>
 				</Name>
 				<Desc>
-					<CHS>"站在阿妮卡的墓碑前，伊凡解开多布雷纳，推开他三次。多布雷纳感觉心中非常愤怒，非常生气的冲向伊凡。"</CHS>
+					<CHS>“伊凡屹立在阿尼卡的墓碑之上，松开多百纳，而且他已经推开了他三次。多百纳心中愤怒万分，咆哮着冲向伊凡。”</CHS>
 				</Desc>
 			</Jade_Rothar_figure>
 			<Big_Iron_key>
 				<Name>
-					<CHS>刻铁钥匙</CHS>
+					<CHS>镌刻的铁钥匙</CHS>
 				</Name>
 			</Big_Iron_key>
 			<Borgovian_guide>
 				<Name>
-					<CHS>黯淡的星球指南</CHS>
+					<CHS>黯淡的星球指引书</CHS>
 				</Name>
 			</Borgovian_guide>
 			<Big_bronz_key>
 				<Name>
-					<CHS>刻铜钥匙</CHS>
+					<CHS>镌刻的铜钥匙</CHS>
 				</Name>
 			</Big_bronz_key>
 			<Mushroom_diploma>
 				<Name>
-					<CHS>蘑菇专家证</CHS>
+					<CHS>蘑菇专家证书</CHS>
 				</Name>
 			</Mushroom_diploma>
 			<gold_fish>
 				<Name>
-					<CHS>冰霜金鱼</CHS>
+					<CHS>冰冻金鱼</CHS>
 				</Name>
 				<Desc>
-					<CHS>If you believe the folk tales, this small fish might grant you a wish. If you don't, you found something for dinner.</CHS>
+					<CHS>如果你相信那些民间故事，那这条小小的鱼或许能够满足你一个愿望。如果你不相信的话，那么恭喜你，晚餐有着落了。</CHS>
 				</Desc>
 			</gold_fish>
 			<Key_fragments>
@@ -1325,7 +1325,7 @@
 					<CHS>钥匙碎片</CHS>
 				</Name>
 				<Desc>
-					<CHS>They only key that could lead you out of this strange place has been shattered in an act of madness and fury. Find the pieces and get out.</CHS>
+					<CHS>能够带你离开这个奇怪地方的钥匙被某种疯狂愤怒的因为摔成的碎片。找齐碎片然后出去。</CHS>
 				</Desc>
 			</Key_fragments>
 			<Elevator_key>
@@ -1338,7 +1338,7 @@
 					<CHS>符文石</CHS>
 				</Name>
 				<Desc>
-					<CHS>A broken slab stone from an ancient and terrifying well in the forest.</CHS>
+					<CHS>从森林中某个古老而可怕的井中弄来的破碎板石。</CHS>
 				</Desc>
 			</Rune_stone_of_carcas_pit>
 			<Spiritwalker_bone_relic>
@@ -1346,25 +1346,25 @@
 					<CHS>灵魂行者雕像</CHS>
 				</Name>
 				<Desc>
-					<CHS>The sacred item that belongs to the spiritual guardians of the Thunderhead Mountains: the Spiritwalkers.</CHS>
+					<CHS>这件神圣的物品是属于雷云山脉的灵魂守护者：灵魂行者东西。</CHS>
 				</Desc>
 			</Spiritwalker_bone_relic>
 			<Saffis_amulet_high>
 				<Name>
-					<CHS>沙菲的改良勋章</CHS>
+					<CHS>萨菲的改良勋章</CHS>
 				</Name>
 			</Saffis_amulet_high>
 			<Saffis_amulet_low>
 				<Name>
-					<CHS>沙菲的魔法勋章</CHS>
+					<CHS>萨菲的附魔勋章</CHS>
 				</Name>
 			</Saffis_amulet_low>
 			<Ancient_clock>
 				<Name>
-					<CHS>旧发条装置</CHS>
+					<CHS>旧钟表</CHS>
 				</Name>
 				<Desc>
-					<CHS>An ancient clock, one of the first experiments in the amalgamation of weird science and powerful magic.</CHS>
+					<CHS>一口古老的钟，是其中一件怪异科学和强大魔法相融合的第一代实验品。</CHS>
 				</Desc>
 			</Ancient_clock>
 			<Enginier_toolkit>
@@ -1372,17 +1372,17 @@
 					<CHS>自动工具箱</CHS>
 				</Name>
 				<Desc>
-					<CHS>A handy-dandy mechanized utensil rigged to cause an overload.</CHS>
+					<CHS>一件用来操控引起过载的趁手机械器具。</CHS>
 				</Desc>
 			</Enginier_toolkit>
 			<cell_key>
 				<Name>
-					<CHS>铜的牢房钥匙</CHS>
+					<CHS>铜质牢房钥匙</CHS>
 				</Name>
 			</cell_key>
 			<cell_key_II>
 				<Name>
-					<CHS>铁的牢房钥匙</CHS>
+					<CHS>铁质牢房钥匙</CHS>
 				</Name>
 			</cell_key_II>
 			<Moonstone1>
@@ -1397,15 +1397,15 @@
 			</Moonstone2>
 			<Giant_moonstone>
 				<Name>
-					<CHS>巨大的月石</CHS>
+					<CHS>巨大月长石</CHS>
 				</Name>
 				<Desc>
-					<CHS>这件稀有的神器是神秘博格维亚巫师克什的东西。有人说他的泪都带有魔法，能瞬间转变成月石。</CHS>
+					<CHS>这个稀有物品属于博加维亚的神秘巫师科赛尔。有人说即使他的眼泪都含有魔力，并可以立刻变成月石。</CHS>
 				</Desc>
 			</Giant_moonstone>
 			<vh2_Koscsej_tear>
 				<Name>
-					<CHS>克什之泪</CHS>
+					<CHS>科赛尔之泪</CHS>
 				</Name>
 			</vh2_Koscsej_tear>
 			<Bone_Relic_of_spiritwalker>
@@ -1413,7 +1413,7 @@
 					<CHS>灵魂行者雕像</CHS>
 				</Name>
 				<Desc>
-					<CHS>The sacred item that belongs to the spiritual guardians of the Thunderhead Mountains: the Spiritwalkers.</CHS>
+					<CHS>这件神圣的物品是属于雷云山脉的灵魂守护者：灵魂行者东西。</CHS>
 				</Desc>
 			</Bone_Relic_of_spiritwalker>
 			<Bone_Relic_of_spiritwalker_low>
@@ -1421,12 +1421,12 @@
 					<CHS>灵魂行者雕像</CHS>
 				</Name>
 				<Desc>
-					<CHS>The sacred item that belongs to the spiritual guardians of the Thunderhead Mountains: the Spiritwalkers.</CHS>
+					<CHS>这件神圣的物品是属于雷云山脉的灵魂守护者：灵魂行者东西。</CHS>
 				</Desc>
 			</Bone_Relic_of_spiritwalker_low>
 			<vh2_expurgator_armor>
 				<Name>
-					<CHS>削除者护甲</CHS>
+					<CHS>削除者盔甲</CHS>
 				</Name>
 			</vh2_expurgator_armor>
 			<vh2_expurgator_ring>
@@ -1436,72 +1436,72 @@
 			</vh2_expurgator_ring>
 			<Dungeonkeeper_armor>
 				<Name>
-					<CHS>地下城守护者护甲</CHS>
+					<CHS>地牢守护者盔甲</CHS>
 				</Name>
 			</Dungeonkeeper_armor>
 			<Dungeonkeeper_armor_low>
 				<Name>
-					<CHS>地下城守护者护甲</CHS>
+					<CHS>地牢守护者盔甲</CHS>
 				</Name>
 			</Dungeonkeeper_armor_low>
 			<Dungeonkeeper_gloves>
 				<Name>
-					<CHS>地下城守护者手套</CHS>
+					<CHS>地牢守护者手套</CHS>
 				</Name>
 			</Dungeonkeeper_gloves>
 			<Dungeonkeeper_gloves_low>
 				<Name>
-					<CHS>地下城守护者手套</CHS>
+					<CHS>地牢守护者手套</CHS>
 				</Name>
 			</Dungeonkeeper_gloves_low>
 			<Dungeonkeeper_trophy>
 				<Name>
-					<CHS>地下城守护者奖杯</CHS>
+					<CHS>地牢守护者雕饰</CHS>
 				</Name>
 			</Dungeonkeeper_trophy>
 			<Dungeonkeeper_trophy_low>
 				<Name>
-					<CHS>地下城守护者奖杯</CHS>
+					<CHS>地牢守护者雕饰</CHS>
 				</Name>
 			</Dungeonkeeper_trophy_low>
 			<Dungeonkeeper_amulet>
 				<Name>
-					<CHS>地下城守护者护符</CHS>
+					<CHS>地牢守护者护符</CHS>
 				</Name>
 			</Dungeonkeeper_amulet>
 			<Dungeonkeeper_amulet_low>
 				<Name>
-					<CHS>地下城守护者护符</CHS>
+					<CHS>地牢守护者护符</CHS>
 				</Name>
 			</Dungeonkeeper_amulet_low>
 			<kajli_armor>
 				<Name>
-					<CHS>完美糟糕护身符</CHS>
+					<CHS>真的很有用的护符</CHS>
 				</Name>
 			</kajli_armor>
 			<Deadhunter_ring>
 				<Name>
-					<CHS>猎人死者的戒指</CHS>
+					<CHS>王者指环</CHS>
 				</Name>
 			</Deadhunter_ring>
 			<vh2_preorder_helmet_magic>
 				<Name>
-					<CHS>统治者头盔</CHS>
+					<CHS>支配者头盔</CHS>
 				</Name>
 			</vh2_preorder_helmet_magic>
 			<vh2_preorder_helmet_rare>
 				<Name>
-					<CHS>引诱者头盔</CHS>
+					<CHS>诱惑者头盔</CHS>
 				</Name>
 			</vh2_preorder_helmet_rare>
 			<vh2_preorder_helmet_epic>
 				<Name>
-					<CHS>外星魔</CHS>
+					<CHS>异形恶魔</CHS>
 				</Name>
 			</vh2_preorder_helmet_epic>
 			<vh2_preorder_helmet_legendary>
 				<Name>
-					<CHS>命名者头盔</CHS>
+					<CHS>提名者头盔</CHS>
 				</Name>
 			</vh2_preorder_helmet_legendary>
 			<VH2_gandalfstaff>
@@ -1531,7 +1531,7 @@
 			</silver_tongue>
 			<seraphim_justice>
 				<Name>
-					<CHS>塞拉芬正义</CHS>
+					<CHS>六翼天使之正义</CHS>
 				</Name>
 			</seraphim_justice>
 			<netherstar>
@@ -1546,32 +1546,32 @@
 			</ember_soul>
 			<ekunda>
 				<Name>
-					<CHS>Ekunda</CHS>
+					<CHS>伊库达</CHS>
 				</Name>
 			</ekunda>
 			<Vh2YoungVHSword>
 				<Name>
-					<CHS>青年之剑</CHS>
+					<CHS>少年之剑</CHS>
 				</Name>
 			</Vh2YoungVHSword>
 			<Kanes_Badge>
 				<Name>
-					<CHS>凯恩的徽章</CHS>
+					<CHS>凯恩徽章</CHS>
 				</Name>
 			</Kanes_Badge>
 			<BatuKhans_Horn>
 				<Name>
-					<CHS>巴图·卡恩之角</CHS>
+					<CHS>巴图·坎恩号角</CHS>
 				</Name>
 			</BatuKhans_Horn>
 			<Serum_X>
 				<Name>
-					<CHS>血清X</CHS>
+					<CHS>X血浆</CHS>
 				</Name>
 			</Serum_X>
 			<Laurels_Pontifex>
 				<Name>
-					<CHS>大祭司桂冠</CHS>
+					<CHS>大祭司之桂冠</CHS>
 				</Name>
 			</Laurels_Pontifex>
 			<Golden_Spyglass>
@@ -1586,113 +1586,113 @@
 			</GHWells_Manuscript>
 			<Orichalcum_Chesspiece>
 				<Name>
-					<CHS>精铜棋子</CHS>
+					<CHS>黄铜胸甲</CHS>
 				</Name>
 			</Orichalcum_Chesspiece>
 			<Forbidden_Apocryphs>
 				<Name>
-					<CHS>禁断经书</CHS>
+					<CHS>禁忌之伪作</CHS>
 				</Name>
 			</Forbidden_Apocryphs>
 			<Mendeleevs_Journals>
 				<Name>
-					<CHS>门捷列夫的日志</CHS>
+					<CHS>门德列夫的日记</CHS>
 				</Name>
 			</Mendeleevs_Journals>
 			<Jackmans_Crossbow>
 				<Name>
-					<CHS>杰克曼之弩</CHS>
+					<CHS>匠人弩</CHS>
 				</Name>
 			</Jackmans_Crossbow>
 			<Valorean_Steel_Blade>
 				<Name>
-					<CHS>瓦洛利恩钢刃</CHS>
+					<CHS>英勇钢刃</CHS>
 				</Name>
 			</Valorean_Steel_Blade>
 			<Saints_Tears>
 				<Name>
-					<CHS>圣者之泪</CHS>
+					<CHS>圣人之泪</CHS>
 				</Name>
 			</Saints_Tears>
 			<Beard_Essence>
 				<Name>
-					<CHS>胡子油脂精华</CHS>
+					<CHS>胡子油精华</CHS>
 				</Name>
 			</Beard_Essence>
 			<Gnome_Bomb>
 				<Name>
-					<CHS>侏儒炸弹</CHS>
+					<CHS>小矮人炸弹</CHS>
 				</Name>
 			</Gnome_Bomb>
 			<Loot_Key_copper>
 				<Name>
-					<CHS>铜钥匙</CHS>
+					<CHS>铜质钥匙</CHS>
 				</Name>
 			</Loot_Key_copper>
 			<Vlados_cell_key>
 				<Name>
-					<CHS>牢房钥匙</CHS>
+					<CHS>酒窖钥匙</CHS>
 				</Name>
 			</Vlados_cell_key>
 			<Woodsman_bones>
 				<Name>
-					<CHS>樵夫遗骸</CHS>
+					<CHS>樵夫遗骨</CHS>
 				</Name>
 			</Woodsman_bones>
 			<Ghost_Capacitor>
 				<Name>
-					<CHS>鬼魂电容</CHS>
+					<CHS>幽灵电容</CHS>
 				</Name>
 			</Ghost_Capacitor>
 			<hag_necklace>
 				<Name>
-					<CHS>老妇人的项链</CHS>
+					<CHS>鬼婆项链</CHS>
 				</Name>
 			</hag_necklace>
 			<Meat_cleaver>
 				<Name>
-					<CHS>切肉刀</CHS>
+					<CHS>砍肉刀</CHS>
 				</Name>
 			</Meat_cleaver>
 			<Dreamer_artifact>
 				<Name>
-					<CHS>梦游者神器</CHS>
+					<CHS>造梦人神器</CHS>
 				</Name>
 			</Dreamer_artifact>
 			<Dreamer_inert_artifact>
 				<Name>
-					<CHS>梦游者惰性神器</CHS>
+					<CHS>造梦人惰性神器</CHS>
 				</Name>
 			</Dreamer_inert_artifact>
 			<Skrimbeast_innards>
 				<Name>
-					<CHS>斯克利姆兽内脏</CHS>
+					<CHS>斯科林兽内脏</CHS>
 				</Name>
 			</Skrimbeast_innards>
 			<Skrimbeast_potion>
 				<Name>
-					<CHS>斯克利姆兽药剂</CHS>
+					<CHS>斯科林兽药剂</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进法力值</CHS>
+					<CHS>永久 法力恢复 +10</CHS>
 				</ConsumeEffect>
 			</Skrimbeast_potion>
 			<Xeno_acid>
 				<Name>
-					<CHS>外来酸液</CHS>
+					<CHS>氙酸</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>毒素抗性永久+5</CHS>
+					<CHS>永久增加5点毒抗性</CHS>
 				</ConsumeEffect>
 			</Xeno_acid>
 			<food_sack>
 				<Name>
-					<CHS>食物袋</CHS>
+					<CHS>食品袋</CHS>
 				</Name>
 			</food_sack>
 			<Rust_fragment>
 				<Name>
-					<CHS>生锈碎片</CHS>
+					<CHS>生锈碎块</CHS>
 				</Name>
 			</Rust_fragment>
 			<Soul_sceptre>
@@ -1702,54 +1702,54 @@
 			</Soul_sceptre>
 			<Master_engineer_key>
 				<Name>
-					<CHS>主引擎钥匙</CHS>
+					<CHS>工程大师钥匙</CHS>
 				</Name>
 			</Master_engineer_key>
 			<Man_from_atlantis_book>
 				<Name>
-					<CHS>亚特兰蒂斯人</CHS>
+					<CHS>亚特兰蒂斯的男人</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</Man_from_atlantis_book>
 			<Hell_Koscheideath_fragment>
 				<Name>
-					<CHS>克什死亡碎片</CHS>
+					<CHS>科谢亡魂碎片</CHS>
 				</Name>
 			</Hell_Koscheideath_fragment>
 			<Titan_flesh_chunk2>
 				<Name>
-					<CHS>泰坦肉块</CHS>
+					<CHS>巨人肉块</CHS>
 				</Name>
 			</Titan_flesh_chunk2>
 			<Titan_flesh_chunk>
 				<Name>
-					<CHS>泰坦肉块</CHS>
+					<CHS>巨人肉块</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</Titan_flesh_chunk>
 			<Hell_titan_recipebook>
 				<Name>
-					<CHS>真·地狱厨房菜谱</CHS>
+					<CHS>正牌地狱烹饪书</CHS>
 				</Name>
 			</Hell_titan_recipebook>
 			<Hell_guidebook>
 				<Name>
-					<CHS>地狱导游手册（作者：但丁·A）</CHS>
+					<CHS>地狱游览指南（但丁著）</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</Hell_guidebook>
 			<inkvizicios_bolter>
 				<Name>
-					<CHS>审判者爆能枪</CHS>
+					<CHS>Inquisitor Bolter</CHS>
 				</Name>
 				<Desc>
-					<CHS>[ffff0000]仅限审判者[/ffff0000]</CHS>
+					<CHS>[ffff0000]审判者专用[/ffff0000]</CHS>
 				</Desc>
 			</inkvizicios_bolter>
 			<vh3imported>
@@ -1759,27 +1759,27 @@
 			</vh3imported>
 			<dreamer_artifact_useful>
 				<Name>
-					<CHS>菱镜戒指</CHS>
+					<CHS>棱镜指环</CHS>
 				</Name>
 			</dreamer_artifact_useful>
 			<Gravimetric_Gun>
 				<Name>
-					<CHS>中立枪</CHS>
+					<CHS>测重枪</CHS>
 				</Name>
 			</Gravimetric_Gun>
 			<Gravimetric_Gun_Low>
 				<Name>
-					<CHS>中立枪</CHS>
+					<CHS>测重枪</CHS>
 				</Name>
 			</Gravimetric_Gun_Low>
 			<annihhilator_trophy>
 				<Name>
-					<CHS>电磁轴</CHS>
+					<CHS>电磁纺锤</CHS>
 				</Name>
 			</annihhilator_trophy>
 			<koboldking_trophy>
 				<Name>
-					<CHS>象牙皇冠</CHS>
+					<CHS>象牙之冠</CHS>
 				</Name>
 			</koboldking_trophy>
 			<Trophy_Werewolf_Spiritstone>
@@ -1789,17 +1789,17 @@
 			</Trophy_Werewolf_Spiritstone>
 			<Hannibal_mask>
 				<Name>
-					<CHS>食人族面具</CHS>
+					<CHS>食人者面具</CHS>
 				</Name>
 			</Hannibal_mask>
 			<Hannibal_mask_low>
 				<Name>
-					<CHS>食人族面具</CHS>
+					<CHS>食人者面具</CHS>
 				</Name>
 			</Hannibal_mask_low>
 			<Blood_Candle>
 				<Name>
-					<CHS>血蜡烛</CHS>
+					<CHS>血之蜡烛</CHS>
 				</Name>
 			</Blood_Candle>
 			<Hunter_Candle>
@@ -1824,7 +1824,7 @@
 			</Obsidian_Candle>
 			<Poison_Candle>
 				<Name>
-					<CHS>毒素蜡烛</CHS>
+					<CHS>毒之蜡烛</CHS>
 				</Name>
 			</Poison_Candle>
 			<Rainbow_Candle>
@@ -1844,52 +1844,52 @@
 			</Spirit_Candle>
 			<Tiamat_Candle>
 				<Name>
-					<CHS>提亚马特蜡烛</CHS>
+					<CHS>提亚玛特蜡烛</CHS>
 				</Name>
 			</Tiamat_Candle>
 			<altairsword>
 				<Name>
-					<CHS>博格维亚攻城刃</CHS>
+					<CHS>博加维亚攻城刃</CHS>
 				</Name>
 			</altairsword>
 			<Lightsabre_crystal>
 				<Name>
-					<CHS>幻影之刃精华</CHS>
+					<CHS>光子之刃精华</CHS>
 				</Name>
 			</Lightsabre_crystal>
 			<Lightsabre_crystal_low>
 				<Name>
-					<CHS>幻影之刃精华</CHS>
+					<CHS>光子之刃精华</CHS>
 				</Name>
 			</Lightsabre_crystal_low>
 			<veteran_meele_Sword>
 				<Name>
-					<CHS>曼德鲁泽刀刃</CHS>
+					<CHS>玛德鲁赞刀锋</CHS>
 				</Name>
 			</veteran_meele_Sword>
 			<veteran_mage1_Focus>
 				<Name>
-					<CHS>以太激增魔法手铐</CHS>
+					<CHS>地涌咒语护腕</CHS>
 				</Name>
 			</veteran_mage1_Focus>
 			<veteran_mage2_Focus>
 				<Name>
-					<CHS>裂缝束缚魔法手铐</CHS>
+					<CHS>裂隙边界咒语护腕</CHS>
 				</Name>
 			</veteran_mage2_Focus>
 			<veteran_Engineer1_EngineerCannon>
 				<Name>
-					<CHS>军事轰击炮</CHS>
+					<CHS>军用释放器</CHS>
 				</Name>
 			</veteran_Engineer1_EngineerCannon>
 			<veteran_Engineer2_EngineerCannon>
 				<Name>
-					<CHS>青兰轰击炮</CHS>
+					<CHS>龙头释放器</CHS>
 				</Name>
 			</veteran_Engineer2_EngineerCannon>
 			<veteran_ranged_Rifle18>
 				<Name>
-					<CHS>拉玛托利突击火枪</CHS>
+					<CHS>拉玛托利安突击滑膛枪</CHS>
 				</Name>
 			</veteran_ranged_Rifle18>
 			<veteran_Engineer1_LightPlate>
@@ -1904,17 +1904,17 @@
 			</veteran_Engineer2_LightPlate>
 			<veteran_mage1_armor>
 				<Name>
-					<CHS>强化马甲</CHS>
+					<CHS>加强背心</CHS>
 				</Name>
 			</veteran_mage1_armor>
 			<veteran_mage2_armor>
 				<Name>
-					<CHS>硬皮甲</CHS>
+					<CHS>坚硬皮甲</CHS>
 				</Name>
 			</veteran_mage2_armor>
 			<veteran_melee_LightPlate>
 				<Name>
-					<CHS>镶板甲</CHS>
+					<CHS>格子状装甲</CHS>
 				</Name>
 			</veteran_melee_LightPlate>
 			<veteran_ranged_LightPlate>
@@ -1924,7 +1924,7 @@
 			</veteran_ranged_LightPlate>
 			<veteran_melee_Helmet>
 				<Name>
-					<CHS>宽边皮帽</CHS>
+					<CHS>宽边皮革帽</CHS>
 				</Name>
 			</veteran_melee_Helmet>
 			<veteran_ranged_Helmet>
@@ -1934,22 +1934,22 @@
 			</veteran_ranged_Helmet>
 			<veteran_mage1_mask>
 				<Name>
-					<CHS>灵魂探索者面具</CHS>
+					<CHS>逐灵者面具</CHS>
 				</Name>
 			</veteran_mage1_mask>
 			<veteran_mage2_mask>
 				<Name>
-					<CHS>破碎毒牙面具</CHS>
+					<CHS>碎牙面具</CHS>
 				</Name>
 			</veteran_mage2_mask>
 			<veteran_Engineer1_EnginerHelm>
 				<Name>
-					<CHS>探险防护罩</CHS>
+					<CHS>探险遮阳帽</CHS>
 				</Name>
 			</veteran_Engineer1_EnginerHelm>
 			<veteran_Engineer2_EnginerHelm>
 				<Name>
-					<CHS>突击部队头盔</CHS>
+					<CHS>电击步兵头盔</CHS>
 				</Name>
 			</veteran_Engineer2_EnginerHelm>
 			<veteran_Engineer1_Gloves>
@@ -1959,7 +1959,7 @@
 			</veteran_Engineer1_Gloves>
 			<veteran_Engineer2_Gloves>
 				<Name>
-					<CHS>黄铜花边手套</CHS>
+					<CHS>镶边铜手套</CHS>
 				</Name>
 			</veteran_Engineer2_Gloves>
 			<veteran_mage1_gloves>
@@ -1969,12 +1969,12 @@
 			</veteran_mage1_gloves>
 			<veteran_mage2_gloves>
 				<Name>
-					<CHS>黄铜花边手套</CHS>
+					<CHS>镶边铜手套</CHS>
 				</Name>
 			</veteran_mage2_gloves>
 			<veteran_melee_Gloves>
 				<Name>
-					<CHS>黄铜花边手套</CHS>
+					<CHS>镶边铜手套</CHS>
 				</Name>
 			</veteran_melee_Gloves>
 			<veteran_ranged_Gloves>
@@ -1984,57 +1984,57 @@
 			</veteran_ranged_Gloves>
 			<veteran_Engineer1_Boots>
 				<Name>
-					<CHS>亮皮靴</CHS>
+					<CHS>专利靴</CHS>
 				</Name>
 			</veteran_Engineer1_Boots>
 			<veteran_Engineer2_Boots>
 				<Name>
-					<CHS>亮皮靴</CHS>
+					<CHS>专利靴</CHS>
 				</Name>
 			</veteran_Engineer2_Boots>
 			<veteran_mage1_boots>
 				<Name>
-					<CHS>黄铜镀金长靴</CHS>
+					<CHS>铜制板甲长靴</CHS>
 				</Name>
 			</veteran_mage1_boots>
 			<veteran_mage2_boots>
 				<Name>
-					<CHS>黄铜镀金长靴</CHS>
+					<CHS>铜制板甲长靴</CHS>
 				</Name>
 			</veteran_mage2_boots>
 			<veteran_melee_Boots>
 				<Name>
-					<CHS>恐惧工厂军靴</CHS>
+					<CHS>恐惧兵团长靴</CHS>
 				</Name>
 			</veteran_melee_Boots>
 			<veteran_ranged_Boots>
 				<Name>
-					<CHS>恐惧工厂军靴</CHS>
+					<CHS>恐惧兵团长靴</CHS>
 				</Name>
 			</veteran_ranged_Boots>
 			<veteran_melee_Cloak>
 				<Name>
-					<CHS>丝制披风</CHS>
+					<CHS>丝质披风</CHS>
 				</Name>
 			</veteran_melee_Cloak>
 			<veteran_ranged_Cloak>
 				<Name>
-					<CHS>丝绒斗篷</CHS>
+					<CHS>天鹅绒斗篷</CHS>
 				</Name>
 			</veteran_ranged_Cloak>
 			<veteran_mage1_cape>
 				<Name>
-					<CHS>时间饰带斗篷</CHS>
+					<CHS>时光飘带斗篷</CHS>
 				</Name>
 			</veteran_mage1_cape>
 			<veteran_mage2_cape>
 				<Name>
-					<CHS>字形守卫斗篷</CHS>
+					<CHS>铭文守卫者斗篷</CHS>
 				</Name>
 			</veteran_mage2_cape>
 			<veteran_Engineer1_Backpack>
 				<Name>
-					<CHS>氢燃料电池包</CHS>
+					<CHS>氢电池包</CHS>
 				</Name>
 			</veteran_Engineer1_Backpack>
 			<veteran_Engineer2_Backpack>
@@ -2044,27 +2044,27 @@
 			</veteran_Engineer2_Backpack>
 			<BastardSwordTutorial>
 				<Name>
-					<CHS>重剑</CHS>
+					<CHS>大剑</CHS>
 				</Name>
 			</BastardSwordTutorial>
 			<Focus1Tutorial>
 				<Name>
-					<CHS>坚硬的魔法手铐</CHS>
+					<CHS>包铁咒语护腕</CHS>
 				</Name>
 			</Focus1Tutorial>
 			<EngineerCannon1Tutorial>
 				<Name>
-					<CHS>铁管轰击炮</CHS>
+					<CHS>铁管释放器</CHS>
 				</Name>
 			</EngineerCannon1Tutorial>
 			<LightCloakTutorial>
 				<Name>
-					<CHS>轻斗篷</CHS>
+					<CHS>轻型斗篷</CHS>
 				</Name>
 			</LightCloakTutorial>
 			<MageCloak1Tutorial>
 				<Name>
-					<CHS>盗贼咒术师披肩</CHS>
+					<CHS>流浪法师披肩</CHS>
 				</Name>
 			</MageCloak1Tutorial>
 			<Backpack1Tutorial>
@@ -2074,7 +2074,7 @@
 			</Backpack1Tutorial>
 			<Helmet1Tutorial>
 				<Name>
-					<CHS>宽边皮帽</CHS>
+					<CHS>宽边皮革帽</CHS>
 				</Name>
 			</Helmet1Tutorial>
 			<MageMask1Tutorial>
@@ -2089,7 +2089,7 @@
 			</EnginerHelm1Tutorial>
 			<QualitedArmorTutorial>
 				<Name>
-					<CHS>优质护甲</CHS>
+					<CHS>上乘护甲</CHS>
 				</Name>
 			</QualitedArmorTutorial>
 			<LeatherBootsTutorial>
@@ -2099,33 +2099,33 @@
 			</LeatherBootsTutorial>
 			<utility_belt>
 				<Name>
-					<CHS>通用腰带</CHS>
+					<CHS>实用腰带</CHS>
 				</Name>
 			</utility_belt>
 			<machine_skull>
 				<Name>
-					<CHS>机器骷髅</CHS>
+					<CHS>机械颅骨</CHS>
 				</Name>
 			</machine_skull>
 			<woody_snack>
 				<Name>
-					<CHS>伍迪的零食</CHS>
+					<CHS>森林点心</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进法力值</CHS>
+					<CHS>永久 法力恢复 +10</CHS>
 				</ConsumeEffect>
 			</woody_snack>
 			<Dr_Jekyl_tincture>
 				<Name>
-					<CHS>杰基尔医生的药剂</CHS>
+					<CHS>杰基尔博士的气息</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>生命值永久 +10</CHS>
 				</ConsumeEffect>
 			</Dr_Jekyl_tincture>
 			<TD1_hidden_reward>
 				<Name>
-					<CHS>坚韧灵药</CHS>
+					<CHS>坚韧药剂</CHS>
 				</Name>
 				<ConsumeEffect>
 					<CHS>+10 防御</CHS>
@@ -2133,15 +2133,15 @@
 			</TD1_hidden_reward>
 			<TD2_hidden_reward>
 				<Name>
-					<CHS>巫术灵药</CHS>
+					<CHS>巫术药剂</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 法力</CHS>
+					<CHS>+10 魔力</CHS>
 				</ConsumeEffect>
 			</TD2_hidden_reward>
 			<Da_Vinci_note>
 				<Name>
-					<CHS>达芬奇的蓝图</CHS>
+					<CHS>达芬奇的总体规划</CHS>
 				</Name>
 				<ConsumeEffect>
 					<CHS>+5 意志</CHS>
@@ -2152,39 +2152,39 @@
 					<CHS>狮鹫蛋</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</chicken_egg>
 			<Giant_Weapon_oil>
 				<Name>
-					<CHS>萨卡帕朗姆酒</CHS>
+					<CHS>萨凯帕朗姆酒</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</Giant_Weapon_oil>
 			<domovoy_steak>
 				<Name>
-					<CHS>幽灵牛排</CHS>
+					<CHS>家神牛排</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</domovoy_steak>
 			<vrikolak_pie>
 				<Name>
-					<CHS>吸血鬼馅饼</CHS>
+					<CHS>维科拉风味小吃</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</vrikolak_pie>
 			<Happiness_mushrooms>
 				<Name>
-					<CHS>可疑的蘑菇</CHS>
+					<CHS>可疑蘑菇</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</Happiness_mushrooms>
 			<Superegg>
@@ -2192,360 +2192,360 @@
 					<CHS>复活节彩蛋</CHS>
 				</Name>
 				<Desc>
-					<CHS>一颗不可思议的蛋，其中含有所有你追捕怪物所需的矿物。</CHS>
+					<CHS>一枚神秘的蛋，里面包含了你狩猎怪物的时候所需要的所有矿物质。</CHS>
 				</Desc>
 				<ConsumeEffect>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</ConsumeEffect>
 			</Superegg>
 			<vhgold_pistol26>
 				<Name>
-					<CHS>SRP107突击队</CHS>
+					<CHS>突击者SPR107</CHS>
 				</Name>
 			</vhgold_pistol26>
 			<vhgold_pistol27>
 				<Name>
-					<CHS>蒙德拉贡 M1898</CHS>
+					<CHS>月龙M98型手枪</CHS>
 				</Name>
 			</vhgold_pistol27>
 			<vhgold_pistol29>
 				<Name>
-					<CHS>拉马多利手持迫击炮</CHS>
+					<CHS>拉马托利手持火炮</CHS>
 				</Name>
 			</vhgold_pistol29>
 			<vhgold_pistol31>
 				<Name>
-					<CHS>Tropp-841 陀螺仪手枪</CHS>
+					<CHS>特罗普841式螺旋手枪</CHS>
 				</Name>
 			</vhgold_pistol31>
 			<vhgold_pistol33>
 				<Name>
-					<CHS>FRX 迷你神射手</CHS>
+					<CHS>FRX · 无面者</CHS>
 				</Name>
 			</vhgold_pistol33>
 			<vhgold_rifle07>
 				<Name>
-					<CHS>麦斯威尔突击步枪</CHS>
+					<CHS>克斯韦突击长枪</CHS>
 				</Name>
 			</vhgold_rifle07>
 			<vhgold_rifle11>
 				<Name>
-					<CHS>拉马多利长管步枪</CHS>
+					<CHS>拉马托利长筒火枪</CHS>
 				</Name>
 			</vhgold_rifle11>
 			<vhgold_rifle13>
 				<Name>
-					<CHS>燃素步枪</CHS>
+					<CHS>烈风火枪</CHS>
 				</Name>
 			</vhgold_rifle13>
 			<vhgold_rifle14>
 				<Name>
-					<CHS>火花轮火枪</CHS>
+					<CHS>星轮长枪</CHS>
 				</Name>
 			</vhgold_rifle14>
 			<vhgold_rifle16>
 				<Name>
-					<CHS>蒙德拉贡MkII步枪</CHS>
+					<CHS>月龙MkII型火炮</CHS>
 				</Name>
 			</vhgold_rifle16>
 			<vhgold_rifle17>
 				<Name>
-					<CHS>L59 卡宾枪</CHS>
+					<CHS>L59突击卡宾枪</CHS>
 				</Name>
 			</vhgold_rifle17>
 			<vhgold_rifle22>
 				<Name>
-					<CHS>L73 火焰步枪</CHS>
+					<CHS>L73星火长枪</CHS>
 				</Name>
 			</vhgold_rifle22>
 			<vhgold_rifle23>
 				<Name>
-					<CHS>亚普斯·西格步枪</CHS>
+					<CHS>亚普征服者长枪</CHS>
 				</Name>
 			</vhgold_rifle23>
 			<vhgold_rifle27>
 				<Name>
-					<CHS>L88 霰弹枪</CHS>
+					<CHS>L88雷光步枪</CHS>
 				</Name>
 			</vhgold_rifle27>
 			<vhgold_rifle28>
 				<Name>
-					<CHS>拉马多利野战步枪</CHS>
+					<CHS>拉马托利阵地步枪</CHS>
 				</Name>
 			</vhgold_rifle28>
 			<vhgold_rifle29>
 				<Name>
-					<CHS>亚普斯电击卡宾枪</CHS>
+					<CHS>亚普震慑者长枪</CHS>
 				</Name>
 			</vhgold_rifle29>
 			<vhgold_rifle32>
 				<Name>
-					<CHS>L94 突击步枪</CHS>
+					<CHS>L94迅捷长枪</CHS>
 				</Name>
 			</vhgold_rifle32>
 			<vhgold_rifle33>
 				<Name>
-					<CHS>K1909 爆破步枪</CHS>
+					<CHS>K1909爆裂步枪</CHS>
 				</Name>
 			</vhgold_rifle33>
 			<vhgold_armorvest09>
 				<Name>
-					<CHS>优质护甲背心</CHS>
+					<CHS>优质防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest09>
 			<vhgold_armorvest12>
 				<Name>
-					<CHS>警用护甲背心</CHS>
+					<CHS>军用防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest12>
 			<vhgold_armorvest19>
 				<Name>
-					<CHS>附魔护甲背心</CHS>
+					<CHS>附魔防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest19>
 			<vhgold_armorvest21>
 				<Name>
-					<CHS>钢化护甲背心</CHS>
+					<CHS>钢铸防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest21>
 			<vhgold_armorvest22>
 				<Name>
-					<CHS>法术护卫护甲背心</CHS>
+					<CHS>缚法防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest22>
 			<vhgold_armorvest23>
 				<Name>
-					<CHS>巨人隐藏护甲背心</CHS>
+					<CHS>灵附防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest23>
 			<vhgold_armorvest25>
 				<Name>
-					<CHS>暗夜魔王护甲背心</CHS>
+					<CHS>夜行者防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest25>
 			<vhgold_armorvest26>
 				<Name>
-					<CHS>受祝福的铁制背心</CHS>
+					<CHS>神佑之防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest26>
 			<vhgold_armorvest27>
 				<Name>
-					<CHS>精心锻造的背心</CHS>
+					<CHS>邪铸防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest27>
 			<vhgold_armorvest28>
 				<Name>
-					<CHS>皇家护甲背心</CHS>
+					<CHS>皇家防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest28>
 			<vhgold_armorvest29>
 				<Name>
-					<CHS>神圣护甲背心</CHS>
+					<CHS>圣阶防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest29>
 			<vhgold_armorvest30>
 				<Name>
-					<CHS>幽魂守卫护甲背心</CHS>
+					<CHS>灵魂守护者的防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest30>
 			<vhgold_armorvest31>
 				<Name>
-					<CHS>天使之泪护甲背心</CHS>
+					<CHS>天使之泪防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest31>
 			<vhgold_armorvest32>
 				<Name>
-					<CHS>恶魔隐藏护甲背心</CHS>
+					<CHS>邪附防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest32>
 			<vhgold_armorvest33>
 				<Name>
-					<CHS>虚空之铁护甲背心</CHS>
+					<CHS>影钢防弹背心</CHS>
 				</Name>
 			</vhgold_armorvest33>
 			<vhgold_backpack21>
 				<Name>
-					<CHS>平行系统包</CHS>
+					<CHS>硝基苯系统背包</CHS>
 				</Name>
 			</vhgold_backpack21>
 			<vhgold_backpack28>
 				<Name>
-					<CHS>能量活塞包</CHS>
+					<CHS>安特活塞背包</CHS>
 				</Name>
 			</vhgold_backpack28>
 			<vhgold_engineerhelmet30>
 				<Name>
-					<CHS>自动化头盔</CHS>
+					<CHS>机械头盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet30>
 			<vhgold_engineerhelmet31>
 				<Name>
-					<CHS>先进战术头盔</CHS>
+					<CHS>高科技作战头盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet31>
 			<vhgold_engineerhelmet33>
 				<Name>
-					<CHS>R2 机械头部</CHS>
+					<CHS>R2机械化头套</CHS>
 				</Name>
 			</vhgold_engineerhelmet33>
 			<vhgold_engineersuit01>
 				<Name>
-					<CHS>层压工作服</CHS>
+					<CHS>夹层工作服</CHS>
 				</Name>
 			</vhgold_engineersuit01>
 			<vhgold_engineersuit02>
 				<Name>
-					<CHS>镀锌工作服</CHS>
+					<CHS>电镀工作服</CHS>
 				</Name>
 			</vhgold_engineersuit02>
 			<vhgold_engineersuit03>
 				<Name>
-					<CHS>偏振套装</CHS>
+					<CHS>分化服</CHS>
 				</Name>
 			</vhgold_engineersuit03>
 			<vhgold_engineersuit04>
 				<Name>
-					<CHS>工业套装</CHS>
+					<CHS>工人服</CHS>
 				</Name>
 			</vhgold_engineersuit04>
 			<vhgold_engineersuit05>
 				<Name>
-					<CHS>环境套装</CHS>
+					<CHS>绿化服</CHS>
 				</Name>
 			</vhgold_engineersuit05>
 			<vhgold_engineersuit06>
 				<Name>
-					<CHS>电力管理者套装</CHS>
+					<CHS>电导服</CHS>
 				</Name>
 			</vhgold_engineersuit06>
 			<vhgold_engineersuit07>
 				<Name>
-					<CHS>重大任务套装</CHS>
+					<CHS>重工业服</CHS>
 				</Name>
 			</vhgold_engineersuit07>
 			<vhgold_engineersuit09>
 				<Name>
-					<CHS>反转管理者套装</CHS>
+					<CHS>逆导体装</CHS>
 				</Name>
 			</vhgold_engineersuit09>
 			<vhgold_engineersuit10>
 				<Name>
-					<CHS>基础冒险服套装</CHS>
+					<CHS>简易生化防护服</CHS>
 				</Name>
 			</vhgold_engineersuit10>
 			<vhgold_engineersuit11>
 				<Name>
-					<CHS>专利套装</CHS>
+					<CHS>专利服</CHS>
 				</Name>
 			</vhgold_engineersuit11>
 			<vhgold_engineersuit12>
 				<Name>
-					<CHS>电击吸收套装</CHS>
+					<CHS>缓冲服</CHS>
 				</Name>
 			</vhgold_engineersuit12>
 			<vhgold_engineersuit13>
 				<Name>
-					<CHS>Flexicord 套装</CHS>
+					<CHS>多功能折叠装</CHS>
 				</Name>
 			</vhgold_engineersuit13>
 			<vhgold_engineersuit16>
 				<Name>
-					<CHS>Ampermax 套装</CHS>
+					<CHS>超级安珀装</CHS>
 				</Name>
 			</vhgold_engineersuit16>
 			<vhgold_engineersuit17>
 				<Name>
-					<CHS>净化套装</CHS>
+					<CHS>排污装</CHS>
 				</Name>
 			</vhgold_engineersuit17>
 			<vhgold_engineersuit20>
 				<Name>
-					<CHS>复古充能服装</CHS>
+					<CHS>充能火箭衣</CHS>
 				</Name>
 			</vhgold_engineersuit20>
 			<vhgold_engineersuit21>
 				<Name>
-					<CHS>Mechanovest 套装</CHS>
+					<CHS>机甲装</CHS>
 				</Name>
 			</vhgold_engineersuit21>
 			<vhgold_engineersuit24>
 				<Name>
-					<CHS>Futuron 套装</CHS>
+					<CHS>超科技装</CHS>
 				</Name>
 			</vhgold_engineersuit24>
 			<vhgold_engineersuit25>
 				<Name>
-					<CHS>Metasbestos 套装</CHS>
+					<CHS>石棉防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit25>
 			<vhgold_engineersuit26>
 				<Name>
-					<CHS>Kryptonized 套装</CHS>
+					<CHS>氪金防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit26>
 			<vhgold_engineersuit27>
 				<Name>
-					<CHS>连衫裤工作服</CHS>
+					<CHS>聚合精华装</CHS>
 				</Name>
 			</vhgold_engineersuit27>
 			<vhgold_engineersuit28>
 				<Name>
-					<CHS>Protolythic 套装</CHS>
+					<CHS>水解蛋白防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit28>
 			<vhgold_engineersuit29>
 				<Name>
-					<CHS>Polyplated 套装</CHS>
+					<CHS>聚酯纤维服</CHS>
 				</Name>
 			</vhgold_engineersuit29>
 			<vhgold_engineersuit30>
 				<Name>
-					<CHS>硫化服</CHS>
+					<CHS>硫化衣</CHS>
 				</Name>
 			</vhgold_engineersuit30>
 			<vhgold_engineersuit31>
 				<Name>
-					<CHS>多功能服</CHS>
+					<CHS>多用途万能装</CHS>
 				</Name>
 			</vhgold_engineersuit31>
 			<vhgold_engineersuit32>
 				<Name>
-					<CHS>高分子合金服</CHS>
+					<CHS>巨合金装</CHS>
 				</Name>
 			</vhgold_engineersuit32>
 			<vhgold_engineersuit33>
 				<Name>
-					<CHS>Ceramite Plated 套装</CHS>
+					<CHS>镀酰胺服</CHS>
 				</Name>
 			</vhgold_engineersuit33>
 			<vhgold_focus28>
 				<Name>
-					<CHS>惩戒者法术手铐</CHS>
+					<CHS>审判官的咒缚</CHS>
 				</Name>
 			</vhgold_focus28>
 			<vhgold_focus29>
 				<Name>
-					<CHS>洞察者法术手铐</CHS>
+					<CHS>先知的咒缚</CHS>
 				</Name>
 			</vhgold_focus29>
 			<vhgold_mask24>
 				<Name>
-					<CHS>Fiendcracker 面具</CHS>
+					<CHS>凶暴面罩</CHS>
 				</Name>
 			</vhgold_mask24>
 			<vhgold_amulet01>
 				<Name>
-					<CHS>银质奖章</CHS>
+					<CHS>银色徽章</CHS>
 				</Name>
 			</vhgold_amulet01>
 			<vhgold_amulet19>
 				<Name>
-					<CHS>紫水晶吊坠</CHS>
+					<CHS>紫晶坠饰</CHS>
 				</Name>
 			</vhgold_amulet19>
 			<vhgold_trophy17>
 				<Name>
-					<CHS>电磁纺锤</CHS>
+					<CHS>电磁轴</CHS>
 				</Name>
 			</vhgold_trophy17>
 			<vhgold_trophy19>
@@ -2555,157 +2555,157 @@
 			</vhgold_trophy19>
 			<vhgold_trophy21>
 				<Name>
-					<CHS>炽热之物</CHS>
+					<CHS>易燃物</CHS>
 				</Name>
 			</vhgold_trophy21>
 			<vhgold_trophy25>
 				<Name>
-					<CHS>爪牙</CHS>
+					<CHS>尖牙利爪</CHS>
 				</Name>
 			</vhgold_trophy25>
 			<vhgold_belt32>
 				<Name>
-					<CHS>恐惧魔王腰带</CHS>
+					<CHS>死亡领主的皮带</CHS>
 				</Name>
 			</vhgold_belt32>
 			<vhgold_belt33>
 				<Name>
-					<CHS>贵族勇士腰带</CHS>
+					<CHS>冠军的皇家皮带</CHS>
 				</Name>
 			</vhgold_belt33>
 			<vhgold_garb01>
 				<Name>
-					<CHS>侍僧装束</CHS>
+					<CHS>莱特外衣</CHS>
 				</Name>
 			</vhgold_garb01>
 			<vhgold_garb02>
 				<Name>
-					<CHS>盗贼元素师装束</CHS>
+					<CHS>盗贼的自然守护外衣</CHS>
 				</Name>
 			</vhgold_garb02>
 			<vhgold_garb03>
 				<Name>
-					<CHS>附魔装束</CHS>
+					<CHS>附魔法衣</CHS>
 				</Name>
 			</vhgold_garb03>
 			<vhgold_garb04>
 				<Name>
-					<CHS>华丽装束</CHS>
+					<CHS>奢华外衣</CHS>
 				</Name>
 			</vhgold_garb04>
 			<vhgold_garb05>
 				<Name>
-					<CHS>祈求者装束</CHS>
+					<CHS>祈求者外衣</CHS>
 				</Name>
 			</vhgold_garb05>
 			<vhgold_garb06>
 				<Name>
-					<CHS>东部德鲁伊装束</CHS>
+					<CHS>东部德鲁伊外衣</CHS>
 				</Name>
 			</vhgold_garb06>
 			<vhgold_garb07>
 				<Name>
-					<CHS>猎人萨满装束</CHS>
+					<CHS>狩猎之萨满外衣</CHS>
 				</Name>
 			</vhgold_garb07>
 			<vhgold_garb09>
 				<Name>
-					<CHS>学识者装束</CHS>
+					<CHS>知识守护者外衣</CHS>
 				</Name>
 			</vhgold_garb09>
 			<vhgold_garb11>
 				<Name>
-					<CHS>Draconicus装束</CHS>
+					<CHS>龙皮外衣</CHS>
 				</Name>
 			</vhgold_garb11>
 			<vhgold_garb12>
 				<Name>
-					<CHS>赤练蛇装束</CHS>
+					<CHS>狡诈之猩红外衣</CHS>
 				</Name>
 			</vhgold_garb12>
 			<vhgold_garb13>
 				<Name>
-					<CHS> Serpent 装束</CHS>
+					<CHS>总督外衣</CHS>
 				</Name>
 			</vhgold_garb13>
 			<vhgold_garb15>
 				<Name>
-					<CHS>奥秘骑士装束</CHS>
+					<CHS>骑士的神秘外衣</CHS>
 				</Name>
 			</vhgold_garb15>
 			<vhgold_garb17>
 				<Name>
-					<CHS>咒术师装束</CHS>
+					<CHS>术士长袍</CHS>
 				</Name>
 			</vhgold_garb17>
 			<vhgold_garb18>
 				<Name>
-					<CHS>翠绿命令者装束</CHS>
+					<CHS>秩序之翡翠外衣</CHS>
 				</Name>
 			</vhgold_garb18>
 			<vhgold_garb20>
 				<Name>
-					<CHS>暗影束缚着装束</CHS>
+					<CHS>织影者外衣</CHS>
 				</Name>
 			</vhgold_garb20>
 			<vhgold_garb21>
 				<Name>
-					<CHS>凤凰命令者装束</CHS>
+					<CHS>秩序之重生外衣</CHS>
 				</Name>
 			</vhgold_garb21>
 			<vhgold_garb22>
 				<Name>
-					<CHS>神秘贵族装束</CHS>
+					<CHS>隐秘的皇家外套</CHS>
 				</Name>
 			</vhgold_garb22>
 			<vhgold_garb24>
 				<Name>
-					<CHS>极乐装束</CHS>
+					<CHS>圣堂外衣</CHS>
 				</Name>
 			</vhgold_garb24>
 			<vhgold_garb25>
 				<Name>
-					<CHS>Glyphbound 装束</CHS>
+					<CHS>雕饰外衣</CHS>
 				</Name>
 			</vhgold_garb25>
 			<vhgold_garb27>
 				<Name>
-					<CHS>面纱之主装束</CHS>
+					<CHS>神秘大师的外衣</CHS>
 				</Name>
 			</vhgold_garb27>
 			<vhgold_garb28>
 				<Name>
-					<CHS>Etherstrider装束</CHS>
+					<CHS>天行者外衣</CHS>
 				</Name>
 			</vhgold_garb28>
 			<vhgold_garb29>
 				<Name>
-					<CHS>弥撒占卜者装束</CHS>
+					<CHS>鸟卜者外衣</CHS>
 				</Name>
 			</vhgold_garb29>
 			<vhgold_garb30>
 				<Name>
-					<CHS>恐怖骑士装束</CHS>
+					<CHS>恐惧骑士外套</CHS>
 				</Name>
 			</vhgold_garb30>
 			<vhgold_garb32>
 				<Name>
-					<CHS>灵魂猎人装束</CHS>
+					<CHS>猎魂者外衣</CHS>
 				</Name>
 			</vhgold_garb32>
 			<vhgold_garb33>
 				<Name>
-					<CHS>伟大驱魔人装束</CHS>
+					<CHS>驱魔人邪纹外衣</CHS>
 				</Name>
 			</vhgold_garb33>
 			<vhgold_boots29>
 				<Name>
-					<CHS>符文靴</CHS>
+					<CHS>符文便靴</CHS>
 				</Name>
 			</vhgold_boots29>
 			<vhgold_boots30>
 				<Name>
-					<CHS>Glacierstrider靴</CHS>
+					<CHS>破冰之靴</CHS>
 				</Name>
 			</vhgold_boots30>
 			<vhgold_boots31>
@@ -2715,17 +2715,17 @@
 			</vhgold_boots31>
 			<vhgold_shield10>
 				<Name>
-					<CHS>卡拉斯卡塔楼盾牌</CHS>
+					<CHS>克拉卡先塔盾</CHS>
 				</Name>
 			</vhgold_shield10>
 			<vhgold_shield11>
 				<Name>
-					<CHS>铁心盾牌</CHS>
+					<CHS>铁之心盾牌</CHS>
 				</Name>
 			</vhgold_shield11>
 			<vhgold_shield12>
 				<Name>
-					<CHS>神圣守卫盾牌</CHS>
+					<CHS>神圣护卫者的墙盾</CHS>
 				</Name>
 			</vhgold_shield12>
 			<vhgold_shield13>
@@ -2735,97 +2735,97 @@
 			</vhgold_shield13>
 			<vhgold_shield14>
 				<Name>
-					<CHS>希尔瓦尼亚盾牌</CHS>
+					<CHS>森林护盾</CHS>
 				</Name>
 			</vhgold_shield14>
 			<vhgold_shield15>
 				<Name>
-					<CHS>博格维亚盾牌</CHS>
+					<CHS>博格维娅之盾</CHS>
 				</Name>
 			</vhgold_shield15>
 			<vhgold_shield16>
 				<Name>
-					<CHS>银心盾牌</CHS>
+					<CHS>银之心盾牌</CHS>
 				</Name>
 			</vhgold_shield16>
 			<vhgold_shield17>
 				<Name>
-					<CHS>机械锻造盾牌</CHS>
+					<CHS>机械护盾</CHS>
 				</Name>
 			</vhgold_shield17>
 			<vhgold_shield18>
 				<Name>
-					<CHS>太阳勇士盾牌</CHS>
+					<CHS>烈日勇士的墙盾</CHS>
 				</Name>
 			</vhgold_shield18>
 			<vhgold_shield19>
 				<Name>
-					<CHS>狼爪盾牌</CHS>
+					<CHS>狼族盾牌</CHS>
 				</Name>
 			</vhgold_shield19>
 			<vhgold_shield20>
 				<Name>
-					<CHS>米斯库森盾牌</CHS>
+					<CHS>秘银铸牌</CHS>
 				</Name>
 			</vhgold_shield20>
 			<vhgold_shield22>
 				<Name>
-					<CHS>暗影守卫盾牌</CHS>
+					<CHS>暗影守卫者的墙盾</CHS>
 				</Name>
 			</vhgold_shield22>
 			<vhgold_shield23>
 				<Name>
-					<CHS>上古之环盾牌</CHS>
+					<CHS>先祖圆盾</CHS>
 				</Name>
 			</vhgold_shield23>
 			<vhgold_shield24>
 				<Name>
-					<CHS>深渊盾牌</CHS>
+					<CHS>王牌猎人之盾</CHS>
 				</Name>
 			</vhgold_shield24>
 			<vhgold_shield25>
 				<Name>
-					<CHS>炽天使钝牌</CHS>
+					<CHS>天使圣盾</CHS>
 				</Name>
 			</vhgold_shield25>
 			<vhgold_shield26>
 				<Name>
-					<CHS>金色圣甲虫盾牌</CHS>
+					<CHS>金甲虫之壳</CHS>
 				</Name>
 			</vhgold_shield26>
 			<vhgold_shield27>
 				<Name>
-					<CHS>灵魂看管者盾牌</CHS>
+					<CHS>灵界看守的护盾</CHS>
 				</Name>
 			</vhgold_shield27>
 			<vhgold_shield28>
 				<Name>
-					<CHS>痛苦恶魔盾牌</CHS>
+					<CHS>邪祸盾牌</CHS>
 				</Name>
 			</vhgold_shield28>
 			<vhgold_shield29>
 				<Name>
-					<CHS>屠龙勇士盾牌</CHS>
+					<CHS>屠龙者之盾</CHS>
 				</Name>
 			</vhgold_shield29>
 			<vhgold_shield30>
 				<Name>
-					<CHS>幽魂之狼盾牌</CHS>
+					<CHS>狼魂护盾</CHS>
 				</Name>
 			</vhgold_shield30>
 			<vhgold_shield31>
 				<Name>
-					<CHS>雄狮军士盾牌</CHS>
+					<CHS>雄狮将校的墙盾</CHS>
 				</Name>
 			</vhgold_shield31>
 			<vhgold_shield32>
 				<Name>
-					<CHS>恶魔勇气盾牌</CHS>
+					<CHS>魔祸盾牌</CHS>
 				</Name>
 			</vhgold_shield32>
 			<vhgold_shield33>
 				<Name>
-					<CHS>恐怖保卫者盾牌</CHS>
+					<CHS>恐惧守护者的盾牌</CHS>
 				</Name>
 			</vhgold_shield33>
 			<vhgold_shield_epic01>
@@ -2835,12 +2835,12 @@
 			</vhgold_shield_epic01>
 			<vhgold_shield_epic02>
 				<Name>
-					<CHS>骑士保卫者盾牌</CHS>
+					<CHS>骑士保卫者的壁垒</CHS>
 				</Name>
 			</vhgold_shield_epic02>
 			<vhgold_shield_epic03>
 				<Name>
-					<CHS>机械军团盾牌</CHS>
+					<CHS>机械大军的屏障</CHS>
 				</Name>
 			</vhgold_shield_epic03>
 			<vhgold_shield_epic04>
@@ -2850,97 +2850,97 @@
 			</vhgold_shield_epic04>
 			<vhgold_shield_epic05>
 				<Name>
-					<CHS>墨境咆哮</CHS>
+					<CHS>墨吼</CHS>
 				</Name>
 			</vhgold_shield_epic05>
 			<vhgold_shield_epic06>
 				<Name>
-					<CHS>恐狼盾牌</CHS>
+					<CHS>饿狼之护</CHS>
 				</Name>
 			</vhgold_shield_epic06>
 			<vhgold_shield_epic07>
 				<Name>
-					<CHS>Roesepetal</CHS>
+					<CHS>玫瑰花瓣</CHS>
 				</Name>
 			</vhgold_shield_epic07>
 			<vhgold_shield_epic08>
 				<Name>
-					<CHS>上古勇士盾牌</CHS>
+					<CHS>远古冠军壁垒</CHS>
 				</Name>
 			</vhgold_shield_epic08>
 			<vhgold_shield_epic09>
 				<Name>
-					<CHS>白银之翼</CHS>
+					<CHS>银翼</CHS>
 				</Name>
 			</vhgold_shield_epic09>
 			<vhgold_shield_epic10>
 				<Name>
-					<CHS>希尔瓦尼亚哨兵盾牌</CHS>
+					<CHS>森林探索者的庇护</CHS>
 				</Name>
 			</vhgold_shield_epic10>
 			<vhgold_shield_epic11>
 				<Name>
-					<CHS>血色圣殿骑士盾</CHS>
+					<CHS>深红圣殿骑士盾牌</CHS>
 				</Name>
 			</vhgold_shield_epic11>
 			<vhgold_shield_epic12>
 				<Name>
-					<CHS>镀金羊皮盾</CHS>
+					<CHS>镀金泰坦神盾</CHS>
 				</Name>
 			</vhgold_shield_epic12>
 			<vhgold_shield_epic13>
 				<Name>
-					<CHS>符文墙</CHS>
+					<CHS>符文屏障</CHS>
 				</Name>
 			</vhgold_shield_epic13>
 			<vhgold_shield_epic14>
 				<Name>
-					<CHS>地狱凝视盾牌</CHS>
+					<CHS>地狱看守者的庇护</CHS>
 				</Name>
 			</vhgold_shield_epic14>
 			<vhgold_shield_epic15>
 				<Name>
-					<CHS>以太墙</CHS>
+					<CHS>苍穹屏障</CHS>
 				</Name>
 			</vhgold_shield_epic15>
 			<vhgold_amulet_epic06>
 				<Name>
-					<CHS>黄铁石质项链</CHS>
+					<CHS>黄铁项链</CHS>
 				</Name>
 			</vhgold_amulet_epic06>
 			<vhgold_armorvest_epic10>
 				<Name>
-					<CHS>日暮背心</CHS>
+					<CHS>夜幕之护</CHS>
 				</Name>
 			</vhgold_armorvest_epic10>
 			<vhgold_armorvest_epic12>
 				<Name>
-					<CHS>黄昏编制者护甲背心</CHS>
+					<CHS>织暮甲</CHS>
 				</Name>
 			</vhgold_armorvest_epic12>
 			<vhgold_armorvest_epic13>
 				<Name>
-					<CHS>抵抗一切背心</CHS>
+					<CHS>全抗铠甲</CHS>
 				</Name>
 			</vhgold_armorvest_epic13>
 			<vhgold_armorvest_epic14>
 				<Name>
-					<CHS>黑龙隐藏背心</CHS>
+					<CHS>龙附甲</CHS>
 				</Name>
 			</vhgold_armorvest_epic14>
 			<vhgold_armorvest_epic15>
 				<Name>
-					<CHS>虚空之铁皮肤</CHS>
+					<CHS>影钢之心</CHS>
 				</Name>
 			</vhgold_armorvest_epic15>
 			<vhgold_axe_epic08>
 				<Name>
-					<CHS>Sigilbound 斧</CHS>
+					<CHS>淬火符文战斧</CHS>
 				</Name>
 			</vhgold_axe_epic08>
 			<vhgold_axe_epic09>
 				<Name>
-					<CHS>震地者</CHS>
+					<CHS>颤地者</CHS>
 				</Name>
 			</vhgold_axe_epic09>
 			<vhgold_axe_epic10>
@@ -2950,32 +2950,32 @@
 			</vhgold_axe_epic10>
 			<vhgold_axe_epic14>
 				<Name>
-					<CHS>真实短斧</CHS>
+					<CHS>真理之短柄斧</CHS>
 				</Name>
 			</vhgold_axe_epic14>
 			<vhgold_crossbow_epic11>
 				<Name>
-					<CHS>暗淡猎人弓弩</CHS>
+					<CHS>猎手的凋零十字弓</CHS>
 				</Name>
 			</vhgold_crossbow_epic11>
 			<vhgold_crossbow_epic12>
 				<Name>
-					<CHS>Dusksting</CHS>
+					<CHS>暮光</CHS>
 				</Name>
 			</vhgold_crossbow_epic12>
 			<vhgold_crossbow_epic13>
 				<Name>
-					<CHS>钢铁风暴</CHS>
+					<CHS>钢铁乱舞</CHS>
 				</Name>
 			</vhgold_crossbow_epic13>
 			<vhgold_crossbow_epic14>
 				<Name>
-					<CHS>针垫</CHS>
+					<CHS>穿刺者</CHS>
 				</Name>
 			</vhgold_crossbow_epic14>
 			<vhgold_crossbow_epic15>
 				<Name>
-					<CHS>天真</CHS>
+					<CHS>开天</CHS>
 				</Name>
 			</vhgold_crossbow_epic15>
 			<vhgold_pistol_epic08>
@@ -2985,107 +2985,107 @@
 			</vhgold_pistol_epic08>
 			<vhgold_rifle_epic13>
 				<Name>
-					<CHS>亚普斯突击队</CHS>
+					<CHS>亚普突击者火枪</CHS>
 				</Name>
 			</vhgold_rifle_epic13>
 			<vhgold_rifle_epic14>
 				<Name>
-					<CHS>Tuff-Tuff</CHS>
+					<CHS>帝王之枪</CHS>
 				</Name>
 			</vhgold_rifle_epic14>
 			<vhgold_rifle_epic15>
 				<Name>
-					<CHS>远古恐惧步枪</CHS>
+					<CHS>远古恐惧之枪</CHS>
 				</Name>
 			</vhgold_rifle_epic15>
 			<vhgold_backpack_epic15>
 				<Name>
-					<CHS>银河包</CHS>
+					<CHS>银河背包</CHS>
 				</Name>
 			</vhgold_backpack_epic15>
 			<vhgold_belt_epic15>
 				<Name>
-					<CHS>空虚猎人腰带</CHS>
+					<CHS>虚空猎手皮带</CHS>
 				</Name>
 			</vhgold_belt_epic15>
 			<vhgold_cape_epic14>
 				<Name>
-					<CHS>血誓斗篷</CHS>
+					<CHS>血契斗篷</CHS>
 				</Name>
 			</vhgold_cape_epic14>
 			<vhgold_cape_epic15>
 				<Name>
-					<CHS>神圣审判者斗篷</CHS>
+					<CHS>审判官的神圣斗篷</CHS>
 				</Name>
 			</vhgold_cape_epic15>
 			<vhgold_engineerhelmet_epic12>
 				<Name>
-					<CHS>Chromesight</CHS>
+					<CHS>谷歌视界</CHS>
 				</Name>
 			</vhgold_engineerhelmet_epic12>
 			<vhgold_engineerhelmet_epic13>
 				<Name>
-					<CHS>Megapol头盔</CHS>
+					<CHS>聚合酶头套</CHS>
 				</Name>
 			</vhgold_engineerhelmet_epic13>
 			<vhgold_engineerhelmet_epic14>
 				<Name>
-					<CHS>鲁纳瑞斯头盔</CHS>
+					<CHS>月型头套</CHS>
 				</Name>
 			</vhgold_engineerhelmet_epic14>
 			<vhgold_engineerhelmet_epic15>
 				<Name>
-					<CHS>Byziclop头盔</CHS>
+					<CHS>高级石墨烯头盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_epic15>
 			<vhgold_focus_epic12>
 				<Name>
-					<CHS>熵</CHS>
+					<CHS>负熵护目镜</CHS>
 				</Name>
 			</vhgold_focus_epic12>
 			<vhgold_focus_epic13>
 				<Name>
-					<CHS>蓝宝石咒语</CHS>
+					<CHS>宝蓝赞歌</CHS>
 				</Name>
 			</vhgold_focus_epic13>
 			<vhgold_focus_epic14>
 				<Name>
-					<CHS>虚空之镜</CHS>
+					<CHS>虚无之镜</CHS>
 				</Name>
 			</vhgold_focus_epic14>
 			<vhgold_focus_epic15>
 				<Name>
-					<CHS>黑暗子嗣法术手铐</CHS>
+					<CHS>黑暗咒缚</CHS>
 				</Name>
 			</vhgold_focus_epic15>
 			<vhgold_magecape_epic12>
 				<Name>
-					<CHS>破裂之魂</CHS>
+					<CHS>裂纹法袍</CHS>
 				</Name>
 			</vhgold_magecape_epic12>
 			<vhgold_magecape_epic13>
 				<Name>
-					<CHS>幽魂之主斗篷</CHS>
+					<CHS>幽魂领主斗篷</CHS>
 				</Name>
 			</vhgold_magecape_epic13>
 			<vhgold_magecape_epic14>
 				<Name>
-					<CHS>恐惧大师斗篷</CHS>
+					<CHS>恐惧大帝斗篷</CHS>
 				</Name>
 			</vhgold_magecape_epic14>
 			<vhgold_magecape_epic15>
 				<Name>
-					<CHS>炽天使斗篷</CHS>
+					<CHS>天使的护罩</CHS>
 				</Name>
 			</vhgold_magecape_epic15>
 			<vhgold_mask_epic12>
 				<Name>
-					<CHS>Serkermage面具</CHS>
+					<CHS>狂暴法师面罩</CHS>
 				</Name>
 			</vhgold_mask_epic12>
 			<vhgold_mask_epic13>
 				<Name>
-					<CHS>恶魔眼面具</CHS>
+					<CHS>恶魔之眼</CHS>
 				</Name>
 			</vhgold_mask_epic13>
 			<vhgold_mask_epic14>
@@ -3095,12 +3095,12 @@
 			</vhgold_mask_epic14>
 			<vhgold_mask_epic15>
 				<Name>
-					<CHS>末日预言者面具</CHS>
+					<CHS>末日使者假面</CHS>
 				</Name>
 			</vhgold_mask_epic15>
 			<vhgold_helmet03>
 				<Name>
-					<CHS>上古头盔</CHS>
+					<CHS>远古头盔</CHS>
 				</Name>
 			</vhgold_helmet03>
 			<vhgold_helmet08>
@@ -3110,7 +3110,7 @@
 			</vhgold_helmet08>
 			<vhgold_helmet10>
 				<Name>
-					<CHS>禁卫头盔</CHS>
+					<CHS>普雷托里之盔</CHS>
 				</Name>
 			</vhgold_helmet10>
 			<vhgold_helmet11>
@@ -3120,32 +3120,32 @@
 			</vhgold_helmet11>
 			<vhgold_helmet12>
 				<Name>
-					<CHS>半闭头盔</CHS>
+					<CHS>半遮头盔</CHS>
 				</Name>
 			</vhgold_helmet12>
 			<vhgold_helmet13>
 				<Name>
-					<CHS>带翼头盔</CHS>
+					<CHS>翼之盔</CHS>
 				</Name>
 			</vhgold_helmet13>
 			<vhgold_helmet14>
 				<Name>
-					<CHS>步兵头盔</CHS>
+					<CHS>侍从头盔</CHS>
 				</Name>
 			</vhgold_helmet14>
 			<vhgold_helmet15>
 				<Name>
-					<CHS>保卫者重型头盔</CHS>
+					<CHS>保卫者之重盔</CHS>
 				</Name>
 			</vhgold_helmet15>
 			<vhgold_helmet16>
 				<Name>
-					<CHS>沃兹尼科头盔</CHS>
+					<CHS>沃兹尼亚克之盔</CHS>
 				</Name>
 			</vhgold_helmet16>
 			<vhgold_helmet17>
 				<Name>
-					<CHS>暴怒者头盔</CHS>
+					<CHS>暴怒者之盔</CHS>
 				</Name>
 			</vhgold_helmet17>
 			<vhgold_helmet19>
@@ -3155,12 +3155,12 @@
 			</vhgold_helmet19>
 			<vhgold_helmet20>
 				<Name>
-					<CHS>甲壳战盔</CHS>
+					<CHS>龟甲战盔</CHS>
 				</Name>
 			</vhgold_helmet20>
 			<vhgold_helmet21>
 				<Name>
-					<CHS>鸟嘴头盔</CHS>
+					<CHS>神鹰之盔</CHS>
 				</Name>
 			</vhgold_helmet21>
 			<vhgold_helmet22>
@@ -3170,327 +3170,327 @@
 			</vhgold_helmet22>
 			<vhgold_helmet23>
 				<Name>
-					<CHS>鹿角头盔</CHS>
+					<CHS>雄鹿角盔</CHS>
 				</Name>
 			</vhgold_helmet23>
 			<vhgold_helmet24>
 				<Name>
-					<CHS>铁板头盔</CHS>
+					<CHS>钢板头盔</CHS>
 				</Name>
 			</vhgold_helmet24>
 			<vhgold_helmet25>
 				<Name>
-					<CHS>保护者队长头盔</CHS>
+					<CHS>护卫队长头盔</CHS>
 				</Name>
 			</vhgold_helmet25>
 			<vhgold_helmet26>
 				<Name>
-					<CHS>狂怒骑士头盔</CHS>
+					<CHS>狂暴骑士头盔</CHS>
 				</Name>
 			</vhgold_helmet26>
 			<vhgold_helmet27>
 				<Name>
-					<CHS>末日守卫头盔</CHS>
+					<CHS>末日守卫者之盔</CHS>
 				</Name>
 			</vhgold_helmet27>
 			<vhgold_helmet28>
 				<Name>
-					<CHS>希尔瓦尼亚冲锋者头盔</CHS>
+					<CHS>森林冲锋者之盔</CHS>
 				</Name>
 			</vhgold_helmet28>
 			<vhgold_helmet29>
 				<Name>
-					<CHS>奇迹头盔</CHS>
+					<CHS>米其科头盔</CHS>
 				</Name>
 			</vhgold_helmet29>
 			<vhgold_helmet30>
 				<Name>
-					<CHS>恐吓者头盔</CHS>
+					<CHS>胁迫者之盔</CHS>
 				</Name>
 			</vhgold_helmet30>
 			<vhgold_helmet31>
 				<Name>
-					<CHS>野牛头盔</CHS>
+					<CHS>蛮牛重盔</CHS>
 				</Name>
 			</vhgold_helmet31>
 			<vhgold_helmet33>
 				<Name>
-					<CHS>米斯库森头盔</CHS>
+					<CHS>秘银头盔</CHS>
 				</Name>
 			</vhgold_helmet33>
 			<vhgold_engineersuit_epic01>
 				<Name>
-					<CHS>燃素猛击套装</CHS>
+					<CHS>热素蓄电服</CHS>
 				</Name>
 			</vhgold_engineersuit_epic01>
 			<vhgold_engineersuit_epic05>
 				<Name>
-					<CHS>聚合套装</CHS>
+					<CHS>聚合化防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic05>
 			<vhgold_engineersuit_epic06>
 				<Name>
-					<CHS>Ultrahazard套装</CHS>
+					<CHS>高科技生化防护服</CHS>
 				</Name>
 			</vhgold_engineersuit_epic06>
 			<vhgold_engineersuit_epic07>
 				<Name>
-					<CHS>伽倪墨得斯式套装</CHS>
+					<CHS>木卫三号防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic07>
 			<vhgold_engineersuit_epic08>
 				<Name>
-					<CHS>Darklite 套装</CHS>
+					<CHS>低盐防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic08>
 			<vhgold_engineersuit_epic09>
 				<Name>
-					<CHS>内燃套装</CHS>
+					<CHS>内燃高科技装</CHS>
 				</Name>
 			</vhgold_engineersuit_epic09>
 			<vhgold_engineersuit_epic10>
 				<Name>
-					<CHS>Optiron 套装</CHS>
+					<CHS>高核防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic10>
 			<vhgold_engineersuit_epic11>
 				<Name>
-					<CHS>Ink-Proofed套装</CHS>
+					<CHS>防墨衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic11>
 			<vhgold_engineersuit_epic12>
 				<Name>
-					<CHS>Sanctomati套装</CHS>
+					<CHS>圣能驱动衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic12>
 			<vhgold_engineersuit_epic13>
 				<Name>
-					<CHS>Energothread 套装</CHS>
+					<CHS>安特线性防护衣</CHS>
 				</Name>
 			</vhgold_engineersuit_epic13>
 			<vhgold_engineersuit_epic14>
 				<Name>
-					<CHS>堕落地精套装</CHS>
+					<CHS>地精的坏蛆装</CHS>
 				</Name>
 			</vhgold_engineersuit_epic14>
 			<vhgold_engineersuit_epic15>
 				<Name>
-					<CHS>合成装束</CHS>
+					<CHS>合成皮肤</CHS>
 				</Name>
 			</vhgold_engineersuit_epic15>
 			<vhgold_garb_epic03>
 				<Name>
-					<CHS>法术咆哮</CHS>
+					<CHS>咒术之吼</CHS>
 				</Name>
 			</vhgold_garb_epic03>
 			<vhgold_garb_epic05>
 				<Name>
-					<CHS>梵蒂冈Purgator装束</CHS>
+					<CHS>主教的净化外衣</CHS>
 				</Name>
 			</vhgold_garb_epic05>
 			<vhgold_garb_epic07>
 				<Name>
-					<CHS>太阳萨满装束</CHS>
+					<CHS>烈日萨满战衣</CHS>
 				</Name>
 			</vhgold_garb_epic07>
 			<vhgold_garb_epic08>
 				<Name>
-					<CHS>许珀里翁装束</CHS>
+					<CHS>龙神外皮</CHS>
 				</Name>
 			</vhgold_garb_epic08>
 			<vhgold_garb_epic09>
 				<Name>
-					<CHS>Veneratus装束</CHS>
+					<CHS>梦魇外衣</CHS>
 				</Name>
 			</vhgold_garb_epic09>
 			<vhgold_garb_epic10>
 				<Name>
-					<CHS>占卜者大师装束</CHS>
+					<CHS>鸟卜者的大师战衣</CHS>
 				</Name>
 			</vhgold_garb_epic10>
 			<vhgold_garb_epic11>
 				<Name>
-					<CHS>天空博士装束</CHS>
+					<CHS>占日者外衣</CHS>
 				</Name>
 			</vhgold_garb_epic11>
 			<vhgold_garb_epic12>
 				<Name>
-					<CHS>龙魂</CHS>
+					<CHS>龙灵</CHS>
 				</Name>
 			</vhgold_garb_epic12>
 			<vhgold_garb_epic13>
 				<Name>
-					<CHS>Artifex Maximus装束</CHS>
+					<CHS>终极共济外衣</CHS>
 				</Name>
 			</vhgold_garb_epic13>
 			<vhgold_garb_epic14>
 				<Name>
-					<CHS>墨境腐根装束</CHS>
+					<CHS>墨境风驰外衣</CHS>
 				</Name>
 			</vhgold_garb_epic14>
 			<vhgold_garb_epic15>
 				<Name>
-					<CHS>空虚之心</CHS>
+					<CHS>虚无之心</CHS>
 				</Name>
 			</vhgold_garb_epic15>
 			<vhgold_dagger21>
 				<Name>
-					<CHS>灵魂潜行匕首</CHS>
+					<CHS>魂行者之匕</CHS>
 				</Name>
 			</vhgold_dagger21>
 			<vhgold_dagger22>
 				<Name>
-					<CHS>Xekhram匕首</CHS>
+					<CHS>啸风可汗匕首</CHS>
 				</Name>
 			</vhgold_dagger22>
 			<vhgold_dagger23>
 				<Name>
-					<CHS>凯奥兰匕首</CHS>
+					<CHS>奥兰之刃</CHS>
 				</Name>
 			</vhgold_dagger23>
 			<vhgold_dagger24>
 				<Name>
-					<CHS>远古暗影匕首</CHS>
+					<CHS>先祖暗影匕首</CHS>
 				</Name>
 			</vhgold_dagger24>
 			<vhgold_dagger25>
 				<Name>
-					<CHS>Umbraforged匕首</CHS>
+					<CHS>暗铸匕首</CHS>
 				</Name>
 			</vhgold_dagger25>
 			<vhgold_dagger26>
 				<Name>
-					<CHS>泰坦之魂匕首</CHS>
+					<CHS>染魂之刃</CHS>
 				</Name>
 			</vhgold_dagger26>
 			<vhgold_dagger27>
 				<Name>
-					<CHS>恶魔之骨匕首</CHS>
+					<CHS>邪祸匕首</CHS>
 				</Name>
 			</vhgold_dagger27>
 			<vhgold_dagger28>
 				<Name>
-					<CHS>幽灵匕首</CHS>
+					<CHS>魔堕短剑</CHS>
 				</Name>
 			</vhgold_dagger28>
 			<vhgold_dagger29>
 				<Name>
-					<CHS>幽魂之牙匕首</CHS>
+					<CHS>灵牙匕首</CHS>
 				</Name>
 			</vhgold_dagger29>
 			<vhgold_dagger30>
 				<Name>
-					<CHS>幻影短刃</CHS>
+					<CHS>鬼灵短刃</CHS>
 				</Name>
 			</vhgold_dagger30>
 			<vhgold_dagger31>
 				<Name>
-					<CHS>Antediluvian匕首</CHS>
+					<CHS>洪荒之刃</CHS>
 				</Name>
 			</vhgold_dagger31>
 			<vhgold_dagger32>
 				<Name>
-					<CHS>永世杀手匕首</CHS>
+					<CHS>黑寡妇匕首</CHS>
 				</Name>
 			</vhgold_dagger32>
 			<vhgold_dagger33>
 				<Name>
-					<CHS>深渊匕首</CHS>
+					<CHS>深渊之刃</CHS>
 				</Name>
 			</vhgold_dagger33>
 			<vhgold_dagger_epic05>
 				<Name>
-					<CHS>刺喉</CHS>
+					<CHS>裂喉</CHS>
 				</Name>
 			</vhgold_dagger_epic05>
 			<vhgold_dagger_epic06>
 				<Name>
-					<CHS>暗影切割者</CHS>
+					<CHS>影之切刀</CHS>
 				</Name>
 			</vhgold_dagger_epic06>
 			<vhgold_dagger_epic07>
 				<Name>
-					<CHS>镀金末日</CHS>
+					<CHS>末日降临</CHS>
 				</Name>
 			</vhgold_dagger_epic07>
 			<vhgold_dagger_epic08>
 				<Name>
-					<CHS>致死誓言</CHS>
+					<CHS>怨毒之咒</CHS>
 				</Name>
 			</vhgold_dagger_epic08>
 			<vhgold_dagger_epic09>
 				<Name>
-					<CHS>太阳杀手匕首</CHS>
+					<CHS>裂日者军刺</CHS>
 				</Name>
 			</vhgold_dagger_epic09>
 			<vhgold_dagger_epic10>
 				<Name>
-					<CHS>可悲刺客匕首</CHS>
+					<CHS>刺杀欲望</CHS>
 				</Name>
 			</vhgold_dagger_epic10>
 			<vhgold_dagger_epic11>
 				<Name>
-					<CHS>暗影小丑匕首</CHS>
+					<CHS>暗影之舞刃</CHS>
 				</Name>
 			</vhgold_dagger_epic11>
 			<vhgold_dagger_epic12>
 				<Name>
-					<CHS>地狱之怒</CHS>
+					<CHS>冥府之怒</CHS>
 				</Name>
 			</vhgold_dagger_epic12>
 			<vhgold_dagger_epic13>
 				<Name>
-					<CHS>秘术师匕首</CHS>
+					<CHS>奥法军刺</CHS>
 				</Name>
 			</vhgold_dagger_epic13>
 			<vhgold_dagger_epic14>
 				<Name>
-					<CHS>可怖正义</CHS>
+					<CHS>黑暗审判</CHS>
 				</Name>
 			</vhgold_dagger_epic14>
 			<vhgold_dagger_epic15>
 				<Name>
-					<CHS>最后一刻</CHS>
+					<CHS>最后时刻</CHS>
 				</Name>
 			</vhgold_dagger_epic15>
 			<vhgold_helmet_epic01>
 				<Name>
-					<CHS>Azure 守卫</CHS>
+					<CHS>苍蓝守卫者</CHS>
 				</Name>
 			</vhgold_helmet_epic01>
 			<vhgold_helmet_epic02>
 				<Name>
-					<CHS>深红守卫</CHS>
+					<CHS>邪红守卫者</CHS>
 				</Name>
 			</vhgold_helmet_epic02>
 			<vhgold_helmet_epic04>
 				<Name>
-					<CHS>竞技场勇士头盔</CHS>
+					<CHS>竞技场王者的战盔</CHS>
 				</Name>
 			</vhgold_helmet_epic04>
 			<vhgold_helmet_epic07>
 				<Name>
-					<CHS>黑龙骑手头盔</CHS>
+					<CHS>黑暗骑士的战盔</CHS>
 				</Name>
 			</vhgold_helmet_epic07>
 			<vhgold_helmet_epic12>
 				<Name>
-					<CHS>末日纹章头盔</CHS>
+					<CHS>末日使者的战盔</CHS>
 				</Name>
 			</vhgold_helmet_epic12>
 			<vhgold_helmet_epic13>
 				<Name>
-					<CHS>Rex红宝石</CHS>
+					<CHS>碎魔者</CHS>
 				</Name>
 			</vhgold_helmet_epic13>
 			<vhgold_helmet_epic14>
 				<Name>
-					<CHS>盲目信仰</CHS>
+					<CHS>黑暗信仰</CHS>
 				</Name>
 			</vhgold_helmet_epic14>
 			<vhgold_heavyarmor_epic01>
 				<Name>
-					<CHS>心灵看守者</CHS>
+					<CHS>至高看守者</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic01>
 			<vhgold_heavyarmor08>
@@ -3500,87 +3500,87 @@
 			</vhgold_heavyarmor08>
 			<vhgold_heavyarmor_epic02>
 				<Name>
-					<CHS>镀金板甲</CHS>
+					<CHS>全金战铠</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic02>
 			<vhgold_heavyarmor_epic04>
 				<Name>
-					<CHS>黑暗尸衣</CHS>
+					<CHS>暗幕</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic04>
 			<vhgold_sword07>
 				<Name>
-					<CHS>卡拉卡斯守卫剑</CHS>
+					<CHS>克拉卡先的哨兵军剑</CHS>
 				</Name>
 			</vhgold_sword07>
 			<vhgold_sword20>
 				<Name>
-					<CHS>熔铸埃斯巴达</CHS>
+					<CHS>熔岩十刃</CHS>
 				</Name>
 			</vhgold_sword20>
 			<vhgold_sword21>
 				<Name>
-					<CHS>曼德鲁泽决斗剑</CHS>
+					<CHS>曼德鲁兹双手剑</CHS>
 				</Name>
 			</vhgold_sword21>
 			<vhgold_sword22>
 				<Name>
-					<CHS>博格维亚Messor</CHS>
+					<CHS>博格维娅之牙</CHS>
 				</Name>
 			</vhgold_sword22>
 			<vhgold_sword30>
 				<Name>
-					<CHS>黑铁角斗士</CHS>
+					<CHS>暗钢罗马短剑</CHS>
 				</Name>
 			</vhgold_sword30>
 			<vhgold_sword_epic05>
 				<Name>
-					<CHS>Xavion</CHS>
+					<CHS>莎维亚</CHS>
 				</Name>
 			</vhgold_sword_epic05>
 			<vhgold_sword_epic07>
 				<Name>
-					<CHS>带刺狂怒</CHS>
+					<CHS>利刃风暴</CHS>
 				</Name>
 			</vhgold_sword_epic07>
 			<vhgold_axe21>
 				<Name>
-					<CHS>Orichalcum战斧</CHS>
+					<CHS>黄铜战斧</CHS>
 				</Name>
 			</vhgold_axe21>
 			<vhgold_axe24>
 				<Name>
-					<CHS>北方佬砍刀</CHS>
+					<CHS>蛮暴的北境劈斧</CHS>
 				</Name>
 			</vhgold_axe24>
 			<vhgold_axe25>
 				<Name>
-					<CHS>黑铁战斧</CHS>
+					<CHS>暗钢战斧</CHS>
 				</Name>
 			</vhgold_axe25>
 			<vhgold_axe26>
 				<Name>
-					<CHS>希尔瓦尼亚掠夺战斧</CHS>
+					<CHS>森林掠夺者之斧</CHS>
 				</Name>
 			</vhgold_axe26>
 			<vhgold_axe27>
 				<Name>
-					<CHS>拉马多利战斗短斧</CHS>
+					<CHS>拉马托利战斗劈斧</CHS>
 				</Name>
 			</vhgold_axe27>
 			<vhgold_axe28>
 				<Name>
-					<CHS>凯奥兰短斧</CHS>
+					<CHS>寇兰短柄斧</CHS>
 				</Name>
 			</vhgold_axe28>
 			<vhgold_axe29>
 				<Name>
-					<CHS>地下战斧</CHS>
+					<CHS>冥界战斧</CHS>
 				</Name>
 			</vhgold_axe29>
 			<vhgold_axe30>
 				<Name>
-					<CHS>远古宽斧</CHS>
+					<CHS>先祖阔斧</CHS>
 				</Name>
 			</vhgold_axe30>
 			<vhgold_axe31>
@@ -3590,147 +3590,147 @@
 			</vhgold_axe31>
 			<vhgold_axe33>
 				<Name>
-					<CHS>Orichalcum  Flambard</CHS>
+					<CHS>镀铜斩斧</CHS>
 				</Name>
 			</vhgold_axe33>
 			<vhgold_spiritharness11>
 				<Name>
-					<CHS>魔术师保护带</CHS>
+					<CHS>欺瞒者背带</CHS>
 				</Name>
 			</vhgold_spiritharness11>
 			<vhgold_spiritharness12>
 				<Name>
-					<CHS>暗淡保护带</CHS>
+					<CHS>混沌背带</CHS>
 				</Name>
 			</vhgold_spiritharness12>
 			<vhgold_spiritharness13>
 				<Name>
-					<CHS>忧郁保护带</CHS>
+					<CHS>暗色背带</CHS>
 				</Name>
 			</vhgold_spiritharness13>
 			<vhgold_spiritharness14>
 				<Name>
-					<CHS>不衰保护带</CHS>
+					<CHS>永恒背带</CHS>
 				</Name>
 			</vhgold_spiritharness14>
 			<vhgold_spiritharness15>
 				<Name>
-					<CHS>墨境漏斗保护带</CHS>
+					<CHS>墨境之深渊背带</CHS>
 				</Name>
 			</vhgold_spiritharness15>
 			<vhgold_spiritharness16>
 				<Name>
-					<CHS>潜行者保护带</CHS>
+					<CHS>猎杀背带</CHS>
 				</Name>
 			</vhgold_spiritharness16>
 			<vhgold_spiritharness17>
 				<Name>
-					<CHS>污染的保护带</CHS>
+					<CHS>浸血背带</CHS>
 				</Name>
 			</vhgold_spiritharness17>
 			<vhgold_spiritharness18>
 				<Name>
-					<CHS>原始保护带</CHS>
+					<CHS>先祖背带</CHS>
 				</Name>
 			</vhgold_spiritharness18>
 			<vhgold_spiritharness19>
 				<Name>
-					<CHS>Ominous保护带</CHS>
+					<CHS>不详背带</CHS>
 				</Name>
 			</vhgold_spiritharness19>
 			<vhgold_spiritharness20>
 				<Name>
-					<CHS>地下保护带</CHS>
+					<CHS>冥界背带</CHS>
 				</Name>
 			</vhgold_spiritharness20>
 			<vhgold_spiritharness21>
 				<Name>
-					<CHS>男巫保护带</CHS>
+					<CHS>妖术背带</CHS>
 				</Name>
 			</vhgold_spiritharness21>
 			<vhgold_spiritharness22>
 				<Name>
-					<CHS>掠夺者保护带</CHS>
+					<CHS>掠夺者背带</CHS>
 				</Name>
 			</vhgold_spiritharness22>
 			<vhgold_spiritharness23>
 				<Name>
-					<CHS>罪恶者保护带</CHS>
+					<CHS>血噬背带</CHS>
 				</Name>
 			</vhgold_spiritharness23>
 			<vhgold_spiritharness24>
 				<Name>
-					<CHS>永恒保护带</CHS>
+					<CHS>不懈之背带</CHS>
 				</Name>
 			</vhgold_spiritharness24>
 			<vhgold_spiritharness25>
 				<Name>
-					<CHS>幽魂之尾保护带</CHS>
+					<CHS>虚灵背带</CHS>
 				</Name>
 			</vhgold_spiritharness25>
 			<vhgold_spiritharness26>
 				<Name>
-					<CHS>面纱保护带</CHS>
+					<CHS>隐蔽之背带</CHS>
 				</Name>
 			</vhgold_spiritharness26>
 			<vhgold_spiritharness27>
 				<Name>
-					<CHS>奇才保护带</CHS>
+					<CHS>极品背带</CHS>
 				</Name>
 			</vhgold_spiritharness27>
 			<vhgold_spiritharness28>
 				<Name>
-					<CHS>灵魂编制者保护带</CHS>
+					<CHS>织灵背带</CHS>
 				</Name>
 			</vhgold_spiritharness28>
 			<vhgold_spiritharness29>
 				<Name>
-					<CHS>Ouroboros保护带</CHS>
+					<CHS>雷蛇背带</CHS>
 				</Name>
 			</vhgold_spiritharness29>
 			<vhgold_spiritharness30>
 				<Name>
-					<CHS>暗影丛生护带</CHS>
+					<CHS>影裔背带</CHS>
 				</Name>
 			</vhgold_spiritharness30>
 			<vhgold_spiritharness31>
 				<Name>
-					<CHS>先驱保护带</CHS>
+					<CHS>卓越背带</CHS>
 				</Name>
 			</vhgold_spiritharness31>
 			<vhgold_spiritharness32>
 				<Name>
-					<CHS>灵魂共鸣护带</CHS>
+					<CHS>不灭之灵魂背带</CHS>
 				</Name>
 			</vhgold_spiritharness32>
 			<vhgold_spiritharness33>
 				<Name>
-					<CHS>无限保护带</CHS>
+					<CHS>无尽之背带</CHS>
 				</Name>
 			</vhgold_spiritharness33>
 			<vhgold_spirithood_epic01>
 				<Name>
-					<CHS>深红复仇</CHS>
+					<CHS>血色复仇</CHS>
 				</Name>
 			</vhgold_spirithood_epic01>
 			<vhgold_spirithood_epic02>
 				<Name>
-					<CHS>Mortis 初始兜帽</CHS>
+					<CHS>悲鸣兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_epic02>
 			<vhgold_spirithood_epic03>
 				<Name>
-					<CHS>暗影火焰兜帽</CHS>
+					<CHS>影焰兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_epic03>
 			<vhgold_spirithood_epic06>
 				<Name>
-					<CHS>Obsidian Order兜帽</CHS>
+					<CHS>秩序之黑曜石兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_epic06>
 			<vhgold_spirithood_epic07>
 				<Name>
-					<CHS>可怖密耳弥冬兜帽</CHS>
+					<CHS>恐惧追随者之冠</CHS>
 				</Name>
 			</vhgold_spirithood_epic07>
 			<vhgold_spirithood_epic08>
@@ -3740,32 +3740,32 @@
 			</vhgold_spirithood_epic08>
 			<vhgold_spirithood_epic09>
 				<Name>
-					<CHS>冬日之心</CHS>
+					<CHS>崩溃心智</CHS>
 				</Name>
 			</vhgold_spirithood_epic09>
 			<vhgold_spirithood_epic10>
 				<Name>
-					<CHS>垂死的希望</CHS>
+					<CHS>无尽绝望</CHS>
 				</Name>
 			</vhgold_spirithood_epic10>
 			<vhgold_spirithood_epic11>
 				<Name>
-					<CHS>凝结的微笑</CHS>
+					<CHS>冰冷微笑</CHS>
 				</Name>
 			</vhgold_spirithood_epic11>
 			<vhgold_spirithood_epic12>
 				<Name>
-					<CHS>Phantom Martyr 兜帽</CHS>
+					<CHS>黑暗殉道者之冠</CHS>
 				</Name>
 			</vhgold_spirithood_epic12>
 			<vhgold_spirithood_epic13>
 				<Name>
-					<CHS>暗影先知兜帽</CHS>
+					<CHS>黑暗先知之冠</CHS>
 				</Name>
 			</vhgold_spirithood_epic13>
 			<vhgold_spirithood_epic14>
 				<Name>
-					<CHS>星球触碰兜帽</CHS>
+					<CHS>虚空之触</CHS>
 				</Name>
 			</vhgold_spirithood_epic14>
 			<vhgold_spirithood_epic15>
@@ -3780,17 +3780,17 @@
 			</vhgold_spiritharness_epic04>
 			<vhgold_spiritharness_epic05>
 				<Name>
-					<CHS>黑暗艺术大师保护带</CHS>
+					<CHS>黑暗艺人的束带</CHS>
 				</Name>
 			</vhgold_spiritharness_epic05>
 			<vhgold_spiritharness_epic07>
 				<Name>
-					<CHS>光明尸衣</CHS>
+					<CHS>光附</CHS>
 				</Name>
 			</vhgold_spiritharness_epic07>
 			<vhgold_spiritharness_epic08>
 				<Name>
-					<CHS>骷髅保护带</CHS>
+					<CHS>骸骨之束</CHS>
 				</Name>
 			</vhgold_spiritharness_epic08>
 			<vhgold_spiritharness_epic09>
@@ -3800,112 +3800,112 @@
 			</vhgold_spiritharness_epic09>
 			<vhgold_spiritharness_epic10>
 				<Name>
-					<CHS>灵骨脊柱守卫</CHS>
+					<CHS>骨魂 · 脊髓守护者</CHS>
 				</Name>
 			</vhgold_spiritharness_epic10>
 			<vhgold_spiritharness_epic11>
 				<Name>
-					<CHS>黄金结合</CHS>
+					<CHS>金骨</CHS>
 				</Name>
 			</vhgold_spiritharness_epic11>
 			<vhgold_spiritharness_epic12>
 				<Name>
-					<CHS>猩红束缚</CHS>
+					<CHS>猩红之束</CHS>
 				</Name>
 			</vhgold_spiritharness_epic12>
 			<vhgold_spiritharness_epic13>
 				<Name>
-					<CHS>模糊幻觉保护带</CHS>
+					<CHS>不洁先祖之束</CHS>
 				</Name>
 			</vhgold_spiritharness_epic13>
 			<vhgold_spiritharness_epic14>
 				<Name>
-					<CHS>不朽保护带</CHS>
+					<CHS>不朽之束</CHS>
 				</Name>
 			</vhgold_spiritharness_epic14>
 			<vhgold_spiritharness_epic15>
 				<Name>
-					<CHS>废止保护带</CHS>
+					<CHS>黯逝之束</CHS>
 				</Name>
 			</vhgold_spiritharness_epic15>
 			<vhgold_spirithood01>
 				<Name>
-					<CHS>恐惧低语者兜帽</CHS>
+					<CHS>蛇形兜帽</CHS>
 				</Name>
 			</vhgold_spirithood01>
 			<vhgold_spirithood02>
 				<Name>
-					<CHS>苍白舞者兜帽</CHS>
+					<CHS>白面舞者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood02>
 			<vhgold_spirithood03>
 				<Name>
-					<CHS>尸衣行者兜帽</CHS>
+					<CHS>裹行者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood03>
 			<vhgold_spirithood04>
 				<Name>
-					<CHS>渗透者兜帽</CHS>
+					<CHS>潜入者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood04>
 			<vhgold_spirithood06>
 				<Name>
-					<CHS>狡猾圣人兜帽</CHS>
+					<CHS>狡诈之贤者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood06>
 			<vhgold_spirithood07>
 				<Name>
-					<CHS>黑暗密耳弥冬兜帽</CHS>
+					<CHS>黑暗信徒兜帽</CHS>
 				</Name>
 			</vhgold_spirithood07>
 			<vhgold_spirithood08>
 				<Name>
-					<CHS>幻影哨兵兜帽</CHS>
+					<CHS>猎魂者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood08>
 			<vhgold_spirithood09>
 				<Name>
-					<CHS>但丁兜帽</CHS>
+					<CHS>但丁的兜帽</CHS>
 				</Name>
 			</vhgold_spirithood09>
 			<vhgold_spirithood10>
 				<Name>
-					<CHS>灵魂灰烬兜帽</CHS>
+					<CHS>不屈之兜帽</CHS>
 				</Name>
 			</vhgold_spirithood10>
 			<vhgold_spirithood21>
 				<Name>
-					<CHS>命运预见者兜帽</CHS>
+					<CHS>织命者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood21>
 			<vhgold_spirithood22>
 				<Name>
-					<CHS>暗影杀手兜帽</CHS>
+					<CHS>暗影杀手的兜帽</CHS>
 				</Name>
 			</vhgold_spirithood22>
 			<vhgold_spirithood23>
 				<Name>
-					<CHS>Maledictor 兜帽</CHS>
+					<CHS>诅咒者兜帽</CHS>
 				</Name>
 			</vhgold_spirithood23>
 			<vhgold_spirithood24>
 				<Name>
-					<CHS>噬魂者兜帽</CHS>
+					<CHS>噬灵兜帽</CHS>
 				</Name>
 			</vhgold_spirithood24>
 			<vhgold_spirithood25>
 				<Name>
-					<CHS>光明秘术师兜帽</CHS>
+					<CHS>迈斯特的凋零兜帽</CHS>
 				</Name>
 			</vhgold_spirithood25>
 			<vhgold_spirithood26>
 				<Name>
-					<CHS>死灵龙兜帽</CHS>
+					<CHS>灵面兜帽</CHS>
 				</Name>
 			</vhgold_spirithood26>
 			<vhgold_spirithood27>
 				<Name>
-					<CHS>鬼魂魔符兜帽</CHS>
+					<CHS>鬼魂咒兜帽</CHS>
 				</Name>
 			</vhgold_spirithood27>
 			<vhgold_spirithood28>
@@ -3915,17 +3915,17 @@
 			</vhgold_spirithood28>
 			<vhgold_spirithood29>
 				<Name>
-					<CHS>盲眼杀手兜帽</CHS>
+					<CHS>盲目杀手兜帽</CHS>
 				</Name>
 			</vhgold_spirithood29>
 			<vhgold_spirithood30>
 				<Name>
-					<CHS>黑色先驱兜帽</CHS>
+					<CHS>黑暗预兆兜帽</CHS>
 				</Name>
 			</vhgold_spirithood30>
 			<vhgold_spirithood31>
 				<Name>
-					<CHS>阿德曼鳞片兜帽</CHS>
+					<CHS>阿德曼提姆鳞片兜帽</CHS>
 				</Name>
 			</vhgold_spirithood31>
 			<vhgold_spirithood33>
@@ -3935,147 +3935,147 @@
 			</vhgold_spirithood33>
 			<vhgold_spirithood32>
 				<Name>
-					<CHS>末日邪教兜帽</CHS>
+					<CHS>毁灭教派兜帽</CHS>
 				</Name>
 			</vhgold_spirithood32>
 			<vhgold_lightarmor01>
 				<Name>
-					<CHS>黑暗胸甲</CHS>
+					<CHS>黑化护胸</CHS>
 				</Name>
 			</vhgold_lightarmor01>
 			<vhgold_lightarmor02>
 				<Name>
-					<CHS>华丽的胸甲</CHS>
+					<CHS>华丽护胸</CHS>
 				</Name>
 			</vhgold_lightarmor02>
 			<vhgold_lightarmor04>
 				<Name>
-					<CHS>水晶护甲</CHS>
+					<CHS>水晶镶嵌甲</CHS>
 				</Name>
 			</vhgold_lightarmor04>
 			<vhgold_lightarmor06>
 				<Name>
-					<CHS>仪式护甲</CHS>
+					<CHS>仪式甲</CHS>
 				</Name>
 			</vhgold_lightarmor06>
 			<vhgold_lightarmor07>
 				<Name>
-					<CHS>猫头鹰搜寻者护甲</CHS>
+					<CHS>猫头鹰斥候甲</CHS>
 				</Name>
 			</vhgold_lightarmor07>
 			<vhgold_lightarmor08>
 				<Name>
-					<CHS>无光护甲</CHS>
+					<CHS>暗无天日甲</CHS>
 				</Name>
 			</vhgold_lightarmor08>
 			<vhgold_lightarmor09>
 				<Name>
-					<CHS>法术束缚护甲</CHS>
+					<CHS>暗影鹰甲</CHS>
 				</Name>
 			</vhgold_lightarmor09>
 			<vhgold_lightarmor10>
 				<Name>
-					<CHS>缚法锁子甲</CHS>
+					<CHS>咒缚锁子甲</CHS>
 				</Name>
 			</vhgold_lightarmor10>
 			<vhgold_lightarmor17>
 				<Name>
-					<CHS>深木护甲</CHS>
+					<CHS>深林甲</CHS>
 				</Name>
 			</vhgold_lightarmor17>
 			<vhgold_lightarmor19>
 				<Name>
-					<CHS>暗影使者 护甲</CHS>
+					<CHS>暗影使者甲</CHS>
 				</Name>
 			</vhgold_lightarmor19>
 			<vhgold_lightarmor20>
 				<Name>
-					<CHS>幽灵潜行者 护甲</CHS>
+					<CHS>幽灵追踪甲</CHS>
 				</Name>
 			</vhgold_lightarmor20>
 			<vhgold_lightarmor22>
 				<Name>
-					<CHS>恶魔的守护 护甲</CHS>
+					<CHS>恶魔守卫甲</CHS>
 				</Name>
 			</vhgold_lightarmor22>
 			<vhgold_lightarmor23>
 				<Name>
-					<CHS>Gilded Executioner 护甲</CHS>
+					<CHS>镀金行刑甲</CHS>
 				</Name>
 			</vhgold_lightarmor23>
 			<vhgold_lightarmor25>
 				<Name>
-					<CHS>Blight Resistant 护甲</CHS>
+					<CHS>枯萎抵抗甲</CHS>
 				</Name>
 			</vhgold_lightarmor25>
 			<vhgold_lightarmor26>
 				<Name>
-					<CHS>Ink Imbued 护甲</CHS>
+					<CHS>染墨甲</CHS>
 				</Name>
 			</vhgold_lightarmor26>
 			<vhgold_lightarmor27>
 				<Name>
-					<CHS>Ghostwatch护甲</CHS>
+					<CHS>鬼魂守卫甲</CHS>
 				</Name>
 			</vhgold_lightarmor27>
 			<vhgold_lightarmor28>
 				<Name>
-					<CHS>Spirit Prince护甲</CHS>
+					<CHS>心灵王子甲</CHS>
 				</Name>
 			</vhgold_lightarmor28>
 			<vhgold_lightarmor29>
 				<Name>
-					<CHS>Duskstealer 护甲</CHS>
+					<CHS>黄昏偷窃甲</CHS>
 				</Name>
 			</vhgold_lightarmor29>
 			<vhgold_lightarmor30>
 				<Name>
-					<CHS>Phantom Eagle护甲</CHS>
+					<CHS>幻影鹰甲</CHS>
 				</Name>
 			</vhgold_lightarmor30>
 			<vhgold_lightarmor31>
 				<Name>
-					<CHS>末日看管者护甲</CHS>
+					<CHS>毁灭守卫甲</CHS>
 				</Name>
 			</vhgold_lightarmor31>
 			<vhgold_lightarmor32>
 				<Name>
-					<CHS>林地幽魂护甲</CHS>
+					<CHS>西尔万鬼魂甲</CHS>
 				</Name>
 			</vhgold_lightarmor32>
 			<vhgold_lightarmor33>
 				<Name>
-					<CHS>Voidforged护甲</CHS>
+					<CHS>虚空锻甲</CHS>
 				</Name>
 			</vhgold_lightarmor33>
 			<vhgold_lightarmor_epic01>
 				<Name>
-					<CHS>烧灼之魂</CHS>
+					<CHS>焦黑灵魂</CHS>
 				</Name>
 			</vhgold_lightarmor_epic01>
 			<vhgold_lightarmor_epic02>
 				<Name>
-					<CHS>Skeletal Slayer护甲</CHS>
+					<CHS>骸骨杀手甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic02>
 			<vhgold_lightarmor_epic03>
 				<Name>
-					<CHS>黑暗战团护甲</CHS>
+					<CHS>黑暗大君甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic03>
 			<vhgold_lightarmor_epic04>
 				<Name>
-					<CHS>银色强盗</CHS>
+					<CHS>银匪</CHS>
 				</Name>
 			</vhgold_lightarmor_epic04>
 			<vhgold_lightarmor_epic05>
 				<Name>
-					<CHS>毁灭护甲</CHS>
+					<CHS>毁灭甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic05>
 			<vhgold_lightarmor_epic06>
 				<Name>
-					<CHS>Shadow Hawk护甲</CHS>
+					<CHS>暗影雕甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic06>
 			<vhgold_lightarmor_epic07>
@@ -4085,67 +4085,67 @@
 			</vhgold_lightarmor_epic07>
 			<vhgold_lightarmor_epic08>
 				<Name>
-					<CHS>渡鸦氏族护甲</CHS>
+					<CHS>乌鸦部落甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic08>
 			<vhgold_lightarmor_epic09>
 				<Name>
-					<CHS>Imp Slayer 护甲</CHS>
+					<CHS>小恶魔杀手甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic09>
 			<vhgold_lightarmor_epic10>
 				<Name>
-					<CHS>Mesmero</CHS>
+					<CHS>麦斯梅罗</CHS>
 				</Name>
 			</vhgold_lightarmor_epic10>
 			<vhgold_lightarmor_epic11>
 				<Name>
-					<CHS>护甲</CHS>
+					<CHS>黄昏王子甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic11>
 			<vhgold_lightarmor_epic12>
 				<Name>
-					<CHS>护甲</CHS>
+					<CHS>恶魔破碎甲</CHS>
 				</Name>
 			</vhgold_lightarmor_epic12>
 			<vhgold_lightarmor_epic13>
 				<Name>
-					<CHS>暗夜之心</CHS>
+					<CHS>夜之心</CHS>
 				</Name>
 			</vhgold_lightarmor_epic13>
 			<vhgold_lightarmor_epic14>
 				<Name>
-					<CHS>噩梦苏醒</CHS>
+					<CHS>清醒噩梦</CHS>
 				</Name>
 			</vhgold_lightarmor_epic14>
 			<vhgold_lightarmor_epic15>
 				<Name>
-					<CHS>Nether Crust</CHS>
+					<CHS>阴间外皮</CHS>
 				</Name>
 			</vhgold_lightarmor_epic15>
 			<vhgold_visor_epic01>
 				<Name>
-					<CHS>Gang Chief帽</CHS>
+					<CHS>匪首帽</CHS>
 				</Name>
 			</vhgold_visor_epic01>
 			<vhgold_visor_epic02>
 				<Name>
-					<CHS>观鸟帽</CHS>
+					<CHS>观鸟人帽</CHS>
 				</Name>
 			</vhgold_visor_epic02>
 			<vhgold_visor_epic04>
 				<Name>
-					<CHS>Constable帽</CHS>
+					<CHS>巡警帽</CHS>
 				</Name>
 			</vhgold_visor_epic04>
 			<vhgold_visor_epic05>
 				<Name>
-					<CHS>Forest Ranger帽</CHS>
+					<CHS>护林员帽</CHS>
 				</Name>
 			</vhgold_visor_epic05>
 			<vhgold_visor_epic08>
 				<Name>
-					<CHS>True Bounty</CHS>
+					<CHS>慷慨</CHS>
 				</Name>
 			</vhgold_visor_epic08>
 			<vhgold_visor_epic09>
@@ -4155,12 +4155,12 @@
 			</vhgold_visor_epic09>
 			<vhgold_visor_epic14>
 				<Name>
-					<CHS>机械 Cav 面甲</CHS>
+					<CHS>机械骑士面甲</CHS>
 				</Name>
 			</vhgold_visor_epic14>
 			<vhgold_visor_epic15>
 				<Name>
-					<CHS>坏男孩</CHS>
+					<CHS>坏小子</CHS>
 				</Name>
 			</vhgold_visor_epic15>
 			<vhgold_visor32>
@@ -4170,17 +4170,17 @@
 			</vhgold_visor32>
 			<vhgold_visor33>
 				<Name>
-					<CHS>Ultra_Spectrum面甲</CHS>
+					<CHS>超光谱面甲</CHS>
 				</Name>
 			</vhgold_visor33>
 			<vhgold_engine01>
 				<Name>
-					<CHS>基础 引擎</CHS>
+					<CHS>基础引擎</CHS>
 				</Name>
 			</vhgold_engine01>
 			<vhgold_engine02>
 				<Name>
-					<CHS>一代引擎</CHS>
+					<CHS>初代引擎</CHS>
 				</Name>
 			</vhgold_engine02>
 			<vhgold_engine03>
@@ -4190,12 +4190,12 @@
 			</vhgold_engine03>
 			<vhgold_engine04>
 				<Name>
-					<CHS>蒸汽引擎</CHS>
+					<CHS>燃煤引擎</CHS>
 				</Name>
 			</vhgold_engine04>
 			<vhgold_engine05>
 				<Name>
-					<CHS>机油泵引擎</CHS>
+					<CHS>油泵引擎</CHS>
 				</Name>
 			</vhgold_engine05>
 			<vhgold_engine06>
@@ -4210,12 +4210,12 @@
 			</vhgold_engine07>
 			<vhgold_engine08>
 				<Name>
-					<CHS>共振 引擎</CHS>
+					<CHS>共振引擎</CHS>
 				</Name>
 			</vhgold_engine08>
 			<vhgold_engine09>
 				<Name>
-					<CHS>工匠引擎</CHS>
+					<CHS>巧匠引擎</CHS>
 				</Name>
 			</vhgold_engine09>
 			<vhgold_engine18>
@@ -4225,27 +4225,27 @@
 			</vhgold_engine18>
 			<vhgold_engine21>
 				<Name>
-					<CHS>Magentobaric引擎</CHS>
+					<CHS>磁化引擎</CHS>
 				</Name>
 			</vhgold_engine21>
 			<vhgold_engine22>
 				<Name>
-					<CHS>Polyvalve引擎</CHS>
+					<CHS>环阀引擎</CHS>
 				</Name>
 			</vhgold_engine22>
 			<vhgold_engine23>
 				<Name>
-					<CHS>Elyctrodynamic引擎</CHS>
+					<CHS>电力引擎</CHS>
 				</Name>
 			</vhgold_engine23>
 			<vhgold_engine24>
 				<Name>
-					<CHS>汽体转换引擎</CHS>
+					<CHS>燃气转换引擎</CHS>
 				</Name>
 			</vhgold_engine24>
 			<vhgold_engine25>
 				<Name>
-					<CHS>鼓风室引擎</CHS>
+					<CHS>鼓风引擎 </CHS>
 				</Name>
 			</vhgold_engine25>
 			<vhgold_engine26>
@@ -4255,37 +4255,37 @@
 			</vhgold_engine26>
 			<vhgold_engine27>
 				<Name>
-					<CHS>电动引擎</CHS>
+					<CHS>电流引擎</CHS>
 				</Name>
 			</vhgold_engine27>
 			<vhgold_engine28>
 				<Name>
-					<CHS>多轴引擎</CHS>
+					<CHS>多轴l引擎</CHS>
 				</Name>
 			</vhgold_engine28>
 			<vhgold_engine29>
 				<Name>
-					<CHS>紧凑型引擎</CHS>
+					<CHS>紧凑引擎</CHS>
 				</Name>
 			</vhgold_engine29>
 			<vhgold_engine30>
 				<Name>
-					<CHS>Piezzofulgurite引擎</CHS>
+					<CHS>压电熔岩引擎</CHS>
 				</Name>
 			</vhgold_engine30>
 			<vhgold_engine31>
 				<Name>
-					<CHS>Pyrothermic引擎</CHS>
+					<CHS>火热引擎</CHS>
 				</Name>
 			</vhgold_engine31>
 			<vhgold_engine32>
 				<Name>
-					<CHS>Macrospark引擎</CHS>
+					<CHS>巨大火花引擎</CHS>
 				</Name>
 			</vhgold_engine32>
 			<vhgold_engine33>
 				<Name>
-					<CHS>高级旋转引擎</CHS>
+					<CHS>高级陀螺引擎</CHS>
 				</Name>
 			</vhgold_engine33>
 			<vhgold_engine_epic04>
@@ -4295,202 +4295,202 @@
 			</vhgold_engine_epic04>
 			<vhgold_engine_epic05>
 				<Name>
-					<CHS>机器步骤</CHS>
+					<CHS>机械步调</CHS>
 				</Name>
 			</vhgold_engine_epic05>
 			<vhgold_engine_epic06>
 				<Name>
-					<CHS>全蒸汽</CHS>
+					<CHS>全满蒸汽</CHS>
 				</Name>
 			</vhgold_engine_epic06>
 			<vhgold_engine_epic07>
 				<Name>
-					<CHS>线程引擎</CHS>
+					<CHS>同步引擎</CHS>
 				</Name>
 			</vhgold_engine_epic07>
 			<vhgold_engine_epic08>
 				<Name>
-					<CHS>Magnetpump 引擎</CHS>
+					<CHS>磁泵引擎</CHS>
 				</Name>
 			</vhgold_engine_epic08>
 			<vhgold_engine_epic09>
 				<Name>
-					<CHS>EBS 引擎</CHS>
+					<CHS>EBS引擎</CHS>
 				</Name>
 			</vhgold_engine_epic09>
 			<vhgold_engine_epic11>
 				<Name>
-					<CHS>烟雾死神</CHS>
+					<CHS>喷烟者</CHS>
 				</Name>
 			</vhgold_engine_epic11>
 			<vhgold_engine_epic12>
 				<Name>
-					<CHS>Ink Battery引擎</CHS>
+					<CHS>墨境电池引擎</CHS>
 				</Name>
 			</vhgold_engine_epic12>
 			<vhgold_engine_epic13>
 				<Name>
-					<CHS>Supercharged引擎</CHS>
+					<CHS>超动力引擎</CHS>
 				</Name>
 			</vhgold_engine_epic13>
 			<vhgold_engine_epic14>
 				<Name>
-					<CHS>机器人格雷斯</CHS>
+					<CHS>机械魅力</CHS>
 				</Name>
 			</vhgold_engine_epic14>
 			<vhgold_engine_epic15>
 				<Name>
-					<CHS>Experimental引擎</CHS>
+					<CHS>实验引擎</CHS>
 				</Name>
 			</vhgold_engine_epic15>
 			<vhgold_gloves10>
 				<Name>
-					<CHS>Industrial长手套</CHS>
+					<CHS>工业护手</CHS>
 				</Name>
 			</vhgold_gloves10>
 			<vhgold_gloves12>
 				<Name>
-					<CHS>Ringed 长手套</CHS>
+					<CHS>环状护手</CHS>
 				</Name>
 			</vhgold_gloves12>
 			<vhgold_gloves13>
 				<Name>
-					<CHS>Pantherskin 长手套</CHS>
+					<CHS>豹皮护手</CHS>
 				</Name>
 			</vhgold_gloves13>
 			<vhgold_gloves24>
 				<Name>
-					<CHS>Watcher长手套</CHS>
+					<CHS>哨兵护手</CHS>
 				</Name>
 			</vhgold_gloves24>
 			<vhgold_gloves32>
 				<Name>
-					<CHS>High Adventurer手套</CHS>
+					<CHS>大冒险家手套</CHS>
 				</Name>
 			</vhgold_gloves32>
 			<vhgold_heavyarmor13>
 				<Name>
-					<CHS>警用锁子甲</CHS>
+					<CHS>军官锁子甲</CHS>
 				</Name>
 			</vhgold_heavyarmor13>
 			<vhgold_heavyarmor14>
 				<Name>
-					<CHS>Borgpvian Heavy A护甲</CHS>
+					<CHS>博格瓦重甲</CHS>
 				</Name>
 			</vhgold_heavyarmor14>
 			<vhgold_heavyarmor15>
 				<Name>
-					<CHS>Mountaneer Scout护甲</CHS>
+					<CHS>登山斥候甲</CHS>
 				</Name>
 			</vhgold_heavyarmor15>
 			<vhgold_heavyarmor16>
 				<Name>
-					<CHS>Berserker护甲</CHS>
+					<CHS>狂暴甲</CHS>
 				</Name>
 			</vhgold_heavyarmor16>
 			<vhgold_heavyarmor17>
 				<Name>
-					<CHS>Palace Guardian护甲</CHS>
+					<CHS>宫殿守卫甲</CHS>
 				</Name>
 			</vhgold_heavyarmor17>
 			<vhgold_heavyarmor18>
 				<Name>
-					<CHS>Assault Guardian护甲</CHS>
+					<CHS>进攻守卫甲</CHS>
 				</Name>
 			</vhgold_heavyarmor18>
 			<vhgold_heavyarmor19>
 				<Name>
-					<CHS>神秘护甲</CHS>
+					<CHS>神秘装甲</CHS>
 				</Name>
 			</vhgold_heavyarmor19>
 			<vhgold_heavyarmor20>
 				<Name>
-					<CHS>Autumn Scout 护甲</CHS>
+					<CHS>秋季斥候甲</CHS>
 				</Name>
 			</vhgold_heavyarmor20>
 			<vhgold_heavyarmor21>
 				<Name>
-					<CHS>Full Plate护甲</CHS>
+					<CHS>全身板甲</CHS>
 				</Name>
 			</vhgold_heavyarmor21>
 			<vhgold_heavyarmor22>
 				<Name>
-					<CHS>墨境军团护甲</CHS>
+					<CHS>墨境军团甲</CHS>
 				</Name>
 			</vhgold_heavyarmor22>
 			<vhgold_heavyarmor23>
 				<Name>
-					<CHS>Krakassian Champion 板甲</CHS>
+					<CHS>克拉卡先冠军板甲</CHS>
 				</Name>
 			</vhgold_heavyarmor23>
 			<vhgold_heavyarmor24>
 				<Name>
-					<CHS>Autumn Knight护甲</CHS>
+					<CHS>秋季骑士甲</CHS>
 				</Name>
 			</vhgold_heavyarmor24>
 			<vhgold_heavyarmor26>
 				<Name>
-					<CHS>Lion Squire护甲</CHS>
+					<CHS>雄狮侍从甲</CHS>
 				</Name>
 			</vhgold_heavyarmor26>
 			<vhgold_heavyarmor27>
 				<Name>
-					<CHS>Rift Protector板甲</CHS>
+					<CHS>裂隙保护者板甲</CHS>
 				</Name>
 			</vhgold_heavyarmor27>
 			<vhgold_heavyarmor28>
 				<Name>
-					<CHS>雄狮骑士护甲</CHS>
+					<CHS>雄狮骑士甲</CHS>
 				</Name>
 			</vhgold_heavyarmor28>
 			<vhgold_heavyarmor29>
 				<Name>
-					<CHS>Enchanted Brute 板甲</CHS>
+					<CHS>附魔野蛮板甲</CHS>
 				</Name>
 			</vhgold_heavyarmor29>
 			<vhgold_heavyarmor30>
 				<Name>
-					<CHS>Doomsmith护甲</CHS>
+					<CHS>毁灭铁匠甲</CHS>
 				</Name>
 			</vhgold_heavyarmor30>
 			<vhgold_heavyarmor31>
 				<Name>
-					<CHS>Sylvan Wrecker 护甲</CHS>
+					<CHS>西尔万破坏甲</CHS>
 				</Name>
 			</vhgold_heavyarmor31>
 			<vhgold_heavyarmor32>
 				<Name>
-					<CHS>Praetorian Full 板甲</CHS>
+					<CHS>禁卫全身板甲</CHS>
 				</Name>
 			</vhgold_heavyarmor32>
 			<vhgold_heavyarmor33>
 				<Name>
-					<CHS>Soulforged 护甲</CHS>
+					<CHS>灵魂锻甲</CHS>
 				</Name>
 			</vhgold_heavyarmor33>
 			<vhgold_heavyarmor_epic06>
 				<Name>
-					<CHS>Sage Knight护甲</CHS>
+					<CHS>圣贤骑士甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic06>
 			<vhgold_heavyarmor_epic07>
 				<Name>
-					<CHS>Deathshroud</CHS>
+					<CHS>死亡遮蔽</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic07>
 			<vhgold_heavyarmor_epic09>
 				<Name>
-					<CHS>Glyph Guardian板甲</CHS>
+					<CHS>浮雕守卫板甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic09>
 			<vhgold_heavyarmor_epic10>
 				<Name>
-					<CHS>Oathbound护甲</CHS>
+					<CHS>誓缚甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic10>
 			<vhgold_heavyarmor_epic12>
 				<Name>
-					<CHS>Conqueror护甲</CHS>
+					<CHS>征服甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic12>
 			<vhgold_heavyarmor_epic13>
@@ -4505,52 +4505,52 @@
 			</vhgold_heavyarmor_epic14>
 			<vhgold_heavyarmor_epic15>
 				<Name>
-					<CHS>胡须符文</CHS>
+					<CHS>符文须</CHS>
 				</Name>
 			</vhgold_heavyarmor_epic15>
 			<vhgold_staff18>
 				<Name>
-					<CHS>死灵法师法杖</CHS>
+					<CHS>亡灵法师r杖</CHS>
 				</Name>
 			</vhgold_staff18>
 			<vhgold_staff20>
 				<Name>
-					<CHS>Spellbreaker法杖</CHS>
+					<CHS>破咒杖</CHS>
 				</Name>
 			</vhgold_staff20>
 			<vhgold_staff21>
 				<Name>
-					<CHS>Fulgurite法杖</CHS>
+					<CHS>闪电熔岩杖</CHS>
 				</Name>
 			</vhgold_staff21>
 			<vhgold_staff27>
 				<Name>
-					<CHS>Demonpurger法杖</CHS>
+					<CHS>驱魔杖</CHS>
 				</Name>
 			</vhgold_staff27>
 			<vhgold_staff28>
 				<Name>
-					<CHS>Stargazer法杖</CHS>
+					<CHS>占星杖</CHS>
 				</Name>
 			</vhgold_staff28>
 			<vhgold_staff29>
 				<Name>
-					<CHS>Artifex Maegister 法杖</CHS>
+					<CHS>Artifex Maegister杖</CHS>
 				</Name>
 			</vhgold_staff29>
 			<vhgold_staff30>
 				<Name>
-					<CHS>Spectral法杖</CHS>
+					<CHS>幽灵杖</CHS>
 				</Name>
 			</vhgold_staff30>
 			<vhgold_staff31>
 				<Name>
-					<CHS>Etherweaver法杖</CHS>
+					<CHS>以太编织杖</CHS>
 				</Name>
 			</vhgold_staff31>
 			<vhgold_staff32>
 				<Name>
-					<CHS>Golemite Seeker 法杖</CHS>
+					<CHS>格勒麦探寻杖</CHS>
 				</Name>
 			</vhgold_staff32>
 			<vhgold_staff_epic05>
@@ -4560,17 +4560,17 @@
 			</vhgold_staff_epic05>
 			<vhgold_staff_epic07>
 				<Name>
-					<CHS>天空塔</CHS>
+					<CHS>摩天塔</CHS>
 				</Name>
 			</vhgold_staff_epic07>
 			<vhgold_staff_epic08>
 				<Name>
-					<CHS>Ortholic Preacher法杖</CHS>
+					<CHS>东正传教杖</CHS>
 				</Name>
 			</vhgold_staff_epic08>
 			<vhgold_staff_epic09>
 				<Name>
-					<CHS>法术刀</CHS>
+					<CHS>法术剑</CHS>
 				</Name>
 			</vhgold_staff_epic09>
 			<vhgold_staff_epic10>
@@ -4580,382 +4580,382 @@
 			</vhgold_staff_epic10>
 			<vhgold_staff_epic11>
 				<Name>
-					<CHS>Astral Master法杖</CHS>
+					<CHS>占星大师杖</CHS>
 				</Name>
 			</vhgold_staff_epic11>
 			<vhgold_staff_epic12>
 				<Name>
-					<CHS>Dire Shaman法杖</CHS>
+					<CHS>惊骇萨满杖</CHS>
 				</Name>
 			</vhgold_staff_epic12>
 			<vhgold_staff_epic13>
 				<Name>
-					<CHS>Royal Wizard法杖</CHS>
+					<CHS>皇家法师杖</CHS>
 				</Name>
 			</vhgold_staff_epic13>
 			<vhgold_staff_epic14>
 				<Name>
-					<CHS>Carnagos</CHS>
+					<CHS>大屠杀</CHS>
 				</Name>
 			</vhgold_staff_epic14>
 			<vhgold_katarinamelee01>
 				<Name>
-					<CHS>原始鬼爪</CHS>
+					<CHS>初始灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee01>
 			<vhgold_katarinamelee02>
 				<Name>
-					<CHS>可怜者鬼爪</CHS>
+					<CHS>卑劣灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee02>
 			<vhgold_katarinamelee03>
 				<Name>
-					<CHS>邪恶鬼爪</CHS>
+					<CHS>邪恶灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee03>
 			<vhgold_katarinamelee05>
 				<Name>
-					<CHS>残忍鬼爪</CHS>
+					<CHS>残忍灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee05>
 			<vhgold_katarinamelee06>
 				<Name>
-					<CHS>分裂鬼爪</CHS>
+					<CHS>撕裂灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee06>
 			<vhgold_katarinamelee10>
 				<Name>
-					<CHS>缠绕鬼爪</CHS>
+					<CHS>污秽灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee10>
 			<vhgold_katarinamelee14>
 				<Name>
-					<CHS>致残鬼爪</CHS>
+					<CHS>残废灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee14>
 			<vhgold_katarinamelee15>
 				<Name>
-					<CHS>恶魔鬼爪</CHS>
+					<CHS>恶魔灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee15>
 			<vhgold_katarinamelee16>
 				<Name>
-					<CHS>野蛮鬼爪</CHS>
+					<CHS>野蛮灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee16>
 			<vhgold_katarinamelee17>
 				<Name>
-					<CHS>扭曲鬼爪</CHS>
+					<CHS>扭曲灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee17>
 			<vhgold_katarinamelee18>
 				<Name>
-					<CHS>奇异鬼爪</CHS>
+					<CHS>怪诞灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee18>
 			<vhgold_katarinamelee20>
 				<Name>
-					<CHS>麻痹鬼爪</CHS>
+					<CHS>麻木灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee20>
 			<vhgold_katarinamelee21>
 				<Name>
-					<CHS>灼热鬼爪</CHS>
+					<CHS>灼热灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee21>
 			<vhgold_katarinamelee22>
 				<Name>
-					<CHS>恶意鬼爪</CHS>
+					<CHS>恶意灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee22>
 			<vhgold_katarinamelee23>
 				<Name>
-					<CHS>梦魇鬼爪</CHS>
+					<CHS>梦魇灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee23>
 			<vhgold_katarinamelee24>
 				<Name>
-					<CHS>丑怪鬼爪</CHS>
+					<CHS>荒谬灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee24>
 			<vhgold_katarinamelee26>
 				<Name>
-					<CHS>可恶鬼爪</CHS>
+					<CHS>厌恶灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee26>
 			<vhgold_katarinamelee27>
 				<Name>
-					<CHS>不洁鬼爪</CHS>
+					<CHS>不洁灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee27>
 			<vhgold_katarinamelee28>
 				<Name>
-					<CHS>邪恶鬼爪</CHS>
+					<CHS>毒害灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee28>
 			<vhgold_katarinamelee29>
 				<Name>
-					<CHS>骇人鬼爪</CHS>
+					<CHS>骇人灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee29>
 			<vhgold_katarinamelee30>
 				<Name>
-					<CHS>地下鬼爪</CHS>
+					<CHS>阴间灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee30>
 			<vhgold_katarinamelee31>
 				<Name>
-					<CHS>异教鬼爪</CHS>
+					<CHS>亵渎灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee31>
 			<vhgold_katarinamelee32>
 				<Name>
-					<CHS>邪魔鬼爪</CHS>
+					<CHS>魔鬼灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee32>
 			<vhgold_katarinamelee33>
 				<Name>
-					<CHS>因菲纳勒斯鬼爪</CHS>
+					<CHS>炼狱灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee33>
 			<vhgold_katarinaranged01>
 				<Name>
-					<CHS>眩晕鬼魂斗篷</CHS>
+					<CHS>眩晕灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged01>
 			<vhgold_katarinaranged02>
 				<Name>
-					<CHS>次级鬼魂斗篷</CHS>
+					<CHS>次要灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged02>
 			<vhgold_katarinaranged03>
 				<Name>
-					<CHS>平原鬼魂斗篷</CHS>
+					<CHS>质朴灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged03>
 			<vhgold_katarinaranged04>
 				<Name>
-					<CHS>灼痕鬼魂斗篷</CHS>
+					<CHS>焦黑灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged04>
 			<vhgold_katarinaranged05>
 				<Name>
-					<CHS>异界鬼魂斗篷</CHS>
+					<CHS>超凡灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged05>
 			<vhgold_katarinaranged06>
 				<Name>
-					<CHS>病态鬼魂斗篷</CHS>
+					<CHS>病态灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged06>
 			<vhgold_katarinaranged07>
 				<Name>
-					<CHS>苍白鬼魂斗篷</CHS>
+					<CHS>苍白灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged07>
 			<vhgold_katarinaranged08>
 				<Name>
-					<CHS>热情鬼魂斗篷</CHS>
+					<CHS>强烈灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged08>
 			<vhgold_katarinaranged09>
 				<Name>
-					<CHS>胶着鬼魂斗篷</CHS>
+					<CHS>活跃灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged09>
 			<vhgold_katarinaranged10>
 				<Name>
-					<CHS>渎教鬼魂斗篷</CHS>
+					<CHS>亵渎灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged10>
 			<vhgold_katarinaranged17>
 				<Name>
-					<CHS>秘法鬼魂斗篷</CHS>
+					<CHS>神圣灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged17>
 			<vhgold_katarinaranged19>
 				<Name>
-					<CHS>诡异鬼魂斗篷</CHS>
+					<CHS>神秘灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged19>
 			<vhgold_katarinaranged20>
 				<Name>
-					<CHS>神秘鬼魂斗篷</CHS>
+					<CHS>秘传灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged20>
 			<vhgold_katarinaranged21>
 				<Name>
-					<CHS>Cabbalistic鬼魂斗篷</CHS>
+					<CHS>神奇灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged21>
 			<vhgold_katarinaranged22>
 				<Name>
-					<CHS>Nebulous鬼魂斗篷</CHS>
+					<CHS>朦胧灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged22>
 			<vhgold_katarinaranged23>
 				<Name>
-					<CHS>闪耀鬼魂斗篷</CHS>
+					<CHS>闪耀灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged23>
 			<vhgold_katarinaranged24>
 				<Name>
-					<CHS>恶意鬼魂斗篷</CHS>
+					<CHS>恶性灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged24>
 			<vhgold_katarinaranged25>
 				<Name>
-					<CHS>血腥鬼魂斗篷</CHS>
+					<CHS>残暴灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged25>
 			<vhgold_katarinaranged26>
 				<Name>
-					<CHS>辐射鬼魂斗篷</CHS>
+					<CHS>辐射灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged26>
 			<vhgold_katarinaranged27>
 				<Name>
-					<CHS>隐藏鬼魂斗篷</CHS>
+					<CHS>隐匿灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged27>
 			<vhgold_katarinaranged28>
 				<Name>
-					<CHS>现世鬼魂斗篷</CHS>
+					<CHS>现世l灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged28>
 			<vhgold_katarinaranged29>
 				<Name>
-					<CHS>灼热鬼魂斗篷</CHS>
+					<CHS>灼热灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged29>
 			<vhgold_katarinaranged30>
 				<Name>
-					<CHS>Hellish 鬼魂斗篷</CHS>
+					<CHS>地狱灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged30>
 			<vhgold_katarinaranged32>
 				<Name>
-					<CHS>Ageless鬼魂斗篷</CHS>
+					<CHS>不老灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged32>
 			<vhgold_katarinaarmor01>
 				<Name>
-					<CHS>Grey 鬼魂斗篷</CHS>
+					<CHS>灰白灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor01>
 			<vhgold_katarinaarmor02>
 				<Name>
-					<CHS>Transparent鬼魂斗篷</CHS>
+					<CHS>透明灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor02>
 			<vhgold_katarinaarmor03>
 				<Name>
-					<CHS>Bleak鬼魂斗篷</CHS>
+					<CHS>阴冷灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor03>
 			<vhgold_katarinaarmor04>
 				<Name>
-					<CHS>Blemished鬼魂斗篷</CHS>
+					<CHS>瑕疵灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor04>
 			<vhgold_katarinaarmor13>
 				<Name>
-					<CHS>Shadowy 鬼魂斗篷</CHS>
+					<CHS>暗影灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor13>
 			<vhgold_katarinaarmor15>
 				<Name>
-					<CHS>Grim 鬼魂斗篷</CHS>
+					<CHS>冷酷灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor15>
 			<vhgold_katarinaarmor16>
 				<Name>
-					<CHS>Frightful鬼魂斗篷</CHS>
+					<CHS>可怕灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor16>
 			<vhgold_katarinaarmor17>
 				<Name>
-					<CHS>Tarnished鬼魂斗篷</CHS>
+					<CHS>玷污灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor17>
 			<vhgold_katarinaarmor18>
 				<Name>
-					<CHS>Foreboding鬼魂斗篷</CHS>
+					<CHS>预兆灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor18>
 			<vhgold_katarinaarmor19>
 				<Name>
-					<CHS>Blackened 鬼魂斗篷</CHS>
+					<CHS>黑化灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor19>
 			<vhgold_katarinaarmor20>
 				<Name>
-					<CHS>Dismal鬼魂斗篷</CHS>
+					<CHS>凄凉灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor20>
 			<vhgold_katarinaarmor21>
 				<Name>
-					<CHS>Ashen 鬼魂斗篷</CHS>
+					<CHS>苍白灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor21>
 			<vhgold_katarinaarmor22>
 				<Name>
-					<CHS>Embroidered鬼魂斗篷</CHS>
+					<CHS>绣花灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor22>
 			<vhgold_katarinaarmor23>
 				<Name>
-					<CHS>Smoldering鬼魂斗篷</CHS>
+					<CHS>闷烧灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor23>
 			<vhgold_katarinaarmor24>
 				<Name>
-					<CHS>Harrowing鬼魂斗篷</CHS>
+					<CHS>悲惨灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor24>
 			<vhgold_katarinaarmor25>
 				<Name>
-					<CHS>Twisted鬼魂斗篷</CHS>
+					<CHS>扭曲灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor25>
 			<vhgold_katarinaarmor26>
 				<Name>
-					<CHS>Pallid 鬼魂斗篷</CHS>
+					<CHS>暗淡灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor26>
 			<vhgold_katarinaarmor27>
 				<Name>
-					<CHS>Delicate鬼魂斗篷</CHS>
+					<CHS>纤弱灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor27>
 			<vhgold_katarinaarmor28>
 				<Name>
-					<CHS>Unearthly鬼魂斗篷</CHS>
+					<CHS>怪异灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor28>
 			<vhgold_katarinaarmor29>
 				<Name>
-					<CHS>Grotesque鬼魂斗篷</CHS>
+					<CHS>畸形灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor29>
 			<vhgold_katarinaarmor30>
 				<Name>
-					<CHS>Appalling 鬼魂斗篷</CHS>
+					<CHS>震惊灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor30>
 			<vhgold_katarinaarmor31>
 				<Name>
-					<CHS>Maleficent 鬼魂斗篷</CHS>
+					<CHS>毒害灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor31>
 			<vhgold_katarinaarmor32>
 				<Name>
-					<CHS>Astral鬼魂斗篷</CHS>
+					<CHS>星际灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor32>
 			<vhgold_katarinaarmor33>
 				<Name>
-					<CHS>Intangible 鬼魂斗篷</CHS>
+					<CHS>无形灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor33>
 			<vhgold_katarinamelee_epic05>
@@ -4965,82 +4965,82 @@
 			</vhgold_katarinamelee_epic05>
 			<vhgold_katarinamelee_epic04>
 				<Name>
-					<CHS>凋零之触</CHS>
+					<CHS>凋萎之触</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic04>
 			<vhgold_katarinamelee_epic06>
 				<Name>
-					<CHS>虚无之纱的抚摸</CHS>
+					<CHS>面纱的爱抚</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic06>
 			<vhgold_katarinamelee_epic01>
 				<Name>
-					<CHS>巨大阴影鬼爪</CHS>
+					<CHS>大暗影灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic01>
 			<vhgold_katarinamelee_epic02>
 				<Name>
-					<CHS>枯竭鬼爪</CHS>
+					<CHS>吸耗灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic02>
 			<vhgold_katarinamelee_epic08>
 				<Name>
-					<CHS>灵魂霜冻</CHS>
+					<CHS>魂霜</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic08>
 			<vhgold_katarinamelee_epic03>
 				<Name>
-					<CHS>极寒之握</CHS>
+					<CHS>寒冷抓握</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic03>
 			<vhgold_katarinamelee_epic07>
 				<Name>
-					<CHS>无形鬼爪</CHS>
+					<CHS>无形灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic07>
 			<vhgold_katarinamelee_epic09>
 				<Name>
-					<CHS>死亡之指</CHS>
+					<CHS>死亡手指</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic09>
 			<vhgold_katarinamelee_epic10>
 				<Name>
-					<CHS>仁慈末日</CHS>
+					<CHS>温和毁灭</CHS>
 				</Name>
 			</vhgold_katarinamelee_epic10>
 			<vhgold_katarinaarmor_epic05>
 				<Name>
-					<CHS>狺女斗篷</CHS>
+					<CHS>女妖袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic05>
 			<vhgold_katarinaarmor_epic08>
 				<Name>
-					<CHS>尖叫鬼魂斗篷</CHS>
+					<CHS>尖啸灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic08>
 			<vhgold_katarinaarmor_epic01>
 				<Name>
-					<CHS>白寡妇斗篷</CHS>
+					<CHS>白寡妇袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic01>
 			<vhgold_katarinaarmor_epic10>
 				<Name>
-					<CHS>无形鬼魂斗篷</CHS>
+					<CHS>无形灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic10>
 			<vhgold_katarinaarmor_epic02>
 				<Name>
-					<CHS>优雅鬼魂斗篷</CHS>
+					<CHS>优雅灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic02>
 			<vhgold_katarinaarmor_epic03>
 				<Name>
-					<CHS>神秘鬼魂斗篷</CHS>
+					<CHS>神秘灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic03>
 			<vhgold_katarinaarmor_epic04>
 				<Name>
-					<CHS>鬼魂女沙皇斗篷</CHS>
+					<CHS>幽灵女沙皇袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic04>
 			<vhgold_katarinaarmor_epic06>
@@ -5050,17 +5050,17 @@
 			</vhgold_katarinaarmor_epic06>
 			<vhgold_katarinaarmor_epic07>
 				<Name>
-					<CHS>消逝鬼魂斗篷</CHS>
+					<CHS>凋零灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic07>
 			<vhgold_katarinaarmor_epic09>
 				<Name>
-					<CHS>抽象鬼魂斗篷</CHS>
+					<CHS>抽象灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_epic09>
 			<vhgold_katarinaranged_epic01>
 				<Name>
-					<CHS>原生鬼魂之印</CHS>
+					<CHS>基元灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic01>
 			<vhgold_katarinaranged_epic02>
@@ -5070,17 +5070,17 @@
 			</vhgold_katarinaranged_epic02>
 			<vhgold_katarinaranged_epic03>
 				<Name>
-					<CHS>黑暗祝福</CHS>
+					<CHS>暗黑祝福</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic03>
 			<vhgold_katarinaranged_epic04>
 				<Name>
-					<CHS>幽灵守卫鬼魂之印</CHS>
+					<CHS>幽灵牢笼灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic04>
 			<vhgold_katarinaranged_epic05>
 				<Name>
-					<CHS>反叛鬼魂之印</CHS>
+					<CHS>离经背道灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic05>
 			<vhgold_katarinaranged_epic06>
@@ -5090,17 +5090,17 @@
 			</vhgold_katarinaranged_epic06>
 			<vhgold_katarinaranged_epic07>
 				<Name>
-					<CHS>真实之名</CHS>
+					<CHS>真名</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic07>
 			<vhgold_katarinaranged_epic08>
 				<Name>
-					<CHS>力量之剑</CHS>
+					<CHS>力之箴言</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic08>
 			<vhgold_katarinaranged_epic09>
 				<Name>
-					<CHS>无限者鬼魂之印</CHS>
+					<CHS>费解灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged_epic09>
 			<vhgold_katarinaranged_epic10>
@@ -5110,182 +5110,182 @@
 			</vhgold_katarinaranged_epic10>
 			<vhgold_heavydischarger01>
 				<Name>
-					<CHS>基础轰击炮</CHS>
+					<CHS>基本放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger01>
 			<vhgold_heavydischarger02>
 				<Name>
-					<CHS>热管轰击炮</CHS>
+					<CHS>热板放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger02>
 			<vhgold_heavydischarger03>
 				<Name>
-					<CHS>本森轰击炮</CHS>
+					<CHS>本生放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger03>
 			<vhgold_heavydischarger04>
 				<Name>
-					<CHS>阿伯纳西轰击炮</CHS>
+					<CHS>阿伯纳西放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger04>
 			<vhgold_heavydischarger05>
 				<Name>
-					<CHS>自动喷射器轰击炮</CHS>
+					<CHS>自动喷射放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger05>
 			<vhgold_heavydischarger06>
 				<Name>
-					<CHS>模拟轰击炮</CHS>
+					<CHS>模拟放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger06>
 			<vhgold_heavydischarger07>
 				<Name>
-					<CHS>月相辐射轰击炮</CHS>
+					<CHS>相发散放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger07>
 			<vhgold_heavydischarger08>
 				<Name>
-					<CHS>燃烧光线轰击炮</CHS>
+					<CHS>点火射线放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger08>
 			<vhgold_heavydischarger09>
 				<Name>
-					<CHS>白热轰击炮</CHS>
+					<CHS>白炽放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger09>
 			<vhgold_heavydischarger10>
 				<Name>
-					<CHS>电刻器轰击炮</CHS>
+					<CHS>电子图像放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger10>
 			<vhgold_heavydischarger11>
 				<Name>
-					<CHS>水电蒸汽轰击炮</CHS>
+					<CHS>水流放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger11>
 			<vhgold_heavydischarger12>
 				<Name>
-					<CHS>星云X-9轰击炮</CHS>
+					<CHS>星云X-9放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger12>
 			<vhgold_heavydischarger13>
 				<Name>
-					<CHS>磁带反馈轰击炮</CHS>
+					<CHS>喷流回馈放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger13>
 			<vhgold_heavydischarger14>
 				<Name>
-					<CHS>萨尔曼管轰击炮</CHS>
+					<CHS>霞曼试管放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger14>
 			<vhgold_heavydischarger15>
 				<Name>
-					<CHS>全息冰冻轰击炮</CHS>
+					<CHS>全冻放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger15>
 			<vhgold_heavydischarger16>
 				<Name>
-					<CHS>电磁轰击炮</CHS>
+					<CHS>泰斯科放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger16>
 			<vhgold_heavydischarger17>
 				<Name>
-					<CHS>超级斥力轰击炮</CHS>
+					<CHS>超强脉冲放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger17>
 			<vhgold_heavydischarger18>
 				<Name>
-					<CHS>外陀螺仪轰击炮</CHS>
+					<CHS>外陀螺仪放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger18>
 			<vhgold_heavydischarger19>
 				<Name>
-					<CHS>巨流轰击炮</CHS>
+					<CHS>大流量放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger19>
 			<vhgold_heavydischarger20>
 				<Name>
-					<CHS>BFG-512轰击炮</CHS>
+					<CHS>BFG-512放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger20>
 			<vhgold_heavydischarger21>
 				<Name>
-					<CHS>六边动态轰击炮</CHS>
+					<CHS>翼动放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger21>
 			<vhgold_heavydischarger22>
 				<Name>
-					<CHS>磁力轴轰击炮</CHS>
+					<CHS>磁轴放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger22>
 			<vhgold_heavydischarger23>
 				<Name>
-					<CHS>扩散性轰击炮</CHS>
+					<CHS>交稀放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger23>
 			<vhgold_heavydischarger24>
 				<Name>
-					<CHS>超振动轰击炮</CHS>
+					<CHS>超震动放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger24>
 			<vhgold_heavydischarger25>
 				<Name>
-					<CHS>高速盘轰击炮</CHS>
+					<CHS>增压盘放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger25>
 			<vhgold_heavydischarger26>
 				<Name>
-					<CHS>单流轰击炮</CHS>
+					<CHS>单流放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger26>
 			<vhgold_heavydischarger27>
 				<Name>
-					<CHS>真空喷射轰击炮</CHS>
+					<CHS>真空喷射放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger27>
 			<vhgold_heavydischarger28>
 				<Name>
-					<CHS>反机甲轰击炮</CHS>
+					<CHS>反燃素放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger28>
 			<vhgold_heavydischarger29>
 				<Name>
-					<CHS>原型同步轰击炮</CHS>
+					<CHS>原型同步放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger29>
 			<vhgold_heavydischarger30>
 				<Name>
-					<CHS>微型净化轰击炮</CHS>
+					<CHS>微净化放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger30>
 			<vhgold_heavydischarger31>
 				<Name>
-					<CHS>艾普斯隆-6轰击炮</CHS>
+					<CHS>ϵ-6放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger31>
 			<vhgold_heavydischarger32>
 				<Name>
-					<CHS>解调轰击炮</CHS>
+					<CHS>去模块放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger32>
 			<vhgold_heavydischarger33>
 				<Name>
-					<CHS>热能因子轰击炮</CHS>
+					<CHS>热波放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger33>
 			<vhgold_heavydischarger_epic08>
 				<Name>
-					<CHS>脱离者轰击炮</CHS>
+					<CHS>转位放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic08>
 			<vhgold_heavydischarger_epic09>
 				<Name>
-					<CHS>谱阵轰击炮</CHS>
+					<CHS>光谱阵列放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic09>
 			<vhgold_heavydischarger_epic10>
 				<Name>
-					<CHS>神经摧毁轰击炮</CHS>
+					<CHS>神经破裂放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic10>
 			<vhgold_heavydischarger_epic11>
@@ -5295,102 +5295,102 @@
 			</vhgold_heavydischarger_epic11>
 			<vhgold_heavydischarger_epic12>
 				<Name>
-					<CHS>爆炸对称轰击炮</CHS>
+					<CHS>爆裂对称放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic12>
 			<vhgold_heavydischarger_epic13>
 				<Name>
-					<CHS>磁化轰击炮</CHS>
+					<CHS>Resomagnetic放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic13>
 			<vhgold_heavydischarger_epic14>
 				<Name>
-					<CHS>Hyperimpulsion轰击炮</CHS>
+					<CHS>高冲击放电器</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic14>
 			<vhgold_heavydischarger_epic15>
 				<Name>
-					<CHS>阿尔法病原者 X-5</CHS>
+					<CHS>阿尔法污染物X-5</CHS>
 				</Name>
 			</vhgold_heavydischarger_epic15>
 			<vhgold_katarinaarmor_set01>
 				<Name>
-					<CHS>先祖鬼魂斗篷</CHS>
+					<CHS>先祖灵袍</CHS>
 				</Name>
 			</vhgold_katarinaarmor_set01>
 			<vhgold_katarinamelee_set01>
 				<Name>
-					<CHS>先祖鬼爪</CHS>
+					<CHS>先祖灵爪</CHS>
 				</Name>
 			</vhgold_katarinamelee_set01>
 			<vhgold_katarinaranged_set01>
 				<Name>
-					<CHS>先祖鬼魂之印</CHS>
+					<CHS>先祖灵印</CHS>
 				</Name>
 			</vhgold_katarinaranged_set01>
 			<vhgold_cape_set03>
 				<Name>
-					<CHS>巴斯克维尔斗篷</CHS>
+					<CHS>巴斯克维尔袍</CHS>
 				</Name>
 			</vhgold_cape_set03>
 			<vhgold_visor_set03>
 				<Name>
-					<CHS>巴斯克维尔帽子</CHS>
+					<CHS>巴斯克维尔帽</CHS>
 				</Name>
 			</vhgold_visor_set03>
 			<vhgold_armorvest_set03>
 				<Name>
-					<CHS>巴斯克维尔护甲背心</CHS>
+					<CHS>巴斯克维尔衬甲</CHS>
 				</Name>
 			</vhgold_armorvest_set03>
 			<vhgold_gloves_set03>
 				<Name>
-					<CHS>巴斯克维尔臂铠</CHS>
+					<CHS>巴斯克维尔护手</CHS>
 				</Name>
 			</vhgold_gloves_set03>
 			<vhgold_boots_set04>
 				<Name>
-					<CHS>绞架沼泽靴子</CHS>
+					<CHS>绞刑沼泽靴</CHS>
 				</Name>
 			</vhgold_boots_set04>
 			<vhgold_visor_set04>
 				<Name>
-					<CHS>绞架沼泽帽子</CHS>
+					<CHS>绞刑沼泽帽</CHS>
 				</Name>
 			</vhgold_visor_set04>
 			<vhgold_armorvest_set04>
 				<Name>
-					<CHS>绞架沼泽护甲背心</CHS>
+					<CHS>绞刑沼泽衬甲</CHS>
 				</Name>
 			</vhgold_armorvest_set04>
 			<vhgold_axe_set05>
 				<Name>
-					<CHS>黎明破坏者斧子</CHS>
+					<CHS>破晓者之斧</CHS>
 				</Name>
 			</vhgold_axe_set05>
 			<vhgold_helmet_set05>
 				<Name>
-					<CHS>黎明破坏者头盔</CHS>
+					<CHS>破晓者之盔</CHS>
 				</Name>
 			</vhgold_helmet_set05>
 			<vhgold_heavyarmor_set05>
 				<Name>
-					<CHS>黎明破坏者护甲</CHS>
+					<CHS>破晓者之甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_set05>
 			<vhgold_shield_set05>
 				<Name>
-					<CHS>黎明破坏者盾牌</CHS>
+					<CHS>破晓者之盾</CHS>
 				</Name>
 			</vhgold_shield_set05>
 			<vhgold_amulet_set05>
 				<Name>
-					<CHS>黎明破坏者护身符</CHS>
+					<CHS>破晓者项链</CHS>
 				</Name>
 			</vhgold_amulet_set05>
 			<vhgold_amulet_set02>
 				<Name>
-					<CHS>深红恐惧护身符</CHS>
+					<CHS>猩红恐怖项链</CHS>
 				</Name>
 			</vhgold_amulet_set02>
 			<vhgold_ring_set06>
@@ -5405,102 +5405,102 @@
 			</vhgold_trophy_set06>
 			<vhgold_helmet_set06>
 				<Name>
-					<CHS>蛇发女妖头盔</CHS>
+					<CHS>蛇发女妖盔</CHS>
 				</Name>
 			</vhgold_helmet_set06>
 			<vhgold_amulet_set06>
 				<Name>
-					<CHS>蛇发女妖护身符</CHS>
+					<CHS>蛇发女妖项链</CHS>
 				</Name>
 			</vhgold_amulet_set06>
 			<vhgold_ring_set07>
 				<Name>
-					<CHS>伊肯塔图斯戒指</CHS>
+					<CHS>咒语戒指</CHS>
 				</Name>
 			</vhgold_ring_set07>
 			<vhgold_staff_set07>
 				<Name>
-					<CHS>伊肯塔图斯权杖</CHS>
+					<CHS>咒语杖</CHS>
 				</Name>
 			</vhgold_staff_set07>
 			<vhgold_garb_set07>
 				<Name>
-					<CHS>伊肯塔图斯服装</CHS>
+					<CHS>咒语服饰</CHS>
 				</Name>
 			</vhgold_garb_set07>
 			<vhgold_amulet_set07>
 				<Name>
-					<CHS>伊肯塔图斯护身符</CHS>
+					<CHS>咒语项链</CHS>
 				</Name>
 			</vhgold_amulet_set07>
 			<vhgold_garb_set08>
 				<Name>
-					<CHS>魔术师服装</CHS>
+					<CHS>咒术师服饰</CHS>
 				</Name>
 			</vhgold_garb_set08>
 			<vhgold_gloves_set08>
 				<Name>
-					<CHS>魔术师手套</CHS>
+					<CHS>咒术师手套</CHS>
 				</Name>
 			</vhgold_gloves_set08>
 			<vhgold_dagger_set09>
 				<Name>
-					<CHS>黄昏匕首</CHS>
+					<CHS>暮光匕首</CHS>
 				</Name>
 			</vhgold_dagger_set09>
 			<vhgold_spiritharness_set09>
 				<Name>
-					<CHS>黄昏保护带</CHS>
+					<CHS>暮光马具</CHS>
 				</Name>
 			</vhgold_spiritharness_set09>
 			<vhgold_spirithood_set09>
 				<Name>
-					<CHS>黄昏兜帽</CHS>
+					<CHS>暮光兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_set09>
 			<vhgold_lightarmor_set09>
 				<Name>
-					<CHS>黄昏护甲</CHS>
+					<CHS>暮光甲</CHS>
 				</Name>
 			</vhgold_lightarmor_set09>
 			<vhgold_spiritharness_set10>
 				<Name>
-					<CHS>幽暗山谷保护带</CHS>
+					<CHS>黄昏谷地马具</CHS>
 				</Name>
 			</vhgold_spiritharness_set10>
 			<vhgold_spirithood_set10>
 				<Name>
-					<CHS>幽暗山谷兜帽</CHS>
+					<CHS>黄昏谷地兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_set10>
 			<vhgold_lightarmor_set10>
 				<Name>
-					<CHS>幽暗山谷护甲</CHS>
+					<CHS>黄昏谷地甲</CHS>
 				</Name>
 			</vhgold_lightarmor_set10>
 			<vhgold_gloves_set10>
 				<Name>
-					<CHS>幽暗山谷手套</CHS>
+					<CHS>黄昏谷地手套</CHS>
 				</Name>
 			</vhgold_gloves_set10>
 			<vhgold_heavydischarger_set11>
 				<Name>
-					<CHS>终结者轰击炮</CHS>
+					<CHS>灭绝者释放器</CHS>
 				</Name>
 			</vhgold_heavydischarger_set11>
 			<vhgold_engine_set11>
 				<Name>
-					<CHS>灭杀者引擎</CHS>
+					<CHS>根除者引擎</CHS>
 				</Name>
 			</vhgold_engine_set11>
 			<vhgold_exoskeleton_set11>
 				<Name>
-					<CHS>灭杀者外骨骼</CHS>
+					<CHS>根除者外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton_set11>
 			<vhgold_gloves_set11>
 				<Name>
-					<CHS>灭杀者手套</CHS>
+					<CHS>根除者手套</CHS>
 				</Name>
 			</vhgold_gloves_set11>
 			<vhgold_belt_set12>
@@ -5510,7 +5510,7 @@
 			</vhgold_belt_set12>
 			<vhgold_engineerhelmet_set12>
 				<Name>
-					<CHS>无畏头盔</CHS>
+					<CHS>无畏盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_set12>
 			<vhgold_exoskeleton_set12>
@@ -5525,97 +5525,97 @@
 			</vhgold_gloves_set12>
 			<vhgold_engineercannon_set13>
 				<Name>
-					<CHS>危险骑士加农炮</CHS>
+					<CHS>凶险骑士炮</CHS>
 				</Name>
 			</vhgold_engineercannon_set13>
 			<vhgold_engineerhelmet_set13>
 				<Name>
-					<CHS>危险骑士头盔</CHS>
+					<CHS>凶险骑士盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_set13>
 			<vhgold_engineersuit_set13>
 				<Name>
-					<CHS>危险骑士套装</CHS>
+					<CHS>凶险骑士衣装</CHS>
 				</Name>
 			</vhgold_engineersuit_set13>
 			<vhgold_gloves_set13>
 				<Name>
-					<CHS>危险骑士臂铠</CHS>
+					<CHS>凶险骑士护手</CHS>
 				</Name>
 			</vhgold_gloves_set13>
 			<vhgold_belt_set14>
 				<Name>
-					<CHS>阿伯克莱福斯机械腰带</CHS>
+					<CHS>神秘机械师腰带</CHS>
 				</Name>
 			</vhgold_belt_set14>
 			<vhgold_boots_set14>
 				<Name>
-					<CHS>阿伯克莱福斯机械靴子</CHS>
+					<CHS>神秘机械师靴</CHS>
 				</Name>
 			</vhgold_boots_set14>
 			<vhgold_engineerhelmet_set14>
 				<Name>
-					<CHS>阿伯克莱福斯机械头盔</CHS>
+					<CHS>神秘机械师盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_set14>
 			<vhgold_engineersuit_set14>
 				<Name>
-					<CHS>阿伯克莱福斯机械套装</CHS>
+					<CHS>神秘机械师衣装</CHS>
 				</Name>
 			</vhgold_engineersuit_set14>
 			<vhgold_belt_set15>
 				<Name>
-					<CHS>曼提考腰带</CHS>
+					<CHS>蝎狮腰带</CHS>
 				</Name>
 			</vhgold_belt_set15>
 			<vhgold_boots_set15>
 				<Name>
-					<CHS>曼提考靴子</CHS>
+					<CHS>蝎狮靴</CHS>
 				</Name>
 			</vhgold_boots_set15>
 			<vhgold_trophy_set15>
 				<Name>
-					<CHS>曼提考奖杯</CHS>
+					<CHS>蝎狮奖杯</CHS>
 				</Name>
 			</vhgold_trophy_set15>
 			<vhgold_belt_set16>
 				<Name>
-					<CHS>太阳卫士腰带</CHS>
+					<CHS>太阳守卫腰带</CHS>
 				</Name>
 			</vhgold_belt_set16>
 			<vhgold_ring_set16>
 				<Name>
-					<CHS>太阳卫士戒指</CHS>
+					<CHS>太阳守卫戒指</CHS>
 				</Name>
 			</vhgold_ring_set16>
 			<vhgold_gloves_set16>
 				<Name>
-					<CHS>太阳卫士手套</CHS>
+					<CHS>太阳守卫手套</CHS>
 				</Name>
 			</vhgold_gloves_set16>
 			<vhgold_ring_set17a>
 				<Name>
-					<CHS>秘法奇才戒指</CHS>
+					<CHS>神圣奇迹戒指</CHS>
 				</Name>
 			</vhgold_ring_set17a>
 			<vhgold_ring_set17b>
 				<Name>
-					<CHS>战士奇才戒指</CHS>
+					<CHS>勇士奇迹戒指</CHS>
 				</Name>
 			</vhgold_ring_set17b>
 			<vhgold_belt_set18>
 				<Name>
-					<CHS>拉马之子腰带</CHS>
+					<CHS>拉马特之子腰带</CHS>
 				</Name>
 			</vhgold_belt_set18>
 			<vhgold_boots_set18>
 				<Name>
-					<CHS>拉马之子靴子</CHS>
+					<CHS>拉马特之子靴</CHS>
 				</Name>
 			</vhgold_boots_set18>
 			<vhgold_amulet_set18>
 				<Name>
-					<CHS>拉马之子护身符</CHS>
+					<CHS>拉马特之子项链</CHS>
 				</Name>
 			</vhgold_amulet_set18>
 			<vhgold_trophy_set19>
@@ -5625,7 +5625,7 @@
 			</vhgold_trophy_set19>
 			<vhgold_visor_set19>
 				<Name>
-					<CHS>巨兽猎人帽子</CHS>
+					<CHS>巨兽猎人帽</CHS>
 				</Name>
 			</vhgold_visor_set19>
 			<vhgold_armorvest_set19>
@@ -5635,12 +5635,12 @@
 			</vhgold_armorvest_set19>
 			<vhgold_helmet_set19>
 				<Name>
-					<CHS>巨兽猎人头盔</CHS>
+					<CHS>巨兽猎人盔</CHS>
 				</Name>
 			</vhgold_helmet_set19>
 			<vhgold_heavyarmor_set19>
 				<Name>
-					<CHS>巨兽猎人护甲</CHS>
+					<CHS>巨兽猎人甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_set19>
 			<vhgold_mask_set19>
@@ -5650,7 +5650,7 @@
 			</vhgold_mask_set19>
 			<vhgold_garb_set19>
 				<Name>
-					<CHS>巨兽猎人服装</CHS>
+					<CHS>巨兽猎人服饰</CHS>
 				</Name>
 			</vhgold_garb_set19>
 			<vhgold_spirithood_set19>
@@ -5660,72 +5660,72 @@
 			</vhgold_spirithood_set19>
 			<vhgold_lightarmor_set19>
 				<Name>
-					<CHS>巨兽猎人护甲</CHS>
+					<CHS>巨兽猎人甲</CHS>
 				</Name>
 			</vhgold_lightarmor_set19>
 			<vhgold_engineerhelmet_set19>
 				<Name>
-					<CHS>巨兽猎人头盔</CHS>
+					<CHS>巨兽猎人盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_set19>
 			<vhgold_exoskeleton_set19>
 				<Name>
-					<CHS>巨兽猎人框架</CHS>
+					<CHS>巨兽猎人身躯</CHS>
 				</Name>
 			</vhgold_exoskeleton_set19>
 			<vhgold_engineersuit_set19>
 				<Name>
-					<CHS>巨兽猎人套装</CHS>
+					<CHS>巨兽猎人衣装</CHS>
 				</Name>
 			</vhgold_engineersuit_set19>
 			<vhgold_boots_set20>
 				<Name>
-					<CHS>雷文斯坎靴子</CHS>
+					<CHS>渡鸦疤痕靴</CHS>
 				</Name>
 			</vhgold_boots_set20>
 			<vhgold_trophy_set20>
 				<Name>
-					<CHS>雷文斯坎奖杯</CHS>
+					<CHS>渡鸦疤痕奖杯</CHS>
 				</Name>
 			</vhgold_trophy_set20>
 			<vhgold_amulet_set20>
 				<Name>
-					<CHS>雷文斯坎护身符</CHS>
+					<CHS>渡鸦疤痕项链</CHS>
 				</Name>
 			</vhgold_amulet_set20>
 			<vhgold_ring_set21a>
 				<Name>
-					<CHS>北欧之魂戒指</CHS>
+					<CHS>符文灵魂戒指</CHS>
 				</Name>
 			</vhgold_ring_set21a>
 			<vhgold_ring_set21b>
 				<Name>
-					<CHS>北欧之灵戒指</CHS>
+					<CHS>符文心灵戒指</CHS>
 				</Name>
 			</vhgold_ring_set21b>
 			<vhgold_gloves_set21>
 				<Name>
-					<CHS>北欧手套</CHS>
+					<CHS>符文手套</CHS>
 				</Name>
 			</vhgold_gloves_set21>
 			<vhgold_belt_set22>
 				<Name>
-					<CHS>男巫腰带</CHS>
+					<CHS>妖法腰带</CHS>
 				</Name>
 			</vhgold_belt_set22>
 			<vhgold_boots_set22>
 				<Name>
-					<CHS>男巫靴子</CHS>
+					<CHS>妖法靴</CHS>
 				</Name>
 			</vhgold_boots_set22>
 			<vhgold_gloves_set22>
 				<Name>
-					<CHS>男巫手套</CHS>
+					<CHS>妖法手套</CHS>
 				</Name>
 			</vhgold_gloves_set22>
 			<vhgold_amulet_set22>
 				<Name>
-					<CHS>男巫护身符</CHS>
+					<CHS>妖法项链</CHS>
 				</Name>
 			</vhgold_amulet_set22>
 			<vhgold_belt_set23>
@@ -5740,177 +5740,177 @@
 			</vhgold_trophy_set23>
 			<vhgold_gloves_set23>
 				<Name>
-					<CHS>复仇者臂铠</CHS>
+					<CHS>复仇者护手</CHS>
 				</Name>
 			</vhgold_gloves_set23>
 			<vhgold_lightarmor_set23>
 				<Name>
-					<CHS>复仇者护甲</CHS>
+					<CHS>复仇者甲</CHS>
 				</Name>
 			</vhgold_lightarmor_set23>
 			<vhgold_exoskeleton_set23>
 				<Name>
-					<CHS>复仇者框架</CHS>
+					<CHS>复仇者身躯</CHS>
 				</Name>
 			</vhgold_exoskeleton_set23>
 			<vhgold_engineersuit_set23>
 				<Name>
-					<CHS>复仇者套装</CHS>
+					<CHS>复仇者衣装</CHS>
 				</Name>
 			</vhgold_engineersuit_set23>
 			<vhgold_armorvest_set24>
 				<Name>
-					<CHS>魂缚护甲背心</CHS>
+					<CHS>魂缚衬甲</CHS>
 				</Name>
 			</vhgold_armorvest_set24>
 			<vhgold_heavyarmor_set24>
 				<Name>
-					<CHS>魂缚护甲</CHS>
+					<CHS>魂缚甲</CHS>
 				</Name>
 			</vhgold_heavyarmor_set24>
 			<vhgold_garb_set24>
 				<Name>
-					<CHS>魂缚服装</CHS>
+					<CHS>魂缚服饰</CHS>
 				</Name>
 			</vhgold_garb_set24>
 			<vhgold_boots_set25>
 				<Name>
-					<CHS>纳菲利姆靴子</CHS>
+					<CHS>奈非里姆靴</CHS>
 				</Name>
 			</vhgold_boots_set25>
 			<vhgold_visor_set25>
 				<Name>
-					<CHS>纳菲利姆帽子</CHS>
+					<CHS>奈非里姆帽</CHS>
 				</Name>
 			</vhgold_visor_set25>
 			<vhgold_helmet_set25>
 				<Name>
-					<CHS>纳菲利姆头盔</CHS>
+					<CHS>奈非里姆盔</CHS>
 				</Name>
 			</vhgold_helmet_set25>
 			<vhgold_mask_set25>
 				<Name>
-					<CHS>纳菲利姆面具</CHS>
+					<CHS>奈非里姆面具</CHS>
 				</Name>
 			</vhgold_mask_set25>
 			<vhgold_spirithood_set25>
 				<Name>
-					<CHS>纳菲利姆兜帽</CHS>
+					<CHS>奈非里姆兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_set25>
 			<vhgold_engineerhelmet_set25>
 				<Name>
-					<CHS>纳菲利姆头盔</CHS>
+					<CHS>奈非里姆盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_set25>
 			<vhgold_pistol_set26>
 				<Name>
-					<CHS>风暴枪手手枪</CHS>
+					<CHS>暴风抢手手枪</CHS>
 				</Name>
 			</vhgold_pistol_set26>
 			<vhgold_cape_set26>
 				<Name>
-					<CHS>风暴枪手披风</CHS>
+					<CHS>暴风抢手披肩</CHS>
 				</Name>
 			</vhgold_cape_set26>
 			<vhgold_visor_set26>
 				<Name>
-					<CHS>风暴枪手面甲</CHS>
+					<CHS>暴风抢手面甲</CHS>
 				</Name>
 			</vhgold_visor_set26>
 			<vhgold_armorvest_set26>
 				<Name>
-					<CHS>风暴枪手背心</CHS>
+					<CHS>暴风抢手背心</CHS>
 				</Name>
 			</vhgold_armorvest_set26>
 			<vhgold_gloves_set26>
 				<Name>
-					<CHS>风暴枪手手套</CHS>
+					<CHS>暴风抢手手套</CHS>
 				</Name>
 			</vhgold_gloves_set26>
 			<vhgold_helmet_set27>
 				<Name>
-					<CHS>荣誉头盔</CHS>
+					<CHS>荣耀盔</CHS>
 				</Name>
 			</vhgold_helmet_set27>
 			<vhgold_shield_set27>
 				<Name>
-					<CHS>荣誉盾牌</CHS>
+					<CHS>荣耀盾</CHS>
 				</Name>
 			</vhgold_shield_set27>
 			<vhgold_amulet_set27>
 				<Name>
-					<CHS>荣誉护身符</CHS>
+					<CHS>荣耀项链</CHS>
 				</Name>
 			</vhgold_amulet_set27>
 			<vhgold_focus_set28>
 				<Name>
-					<CHS>完美法术手铐</CHS>
+					<CHS>无瑕法袖</CHS>
 				</Name>
 			</vhgold_focus_set28>
 			<vhgold_magecape_set28>
 				<Name>
-					<CHS>完美斗篷</CHS>
+					<CHS>无瑕袍</CHS>
 				</Name>
 			</vhgold_magecape_set28>
 			<vhgold_mask_set28>
 				<Name>
-					<CHS>完美面具</CHS>
+					<CHS>无瑕面具</CHS>
 				</Name>
 			</vhgold_mask_set28>
 			<vhgold_garb_set28>
 				<Name>
-					<CHS>完美服装</CHS>
+					<CHS>无瑕服饰</CHS>
 				</Name>
 			</vhgold_garb_set28>
 			<vhgold_dagger_set29>
 				<Name>
-					<CHS>利刃匕首</CHS>
+					<CHS>斩首匕首</CHS>
 				</Name>
 			</vhgold_dagger_set29>
 			<vhgold_spiritharness_set29>
 				<Name>
-					<CHS>利刃保护带</CHS>
+					<CHS>斩首马具</CHS>
 				</Name>
 			</vhgold_spiritharness_set29>
 			<vhgold_spirithood_set29>
 				<Name>
-					<CHS>利刃兜帽</CHS>
+					<CHS>斩首兜帽</CHS>
 				</Name>
 			</vhgold_spirithood_set29>
 			<vhgold_gloves_set29>
 				<Name>
-					<CHS>利刃臂铠</CHS>
+					<CHS>斩首护手</CHS>
 				</Name>
 			</vhgold_gloves_set29>
 			<vhgold_heavydischarger_set30>
 				<Name>
-					<CHS>时空战士火炮</CHS>
+					<CHS>合金战士火炮</CHS>
 				</Name>
 			</vhgold_heavydischarger_set30>
 			<vhgold_engine_set30>
 				<Name>
-					<CHS>时空战士引擎</CHS>
+					<CHS>铬兵引擎</CHS>
 				</Name>
 			</vhgold_engine_set30>
 			<vhgold_exoskeleton_set30>
 				<Name>
-					<CHS>时空战士外骨骼</CHS>
+					<CHS>铬兵外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton_set30>
 			<vhgold_gloves_set30>
 				<Name>
-					<CHS>时空战士臂铠</CHS>
+					<CHS>铬兵护手</CHS>
 				</Name>
 			</vhgold_gloves_set30>
 			<vhgold_engineerhelmet_set31>
 				<Name>
-					<CHS>工具大师头盔</CHS>
+					<CHS>诡计大师盔</CHS>
 				</Name>
 			</vhgold_engineerhelmet_set31>
 			<vhgold_amulet_set31>
 				<Name>
-					<CHS>工具大师护身符</CHS>
+					<CHS>诡计大师项链</CHS>
 				</Name>
 			</vhgold_amulet_set31>
 			<vhgold_exoskeleton01>
@@ -5920,17 +5920,17 @@
 			</vhgold_exoskeleton01>
 			<vhgold_exoskeleton02>
 				<Name>
-					<CHS>铁质外骨骼</CHS>
+					<CHS>铁制外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton02>
 			<vhgold_exoskeleton03>
 				<Name>
-					<CHS>轻型外骨骼</CHS>
+					<CHS>轻量外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton03>
 			<vhgold_exoskeleton04>
 				<Name>
-					<CHS>强化外骨骼</CHS>
+					<CHS>加固外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton04>
 			<vhgold_exoskeleton05>
@@ -5940,12 +5940,12 @@
 			</vhgold_exoskeleton05>
 			<vhgold_exoskeleton06>
 				<Name>
-					<CHS>空气外骨骼</CHS>
+					<CHS>充气外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton06>
 			<vhgold_exoskeleton07>
 				<Name>
-					<CHS>钢质外骨骼</CHS>
+					<CHS>钢制外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton07>
 			<vhgold_exoskeleton08>
@@ -5955,7 +5955,7 @@
 			</vhgold_exoskeleton08>
 			<vhgold_exoskeleton09>
 				<Name>
-					<CHS>蒸汽协助外骨骼</CHS>
+					<CHS>蒸汽辅助外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton09>
 			<vhgold_exoskeleton10>
@@ -5965,12 +5965,12 @@
 			</vhgold_exoskeleton10>
 			<vhgold_exoskeleton21>
 				<Name>
-					<CHS>镀锌外骨骼</CHS>
+					<CHS>电镀外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton21>
 			<vhgold_exoskeleton22>
 				<Name>
-					<CHS>速度粒子外骨骼</CHS>
+					<CHS>速效外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton22>
 			<vhgold_exoskeleton23>
@@ -5990,7 +5990,7 @@
 			</vhgold_exoskeleton25>
 			<vhgold_exoskeleton26>
 				<Name>
-					<CHS>武装外骨骼</CHS>
+					<CHS>装甲外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton26>
 			<vhgold_exoskeleton27>
@@ -6005,12 +6005,12 @@
 			</vhgold_exoskeleton28>
 			<vhgold_exoskeleton29>
 				<Name>
-					<CHS>战略外骨骼</CHS>
+					<CHS>战术外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton29>
 			<vhgold_exoskeleton30>
 				<Name>
-					<CHS>Shock_Resistant外骨骼</CHS>
+					<CHS>抗震外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton30>
 			<vhgold_exoskeleton31>
@@ -6030,7 +6030,7 @@
 			</vhgold_exoskeleton33>
 			<vhgold_exoskeleton_epic01>
 				<Name>
-					<CHS>攻击者 F-5</CHS>
+					<CHS>阔步F-5</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic01>
 			<vhgold_exoskeleton_epic02>
@@ -6040,17 +6040,17 @@
 			</vhgold_exoskeleton_epic02>
 			<vhgold_exoskeleton_epic03>
 				<Name>
-					<CHS>机械体外骨骼</CHS>
+					<CHS>Mechanocop外骨骼</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic03>
 			<vhgold_exoskeleton_epic04>
 				<Name>
-					<CHS>炸弹拆除框架</CHS>
+					<CHS>拆弹身躯</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic04>
 			<vhgold_exoskeleton_epic05>
 				<Name>
-					<CHS>碳锁 Z7</CHS>
+					<CHS>碳锁Z7</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic05>
 			<vhgold_exoskeleton_epic10>
@@ -6065,342 +6065,342 @@
 			</vhgold_exoskeleton_epic11>
 			<vhgold_exoskeleton_epic12>
 				<Name>
-					<CHS>进阶强力步行者</CHS>
+					<CHS>高级动力步行者</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic12>
 			<vhgold_exoskeleton_epic13>
 				<Name>
-					<CHS>利爪爬虫</CHS>
+					<CHS>利爪爬行者</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic13>
 			<vhgold_exoskeleton_epic14>
 				<Name>
-					<CHS>毁灭制造者 PZ130</CHS>
+					<CHS>破坏者PZ130</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic14>
 			<vhgold_exoskeleton_epic15>
 				<Name>
-					<CHS>抽取器战争框架</CHS>
+					<CHS>屠杀者战争框架</CHS>
 				</Name>
 			</vhgold_exoskeleton_epic15>
 			<vhgold_trophy_godlike01>
 				<Name>
-					<CHS>吸血鬼王的面具</CHS>
+					<CHS>吸血鬼王面具</CHS>
 				</Name>
 			</vhgold_trophy_godlike01>
 			<gandalfstaff>
 				<Name>
 					<CHS>巫师法杖</CHS>
 				</Name>
-			</gandalfstaff>			
+			</gandalfstaff>
 			<gray_bag>
 				<Name>
-					<CHS>Bag of Riches</CHS>
+					<CHS>一袋财宝</CHS>
 				</Name>
 			</gray_bag>
 			<brown_bag>
 				<Name>
-					<CHS>Bag of Great Riches</CHS>
+					<CHS>一大袋财宝</CHS>
 				</Name>
 			</brown_bag>
 			<golden_bag>
 				<Name>
-					<CHS>Bag of Incredible Riches</CHS>
+					<CHS>一袋惊人的财宝</CHS>
 				</Name>
 			</golden_bag>
 			<purple_bag>
 				<Name>
-					<CHS>Bag of Ultimate Riches</CHS>
+					<CHS>一袋超级惊人的财宝</CHS>
 				</Name>
 			</purple_bag>			
 		</Items>
 		<EnchantFragmentFormatting>
-			<CHS>$附魔$ $类型$</CHS>
+			<CHS>$ENCHANT$ $TYPE$</CHS>
 		</EnchantFragmentFormatting>
 		<Enchantment>
 			<CrushingBlow>
 				<desc>
-					<CHS>伤害加成: 目标最大生命值的$VALUE$%</CHS>
+					<CHS>额外伤害：目标最大生命值的 $VALUE$%</CHS>
 				</desc>
 			</CrushingBlow>
 			<SlowAura>
 				<desc>
-					<CHS>周围敌人的移动速度减半</CHS>
+					<CHS>附近敌人速度减半</CHS>
 				</desc>
 			</SlowAura>
 			<FireballAtDeath>
 				<desc>
-					<CHS>临死前施放一个炽焰法球</CHS>
+					<CHS>在死亡时释放火焰球体</CHS>
 				</desc>
 			</FireballAtDeath>
 			<VendorPrice>
 				<desc>
-					<CHS>$VALUE$% 商店价折扣</CHS>
+					<CHS>商店价格降低$VALUE$%</CHS>
 				</desc>
 			</VendorPrice>
 			<HealReduction>
 				<desc>
-					<CHS>阻止敌人治疗</CHS>
+					<CHS>阻止敌人恢复</CHS>
 				</desc>
 			</HealReduction>
 			<SpellLevelToAll>
 				<desc>
-					<CHS>所有技能被视为高出 $VALUE$ 级</CHS>
+					<CHS>所有技能的等级都会被认为提升$VALUE$级</CHS>
 				</desc>
 			</SpellLevelToAll>
 			<SpellLevelToMelee>
 				<desc>
-					<CHS>所有近战技能高$VALUE$级</CHS>
+					<CHS>所有近战技能的等级都会被认为提升$VALUE$级</CHS>
 				</desc>
 			</SpellLevelToMelee>
 			<SpellLevelToRanged>
 				<desc>
-					<CHS>所有远程技能高$VALUE$级</CHS>
+					<CHS>所有远程技能的等级都会被认为提升$VALUE$级</CHS>
 				</desc>
 			</SpellLevelToRanged>
 			<SpellLevelToMagic>
 				<desc>
-					<CHS>所有魔法提高 $VALUE$ 级</CHS>
+					<CHS>所有法术的等级都会被认为提升$VALUE$级</CHS>
 				</desc>
 			</SpellLevelToMagic>
 			<SpellLevelToFireball>
 				<desc>
-					<CHS>施放炽焰法球等级 +$VALUE$</CHS>
+					<CHS>炽焰法球等级奖励$VALUE$</CHS>
 				</desc>
 			</SpellLevelToFireball>
 			<SpellLevelToEtherealEvasion>
 				<desc>
-					<CHS>$VALUE$ 奖励等级至以太闪避</CHS>
+					<CHS>$VALUE$额外等级到飘忽闪避</CHS>
 				</desc>
 			</SpellLevelToEtherealEvasion>
 			<SpellLevelToArcaneHealing>
 				<desc>
-					<CHS>$VALUE$ 奖励等级至奥术治疗</CHS>
+					<CHS>$VALUE$额外等级到神秘治疗</CHS>
 				</desc>
 			</SpellLevelToArcaneHealing>
 			<SpellLevelToRage>
 				<desc>
-					<CHS>$VALUE$ 奖励等级至怒气</CHS>
+					<CHS>$VALUE$额外等级到狂怒</CHS>
 				</desc>
 			</SpellLevelToRage>
 			<SpellLevelToTreasureHunter>
 				<desc>
-					<CHS>$VALUE$ 奖励等级至宝物猎人</CHS>
+					<CHS>$VALUE$额外等级到宝藏猎人</CHS>
 				</desc>
 			</SpellLevelToTreasureHunter>
 			<SpellLevelToClearShot>
 				<desc>
-					<CHS>$VALUE$ 奖励等级至狙击</CHS>
+					<CHS>$VALUE$额外等级到精准射击</CHS>
 				</desc>
 			</SpellLevelToClearShot>
 			<SpellLevelToElementalDamage>
 				<desc>
-					<CHS>$VALUE$ 奖励等级至元素伤害</CHS>
+					<CHS>$VALUE$额外等级到元素伤害</CHS>
 				</desc>
 			</SpellLevelToElementalDamage>
 			<Viaszosvaszon>
 				<desc>
-					<CHS>抗雨能力强</CHS>
+					<CHS>极大抵抗雨水</CHS>
 				</desc>
 			</Viaszosvaszon>
 			<SpellLevelToPoisonedshot>
 				<desc>
-					<CHS>施放毒素弹等级 +$VALUE$</CHS>
+					<CHS>猛毒射击等级奖励$VALUE$</CHS>
 				</desc>
 			</SpellLevelToPoisonedshot>
 			<SpellLevelToScattershot>
 				<desc>
-					<CHS>施放分裂弹等级 +$VALUE$</CHS>
+					<CHS>驱散射击等级奖励$VALUE$</CHS>
 				</desc>
 			</SpellLevelToScattershot>
 			<CannotBeFrozen>
 				<desc>
-					<CHS>防止冰冻</CHS>
+					<CHS>抗冷冻</CHS>
 				</desc>
 			</CannotBeFrozen>
 			<DamageAgainstAbomination>
 				<desc>
-					<CHS>对憎恶 $SIGN$$VALUE$% 武器伤害</CHS>
+					<CHS>对憎恶造成$SIGN$$VALUE$%点武器伤害</CHS>
 				</desc>
 			</DamageAgainstAbomination>
 			<DamageAgainstUndead>
 				<desc>
-					<CHS>对亡灵 $SIGN$$VALUE$% 武器伤害</CHS>
+					<CHS>对不死族造成$SIGN$$VALUE$%点武器伤害</CHS>
 				</desc>
 			</DamageAgainstUndead>
 			<DamageAgainstBeasts>
 				<desc>
-					<CHS>对野兽 $SIGN$$VALUE$% 武器伤害</CHS>
+					<CHS>对野兽造成$SIGN$$VALUE$%点武器伤害</CHS>
 				</desc>
 			</DamageAgainstBeasts>
 			<DamageAgainstMechanic>
 				<desc>
-					<CHS>对机器 $SIGN$$VALUE$% 武器伤害</CHS>
+					<CHS>对机械造成$SIGN$$VALUE$%点武器伤害</CHS>
 				</desc>
 			</DamageAgainstMechanic>
 			<DamageAgainstMythical>
 				<desc>
-					<CHS>对神秘生物 $SIGN$$VALUE$% 武器伤害</CHS>
+					<CHS>对神秘怪物造成$SIGN$$VALUE$%点武器伤害</CHS>
 				</desc>
 			</DamageAgainstMythical>
 			<AttackAgainstBeasts>
 				<desc>
-					<CHS>对野兽 $SIGN$$VALUE$% 攻击力</CHS>
+					<CHS>$SIGN$$VALUE$% 对野兽攻击</CHS>
 				</desc>
 			</AttackAgainstBeasts>
 			<DamageAgainstBunny>
 				<desc>
-					<CHS>极端伤害对抗小兔子</CHS>
+					<CHS>对兔子造成极大的伤害</CHS>
 				</desc>
 			</DamageAgainstBunny>
 			<HPLeech>
 				<desc>
-					<CHS>每次攻击偷取 $SIGN$$VALUE$ 生命值</CHS>
+					<CHS>每一击偷取$SIGN$$VALUE$的HP</CHS>
 				</desc>
 			</HPLeech>
 			<DamageOverTime>
 				<desc>
-					<CHS>5秒内造成毒素伤害 $VALUE$</CHS>
+					<CHS>5秒后造成$VALUE$点毒伤害</CHS>
 				</desc>
 			</DamageOverTime>
 			<ResistReduction>
 				<desc>
-					<CHS>每次攻击产生 $SIGN$$VALUE$ 抗性</CHS>
+					<CHS>每一击对全部抗性$SIGN$$VALUE$</CHS>
 				</desc>
 			</ResistReduction>
 			<SpellLevelToIceShot>
 				<desc>
-					<CHS>施放冰箭等级 +$VALUE$</CHS>
+					<CHS>寒冰射击等级奖励$VALUE$</CHS>
 				</desc>
 			</SpellLevelToIceShot>
 			<SpellLevelToBash>
 				<desc>
-					<CHS>施放猛击等级 +$VALUE$</CHS>
+					<CHS>猛击等级奖励 $VALUE$ </CHS>
 				</desc>
 			</SpellLevelToBash>
 			<SpellLevelToFury>
 				<desc>
-					<CHS>$VALUE$ 狂怒奖励等级</CHS>
+					<CHS>获得$VALUE$点额外的暴怒等级</CHS>
 				</desc>
 			</SpellLevelToFury>
 			<TrophyLuck>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 幸运</CHS>
+					<CHS>$SIGN$$VALUE$ 所有同伴的幸运</CHS>
 				</desc>
 			</TrophyLuck>
 			<TrophyBody>
 				<desc>
-					<CHS>为所有盟友提供 $SIGN$$VALUE$$STAT$</CHS>
+					<CHS>对所有盟友$SIGN$$VALUE$ $STAT$</CHS>
 				</desc>
 			</TrophyBody>
 			<TrophyDexterity>
 				<desc>
-					<CHS>为所有盟友提供 $SIGN$$VALUE$$STAT$</CHS>
+					<CHS>对所有盟友$SIGN$$VALUE$ $STAT$</CHS>
 				</desc>
 			</TrophyDexterity>
 			<TrophyWillpower>
 				<desc>
-					<CHS>为所有盟友提供 $SIGN$$VALUE$$STAT$</CHS>
+					<CHS>对所有盟友$SIGN$$VALUE$ $STAT$</CHS>
 				</desc>
 			</TrophyWillpower>
 			<TrophyMagicItemFind>
 				<desc>
-					<CHS>所有盟友获得额外 $SIGN$$VALUE$ 魔法物品</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴获得的魔法物品</CHS>
 				</desc>
 			</TrophyMagicItemFind>
 			<TrophyGoldFind>
 				<desc>
-					<CHS>所有盟友获得额外 $SIGN$$VALUE$ 金币</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴获得的金币</CHS>
 				</desc>
 			</TrophyGoldFind>
 			<TrophyXP>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 经验</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的经验值</CHS>
 				</desc>
 			</TrophyXP>
 			<TrophyRage>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 怒气</CHS>
+					<CHS>$SIGN$$VALUE$ 所有同伴的愤怒</CHS>
 				</desc>
 			</TrophyRage>
 			<TrophyHP>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 生命值</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的生命值</CHS>
 				</desc>
 			</TrophyHP>
 			<TrophyMana>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 法力值</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的魔法值</CHS>
 				</desc>
 			</TrophyMana>
 			<TrophyMeleeDamage>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 近战伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的近战伤害</CHS>
 				</desc>
 			</TrophyMeleeDamage>
 			<TrophyRangedDamage>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 远程伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的远程伤害</CHS>
 				</desc>
 			</TrophyRangedDamage>
 			<TrophySpellpower>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 法术强度</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的魔法力</CHS>
 				</desc>
 			</TrophySpellpower>
 			<TrophyAllResistance>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 所有抗性</CHS>
+					<CHS>$SIGN$$VALUE$ 至所有同伴的全属性抗性</CHS>
 				</desc>
 			</TrophyAllResistance>
 			<TrophyEnemyAttackBonus>
 				<desc>
-					<CHS>所有敌人获得 $SIGN$$VALUE$ 攻击力</CHS>
+					<CHS>$SIGN$$VALUE$% 对所有敌人攻击</CHS>
 				</desc>
 			</TrophyEnemyAttackBonus>
 			<TrophyEnemyHPBonus>
 				<desc>
-					<CHS>所有敌人获得 $SIGN$$VALUE$ 生命值</CHS>
+					<CHS>$SIGN$$VALUE$% 所有敌人的生命值</CHS>
 				</desc>
 			</TrophyEnemyHPBonus>
 			<TrophyEnemyDefenseBonus>
 				<desc>
-					<CHS>所有敌人获得 $SIGN$$VALUE$ 攻击力</CHS>
+					<CHS>$SIGN$$VALUE$% 对所有敌人攻击</CHS>
 				</desc>
 			</TrophyEnemyDefenseBonus>
 			<TrophyAllyAttackPenalty>
 				<desc>
-					<CHS>所有盟友获得 $SIGN$$VALUE$ 攻击力</CHS>
+					<CHS>$SIGN$$VALUE$% 所有同伴的攻击</CHS>
 				</desc>
 			</TrophyAllyAttackPenalty>
 			<TrophyEnemyDamageBonus>
 				<desc>
-					<CHS>所有敌人获得 $SIGN$$VALUE$ 伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 对所有敌人伤害</CHS>
 				</desc>
 			</TrophyEnemyDamageBonus>
 			<Command>
 				<desc>
-					<CHS>触摸水晶工坊的神像</CHS>
+					<CHS>触碰水晶车间的偶像</CHS>
 				</desc>
 			</Command>
 			<Spiderweb>
 				<desc>
-					<CHS>走进测试装置的祭坛</CHS>
+					<CHS>走进测试设施的祭坛</CHS>
 				</desc>
 			</Spiderweb>
 			<Throwring>
 				<desc>
-					<CHS>将戒指扔到地上。然后捡起。</CHS>
+					<CHS>把这枚戒指扔在地上，然后再拿回来。</CHS>
 				</desc>
 			</Throwring>
 			<Finddemons>
 				<desc>
-					<CHS>找到虫木裂口的鬼魂。</CHS>
+					<CHS>在苦艾裂谷找到死灵。</CHS>
 				</desc>
 			</Finddemons>
 			<Killdemons>
 				<desc>
-					<CHS>杀死鬼魂，饶了首领</CHS>
+					<CHS>杀了死灵但是放过首领</CHS>
 				</desc>
 			</Killdemons>
 			<Lair_Skill_Paralyze>
@@ -6415,82 +6415,82 @@
 			</Lair_Skill_Knockback>
 			<Lair_Skill_Cleave>
 				<desc>
-					<CHS>奇美拉技能：顺劈斩</CHS>
+					<CHS>奇美拉技能：劈砍</CHS>
 				</desc>
 			</Lair_Skill_Cleave>
 			<VH_Instakill>
 				<Desc>
-					<CHS>$VALUE$% 几率秒杀</CHS>
+					<CHS>$VALUE$% 几率武器击杀</CHS>
 				</Desc>
 			</VH_Instakill>
 			<VH_Knockback_on_hit>
 				<Desc>
-					<CHS>$VALUE$% 几率击退</CHS>
+					<CHS>$VALUE$% 几率武器反击</CHS>
 				</Desc>
 			</VH_Knockback_on_hit>
 			<VH_Movement_Slow_on_hit>
 				<Desc>
-					<CHS>$VALUE$% 几率击减速</CHS>
+					<CHS>$VALUE$% 几率武器降速</CHS>
 				</Desc>
 			</VH_Movement_Slow_on_hit>
 			<VH_Stun_on_hit>
 				<Desc>
-					<CHS>$VALUE$% 几率击眩晕2秒</CHS>
+					<CHS>$VALUE$% 几率使敌人眩晕2秒</CHS>
 				</Desc>
 			</VH_Stun_on_hit>
 			<VH_Freeze_on_hit>
 				<Desc>
-					<CHS>$VALUE$% 几率击冻结</CHS>
+					<CHS>$VALUE$% 几率武器冰冻</CHS>
 				</Desc>
 			</VH_Freeze_on_hit>
 			<VH_Fully_heal_on_kill>
 				<Desc>
-					<CHS>$VALUE$% 几率击杀敌人回满生命</CHS>
+					<CHS>$VALUE$% 几率杀死一个敌人全部恢复</CHS>
 				</Desc>
 			</VH_Fully_heal_on_kill>
 			<VH_physical_damage_reduction>
 				<Desc>
-					<CHS>物理伤害减少 $VALUE$%</CHS>
+					<CHS>$VALUE$%物理伤害减成</CHS>
 				</Desc>
 			</VH_physical_damage_reduction>
 			<VH_elemental_damage_reduction>
 				<Desc>
-					<CHS>元素伤害减少 $VALUE$%</CHS>
+					<CHS>$VALUE$%元素伤害减成</CHS>
 				</Desc>
 			</VH_elemental_damage_reduction>
 			<VH_poison_damage_reduction>
 				<Desc>
-					<CHS>中毒伤害减少 $VALUE$%</CHS>
+					<CHS>$VALUE$%毒系伤害减成</CHS>
 				</Desc>
 			</VH_poison_damage_reduction>
 			<VH_All_resistance>
 				<Desc>
-					<CHS>$SIGN$$VALUE$ 全抗加成</CHS>
+					<CHS>$SIGN$$VALUE$ 加成到所有抗性</CHS>
 				</Desc>
 			</VH_All_resistance>
 			<VH_CCResist>
 				<Desc>
-					<CHS>$SIGN$$VALUE$ 控场抗性</CHS>
+					<CHS>$SIGN$$VALUE$ 群体控制抗性</CHS>
 				</Desc>
 			</VH_CCResist>
 			<VH_CCResist_UNIQUE>
 				<Desc>
-					<CHS>$SIGN$$VALUE$ 控场抗性</CHS>
+					<CHS>$SIGN$$VALUE$ 群体控制抗性</CHS>
 				</Desc>
 			</VH_CCResist_UNIQUE>
 			<VH_CCIgnore>
 				<Desc>
-					<CHS>$VALUE$% 几率无视受到的群控法术</CHS>
+					<CHS>$VALUE$% 几率忽略对你发动的群体控制施法</CHS>
 				</Desc>
 			</VH_CCIgnore>
 			<VH_Minions_Duration>
 				<Desc>
-					<CHS>所有召唤的盟友持续时间增加 $VALUE$%</CHS>
+					<CHS>召唤盟友的持续时间提高 $VALUE$%</CHS>
 				</Desc>
 			</VH_Minions_Duration>
 			<VH_Minion_damage>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 所有召唤盟友的伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 所有召唤盟友收到的伤害</CHS>
 				</Desc>
 			</VH_Minion_damage>
 			<VH_Minion_defense>
@@ -6510,7 +6510,7 @@
 			</VH_Minion_hp>
 			<VH_potion_efficiency>
 				<Desc>
-					<CHS>药剂效果提高 $VALUE$%</CHS>
+					<CHS>药剂效果增加 $VALUE$%</CHS>
 				</Desc>
 			</VH_potion_efficiency>
 			<VH_HP_percent>
@@ -6525,413 +6525,413 @@
 			</VH_damage>
 			<VH_LowHP_CritDam>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 生命值低于15%时暴击伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 暴击伤害，如果HP降到15%以下 </CHS>
 				</Desc>
 			</VH_LowHP_CritDam>
 			<VH_LowHP_movementspeed>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 生命值低于20%时移动速度</CHS>
+					<CHS>$SIGN$$VALUE$% 移动速度，如果HP降到20%以下</CHS>
 				</Desc>
 			</VH_LowHP_movementspeed>
 			<VH_teleport_on_struck>
 				<Desc>
-					<CHS>$VALUE$% 几率被击中时随机传送</CHS>
+					<CHS>$VALUE$% 几率被击中后随机传送</CHS>
 				</Desc>
 			</VH_teleport_on_struck>
 			<VH_heal_on_struck>
 				<Desc>
-					<CHS>$VALUE$% 几率被击中时恢复10%生命</CHS>
+					<CHS>$VALUE$% 几率被击中后治疗10%HP</CHS>
 				</Desc>
 			</VH_heal_on_struck>
 			<VH_Fear_on_struck>
 				<Desc>
-					<CHS>$VALUE$% 几率被击中时造成恐惧</CHS>
+					<CHS>$VALUE$% 几率被击中后产生恐惧</CHS>
 				</Desc>
 			</VH_Fear_on_struck>
 			<VH_Toppantas_on_struck>
 				<Desc>
-					<CHS>$VALUE$% 几率被击中时施放愤怒践踏</CHS>
+					<CHS>$VALUE$% 几率被击中后释放怒气践踏</CHS>
 				</Desc>
 			</VH_Toppantas_on_struck>
 			<VH_No_enemies_within_X_radius>
 				<Desc>
-					<CHS>15米内没有敌人时 $SIGN$$VALUE$% 伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 伤害。如果附近15m内没有敌人</CHS>
 				</Desc>
 			</VH_No_enemies_within_X_radius>
 			<VH_Bonus_damage_on_frozen>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 对冻结目标伤害加成</CHS>
+					<CHS>对被冰冻敌人造成$SIGN$$VALUE$%额外伤害</CHS>
 				</Desc>
 			</VH_Bonus_damage_on_frozen>
 			<VH_Bonus_damage_on_burning>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 对燃烧目标伤害加成</CHS>
+					<CHS>对被灼烧敌人造成$SIGN$$VALUE$%额外伤害</CHS>
 				</Desc>
 			</VH_Bonus_damage_on_burning>
 			<VH_Bonus_damage_on_poisoned>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 对中毒目标伤害加成</CHS>
+					<CHS>对中毒敌人造成$SIGN$$VALUE$%额外伤害</CHS>
 				</Desc>
 			</VH_Bonus_damage_on_poisoned>
 			<VH_Bonus_damage_on_slowed>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 对减速目标伤害加成</CHS>
+					<CHS>对被减速敌人造成$SIGN$$VALUE$%额外伤害</CHS>
 				</Desc>
 			</VH_Bonus_damage_on_slowed>
 			<VH_Bonus_damage_on_shocked>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 对点击目标伤害</CHS>
+					<CHS>对被震慑敌人造成$SIGN$$VALUE$%额外伤害</CHS>
 				</Desc>
 			</VH_Bonus_damage_on_shocked>
 			<damage_reflect_ranged>
 				<Desc>
-					<CHS>$VALUE$% 反弹远程伤害</CHS>
+					<CHS>$VALUE$% 远程伤害被反射</CHS>
 				</Desc>
 			</damage_reflect_ranged>
 			<knockdown_on_cast>
 				<Desc>
-					<CHS>击退</CHS>
+					<CHS>击倒打击</CHS>
 				</Desc>
 			</knockdown_on_cast>
 			<freez_on_cast>
 				<Desc>
-					<CHS>击中冻结</CHS>
+					<CHS>冻结打击</CHS>
 				</Desc>
 			</freez_on_cast>
 			<area_freeze_on_cast>
 				<Desc>
-					<CHS>击中冻结爆炸</CHS>
+					<CHS>冻结爆发打击</CHS>
 				</Desc>
 			</area_freeze_on_cast>
 			<area_damage_on_cast>
 				<Desc>
-					<CHS>击中爆炸</CHS>
+					<CHS>爆发打击</CHS>
 				</Desc>
 			</area_damage_on_cast>
 			<control_on_cast>
 				<Desc>
-					<CHS>击中迷惑</CHS>
+					<CHS>混乱打击</CHS>
 				</Desc>
 			</control_on_cast>
 			<hpleech_on_cast>
 				<Desc>
-					<CHS>$VALUE$ 每击获得生命</CHS>
+					<CHS>每次打击增加生命值$VALUE$ </CHS>
 				</Desc>
 			</hpleech_on_cast>
 			<manaleech_on_cast>
 				<Desc>
-					<CHS>$VALUE$ 每击获得法力</CHS>
+					<CHS>每次打击增加魔力$VALUE$ </CHS>
 				</Desc>
 			</manaleech_on_cast>
 			<slow_on_cast>
 				<Desc>
-					<CHS>击中减速</CHS>
+					<CHS>慢速打击</CHS>
 				</Desc>
 			</slow_on_cast>
 			<vulnerability_on_cast>
 				<Desc>
-					<CHS>击中35%易伤</CHS>
+					<CHS>35% 致命打击</CHS>
 				</Desc>
 			</vulnerability_on_cast>
 			<Perm_item_20_to_elemental_resistance>
 				<Desc>
-					<CHS>元素抗性永久提升20</CHS>
+					<CHS>永久增加20元素抗性</CHS>
 				</Desc>
 			</Perm_item_20_to_elemental_resistance>
 			<Perm_item_30_to_elemental_resistance>
 				<Desc>
-					<CHS>元素抗性永久提升30</CHS>
+					<CHS>永久增加30元素抗性</CHS>
 				</Desc>
 			</Perm_item_30_to_elemental_resistance>
 			<Perm_item_20_to_physical_resistance>
 				<Desc>
-					<CHS>物理抗性永久提升20</CHS>
+					<CHS>永久增加20物理抗性</CHS>
 				</Desc>
 			</Perm_item_20_to_physical_resistance>
 			<Perm_item_30_to_physical_resistance>
 				<Desc>
-					<CHS>物理抗性永久提升30</CHS>
+					<CHS>永久增加30物理抗性</CHS>
 				</Desc>
 			</Perm_item_30_to_physical_resistance>
 			<Perm_item_20_to_poison_resistance>
 				<Desc>
-					<CHS>毒素抗性永久提升20</CHS>
+					<CHS>永久增加20毒抗性</CHS>
 				</Desc>
 			</Perm_item_20_to_poison_resistance>
 			<Perm_item_30_to_poison_resistance>
 				<Desc>
-					<CHS>毒素抗性永久提升30</CHS>
+					<CHS>永久增加30毒抗性</CHS>
 				</Desc>
 			</Perm_item_30_to_poison_resistance>
 			<Perm_item_20_to_defense>
 				<Desc>
-					<CHS>防御永久提升20</CHS>
+					<CHS>永久增加20防御</CHS>
 				</Desc>
 			</Perm_item_20_to_defense>
 			<Perm_item_30_to_defense>
 				<Desc>
-					<CHS>防御永久提升30</CHS>
+					<CHS>永久增加30防御</CHS>
 				</Desc>
 			</Perm_item_30_to_defense>
 			<Perm_item_20_to_Mana>
 				<Desc>
-					<CHS>法力永久提升20</CHS>
+					<CHS>永久增加20魔力</CHS>
 				</Desc>
 			</Perm_item_20_to_Mana>
 			<Perm_item_30_to_Mana>
 				<Desc>
-					<CHS>法力永久提升30</CHS>
+					<CHS>永久增加30魔力</CHS>
 				</Desc>
 			</Perm_item_30_to_Mana>
 			<Perm_item_20_to_hitpoints>
 				<Desc>
-					<CHS>生命值永久提升20</CHS>
+					<CHS>永久增加20生命值</CHS>
 				</Desc>
 			</Perm_item_20_to_hitpoints>
 			<Perm_item_30_to_hitpoints>
 				<Desc>
-					<CHS>生命值永久提升30</CHS>
+					<CHS>永久增加30生命值</CHS>
 				</Desc>
 			</Perm_item_30_to_hitpoints>
 			<Perm_item_5_to_body>
 				<Desc>
-					<CHS>体力永久提升5</CHS>
+					<CHS>永久增加5身体</CHS>
 				</Desc>
 			</Perm_item_5_to_body>
 			<Perm_item_10_to_body>
 				<Desc>
-					<CHS>体力永久提升10</CHS>
+					<CHS>永久增加10身体</CHS>
 				</Desc>
 			</Perm_item_10_to_body>
 			<Perm_item_5_to_dexterity>
 				<Desc>
-					<CHS>敏捷永久提升5</CHS>
+					<CHS>永久增加5敏捷</CHS>
 				</Desc>
 			</Perm_item_5_to_dexterity>
 			<Perm_item_10_to_dexterity>
 				<Desc>
-					<CHS>敏捷永久提升10</CHS>
+					<CHS>永久增加10敏捷</CHS>
 				</Desc>
 			</Perm_item_10_to_dexterity>
 			<Perm_item_5_to_willpower>
 				<Desc>
-					<CHS>意志永久提升5</CHS>
+					<CHS>永久增加5意志</CHS>
 				</Desc>
 			</Perm_item_5_to_willpower>
 			<Perm_item_10_to_willpower>
 				<Desc>
-					<CHS>永久获得10意志力</CHS>
+					<CHS>永久获得10点意志</CHS>
 				</Desc>
 			</Perm_item_10_to_willpower>
 			<Perm_item_5_to_luck>
 				<Desc>
-					<CHS>幸运永久提升5</CHS>
+					<CHS>永久增加5幸运</CHS>
 				</Desc>
 			</Perm_item_5_to_luck>
 			<Perm_item_10_to_luck>
 				<Desc>
-					<CHS>幸运永久提升10</CHS>
+					<CHS>永久增加10幸运</CHS>
 				</Desc>
 			</Perm_item_10_to_luck>
 			<vh_kill_on_hit>
 				<Desc>
-					<CHS>$VALUE$% 几率秒杀</CHS>
+					<CHS>$VALUE$% 几率用武器一击必杀</CHS>
 				</Desc>
 			</vh_kill_on_hit>
 			<SpellLevelTofirewall>
 				<desc>
-					<CHS>$VALUE$ 火墙等级加成</CHS>
+					<CHS>火墙术获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelTofirewall>
 			<SpellLevelToWallOfIce>
 				<desc>
-					<CHS>$VALUE$ 冰墙等级加成</CHS>
+					<CHS>冰墙术获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelToWallOfIce>
 			<SpellLevelToForceArmor>
 				<desc>
-					<CHS>武力装甲获得 $VALUE$ 奖励关卡</CHS>
+					<CHS>力之护甲获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelToForceArmor>
 			<SpellLevelToStaticDefenseField>
 				<desc>
-					<CHS>$VALUE$ 静态防御力场等级加成</CHS>
+					<CHS>静电防御立场获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelToStaticDefenseField>
 			<SpellLevelToBarrier>
 				<desc>
-					<CHS>$VALUE$ 屏障等级加成</CHS>
+					<CHS>障碍术获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelToBarrier>
 			<SpellLevelToSpringHeeledJump>
 				<desc>
-					<CHS>$VALUE$ 弹簧跳等级加成</CHS>
+					<CHS>弹簧跳跃获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelToSpringHeeledJump>
 			<IncreaseAllDamage>
 				<Desc>
-					<CHS>为所有伤害提供 $SIGN$$VALUE$% 增益</CHS>
+					<CHS>所有伤害增加$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</IncreaseAllDamage>
 			<ResistAll>
 				<Desc>
-					<CHS>+5 全抗</CHS>
+					<CHS>+5 全部抗性</CHS>
 				</Desc>
 			</ResistAll>
 			<Superegg_Hp>
 				<desc>
-					<CHS>+10 永久增进攻击点</CHS>
+					<CHS>永久 打击点恢复 +10</CHS>
 				</desc>
 			</Superegg_Hp>
 			<Stat1>
 				<desc>
-					<CHS>$SIGN$$VALUE$$STAT$</CHS>
+					<CHS>$SIGN$$VALUE$ $STAT$</CHS>
 				</desc>
 			</Stat1>
 			<Stat2>
 				<desc>
-					<CHS>$SIGN$$VALUE$$STAT$</CHS>
+					<CHS>$SIGN$$VALUE$ $STAT$</CHS>
 				</desc>
 			</Stat2>
 			<Stat3>
 				<desc>
-					<CHS>$SIGN$$VALUE$$STAT$</CHS>
+					<CHS>$SIGN$$VALUE$ $STAT$</CHS>
 				</desc>
 			</Stat3>
 			<DamageAgainstFullHPMonster>
 				<Desc>
-					<CHS>对抗满血的怪物时获得 $VALUE$% 伤害增益</CHS>
+					<CHS>对满血怪物的伤害增加$VALUE$%</CHS>
 				</Desc>
 			</DamageAgainstFullHPMonster>
 			<DefenseAgainstUndead>
 				<Desc>
-					<CHS>对抗不死生物时获得 $VALUE$% 防御增益</CHS>
+					<CHS>对不死生物的防御增加$VALUE$% </CHS>
 				</Desc>
 			</DefenseAgainstUndead>
 			<FreezEnemiesOnStun>
 				<Desc>
-					<CHS>麻痹时，有 $VALUE$% 几率冰冻敌人</CHS>
+					<CHS>被震晕时，有$VALUE$%的几率冻结敌人</CHS>
 				</Desc>
 			</FreezEnemiesOnStun>
 			<LowMana_HpRegen>
 				<Desc>
-					<CHS>当生命值低于25%时获得每秒 $VALUE$ 法力增益</CHS>
+					<CHS>HP低于25%时，每秒增加$VALUE$的魔法</CHS>
 				</Desc>
 			</LowMana_HpRegen>
 			<NoNearbyEnemies_CritHitNocap>
 				<Desc>
-					<CHS>当10米范围内没有敌人时，最大暴击获得 $VALUE$% 增益</CHS>
+					<CHS>10米内没有敌人时，暴击上限增加$VALUE$%</CHS>
 				</Desc>
 			</NoNearbyEnemies_CritHitNocap>
 			<NoNearbyEnemies_CritDamageNocap>
 				<Desc>
-					<CHS>当10米范围内没有敌人时，最大暴击伤害获得 $VALUE$% 增益</CHS>
+					<CHS>10米内没有敌人时，暴击伤害上限增加$VALUE$% </CHS>
 				</Desc>
 			</NoNearbyEnemies_CritDamageNocap>
 			<NoNearbyEnemiesDamage>
 				<Desc>
-					<CHS>当10米内无任何敌人时，+$VALUE$% 伤害加成</CHS>
+					<CHS>10米内没有敌人时，伤害增加$VALUE$%</CHS>
 				</Desc>
 			</NoNearbyEnemiesDamage>
 			<EnemiesClose_DamageReduce>
 				<Desc>
-					<CHS>当5米内有3个或者更多的敌人时，获得 $VALUE$% 伤害减免</CHS>
+					<CHS>5米内存在3个以上敌人时，伤害降低$VALUE$%</CHS>
 				</Desc>
 			</EnemiesClose_DamageReduce>
 			<EnemiesClose_Damage>
 				<Desc>
-					<CHS>当5米内有3个或者更多的敌人时，获得 $VALUE$% 伤害增益</CHS>
+					<CHS>5米内存在3个以上敌人时，伤害增加$VALUE$%</CHS>
 				</Desc>
 			</EnemiesClose_Damage>
 			<EnemiesClose_CritHitNocap>
 				<Desc>
-					<CHS>当5米内有3个或者更多的敌人时，获得 $VALUE$% 最大暴击增益</CHS>
+					<CHS>5米内存在3个以上敌人时，暴击上限增加$VALUE$%</CHS>
 				</Desc>
 			</EnemiesClose_CritHitNocap>
 			<EnemiesClose_CritDamageNocap>
 				<Desc>
-					<CHS>当5米内有3个或者更多的敌人时，获得 $VALUE$% 最大暴击伤害增益</CHS>
+					<CHS>5米内存在3个以上敌人时，暴击伤害上限增加$VALUE$% </CHS>
 				</Desc>
 			</EnemiesClose_CritDamageNocap>
 			<MaxRage_Damage>
 				<Desc>
-					<CHS>怒气达到最大值时，获得 $VALUE$% 伤害增益</CHS>
+					<CHS>狂怒值达到上限时，伤害增加$VALUE$%</CHS>
 				</Desc>
 			</MaxRage_Damage>
 			<MaxRage_CritHitNocap>
 				<Desc>
-					<CHS>怒气达到最大值时，获得 $VALUE$% 最大暴击增益</CHS>
+					<CHS>狂怒值达到上限时，暴击上限增加$VALUE$%</CHS>
 				</Desc>
 			</MaxRage_CritHitNocap>
 			<MaxRage_CritDamageNocap>
 				<Desc>
-					<CHS>怒气达到最大值时，获得 $VALUE$% 最大暴击伤害增益</CHS>
+					<CHS>狂怒值达到上限时，暴击伤害上限增加$VALUE$%</CHS>
 				</Desc>
 			</MaxRage_CritDamageNocap>
 			<Standing_DamageReduce>
 				<Desc>
-					<CHS>当3秒内没有进行移动时，获得 $VALUE$% 伤害减免</CHS>
+					<CHS>静止不动3秒后，伤害降低$VALUE$%</CHS>
 				</Desc>
 			</Standing_DamageReduce>
 			<Standing_Damage>
 				<Desc>
-					<CHS>当3秒内没有进行移动时，获得 $VALUE$% 伤害增益</CHS>
+					<CHS>静止不动3秒后，伤害增加$VALUE$%</CHS>
 				</Desc>
 			</Standing_Damage>
 			<Standing_CritHitNocap>
 				<Desc>
-					<CHS>当3秒内没有进行移动时，获得 $VALUE$% 最大暴击增益</CHS>
+					<CHS>静止不动3秒后，暴击上限增加$VALUE$%</CHS>
 				</Desc>
 			</Standing_CritHitNocap>
 			<Standing_CritDamageNocap>
 				<Desc>
-					<CHS>当3秒内没有进行移动时，获得 $VALUE$% 最大暴击伤害增益</CHS>
+					<CHS>静止不动3秒后，暴击伤害上限增加$VALUE$%</CHS>
 				</Desc>
 			</Standing_CritDamageNocap>
 			<EnemyMoving_Damage>
 				<Desc>
-					<CHS>对抗移动的敌人时，获得 $VALUE$% 伤害增益</CHS>
+					<CHS>对移动敌人的伤害增加$VALUE$%</CHS>
 				</Desc>
 			</EnemyMoving_Damage>
 			<EnemyMoving_CritHitNocap>
 				<Desc>
-					<CHS>对抗移动的敌人时，获得 $VALUE$% 最大暴击增益</CHS>
+					<CHS>对移动敌人的暴击上限增加$VALUE$%</CHS>
 				</Desc>
 			</EnemyMoving_CritHitNocap>
 			<EnemyMoving_CritDamageNocap>
 				<Desc>
-					<CHS>对抗移动的敌人时，获得 $VALUE$% 最大暴击伤害增益</CHS>
+					<CHS>对移动敌人的暴击伤害上限增加$VALUE$%</CHS>
 				</Desc>
 			</EnemyMoving_CritDamageNocap>
 			<EnemyAtMaxHP_Damage>
 				<Desc>
-					<CHS>对抗达到最大生命值的敌人时，获得 $VALUE$% 伤害增益</CHS>
+					<CHS>对满血敌人的伤害增加$VALUE$%</CHS>
 				</Desc>
 			</EnemyAtMaxHP_Damage>
 			<EnemyAtMaxHP_CritHitNocap>
 				<Desc>
-					<CHS>对抗达到最大生命值的敌人时，获得 $VALUE$% 最大暴击增益</CHS>
+					<CHS>对满血敌人的暴击上限增加$VALUE$%</CHS>
 				</Desc>
 			</EnemyAtMaxHP_CritHitNocap>
 			<EnemyAtMaxHP_CritDamageNocap>
 				<Desc>
-					<CHS>对抗达到最大生命值的敌人时，获得 $VALUE$% 最大暴击伤害增益</CHS>
+					<CHS>对满血敌人的暴击伤害上限增加$VALUE$%</CHS>
 				</Desc>
 			</EnemyAtMaxHP_CritDamageNocap>
 		</Enchantment>
 		<Conditions>
 			<use_rage>
-				<CHS>已使用怒气：%d/%d</CHS>
+				<CHS>使用怒气: %d/%d</CHS>
 			</use_rage>
 			<successful_dodge>
-				<CHS>成功闪避：%d/%d</CHS>
+				<CHS>成功躲闪: %d/%d</CHS>
 			</successful_dodge>
 		</Conditions>
 	</Artifacts>
 	<Property>
 		<minion_damage>
 			<Desc>
-				<CHS>$SIGN$$VALUE$% 所有召唤盟友的伤害</CHS>
+				<CHS>$SIGN$$VALUE$% 所有召唤盟友收到的伤害</CHS>
 			</Desc>
 		</minion_damage>
 		<minion_defense>
@@ -6946,66 +6946,66 @@
 		</minion_resistances>
 		<crowd_control_resistance>
 			<Desc>
-				<CHS>$SIGN$$VALUE$ 控场抗性</CHS>
+				<CHS>$SIGN$$VALUE$ 群体控制抗性</CHS>
 			</Desc>
 		</crowd_control_resistance>
 		<ice_resistance>
 			<Desc>
-				<CHS>$SIGN$$VALUE$% 冰冻抵抗</CHS>
+				<CHS>$SIGN$$VALUE$% 冰冻抗性</CHS>
 			</Desc>
 		</ice_resistance>
 		<lightning_resistance>
 			<Desc>
-				<CHS>$SIGN$$VALUE$% 闪电抵抗</CHS>
+				<CHS>$SIGN$$VALUE$% 闪电抗性</CHS>
 			</Desc>
 		</lightning_resistance>
 		<fire_resistance>
 			<desc>
-				<CHS>$SIGN$$VALUE$% 火焰抵抗</CHS>
+				<CHS>$SIGN$$VALUE$% 火焰抗性</CHS>
 			</desc>
 		</fire_resistance>
 		<crowd_control_resistance_hero>
 			<Desc>
-				<CHS>$SIGN$$VALUE$ 控场抗性</CHS>
+				<CHS>$SIGN$$VALUE$ 群体控制抗性</CHS>
 			</Desc>
 		</crowd_control_resistance_hero>
 		<full_resistance>
 			<Desc>
-				<CHS>$SIGN$$VALUE$ 全抗</CHS>
+				<CHS>$SIGN$$VALUE$ 全部抗性</CHS>
 			</Desc>
 		</full_resistance>
 		<dodge>
 			<bonus_percent>
 				<Desc>
-					<CHS>$SIGN$$VALUE$% 闪避</CHS>
+					<CHS>$SIGN$$VALUE$% 躲闪</CHS>
 				</Desc>
 			</bonus_percent>
 		</dodge>
 		<fire_damage_reduction>
 			<bonus_percent>
 				<Desc>
-					<CHS>获得 $SIGN$$VALUE$% 火焰伤害减免</CHS>
+					<CHS>火焰伤害减少$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</bonus_percent>
 		</fire_damage_reduction>
 		<lightning_damage_reduction>
 			<bonus_percent>
 				<Desc>
-					<CHS>获得 $SIGN$$VALUE$% 闪电伤害减免</CHS>
+					<CHS>闪电伤害减少$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</bonus_percent>
 		</lightning_damage_reduction>
 		<ice_damage_reduction>
 			<bonus_percent>
 				<Desc>
-					<CHS>获得 $SIGN$$VALUE$% 冰伤害减免</CHS>
+					<CHS>冰冻伤害减少$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</bonus_percent>
 		</ice_damage_reduction>
 		<poison_damage_reduction>
 			<bonus_percent>
 				<Desc>
-					<CHS>获得 $SIGN$$VALUE$% 中毒伤害减免</CHS>
+					<CHS>毒素伤害减少$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</bonus_percent>
 		</poison_damage_reduction>
@@ -7018,164 +7018,164 @@
 			<quality>
 				<champion>
 					<Desc>
-						<CHS>勇士敌人获 得$SIGN$$VALUE$ 生命力</CHS>
+						<CHS>$SIGN$$VALUE$ 勇士敌人生命值</CHS>
 					</Desc>
 				</champion>
 			</quality>
 			<companion_evagy>
 				<katarina>
 					<Desc>
-						<CHS>卡特琳娜女士获得 $SIGN$$VALUE$ 生命力</CHS>
+						<CHS>$SIGN$$VALUE$ 卡特琳娜女士生命值</CHS>
 					</Desc>
 				</katarina>
 			</companion_evagy>
 		</hitpoints>
 		<casted_freeze_duration>
 			<Desc>
-				<CHS>冰冻持续时间获得 $SIGN$$VALUE$% 增益</CHS>
+				<CHS>冰冻时间增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</casted_freeze_duration>
 		<casted_slow_duration>
 			<Desc>
-				<CHS>缓速持续时间获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>减速时间增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</casted_slow_duration>
 		<defense_ranged>
 			<Desc>
-				<CHS>远程伤害的防御获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>对远程伤害的防御增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</defense_ranged>
 		<heal_per_rage_spent>
 			<Desc>
-				<CHS>每点花费的怒气恢复的生命值获得$SIGN$$VALUE$增益</CHS>
+				<CHS>每消耗一点狂怒，恢复$SIGN$$VALUE$ HP</CHS>
 			</Desc>
 		</heal_per_rage_spent>
 		<powerup_cost>
 			<reduce>
 				<Desc>
-					<CHS>强化花费的点数减少$SIGN$$VALUE$</CHS>
+					<CHS>强化消耗点数减少$SIGN$$VALUE$</CHS>
 				</Desc>
 			</reduce>
 		</powerup_cost>
 		<bloody_mess_up_chance>
 			<Desc>
-				<CHS>敌人特殊死亡的几率获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>敌人的特殊死亡几率增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</bloody_mess_up_chance>
 		<free_powerup_chance>
 			<Desc>
-				<CHS>得到免费强化的几率获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>获得免费强化的几率增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</free_powerup_chance>
 		<mana_per_rage_spent>
 			<Desc>
-				<CHS>每点花费的怒气恢复的法力获得$SIGN$$VALUE增益</CHS>
+				<CHS>每消耗一点狂怒，增加$SIGN$$VALUE$魔法</CHS>
 			</Desc>
 		</mana_per_rage_spent>
 		<minion_speed>
 			<Desc>
-				<CHS>随从移动速度获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>喽啰移动速度增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</minion_speed>
 		<knockdown_chance>
 			<Desc>
-				<CHS>击倒几率获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>击倒几率增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</knockdown_chance>
 		<katarina_respawn_time>
 			<reduce>
 				<Desc>
-					<CHS>卡特琳娜的重生时间获得$SIGN$$VALUE$%增益</CHS>
+					<CHS>卡特琳娜的重生时间缩短$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</reduce>
 		</katarina_respawn_time>
 		<mana_reserve>
 			<Desc>
-				<CHS>最大法力保留（处罚）获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>保留$SIGN$$VALUE$%的魔法上限（惩罚）</CHS>
 			</Desc>
 		</mana_reserve>
 		<enchant_cost>
 			<reduce>
 				<Desc>
-					<CHS>附魔成本降低$SIGN$$VALUE$%</CHS>
+					<CHS>附魔花费减少$SIGN$$VALUE$%</CHS>
 				</Desc>
 			</reduce>
 		</enchant_cost>
 		<attack_rate_nocap>
 			<Desc>
-				<CHS>攻击速度最大值增加$SIGN$$VALUE$%</CHS>
+				<CHS>最大攻击速度提升$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</attack_rate_nocap>
 		<mana_potion_disable>
 			<Desc>
-				<CHS>无法使用法力药水</CHS>
+				<CHS>无法使用魔法药剂</CHS>
 			</Desc>
 		</mana_potion_disable>
 		<potion_disable>
 			<Desc>
-				<CHS>无法使用药水</CHS>
+				<CHS>无法使用药剂</CHS>
 			</Desc>
 		</potion_disable>
 		<dot_duration>
 			<Desc>
-				<CHS>持续伤害的效果持续时间获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>持续效果延长$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</dot_duration>
 		<dot_damage>
 			<Desc>
-				<CHS>持续伤害的伤害获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>持续伤害增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</dot_damage>
 		<blockpool_max>
 			<Desc>
-				<CHS>Block Pool(仅限保卫者)获得$SIGN$$VALUE$增益</CHS>
+				<CHS>格挡池增加$SIGN$$VALUE$（仅限守卫者）</CHS>
 			</Desc>
 		</blockpool_max>
 		<blockpool_gain_mul>
 			<Desc>
-				<CHS>得到的复仇点数(仅限保卫者)获得$SIGN$$VALUE$增益</CHS>
+				<CHS>额外获得$SIGN$$VALUE$%的反击点数（仅限守卫者）</CHS>
 			</Desc>
 		</blockpool_gain_mul>
 		<casted_burning_duration>
 			<Desc>
-				<CHS>燃烧的敌人会延长$SIGN$$VALUE$%燃烧时间</CHS>
+				<CHS>被点燃的敌人燃烧延长$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</casted_burning_duration>
 		<critical_hit_nocap>
 			<Desc>
-				<CHS>最大暴击率获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>最大暴击率增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</critical_hit_nocap>
 		<critical_damage_mul_nocap>
 			<Desc>
-				<CHS>最大暴击伤害获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>最大暴击伤害增加$SIGN$$VALUE$%</CHS>
 			</Desc>
 		</critical_damage_mul_nocap>
 		<damage_reflect_ranged>
 			<Desc>
-				<CHS>远程攻击获得$SIGN$$VALUE$%反弹伤害</CHS>
+				<CHS>$SIGN$$VALUE$%远程伤害反射</CHS>
 			</Desc>
 		</damage_reflect_ranged>
 		<shield_maxHP>
 			<Desc>
-				<CHS>立场获得$SIGN$$VALUE$%生命值增益</CHS>
+				<CHS>力场的HP增加$SIGN$$VALUE$</CHS>
 			</Desc>
 		</shield_maxHP>
 		<cast_rate>
 			<Desc>
-				<CHS>$SIGN$$VALUE$施法速度</CHS>
+				<CHS>$SIGN$$VALUE$ 施法速度</CHS>
 			</Desc>
 		</cast_rate>
 		<damage_against>
 			<quality>
 				<champion>
 					<Desc>
-						<CHS>对付勇士敌人增加$SIGN$$VALUE$伤害</CHS>
+						<CHS>额外 $SIGN$$VALUE$ 伤害对抗勇士敌人</CHS>
 					</Desc>
 				</champion>
 				<elite>
 					<Desc>
-						<CHS>对付敌人精英增加$SIGN$$VALUE$伤害</CHS>
+						<CHS>额外 $SIGN$$VALUE$ 伤害对抗精英敌人</CHS>
 					</Desc>
 				</elite>
 			</quality>
@@ -7184,59 +7184,59 @@
 			<quality>
 				<champion>
 					<Desc>
-						<CHS>勇士敌人造成$SIGN$$VALUE$伤害</CHS>
+						<CHS>勇士敌人造成 $SIGN$$VALUE$ 伤害</CHS>
 					</Desc>
 				</champion>
 				<elite>
 					<Desc>
-						<CHS>精英敌人造成$SIGN$$VALUE$伤害</CHS>
+						<CHS>精英敌人造成 $SIGN$$VALUE$ 伤害</CHS>
 					</Desc>
 				</elite>
 			</quality>
 			<companion_evagy>
 				<katarina>
 					<Desc>
-						<CHS>卡特琳娜女士获得$SIGN$$VALUE$伤害</CHS>
+						<CHS>卡特琳娜女士 $SIGN$$VALUE$ 伤害</CHS>
 					</Desc>
 				</katarina>
 			</companion_evagy>
 		</damage>
 		<unique_find_chance>
 			<desc>
-				<CHS>$SIGN$$VALUE$特殊物品发现几率</CHS>
+				<CHS>$SIGN$$VALUE$ 搜索特殊物品几率</CHS>
 			</desc>
 		</unique_find_chance>
 		<hp_potion_cooldown>
 			<Desc>
-				<CHS>生命药水冷却时间获得$SIGN$$VALUE$增益</CHS>
+				<CHS>生命药剂冷却加快$SIGN$$VALUE$</CHS>
 			</Desc>
 			<reduce>
 				<Desc>
-					<CHS>生命药水冷却时间获得$SIGN$$VALUE$增益</CHS>
+					<CHS>生命药剂冷却加快$SIGN$$VALUE$</CHS>
 				</Desc>
 			</reduce>
 		</hp_potion_cooldown>
 		<mana_potion_cooldown>
 			<Desc>
-				<CHS>法力药水冷却时间获得$SIGN$$VALUE$增益</CHS>
+				<CHS>魔法药剂冷却加快$SIGN$$VALUE$</CHS>
 			</Desc>
 			<reduce>
 				<Desc>
-					<CHS>法力药水冷却时间获得$SIGN$$VALUE$增益</CHS>
+					<CHS>魔法药剂冷却加快$SIGN$$VALUE$</CHS>
 				</Desc>
 			</reduce>
 		</mana_potion_cooldown>
 		<gold_find_amount>
 			<desc>
-				<CHS>发现的金币数获得$SIGN$$VALUE$%增益</CHS>
+				<CHS>$SIGN$$VALUE$%金钱掉落</CHS>
 			</desc>
 		</gold_find_amount>
 		<property_format>
 			<allies>
-				<CHS>盟军</CHS>
+				<CHS>for allies</CHS>
 			</allies>
 			<enemies>
-				<CHS>敌人</CHS>
+				<CHS>for enemies</CHS>
 			</enemies>
 		</property_format>
 	</Property>

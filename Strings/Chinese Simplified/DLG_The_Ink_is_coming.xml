@@ -8,42 +8,42 @@
 		<DLG_The_Ink_is_coming>
 			<node1>
 				<Desc>
-					<CHS>Mista Helsing，谢天谢地你来啦！我在隧道里看到了一些可怕的东西。墨境来了！</CHS>
+					<CHS>范海辛先生！感谢上天，你在这里！我在地道里看到了一些可怕的东西！墨境要来了！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你说墨境来了是什么意思？</CHS>
+					<CHS>你说墨境要来了是什么意思？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>一团黑雾涌进隧道，吐出各种各样恐怖的东西！它们很快就会来临！你必须做点什么!</CHS>
+					<CHS>一层黑雾已经笼罩了整个地道，喷出各种各样可怕的东西！ 很快就到我们这里了！你必须要想想办法！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我要到我们的前哨阻止它们。（玩塔防）</CHS>
+					<CHS>我会去我们的一个哨岗阻止他们。 (玩塔防游戏)</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>让工程师派些守卫来前哨就位。</CHS>
+					<CHS>告诉工程师，派一些守卫来哨岗里。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>那些生物越来越近了……我能感觉到它在我的大脚趾！</CHS>
+					<CHS>那些生物靠近了... 我能感受到他们的大脚趾踩在地上的感觉！</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>我会立即去消灭它们。</CHS>
+					<CHS>我会立刻去解决他们。</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>在此之前，我必须增强防御。</CHS>
+					<CHS>在我去那里之前，我必须加强防御。</CHS>
 				</Desc>
 			</node8>
 		</DLG_The_Ink_is_coming>

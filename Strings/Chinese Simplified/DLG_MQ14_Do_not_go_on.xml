@@ -8,27 +8,27 @@
 		<DLG_MQ14_Do_not_go_on>
 			<node1>
 				<Desc>
-					<CHS>回去吧，旅行者。这里是禁止进入的，我无法让你通过。</CHS>
+					<CHS>回去吧，旅行者。这里是一处禁地我不能让你进入。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你错了。我通过了石之守卫的考验，只要我想，没人能拦住我。</CHS>
+					<CHS>你错了。我通过了岩石守护者s的测试，我随心所欲。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>守卫？那些愚蠢的岩石？谁在乎他们所说的话。我才是这里真正的守卫。</CHS>
+					<CHS>什么守护者s？那些傻不拉叽的石头？谁管他们说什么啊？我才是这里真正的守护者 。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>还记得我说过过分保护的话吗？</CHS>
+					<CHS>还记得我说过的那些保护欲过强的本地人么？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>不打一场你是无法过去的！</CHS>
+					<CHS>你不能就这样过去！</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ14_Do_not_go_on>

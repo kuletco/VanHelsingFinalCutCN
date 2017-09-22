@@ -8,7 +8,7 @@
 		<DLC_The_Hidings_destroyed>
 			<node1>
 				<Desc>
-					<CHS>干得漂亮，猎人。你确定已经把所有的潜伏机器都破坏了吗？</CHS>
+					<CHS>干得不错，猎人。你确定把那些机器都摧毁了吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
@@ -18,7 +18,7 @@
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>太棒了！你现在能得到奖励了。</CHS>
+					<CHS>好极了！快领赏吧。</CHS>
 				</Desc>
 			</node3>
 		</DLC_The_Hidings_destroyed>

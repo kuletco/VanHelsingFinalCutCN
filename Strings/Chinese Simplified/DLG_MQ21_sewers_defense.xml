@@ -8,17 +8,17 @@
 		<DLG_MQ21_sewers_defense>
 			<node1>
 				<Desc>
-					<CHS>哈克将军派出了一个老式部队在通道中与我们抗衡。他是个固执的人，我会教训他的。</CHS>
+					<CHS>哈克将军正在通过隧道派遣一支精良，老派的军队来对抗我们。他是个固执的家伙，我会把那个给他。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>越来越烦人了。我来解决他们。</CHS>
+					<CHS>这真是烦死人了。我来对付他们。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>对我们抵抗阻止的士兵们来说，这是一个锻炼他们战斗技巧的好机会。</CHS>
+					<CHS>对起义战士来说是个锻炼他们战斗技能的大好时机。</CHS>
 				</Desc>
 			</node3>
 		</DLG_MQ21_sewers_defense>

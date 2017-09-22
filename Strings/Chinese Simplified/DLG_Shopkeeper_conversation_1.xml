@@ -8,32 +8,32 @@
 		<DLG_Shopkeeper_conversation_1>
 			<node1>
 				<Desc>
-					<CHS>哈！那是些锻炼！对吗，范海辛？</CHS>
+					<CHS>哈！那只是个小小的热身！是吧，范海辛？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你是怎么知道我的？</CHS>
+					<CHS>你怎么认识我的？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>我看到猎人，就认出来了。只有一个猎人在我们抵抗时收到邀请。</CHS>
+					<CHS>我只要见过一个猎手，就能认出其他的。而且只有一个人能够得到我们抵抗组织的邀请。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>元素师，我亲爱的范海辛。</CHS>
+					<CHS>这只是基础常识，我亲爱的范海辛。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>那么你是来帮助我们摆脱那些疯狂的科学家的。</CHS>
+					<CHS>所以你是来帮助我们解决那个疯狂的科学家的。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>是这个想法。但是我想先准备一下。</CHS>
+					<CHS>就是这样。但是我先得准备一下。</CHS>
 				</Desc>
 			</node6>
 		</DLG_Shopkeeper_conversation_1>

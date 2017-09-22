@@ -8,27 +8,27 @@
 		<DLG_Vlados_banter3>
 			<node1>
 				<Desc>
-					<CHS>我怎么帮你呢，梅斯特·范海辛？</CHS>
+					<CHS>我能为你效劳吗，范海辛先生？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你为什么要送这封信给我们？</CHS>
+					<CHS>为什么你要把那封信送到我们手里？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>反抗军无法应对这样的威胁。我们尝试过，但失败了。但你的父亲很有资历。</CHS>
+					<CHS>抵抗组织对付不了如此强大的威胁。我们尝试过，也失败了。但你父亲得到了很多人的信任。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>至今还有？</CHS>
+					<CHS>他现在是这样一种情况吗？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>这么说吧，他曾经打败过我们。</CHS>
+					<CHS>嗯，比如说，他曾经打败过我们一次。</CHS>
 				</Desc>
 			</node5>
 		</DLG_Vlados_banter3>

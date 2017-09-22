@@ -8,27 +8,27 @@
 		<DLG_MQ12_Commands4>
 			<node1>
 				<Desc>
-					<CHS>侦察兵来报，敌人将会从两边攻击我们。</CHS>
+					<CHS>侦察兵报告说我们的敌人准备从两翼攻击我们。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你必须守住阵地！这很关键。使用自动炮塔并且将士兵带回来……不惜一切代价。</CHS>
+					<CHS>你必须坚守阵地！这很残酷。部署自动炮台并击退敌人……不惜任何代价。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>我们要坚守阵地！向巢穴求援。</CHS>
+					<CHS>我们正准备坚守阵地！请求巢穴支援。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>坚守你的阵地！如果有必要，别忘了发表一次演讲！</CHS>
+					<CHS>坚守你的阵地！如果必要的话不要忘记发表一个光荣的演讲！</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我要先去调查阵地，然后再下命令。</CHS>
+					<CHS>我已经准备好去调查阵地了，然后我就会下达命令。</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ12_Commands4>

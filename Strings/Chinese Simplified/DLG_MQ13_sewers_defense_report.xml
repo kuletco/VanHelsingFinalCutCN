@@ -8,27 +8,27 @@
 		<DLG_MQ13_sewers_defense_report>
 			<node1>
 				<Desc>
-					<CHS>事情如何，范海辛？我希望你将哈克的士兵们从通道拖了回来。</CHS>
+					<CHS>怎样了，范海辛？我希望你把哈克的手下赶出隧道了。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>我们胜利了。</CHS>
+					<CHS>我们打败了他们。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>抱歉，但事情进展的不是很顺利。</CHS>
+					<CHS>我恐怕，有点不太妙。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>干的漂亮！终于让哈克学到了教训。</CHS>
+					<CHS>干得好！我觉得，那会让哈克知道些厉害。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>你不可能战无不胜的，范海辛。但是今天，我们丢失了通道系统最重要的部分。哈克离巢穴已经只有一步之遥了。</CHS>
+					<CHS>你不可能永远不输，范海辛。但是今天我们输掉了一场重要的战斗失去了隧道系统里面的一个重要区域。哈克里巢穴又近了一步。</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ13_sewers_defense_report>

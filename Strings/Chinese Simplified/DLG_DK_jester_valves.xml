@@ -8,12 +8,12 @@
 		<DLG_DK_jester_valves>
 			<node1>
 				<Desc>
-					<CHS>这些阀门控制着锅炉设施。如果我们按照正确的顺序将这个系统堵塞，不好的事情将会发生。</CHS>
+					<CHS>这些阀门控制着锅炉装置。如果我们按照正确的顺序关掉这个系统，就会发生不好的事情。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>别被一股喷射出的热糊切断了脑袋！</CHS>
+					<CHS>千万别被热粥的喷嘴弄断了头！</CHS>
 				</Desc>
 			</node2>
 		</DLG_DK_jester_valves>

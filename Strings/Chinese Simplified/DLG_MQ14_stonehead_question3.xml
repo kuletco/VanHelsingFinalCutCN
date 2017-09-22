@@ -8,22 +8,22 @@
 		<DLG_MQ14_stonehead_question3>
 			<node1>
 				<Desc>
-					<CHS>等下！我是山的守护者，这是神的分身说的！</CHS>
+					<CHS>等等！我是大山守护者，会说话的小神仙！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>潮湿的石头。</CHS>
+					<CHS>潮湿的岩石。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>告诉我：你在河里找到的石头是什么石头。</CHS>
+					<CHS>告诉我：你在河里能找到哪种岩石？</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>河底的沉积物。</CHS>
+					<CHS>冲积物。</CHS>
 				</Desc>
 			</node4>
 			<node5>
@@ -33,12 +33,12 @@
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>没错，是的！就是问个问题。</CHS>
+					<CHS>对，对！快问就是了！</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>你在拿我开玩笑吗？！去死吧！</CHS>
+					<CHS>你在取笑我吗？你现在给我去死！</CHS>
 				</Desc>
 			</node7>
 		</DLG_MQ14_stonehead_question3>

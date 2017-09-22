@@ -8,12 +8,12 @@
 		<DLG_Wraith_relics_hint>
 			<node1>
 				<Desc>
-					<CHS>这个雕像上的铭文写到：</CHS>
+					<CHS>雕像上有这样的印记：</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>"追寻钟上的走针/穿过四个拱门/然后走向你来的路/为了恩典。"</CHS>
+					<CHS>“追寻钟之手臂/通过四处拱门/前往你所来之处/获得神圣之恩典。”</CHS>
 				</Desc>
 			</node2>
 		</DLG_Wraith_relics_hint>

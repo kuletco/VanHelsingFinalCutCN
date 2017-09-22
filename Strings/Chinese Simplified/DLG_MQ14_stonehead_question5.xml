@@ -8,17 +8,17 @@
 		<DLG_MQ14_stonehead_question5>
 			<node1>
 				<Desc>
-					<CHS>那么告诉我。这是什么？一直在上升，却从来不会增长。</CHS>
+					<CHS>告诉我。这是什么？它一直向上向上，但是从不生长。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>魔豆。</CHS>
+					<CHS>神奇的豆茎。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>山。</CHS>
+					<CHS>山峰。</CHS>
 				</Desc>
 			</node3>
 			<node4>
@@ -28,22 +28,22 @@
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>是的，非常正确。</CHS>
+					<CHS>对，很正确。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>停下！我是这里的守卫，我不会让你...</CHS>
+					<CHS>停下！我守卫这条路，我不会让你过去的…</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>是的,是的,赶紧问你的问题吧。这种传统到底是怎么来的？</CHS>
+					<CHS>是的，是的，我知道，你有一个问题。问题有多新颖？</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>这么说太过分了！你竟以为你能过去！</CHS>
+					<CHS>你让我好难过！你竟然觉得你可以通过！</CHS>
 				</Desc>
 			</node8>
 		</DLG_MQ14_stonehead_question5>

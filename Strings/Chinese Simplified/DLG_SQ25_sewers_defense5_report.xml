@@ -8,27 +8,27 @@
 		<DLG_SQ25_sewers_defense5_report>
 			<node1>
 				<Desc>
-					<CHS>范海辛？你在工厂里击败过哈克的部队吗？</CHS>
+					<CHS>哦，范海辛？你击败工厂的哈克部队了吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>当然有。</CHS>
+					<CHS>当然，我击败了。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>不。他们比我们更了解那地方。</CHS>
+					<CHS>没有。他们比我们更加了解那个地方。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>他们迟早会放弃的。</CHS>
+					<CHS>他们应该迟早会放弃的。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>不幸的是，现在什么也没丢。</CHS>
+					<CHS>很幸运，没有什么损失。</CHS>
 				</Desc>
 			</node5>
 		</DLG_SQ25_sewers_defense5_report>

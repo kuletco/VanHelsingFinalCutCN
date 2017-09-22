@@ -8,12 +8,12 @@
 		<DLG_mar_shopkeeper02_end>
 			<node1>
 				<Desc>
-					<CHS>让我看看你有什么给我。是的，这些真不错！这是给你的奖励！</CHS>
+					<CHS>我们来看看你给我准备了什么。很好，这会帮上大忙的！这是你的报酬！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>很高兴与你合作。</CHS>
+					<CHS>和你们做生意很高兴。</CHS>
 				</Desc>
 			</node2>
 		</DLG_mar_shopkeeper02_end>

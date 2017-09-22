@@ -4,7 +4,7 @@
 		<CHS>Chinese Simplified</CHS>
 	</LanguageName>
 	<Languages>CHS</Languages>
-	<Soldiers>	
+	<Soldiers>
 		<Vrikolak_King_event>
 			<Name>
 				<CHS>伤痕累累的兽王</CHS>
@@ -12,42 +12,42 @@
 		</Vrikolak_King_event>
 		<dirigiblusa_boss>
 			<Name>
-				<CHS>恐怖浮球</CHS>
+				<CHS>可怕的漂浮者</CHS>
 			</Name>
 		</dirigiblusa_boss>
 		<Breda_boss>
 			<Name>
-				<CHS>Godlet-Automaton</CHS>
+				<CHS>机器之神</CHS>
 			</Name>
 		</Breda_boss>	
 		<Tides_of_ink_gate>
 			<Name>
-				<CHS>墨门</CHS>
+				<CHS>墨境之门</CHS>
 			</Name>
 		</Tides_of_ink_gate>	
 		<Tides_of_ink_guardian>
 			<Name>
-				<CHS>守门人</CHS>
+				<CHS>大门守卫</CHS>
 			</Name>
 		</Tides_of_ink_guardian>
 		<vrikolak_ghost>
 			<Name>
-				<CHS>吸血鬼幽灵</CHS>
+				<CHS>沃里克拉克幽灵</CHS>
 			</Name>
 		</vrikolak_ghost>
 		<ruszalka_tetok>
 			<Name>
-				<CHS>水怪暴徒</CHS>
+				<CHS>水泽仙女暴徒</CHS>
 			</Name>
 		</ruszalka_tetok>
 		<Whirlwind_Ornithopter>
 			<Name>
-				<CHS>旋风飞行兵</CHS>
+				<CHS>旋风式飞行兵</CHS>
 			</Name>
 		</Whirlwind_Ornithopter>
 		<Wasp_Ornithopter>
 			<Name>
-				<CHS>黄蜂飞行兵</CHS>
+				<CHS>黄蜂式飞行兵</CHS>
 			</Name>
 		</Wasp_Ornithopter>
 		<Assault_Ornithopter>
@@ -62,67 +62,67 @@
 		</Prototype_tesla>
 		<Frog_Biro>
 			<Name>
-				<CHS>蟾蜍怪法官</CHS>
+				<CHS>巴特拉齐安塔尔法官</CHS>
 			</Name>
 		</Frog_Biro>
 		<Dreadknecht_Shielder>
 			<Name>
-				<CHS>蟾蜍怪守护者</CHS>
+				<CHS>戴德克内希特守卫</CHS>
 			</Name>
 		</Dreadknecht_Shielder>
 		<Dreadknecht_sniper>
 			<Name>
-				<CHS>蟾蜍怪狙击手</CHS>
+				<CHS>戴德克内希特狙击兵</CHS>
 			</Name>
 		</Dreadknecht_sniper>
 		<Ridle_wisp_gyarnegyed>
 			<Name>
-				<CHS>谜题小精灵</CHS>
+				<CHS>里德尔精灵</CHS>
 			</Name>
 		</Ridle_wisp_gyarnegyed>
 		<restless_baroness_ice>
 			<Name>
-				<CHS>刻薄女伯爵</CHS>
+				<CHS>痛苦的伯爵夫人</CHS>
 			</Name>
 		</restless_baroness_ice>
 		<restless_baroness_lightning>
 			<Name>
-				<CHS>愤怒公主</CHS>
+				<CHS>愤怒的公主</CHS>
 			</Name>
 		</restless_baroness_lightning>
 		<Giant_Liquidator_split>
 			<Name>
-				<CHS>腐蚀清理者</CHS>
+				<CHS>腐蚀清算者</CHS>
 			</Name>
 		</Giant_Liquidator_split>
 		<giant_liquidator>
 			<Name>
-				<CHS>巨型清理者</CHS>
+				<CHS>巨人清算者</CHS>
 			</Name>
 		</giant_liquidator>
 		<restless_baroness>
 			<Name>
-				<CHS>不息的男爵夫人</CHS>
+				<CHS>不安的男爵夫人</CHS>
 			</Name>
 		</restless_baroness>
 		<harpy_inkm>
 			<Name>
-				<CHS>黄昏鸟妖</CHS>
+				<CHS>黄昏鹰身女妖</CHS>
 			</Name>
 		</harpy_inkm>
 		<Lesovik_axe_inkm>
 			<Name>
-				<CHS>树精阴郁体</CHS>
+				<CHS>牧林者黑暗之卵</CHS>
 			</Name>
 		</Lesovik_axe_inkm>
 		<Lesovik_inkm>
 			<Name>
-				<CHS>幽灵树精</CHS>
+				<CHS>暗影牧林者</CHS>
 			</Name>
 		</Lesovik_inkm>
 		<Domovoy_bomber>
 			<Name>
-				<CHS>幽灵投弹手</CHS>
+				<CHS>德默沃伊炸弹手</CHS>
 			</Name>
 		</Domovoy_bomber>
 		<Brain_breeder>
@@ -132,27 +132,27 @@
 		</Brain_breeder>
 		<Brain_mistique>
 			<Name>
-				<CHS>散射精神体</CHS>
+				<CHS>心智分裂</CHS>
 			</Name>
 		</Brain_mistique>
 		<brain_normal>
 			<Name>
-				<CHS>妙算者</CHS>
+				<CHS>策划</CHS>
 			</Name>
 		</brain_normal>
 		<Brain_warrior>
 			<Name>
-				<CHS>战斗精神体</CHS>
+				<CHS>战斗意志</CHS>
 			</Name>
 		</Brain_warrior>
 		<Liquidator>
 			<Name>
-				<CHS>清理者</CHS>
+				<CHS>清算者</CHS>
 			</Name>
 		</Liquidator>
 		<hidden_treasure>
 			<Name>
-				<CHS>隐藏的财富</CHS>
+				<CHS>隐藏的宝藏</CHS>
 			</Name>
 		</hidden_treasure>
 		<guardian>
@@ -162,12 +162,12 @@
 		</guardian>
 		<YarrHarr>
 			<Name>
-				<CHS>亚拉哈尔</CHS>
+				<CHS>呀哈</CHS>
 			</Name>
 		</YarrHarr>
 		<spawn>
 			<Name>
-				<CHS>脑形体</CHS>
+				<CHS>脑生兽</CHS>
 			</Name>
 		</spawn>
 		<Ghoul>
@@ -182,47 +182,47 @@
 		</Magus_viztisztito>		
 		<feral_hookbeast>
 			<Name>
-				<CHS>爪钩兽</CHS>
+				<CHS>倒钩兽</CHS>
 			</Name>
 		</feral_hookbeast>
 		<hookbeast>
 			<Name>
-				<CHS>凶猛的爪钩兽</CHS>
+				<CHS>野蛮倒钩兽</CHS>
 			</Name>
 		</hookbeast>
 		<Lake_snake>
 			<Name>
-				<CHS>湖蛇</CHS>
+				<CHS>蛇湖</CHS>
 			</Name>
 		</Lake_snake>
 		<Olomkatona_black_lovos>
 			<Name>
-				<CHS>恐惧侍从投弹手</CHS>
+				<CHS>恐惧奴隶投掷者</CHS>
 			</Name>
 		</Olomkatona_black_lovos>
 		<Olomkatona_blue_lovos>
 			<Name>
-				<CHS>战争侍从</CHS>
+				<CHS>战争奴隶</CHS>
 			</Name>
 		</Olomkatona_blue_lovos>
 		<Rat_03>
 			<Name>
-				<CHS>扫荡者</CHS>
+				<CHS>地沟雀</CHS>
 			</Name>
 		</Rat_03>
 		<Rat_02>
 			<Name>
-				<CHS>扫荡者火枪手</CHS>
+				<CHS>地沟雀火枪手</CHS>
 			</Name>
 		</Rat_02>
 		<Frog_Assault>
 			<Name>
-				<CHS>蟾蜍怪</CHS>
+				<CHS>巴特拉奇塔</CHS>
 			</Name>
 		</Frog_Assault>
 		<Frog_Cannon>
 			<Name>
-				<CHS>蟾蜍怪统领</CHS>
+				<CHS>巴特拉奇塔之主</CHS>
 			</Name>
 		</Frog_Cannon>
 		<Katarina>
@@ -237,17 +237,17 @@
 		</Helsing>
 		<Tankenstein>
 			<Name>
-				<CHS>小怪蛋 </CHS>
+				<CHS>伊戈尔</CHS>
 			</Name>
 		</Tankenstein>
 		<VampireHunter>
 			<Name>
-				<CHS>针魔</CHS>
+				<CHS>线迹恶魔</CHS>
 			</Name>
 		</VampireHunter>
 		<VampireHunter_gunner>
 			<Name>
-				<CHS>针魔神射手</CHS>
+				<CHS>线迹恶魔神射手</CHS>
 			</Name>
 		</VampireHunter_gunner>
 		<vrikolak>
@@ -267,27 +267,27 @@
 		</mutant_dog>
 		<ruszalka>
 			<Name>
-				<CHS>水怪</CHS>
+				<CHS>水泽仙女</CHS>
 			</Name>
 		</ruszalka>
 		<Rat>
 			<Name>
-				<CHS>挖掘者</CHS>
+				<CHS>挖掘兽</CHS>
 			</Name>
 		</Rat>
 		<Igor>
 			<Name>
-				<CHS>大力士</CHS>
+				<CHS>强人</CHS>
 			</Name>
 		</Igor>							
 		<Bandita>
 			<Name>
-				<CHS>歹徒</CHS>
+				<CHS>强盗</CHS>
 			</Name>
 		</Bandita>				
 		<Bandita_lovos>
 			<Name>
-				<CHS>歹徒</CHS>
+				<CHS>强盗</CHS>
 			</Name>
 		</Bandita_lovos>		
 		<warg>
@@ -302,67 +302,67 @@
 		</warg_fenyves>
 		<Bloated_Gargantula>
 			<Name>
-				<CHS>浮肿巨蜘蛛</CHS>
+				<CHS>浮肿加甘图拉</CHS>
 			</Name>
 		</Bloated_Gargantula>
 		<Shrieking_Gargantula>
 			<Name>
-				<CHS>尖啸巨蜘蛛</CHS>
+				<CHS>尖叫的加甘图拉</CHS>
 			</Name>
 		</Shrieking_Gargantula>
 		<Speckled_Gargantula>
 			<Name>
-				<CHS>斑点巨蜘蛛</CHS>
+				<CHS>带斑点的加甘图拉</CHS>
 			</Name>
 		</Speckled_Gargantula>
 		<Olomkatona_lovos>
 			<Name>
-				<CHS>恐惧侍从 </CHS>
+				<CHS>恐惧奴隶</CHS>
 			</Name>
 		</Olomkatona_lovos>
 		<Olomkatona_classic>
 			<Name>
-				<CHS>经典玩具兵</CHS>
+				<CHS>传统锡兵</CHS>
 			</Name>
 		</Olomkatona_classic>
 		<Vodyanoi>
 			<Name>
-				<CHS>湖怪</CHS>
+				<CHS>沃迪亚诺伊</CHS>
 			</Name>
 		</Vodyanoi>
 		<Vodyanoi_ranged>
 			<Name>
-				<CHS>吐汁湖怪</CHS>
+				<CHS>沃迪亚诺伊酸液喷吐者</CHS>
 			</Name>
 		</Vodyanoi_ranged>
 		<Pok_csaj>
 			<Name>
-				<CHS>蝎化妖</CHS>
+				<CHS>奇奇莫拉</CHS>
 			</Name>
 		</Pok_csaj>
 		<Lesovik>
 			<Name>
-				<CHS>树精 </CHS>
+				<CHS>牧林者</CHS>
 			</Name>
 		</Lesovik>
 		<Lesovik_axe>
 			<Name>
-				<CHS>树精蹒跚者</CHS>
+				<CHS>牧林者蹒跚者</CHS>
 			</Name>
 		</Lesovik_axe>	
 		<harpy>
 			<Name>
-				<CHS>鸟妖</CHS>
+				<CHS>鹰身女妖</CHS>
 			</Name>
 		</harpy>
 		<harpy_wishing_well>
 			<Name>
-				<CHS>鸟妖</CHS>
+				<CHS>鹰身女妖</CHS>
 			</Name>
 		</harpy_wishing_well>
 		<Szaj_monszter>
 			<Name>
-				<CHS>大嘴兽</CHS>
+				<CHS>大嘴怪</CHS>
 			</Name>
 		</Szaj_monszter>
 		<Willow_monster_red>
@@ -372,37 +372,37 @@
 		</Willow_monster_red>	
 		<Willow_monster_green>
 			<Name>
-				<CHS>沼泽之光</CHS>
+				<CHS>泽地之光</CHS>
 			</Name>
 		</Willow_monster_green>
 		<bekaszobor_monster>
 			<Name>
-				<CHS>阿呆</CHS>
+				<CHS>叮咚</CHS>
 			</Name>
 		</bekaszobor_monster>	
 		<bekaszobor_monster_loot>
 			<Name>
-				<CHS>阿傻</CHS>
+				<CHS>叮当</CHS>
 			</Name>
 		</bekaszobor_monster_loot>	
 		<Webspinner_Gargantula>
 			<Name>
-				<CHS>足丝蚁</CHS>
+				<CHS>足丝加甘图拉</CHS>
 			</Name>
 		</Webspinner_Gargantula>
 		<Rat_saman>
 			<Name>
-				<CHS>魔笛手</CHS>
+				<CHS>花衣魔笛手</CHS>
 			</Name>
 		</Rat_saman>
 		<mutant_rat>
 			<Name>
-				<CHS>鼠类</CHS>
+				<CHS>老鼠之类的东西</CHS>
 			</Name>
 		</mutant_rat>
 		<gas_machine_barrel>
 			<Name>
-				<CHS>燃素罐</CHS>
+				<CHS>燃素箱</CHS>
 			</Name>
 		</gas_machine_barrel>
 		<prototype>
@@ -427,127 +427,127 @@
 		</BloodRabbit>
 		<Automated_Sentinel_Mechanism>
 			<Name>
-				<CHS>自动哨戒机器</CHS>
+				<CHS>自动哨兵机械装置</CHS>
 			</Name>
 		</Automated_Sentinel_Mechanism>
 		<Automated_Turret_Distributor>
 			<Name>
-				<CHS>自动哨戒炮</CHS>
+				<CHS>自动哨兵炮</CHS>
 			</Name>
 		</Automated_Turret_Distributor>
 		<Rebel_guard>
 			<Name>
-				<CHS>反抗势力守卫</CHS>
+				<CHS>抵抗派守卫</CHS>
 			</Name>
 		</Rebel_guard>
 		<Igor_Tesla>
 			<Name>
-				<CHS>电子大力士</CHS>
+				<CHS>电力强人</CHS>
 			</Name>
 		</Igor_Tesla>
 		<_veteran_warg>
 			<Name>
-				<CHS>恐惧之狼群使</CHS>
+				<CHS>恐惧之狼首领</CHS>
 			</Name>
 		</_veteran_warg>
 		<_veteran_Bandita>	
 			<Name>
-				<CHS>歹徒老兵</CHS>
+				<CHS>强盗老手</CHS>
 			</Name>
 		</_veteran_Bandita>
 		<Treasurehunter_Boss>
 			<Name>
-				<CHS>疯巫师</CHS>
+				<CHS>疯狂男巫</CHS>
 			</Name>
 		</Treasurehunter_Boss>
 		<_elite_Willow_monster_red>
 			<Name>
-				<CHS>火热黑龙</CHS>
+				<CHS>伊格尼斯黑龙</CHS>
 			</Name>
 		</_elite_Willow_monster_red>
 		<_elite_brain_mistique>
 			<Name>
-				<CHS>浮肿散射精神体</CHS>
+				<CHS>傲慢的斯凯特米德</CHS>
 			</Name>
 		</_elite_brain_mistique>	
 		<_elite_Restless_Baroness>
 			<Name>
-				<CHS>莫迪亚女士</CHS>
+				<CHS>蒙提亚女士</CHS>
 			</Name>
 		</_elite_Restless_Baroness>	
 		<Dark_alchemist>
 			<Name>
-				<CHS>黑暗炼金术士</CHS>
+				<CHS>黑暗炼金术师</CHS>
 			</Name>
 		</Dark_alchemist>	
 		<_elite_behemoth>
 			<Name>
-				<CHS>精英巨兽</CHS>
+				<CHS>精英巨兽 </CHS>
 			</Name>
 		</_elite_behemoth>	
 		<_elite_igor>
 			<Name>
-				<CHS>精英大力士</CHS>
+				<CHS>精英强人</CHS>
 			</Name>
 		</_elite_igor>	
 		<_elite_Tankenstein>
 			<Name>
-				<CHS>小怪蛋妙算者</CHS>
+				<CHS>伊戈尔幕后操纵者</CHS>
 			</Name>
 		</_elite_Tankenstein>	
 		<_elite_Olomkatona_black_lovos>
 			<Name>
-				<CHS>精英恐惧侍从投弹手</CHS>
+				<CHS>精英恐惧奴隶投掷者</CHS>
 			</Name>
 		</_elite_Olomkatona_black_lovos>
 		<_elite_Olomkatona_blue_lovos>
 			<Name>
-				<CHS>精英恐惧侍从</CHS>
+				<CHS>精英战争奴隶</CHS>
 			</Name>
 		</_elite_Olomkatona_blue_lovos>	
 		<_elite_Rat_03_gyarnegyed>
 			<Name>
-				<CHS>扫荡者腐食家</CHS>
+				<CHS>地沟雀咬噬者</CHS>
 			</Name>
 		</_elite_Rat_03_gyarnegyed>	
 		<_Elite_vrikolak>
 			<Name>
-				<CHS>银背狼人</CHS>
+				<CHS>银背沃里克拉克</CHS>
 			</Name>
 		</_Elite_vrikolak>
 		<_Elite_Bandita_lovos>
 			<Name>
-				<CHS>歹徒首领</CHS>
+				<CHS>强盗首领</CHS>
 			</Name>
 		</_Elite_Bandita_lovos>
 		<_Elite_Bandita>
 			<Name>
-				<CHS>歹徒首领</CHS>
+				<CHS>强盗首领</CHS>
 			</Name>
 		</_Elite_Bandita>
 		<_Elite_Lesovik>
 			<Name>
-				<CHS>树精首领</CHS>
+				<CHS>牧林者酋长</CHS>
 			</Name>
 		</_Elite_Lesovik>		
 		<_Elite_harpy>
 			<Name>
-				<CHS>鸟妖妇</CHS>
+				<CHS>鹰身妖妇</CHS>
 			</Name>
 		</_Elite_harpy>		
 		<_Elite_mutant_dog>
 			<Name>
-				<CHS>纯种清道夫</CHS>
+				<CHS>纯种拾荒者</CHS>
 			</Name>
 		</_Elite_mutant_dog>
 		<_Elite_Olomkatona_lovos>
 			<Name>
-				<CHS>恐惧侍从队长</CHS>
+				<CHS>恐惧奴隶队长</CHS>
 			</Name>
 		</_Elite_Olomkatona_lovos>		
 		<_Elite_Pok_csaj>
 			<Name>
-				<CHS>蝎化妖女王</CHS>
+				<CHS>奇奇莫拉女王</CHS>
 			</Name>
 		</_Elite_Pok_csaj>
 		<_elite_Bloated_Gargantula>
@@ -557,145 +557,145 @@
 		</_elite_Bloated_Gargantula>
 		<_elite_Shrieking_Gargantula>
 			<Name>
-				<CHS>尖啸女王</CHS>
+				<CHS>尖叫的皇后</CHS>
 			</Name>
 		</_elite_Shrieking_Gargantula>
 		<_elite_Speckled_Gargantula>
 			<Name>
-				<CHS>斑点女王</CHS>
+				<CHS>带斑点的皇后</CHS>
 			</Name>
 		</_elite_Speckled_Gargantula>		
 		<_Elite_Rat>
 			<Name>
-				<CHS>挖掘者斗士</CHS>
+				<CHS>挖掘兽爬行者</CHS>
 			</Name>
 		</_Elite_Rat>
 		<_Elite_Rat_02>
 			<Name>
-				<CHS>扫荡者监工</CHS>
+				<CHS>地沟雀监察者</CHS>
 			</Name>
 		</_Elite_Rat_02>
 		<_Elite_Rat_03>
 			<Name>
-				<CHS>扫荡者腐食家</CHS>
+				<CHS>地沟雀咬噬者</CHS>
 			</Name>
 		</_Elite_Rat_03>
 		<_Elite_ruszalka>
 			<Name>
-				<CHS>水怪公主</CHS>
+				<CHS>水泽仙女公主</CHS>
 			</Name>
 		</_Elite_ruszalka>
 		<_Elite_Szaj_monszter>
 			<Name>
-				<CHS>精英大嘴兽</CHS>
+				<CHS>精英嘴兽</CHS>
 			</Name>
 		</_Elite_Szaj_monszter>		
 		<_Elite_VampireHunter>
 			<Name>
-				<CHS>针魔统领</CHS>
+				<CHS>线迹恶魔将军</CHS>
 			</Name>
 		</_Elite_VampireHunter>
 		<_Elite_Vodyanoi>
 			<Name>
-				<CHS>湖妖萨</CHS>
+				<CHS>沃迪亚诺伊巫师</CHS>
 			</Name>
 		</_Elite_Vodyanoi>		
 		<_elite_werewolf_electric>
 			<Name>
-				<CHS>电怒兽王</CHS>
+				<CHS>雷霆兽王</CHS>
 			</Name>
 		</_elite_werewolf_electric>
 		<_Elite_warg>
 			<Name>
-				<CHS>恐惧之狼群使</CHS>
+				<CHS>恐惧之狼首领</CHS>
 			</Name>
 		</_Elite_warg>
 		<Wishing_well_monster>
 			<Name>
-				<CHS>古代鸟妖</CHS>
+				<CHS>古代鹰身女妖</CHS>
 			</Name>
 		</Wishing_well_monster>
 		<aranyerme_monster>
 			<Name>
-				<CHS>长寿树精</CHS>
+				<CHS>牧林者长老</CHS>
 			</Name>
 		</aranyerme_monster>
 		<Brain_Spitter>
 			<Name>
-				<CHS>喷涂者</CHS>
+				<CHS>喷吐者</CHS>
 			</Name>
 		</Brain_Spitter>
 		<_elite_Igor_belv>
 			<Name>
-				<CHS>渣滓饮铁者</CHS>
+				<CHS>戴高斯·艾恩本德</CHS>
 			</Name>
 		</_elite_Igor_belv>
 		<_elite_Ptype_tesla_belv>
 			<Name>
-				<CHS>高级电子原型</CHS>
+				<CHS>进化电力原型</CHS>
 			</Name>
 		</_elite_Ptype_tesla_belv>
 		<werewolf_electric_nagyerdo>
 			<Name>
-				<CHS>电怒野兽</CHS>
+				<CHS>电击怪兽</CHS>
 			</Name>
 		</werewolf_electric_nagyerdo>
 		<Brain_boss_gasmachine>
 			<Name>
-				<CHS>妙算者天才</CHS>
+				<CHS>天生奇智</CHS>
 			</Name>
 		</Brain_boss_gasmachine>
 		<Spider_boss_cave>
 			<Name>
-				<CHS>蜘蛛巨兽</CHS>
+				<CHS>蛛形利维坦</CHS>
 			</Name>
 		</Spider_boss_cave>
 		<Lord_of_Domovoys>
 			<Name>
-				<CHS>幽灵之主</CHS>
+				<CHS>德莫沃依领主</CHS>
 			</Name>
 		</Lord_of_Domovoys>
 		<Scarecrow>
 			<Name>
-				<CHS>无翼弥赛亚</CHS>
+				<CHS>无翼耶稣</CHS>
 			</Name>
 		</Scarecrow>
 		<Chimney_sweep>
 			<Name>
-				<CHS>炭黑侯爵</CHS>
+				<CHS>烟尘侯爵</CHS>
 			</Name>
 		</Chimney_sweep>
 		<Chimney_sweep_minion>
 			<Name>
-				<CHS>烟囱清洁工</CHS>
+				<CHS>打扰烟囱</CHS>
 			</Name>
 		</Chimney_sweep_minion>
 		<Tesla_wolf_boss>
 			<Name>
-				<CHS>多科·格里姆利普</CHS>
+				<CHS>达科恐惧跳跃者</CHS>
 			</Name>
 		</Tesla_wolf_boss>
 		<Tesla_wolf_boss2>
 			<Name>
-				<CHS>卢卡斯·拉斯特芳</CHS>
+				<CHS>卢卡斯·鲁斯特法</CHS>
 			</Name>
 		</Tesla_wolf_boss2>
 		<VampireHunter_boss>
 			<Name>
-				<CHS>研磨者</CHS>
+				<CHS>研磨恶魔</CHS>
 			</Name>
 		</VampireHunter_boss>
 		<Tankenstein_boss>
 			<Name>
-				<CHS>小怪蛋妙算者</CHS>
+				<CHS>伊戈尔幕后操纵者</CHS>
 			</Name>
 			<Desc>
-				<CHS>控制统领可怜的精神力</CHS>
+				<CHS>控制主人的脆弱思维</CHS>
 			</Desc>
 		</Tankenstein_boss>
 		<Magus_boss>
 			<Name>
-				<CHS>马格纳斯伯爵</CHS>
+				<CHS>马格努斯伯爵</CHS>
 			</Name>
 		</Magus_boss>
 		<Werewolf_boss>
@@ -705,32 +705,32 @@
 		</Werewolf_boss>
 		<Enemy_of_gypsies>
 			<Name>
-				<CHS>雪皮兽</CHS>
+				<CHS>雪毛兽</CHS>
 			</Name>
 		</Enemy_of_gypsies>
 		<suicide_domovoi>
 			<Name>
-				<CHS>可疑的宅灵</CHS>
+				<CHS>多疑的德默沃伊</CHS>
 			</Name>
 		</suicide_domovoi>		
 		<erdo_szelleme>
 			<Name>
-				<CHS>疯狂的树精</CHS>
+				<CHS>暴怒森林精灵</CHS>
 			</Name>
 		</erdo_szelleme>	
 		<V_electric_boss_nagyerdo>
 			<Name>
-				<CHS>电怒兽王</CHS>
+				<CHS>雷霆兽王</CHS>
 			</Name>
 		</V_electric_boss_nagyerdo>
 		<Frog_c_boss_nagyerdo>
 			<Name>
-				<CHS>臃肿判官</CHS>
+				<CHS>奥布索斯科法官</CHS>
 			</Name>
 		</Frog_c_boss_nagyerdo>
 		<Magus_boss_nagyerdo>
 			<Name>
-				<CHS>弗兰布尔先生</CHS>
+				<CHS>法兰博先生</CHS>
 			</Name>
 		</Magus_boss_nagyerdo>
 		<Vrikolak_boss_nagyerdo>
@@ -740,52 +740,52 @@
 		</Vrikolak_boss_nagyerdo>
 		<breda>
 			<Name>
-				<CHS>布雷达</CHS>
+				<CHS>布瑞达</CHS>
 			</Name>
 		</breda>
 		<_finalboss_charge_tower>
 			<Name>
-				<CHS>增压发动机</CHS>
+				<CHS>增压发动器</CHS>
 			</Name>
 		</_finalboss_charge_tower>
 		<_finalboss_repair_tower>
 			<Name>
-				<CHS>物质重建机</CHS>
+				<CHS>物质再生器</CHS>
 			</Name>
 		</_finalboss_repair_tower>
 		<_finalboss_laser_tower>
 			<Name>
-				<CHS>光束能量转换器</CHS>
+				<CHS>能量光束发射器</CHS>
 			</Name>
 		</_finalboss_laser_tower>
 		<_finalboss_shield_tower>
 			<Name>
-				<CHS>原型矩阵缓冲器</CHS>
+				<CHS>矩阵保护缓冲器 </CHS>
 			</Name>
 		</_finalboss_shield_tower>
 		<_finalboss_missile_tower>
 			<Name>
-				<CHS>火箭导航校准器</CHS>
+				<CHS>火箭引导调整器</CHS>
 			</Name>
 		</_finalboss_missile_tower>
 		<_finalboss_ornithopter_constructor>
 			<Name>
-				<CHS>顶部装配舱</CHS>
+				<CHS>组装舱口</CHS>
 			</Name>
 		</_finalboss_ornithopter_constructor>
 		<_finalboss_kennel_gate>
 			<Name>
-				<CHS>狗窝门</CHS>
+				<CHS>肯内尔·盖特</CHS>
 			</Name>
 		</_finalboss_kennel_gate>		
 		<tudosseged>
 			<Name>
-				<CHS>托尔多·史奇莫</CHS>
+				<CHS>托多尔·斯齐穆克</CHS>
 			</Name>
 		</tudosseged>
 		<SewerDweller1>
 			<Name>
-				<CHS>鲍里斯拉夫·特威特</CHS>
+				<CHS>鲍里斯拉夫·特维特</CHS>
 			</Name>
 		</SewerDweller1>
 		<Blacksmith>
@@ -795,12 +795,12 @@
 		</Blacksmith>
 		<Alchemist_falu>
 			<Name>
-				<CHS>斯齐里科博士</CHS>
+				<CHS>史瑞克博士</CHS>
 			</Name>
 		</Alchemist_falu>
 		<Merchant_fenyves>
 			<Name>
-				<CHS>旅行商人</CHS>
+				<CHS>行商</CHS>
 			</Name>
 		</Merchant_fenyves>			
 		<Gypsy_leader>
@@ -810,52 +810,52 @@
 		</Gypsy_leader>		
 		<Village_Priest>
 			<Name>
-				<CHS>长者格里高利</CHS>
+				<CHS>格里高利长老</CHS>
 			</Name>
 		</Village_Priest>
 		<Village_Shopkeeper>
 			<Name>
-				<CHS>德拉甘店主</CHS>
+				<CHS>德拉根，店主</CHS>
 			</Name>
 		</Village_Shopkeeper>
 		<Guard_gun>
 			<Name>
-				<CHS>安德烈</CHS>
+				<CHS>安德雷</CHS>
 			</Name>
 		</Guard_gun>
 		<Guard_spear_falu_elott>
 			<Name>
-				<CHS>博伊科</CHS>
+				<CHS>博科</CHS>
 			</Name>
 		</Guard_spear_falu_elott>
 		<guard_falu>
 			<Name>
-				<CHS>伊利亚队长</CHS>
+				<CHS>伊利亚船长</CHS>
 			</Name>
 		</guard_falu>
 		<Living_ghost>
 			<Name>
-				<CHS>徘徊的幽灵</CHS>
+				<CHS>彷徨幽灵</CHS>
 			</Name>
 		</Living_ghost>
 		<Nameless_wisp>
 			<Name>
-				<CHS>无名精灵</CHS>
+				<CHS>无名小精灵</CHS>
 			</Name>
 		</Nameless_wisp>
 		<Willow>
 			<Name>
-				<CHS>维洛</CHS>
+				<CHS>柳树</CHS>
 			</Name>
 		</Willow>
 		<Major_falu>
 			<Name>
-				<CHS>丹尼尔·赫莱布，市长</CHS>
+				<CHS>丹尼尔·希尔博，市长</CHS>
 			</Name>
 		</Major_falu>
 		<Marko>
 			<Name>
-				<CHS>马科</CHS>
+				<CHS>马克</CHS>
 			</Name>
 		</Marko>
 		<Mihai>
@@ -870,17 +870,17 @@
 		</Saffi>
 		<villager_reszeg>
 			<Name>
-				<CHS>醉酒村民</CHS>
+				<CHS>醉酒的村民</CHS>
 			</Name>
 		</villager_reszeg>
 		<village_orult>
 			<Name>
-				<CHS>纳提·斯蒂芬</CHS>
+				<CHS>纳提·史蒂芬</CHS>
 			</Name>
 		</village_orult>
 		<Village_guard_statue_cr>
 			<Name>
-				<CHS>村庄治安官</CHS>
+				<CHS>村庄巡警</CHS>
 			</Name>
 		</Village_guard_statue_cr>
 		<Villager>
@@ -890,32 +890,32 @@
 		</Villager>
 		<Cow_2Head>
 			<Name>
-				<CHS>双头牛</CHS>
+				<CHS>双头奶牛</CHS>
 			</Name>
 		</Cow_2Head>
 		<Outlaw_1>
 			<Name>
-				<CHS>嘶哑声音</CHS>
+				<CHS>沙哑的声音</CHS>
 			</Name>
 		</Outlaw_1>
 		<Outlaw_2>
 			<Name>
-				<CHS>年轻声音</CHS>
+				<CHS>年轻的声音</CHS>
 			</Name>
 		</Outlaw_2>
 		<Professor_Toad>
 			<Name>
-				<CHS>托德教授</CHS>
+				<CHS>陶德教授</CHS>
 			</Name>
 		</Professor_Toad>
 		<villager_favago>
 			<Name>
-				<CHS>伐木工</CHS>
+				<CHS>樵夫</CHS>
 			</Name>
 		</villager_favago>
 		<Matthias>
 			<Name>
-				<CHS>马提亚斯</CHS>
+				<CHS>马提亚</CHS>
 			</Name>
 		</Matthias>
 		<Saffi_in_lair>
@@ -950,12 +950,12 @@
 		</Fence>
 		<varoslako_1>
 			<Name>
-				<CHS>达科·普拉里尔</CHS>
+				<CHS>达科巴拉尔兽</CHS>
 			</Name>
 		</varoslako_1>
 		<varoslako_2>
 			<Name>
-				<CHS>拉扎洛夫·梅迪乌</CHS>
+				<CHS>扎夫科·迷笛</CHS>
 			</Name>
 		</varoslako_2>
 		<Csempesz>
@@ -980,22 +980,22 @@
 		</behemoth>
 		<Vlados>
 			<Name>
-				<CHS>弗拉多斯</CHS>
+				<CHS>维拉多斯</CHS>
 			</Name>
 		</Vlados>
 		<worm_boss>
 			<Name>
-				<CHS>钻虫</CHS>
+				<CHS>钻地虫</CHS>
 			</Name>
 		</worm_boss>
 		<werewolf>
 			<Name>
-				<CHS>电击狼人</CHS>
+				<CHS>狼人电能</CHS>
 			</Name>
 		</werewolf>
 		<Rebel_1>
 			<Name>
-				<CHS>叛军士兵</CHS>
+				<CHS>反叛士兵</CHS>
 			</Name>
 		</Rebel_1>
 		<Inventor>
@@ -1005,22 +1005,22 @@
 		</Inventor>		
 		<Domovoy_Baggins>
 			<Name>
-				<CHS>幽灵袋</CHS>
+				<CHS>幽灵巴金斯</CHS>
 			</Name>
 		</Domovoy_Baggins>
 		<rebel_women>
 			<Name>
-				<CHS>反抗势力贵族女性</CHS>
+				<CHS>反抗派贵妇人</CHS>
 			</Name>
 		</rebel_women>
 		<wrikolak_corpse>
 			<Name>
-				<CHS>Elyctric狼人尸体</CHS>
+				<CHS>带电狼人尸体</CHS>
 			</Name>
 		</wrikolak_corpse>
 		<maradek_lotty>
 			<Name>
-				<CHS>粘液泥潭</CHS>
+				<CHS>食尸鬼泥潭</CHS>
 			</Name>
 		</maradek_lotty>		
 		<gargoyle>
@@ -1030,17 +1030,17 @@
 		</gargoyle>		
 		<Rebel_soldier>
 			<Name>
-				<CHS>叛军士兵</CHS>
+				<CHS>反叛士兵</CHS>
 			</Name>
 		</Rebel_soldier>
 		<Csatornatisztito>
 			<Name>
-				<CHS>污水工</CHS>
+				<CHS>下水道工人</CHS>
 			</Name>
 		</Csatornatisztito>
 		<Suttogo_Alchemist>
 			<Name>
-				<CHS>狂怒炼金术士</CHS>
+				<CHS>愤怒的炼金术士</CHS>
 			</Name>
 		</Suttogo_Alchemist>
 		<Suttogo_Apprentice>
@@ -1050,42 +1050,42 @@
 		</Suttogo_Apprentice>
 		<the_doomsday_automaton>
 			<Name>
-				<CHS>末日机器</CHS>
+				<CHS>末日机器人</CHS>
 			</Name>
 		</the_doomsday_automaton>
 		<dischargomaton>
 			<Name>
-				<CHS>Dischargomaton</CHS>
+				<CHS>充能机器人</CHS>
 			</Name>
 		</dischargomaton>
 		<automated_repeatergun>
 			<Name>
-				<CHS>自动中继炮</CHS>
+				<CHS>自动连发枪</CHS>
 			</Name>
 		</automated_repeatergun>
 		<flamethrower_autocannon>
 			<Name>
-				<CHS>喷火自动炮</CHS>
+				<CHS>自动火焰喷射炮</CHS>
 			</Name>
 		</flamethrower_autocannon>
 		<rocket_autocannon>
 			<Name>
-				<CHS>火箭自动炮</CHS>
+				<CHS>自动火箭炮</CHS>
 			</Name>
 		</rocket_autocannon>
 		<rapid_firing_autogun>
 			<Name>
-				<CHS>急射自动炮</CHS>
+				<CHS>自动快速射击枪</CHS>
 			</Name>
 		</rapid_firing_autogun>
 		<selfdestructor>
 			<Name>
-				<CHS>自我毁灭者</CHS>
+				<CHS>自毁器</CHS>
 			</Name>
 		</selfdestructor>
 		<ATD_machine_king>
 			<Name>
-				<CHS>机器之王</CHS>
+				<CHS>机械国王</CHS>
 			</Name>
 		</ATD_machine_king>
 		<rebel_corpse>
@@ -1094,31 +1094,31 @@
 		<SpecialAbilities>
 			<Vulnerability>
 				<physical>
-					<CHS>易受到物理伤害</CHS>
+					<CHS>容易受到物理伤害</CHS>
 				</physical>
 				<magical>
-					<CHS>易受到魔法伤害</CHS>
+					<CHS>容易受到魔法伤害</CHS>
 				</magical>
 				<fire>
-					<CHS>易受到火焰伤害</CHS>
+					<CHS>容易受到火焰伤害</CHS>
 				</fire>
 				<ice>
-					<CHS>易受寒冰伤害</CHS>
+					<CHS>易受冰系伤害</CHS>
 				</ice>
 				<lightning>
-					<CHS>易受到闪电伤害</CHS>
+					<CHS>容易受到闪电伤害</CHS>
 				</lightning>
 				<poison>
-					<CHS>易受到毒素伤害</CHS>
+					<CHS>容易受到毒素伤害</CHS>
 				</poison>
 				<death>
-					<CHS>易受到死亡伤害</CHS>
+					<CHS>容易受到死亡伤害</CHS>
 				</death>
 				<arrow>
-					<CHS>易受到射击伤害</CHS>
+					<CHS>容易受到射击伤害</CHS>
 				</arrow>
 				<pure_magical>
-					<CHS>易受到纯魔法伤害</CHS>
+					<CHS>容易受到纯魔法伤害</CHS>
 				</pure_magical>
 			</Vulnerability>
 			<Resistance>
@@ -1126,28 +1126,28 @@
 					<CHS>物理抗性</CHS>
 				</physical>
 				<magical>
-					<CHS>魔法抵抗</CHS>
+					<CHS>魔法抗性</CHS>
 				</magical>
 				<fire>
-					<CHS>火焰抵抗</CHS>
+					<CHS>火焰抗性</CHS>
 				</fire>
 				<ice>
-					<CHS>寒冰抗性</CHS>
+					<CHS>冰系抗性</CHS>
 				</ice>
 				<lightning>
-					<CHS>闪电抵抗</CHS>
+					<CHS>雷属性抵抗</CHS>
 				</lightning>
 				<poison>
-					<CHS>毒素抵抗</CHS>
+					<CHS>抗毒力</CHS>
 				</poison>
 				<death>
-					<CHS>死亡抵抗</CHS>
+					<CHS>死亡抗性</CHS>
 				</death>
 				<arrow>
-					<CHS>射击抵抗</CHS>
+					<CHS>枪伤抗性</CHS>
 				</arrow>
 				<pure_magical>
-					<CHS>纯粹魔法抵抗</CHS>
+					<CHS>纯魔法抗性</CHS>
 				</pure_magical>
 			</Resistance>
 			<Immunity>
@@ -1161,22 +1161,22 @@
 					<CHS>火焰免疫</CHS>
 				</fire>
 				<ice>
-					<CHS>冰冻免疫</CHS>
+					<CHS>冰属性免疫</CHS>
 				</ice>
 				<lightning>
-					<CHS>闪电免疫</CHS>
+					<CHS>雷属性免疫</CHS>
 				</lightning>
 				<poison>
-					<CHS>毒素免疫</CHS>
+					<CHS>毒免疫力</CHS>
 				</poison>
 				<death>
 					<CHS>死亡免疫</CHS>
 				</death>
 				<arrow>
-					<CHS>射击免疫</CHS>
+					<CHS>射击免疫力</CHS>
 				</arrow>
 				<pure_magical>
-					<CHS>纯粹魔法免疫</CHS>
+					<CHS>纯魔法免疫</CHS>
 				</pure_magical>
 			</Immunity>
 			<DamageType>
@@ -1190,13 +1190,13 @@
 					<CHS>火焰伤害</CHS>
 				</fire>
 				<ice>
-					<CHS>寒冰伤害</CHS>
+					<CHS>冰冷伤害</CHS>
 				</ice>
 				<lightning>
-					<CHS>闪电伤害</CHS>
+					<CHS>雷属性伤害</CHS>
 				</lightning>
 				<poison>
-					<CHS>毒素伤害</CHS>
+					<CHS>毒伤害</CHS>
 				</poison>
 				<death>
 					<CHS>死亡伤害</CHS>
@@ -1212,28 +1212,28 @@
 				<CHS>额外生命值</CHS>
 			</__ExtraHealth>
 			<__ExtraMinions>
-				<CHS>额外奴仆数</CHS>
+				<CHS>额外魔仆</CHS>
 			</__ExtraMinions>
 			<ExtraFast>
-				<CHS>特别快</CHS>
+				<CHS>非常快</CHS>
 			</ExtraFast>
 			<FastAttack>
 				<CHS>快速攻击</CHS>
 			</FastAttack>
 			<__feltamasztas1>
-				<CHS>复活</CHS>
+				<CHS>重生</CHS>
 			</__feltamasztas1>
 			<__bleeding>
 				<CHS>流血</CHS>
 			</__bleeding>
 			<__felrobbanas1>
-				<CHS>死亡即爆</CHS>
+				<CHS>在死亡时爆炸</CHS>
 			</__felrobbanas1>
 			<__slowaura>
-				<CHS>缓慢光环</CHS>
+				<CHS>减速光环</CHS>
 			</__slowaura>
 			<__frontresistance1>
-				<CHS>正面抵抗</CHS>
+				<CHS>前方抗性</CHS>
 			</__frontresistance1>
 			<__charge1>
 				<CHS>冲锋</CHS>
@@ -1242,7 +1242,7 @@
 				<CHS>推动</CHS>
 			</__szellokes>
 			<__teslafarkasidezes>
-				<CHS>召唤特斯拉之狼</CHS>
+				<CHS>召唤特斯拉狼人</CHS>
 			</__teslafarkasidezes>
 			<__toppantas>
 				<CHS>践踏</CHS>
@@ -1251,19 +1251,19 @@
 				<CHS>引燃</CHS>
 			</__afterburn>
 			<__stun>
-				<CHS>眩晕</CHS>
+				<CHS>击晕</CHS>
 			</__stun>
 			<__iceshot>
-				<CHS>冰弹</CHS>
+				<CHS>寒冰射击</CHS>
 			</__iceshot>
 			<__smoke>
-				<CHS>烟雾</CHS>
+				<CHS>烟雾云</CHS>
 			</__smoke>
 			<__bloodbond>
-				<CHS>血缚</CHS>
+				<CHS>鲜血连接</CHS>
 			</__bloodbond>
 			<__firetornado>
-				<CHS>火龙卷风</CHS>
+				<CHS>火焰龙卷风</CHS>
 			</__firetornado>
 			<__forgoszel>
 				<CHS>龙卷风</CHS>
@@ -1272,94 +1272,94 @@
 				<CHS>复仇光环</CHS>
 			</__vengeanceaura>
 			<__harmfulsigil>
-				<CHS>伤害魔印</CHS>
+				<CHS>有害魔符</CHS>
 			</__harmfulsigil>
 			<__teleport>
 				<CHS>传送</CHS>
 			</__teleport>
 			<__whirlingblades>
-				<CHS>螺旋剑刃</CHS>
+				<CHS>旋转刀刃</CHS>
 			</__whirlingblades>
 			<__poisontocsa>
-				<CHS>毒素之池</CHS>
+				<CHS>毒液池</CHS>
 			</__poisontocsa>
 			<__rootbarrier>
-				<CHS>树根屏障</CHS>
+				<CHS>根本故障</CHS>
 			</__rootbarrier>
 			<__entrap>
 				<CHS>诱陷</CHS>
 			</__entrap>
 			<__grappleattack>
-				<CHS>擒抱</CHS>
+				<CHS>抓取</CHS>
 			</__grappleattack>
 			<__boostersigil>
-				<CHS>增益魔印</CHS>
+				<CHS>增幅印章</CHS>
 			</__boostersigil>
 			<__summonersigil>
-				<CHS>召唤者魔印</CHS>
+				<CHS>召唤者魔符</CHS>
 			</__summonersigil>
 			<__drainingbeam>
-				<CHS>汲取光束</CHS>
+				<CHS>吸收光束</CHS>
 			</__drainingbeam>
 			<__inkrift>
 				<CHS>墨境裂缝</CHS>
 			</__inkrift>
 			<__slowing_web>
-				<CHS>减速之网</CHS>
+				<CHS>迟钝网</CHS>
 			</__slowing_web>
 			<__mana_drain>
-				<CHS>魔力汲取</CHS>
+				<CHS>法力吸取</CHS>
 			</__mana_drain>
 			<__pattogo_bomba>
-				<CHS>火焰炸弹</CHS>
+				<CHS>燃烧弹</CHS>
 			</__pattogo_bomba>
 			<__poisonbolt>
-				<CHS>毒素箭</CHS>
+				<CHS>剧毒伤害</CHS>
 			</__poisonbolt>
 			<__poisonbolt_lesovik>
-				<CHS>毒素箭</CHS>
+				<CHS>剧毒伤害</CHS>
 			</__poisonbolt_lesovik>
 			<__poisonbolt_brain>
-				<CHS>毒素箭</CHS>
+				<CHS>剧毒伤害</CHS>
 			</__poisonbolt_brain>
 			<__feltamasztas_rat>
-				<CHS>复活</CHS>
+				<CHS>重生</CHS>
 			</__feltamasztas_rat>
 			<__uninterruptable>
-				<CHS>势不可挡的攻击</CHS>
+				<CHS>无敌攻击</CHS>
 			</__uninterruptable>
 			<__firebolt>
-				<CHS>火焰箭</CHS>
+				<CHS>火球魔法</CHS>
 			</__firebolt>
 			<__fire_ring_baroness>
-				<CHS>火焰之环</CHS>
+				<CHS>炎指环</CHS>
 			</__fire_ring_baroness>			
 			<__fire_wave_baroness>
-				<CHS>火焰波</CHS>
+				<CHS>火焰波 </CHS>
 			</__fire_wave_baroness>
 			<__lightning_ring>
-				<CHS>闪电之环</CHS>
+				<CHS>闪电戒指</CHS>
 			</__lightning_ring>
 			<__slowing_shoot>
-				<CHS>缓慢弹</CHS>
+				<CHS>缓慢射击</CHS>
 			</__slowing_shoot>
 			<__vulnerability>
-				<CHS>冰冻喷吐</CHS>
+				<CHS>冰冻唾液</CHS>
 			</__vulnerability>
 			<__fagyakna>
 				<CHS>冰霜地雷</CHS>
 			</__fagyakna>
 			<__lightningbolt>
-				<CHS>闪电箭</CHS>
+				<CHS>闪电球</CHS>
 			</__lightningbolt>
 			<__hpregeneration>
-				<CHS>回复</CHS>
+				<CHS>恢复</CHS>
 			</__hpregeneration>
 			<__bleedingbite>
-				<CHS>流血噬咬</CHS>
+				<CHS>嗜血之咬</CHS>
 			</__bleedingbite>
 			<__spider_boost>
-				<CHS>为蜘蛛加速</CHS>
+				<CHS>急速蜘蛛</CHS>
 			</__spider_boost>
 			<__tremble>
 				<CHS>震颤</CHS>
@@ -1371,19 +1371,19 @@
 				<CHS>地震</CHS>
 			</__behemoth_earthquake>
 			<__icebolt>
-				<CHS>冰霜箭</CHS>
+				<CHS>寒冰箭</CHS>
 			</__icebolt>
 			<__icebolt_magus>
-				<CHS>冰霜箭</CHS>
+				<CHS>寒冰箭</CHS>
 			</__icebolt_magus>
 			<__GrappleAttack_mouthbeast>
-				<CHS>擒抱</CHS>
+				<CHS>抓取</CHS>
 			</__GrappleAttack_mouthbeast>
 			<__mouthbeast_attack>
-				<CHS>拍击</CHS>
+				<CHS>扑动状</CHS>
 			</__mouthbeast_attack>
 			<__trapdisable_aura>
-				<CHS>拆除陷阱</CHS>
+				<CHS>无效陷阱</CHS>
 			</__trapdisable_aura>
 			<__eye_for_an_eye>
 				<CHS>以眼还眼</CHS>
@@ -1391,10 +1391,10 @@
 		</SpecialAbilities>
 		<SoldierQualities>
 			<Minion>
-				<CHS>奴仆</CHS>
+				<CHS>魔仆</CHS>
 			</Minion>
 			<Champion>
-				<CHS>勇士</CHS>
+				<CHS>英雄</CHS>
 			</Champion>
 			<Elite>
 				<CHS>精英</CHS>

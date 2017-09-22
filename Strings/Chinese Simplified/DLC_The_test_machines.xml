@@ -8,37 +8,37 @@
 		<DLC_The_test_machines>
 			<node1>
 				<Desc>
-					<CHS>天呐！你看起来像是被猫拖进来的东西。</CHS>
+					<CHS>天啊，你看起来真的是又脏又臭。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>Antonov列兵报告，长官！从下水道返回，长官！我有重大消息，长官！</CHS>
+					<CHS>安东诺夫二等兵前来报告，长官！刚从地下水道归来，长官！大事不好了，长官！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>让他说，你在下面看到了什么？</CHS>
+					<CHS>别着急，细细道来。你在下面看见什么了？</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>差不多有24个战士机器在隧道里测试一些奇怪的机器。我一个人没法对付他们，长官。</CHS>
+					<CHS>在水道中大概有二十几个机械士兵，在测试某种奇怪的机械。我自己面对他们没有胜算，就逃回来了，长官。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>干得好，我会调查的。</CHS>
+					<CHS>干得好！我会对此进行调查的。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>我没时间了，把事情告诉弗拉多斯伯爵吧。</CHS>
+					<CHS>我才没时间管这种破事。去告诉弗拉德斯伯爵事情的来龙去脉吧。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>等等，我们现在要使用军衔了吗？可以给我一个吗？</CHS>
+					<CHS>等等，咱们现在都开始用军衔了？我也想来一个行不？</CHS>
 				</Desc>
 			</node7>
 		</DLC_The_test_machines>

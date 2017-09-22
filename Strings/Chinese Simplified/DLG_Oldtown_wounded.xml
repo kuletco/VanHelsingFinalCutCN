@@ -8,52 +8,52 @@
 		<DLG_Oldtown_wounded>
 			<node1>
 				<Desc>
-					<CHS>嗨，陌生人！我需要水！</CHS>
+					<CHS>喂，陌生人！来点水吧！</CHS>
 				</Desc>
 			</node1>
 			<node10>
 				<Desc>
-					<CHS>我还要去解决吸血鬼入侵的问题，我就把他留在这里了。</CHS>
+					<CHS>我这边还要对付吸血鬼入侵。把他留在这里好了。</CHS>
 				</Desc>
 			</node10>
 			<node2>
 				<Desc>
-					<CHS>可怜的灵魂，都被吸血鬼撕碎了。他没有多少时间了。</CHS>
+					<CHS>可怜的家伙，被吸血鬼撕扯得遍体鳞伤。估计就要死了。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>疼痛差不多消失了，但是我的血管好像在燃烧。哦，有什么东西在我体内移动！</CHS>
+					<CHS>几乎已经不痛了，但我浑身的血管好像着了火一般。啊，有东西在我体内移动！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>转变早已开始进行。他会在几小时内变得十分嗜血。</CHS>
+					<CHS>变身已经在进行中了。几小时后，他将作为吸血鬼再次苏醒。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>你在说我么？我看到鬼魂了么？好渴啊！</CHS>
+					<CHS>你们是在说我吗？我是见了鬼了？好渴啊！</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>口渴会是你碰到最小的问题。哦等等……</CHS>
+					<CHS>这算不上什么问题。啊，等等……</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>我已经看过成千上百次了，但我还是会气得直发抖。</CHS>
+					<CHS>这种事我已经见了几百次了，但每次还是会愤怒得浑身颤抖。</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>一旦我用木棍刺穿他的心脏，吸血鬼们都会跑着过来。准备好！</CHS>
+					<CHS>当我用木桩刺穿他的心脏后，吸血鬼们将会蜂拥而至。准备好！</CHS>
 				</Desc>
 			</node8>
 			<node9>
 				<Desc>
-					<CHS>带他去巢穴，卡特琳娜，或许弗拉多斯伯爵能做些什么。</CHS>
+					<CHS>把他带回巢穴，卡特琳娜。或许弗拉德斯伯爵能做些什么。</CHS>
 				</Desc>
 			</node9>
 		</DLG_Oldtown_wounded>

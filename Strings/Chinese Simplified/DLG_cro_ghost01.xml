@@ -8,42 +8,42 @@
 		<DLG_cro_ghost01>
 			<node1>
 				<Desc>
-					<CHS>我在哪儿？如果我迟到，Marina会杀了我的。</CHS>
+					<CHS>我在哪里？如果迟到了的话，会被杀掉的。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>*唉* 他真是容易忘记自己的处境啊。</CHS>
+					<CHS>*叹气*他很明显，并不知道现在的局势。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>你嫉妒了？</CHS>
+					<CHS>你是不是有些嫉妒？</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>胡说八道，他太弱了，我甚至可以用意念控制他。</CHS>
+					<CHS>胡说。他这么弱小，我单用意识就能控制他了。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>你可以控制其他幽灵？</CHS>
+					<CHS>你能控制其他的魂灵？</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>虚弱的当然没问题，要我向你展示吗？</CHS>
+					<CHS>只能遇到弱的那些。想要我展示一下给你看看吗？</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>天呐，不用。</CHS>
+					<CHS>天啊，可别。</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>让他跟着我们，我知道怎样帮他。</CHS>
+					<CHS>让他跟着我们。我知道该怎么帮他了。</CHS>
 				</Desc>
 			</node8>
 		</DLG_cro_ghost01>

@@ -8,27 +8,27 @@
 		<DLG_MQ12_Commands1>
 			<node1>
 				<Desc>
-					<CHS>范海辛！我的意思是称你为指挥官，先生！武装部队正靠近我们的阵地！</CHS>
+					<CHS>范海辛先生！我指的是指挥官，先生！武装部队正在接近我们的阵地！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>请求支援坚守阵地！</CHS>
+					<CHS>请求增援部队，坚守你的阵地。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>坚守你的阵地！如果有必要，别忘了发表一次演讲！</CHS>
+					<CHS>坚守你的阵地！如果必要的话不要忘记发表一个光荣的演讲！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>撤退到第二道防线，并且守卫阵地！</CHS>
+					<CHS>撤退到第二条防线并在那里坚守阵地！</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我要先去调查阵地，然后再向士兵做简短报告。</CHS>
+					<CHS>首先我要去调查阵地，然后我就会给战士们做个简报。</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ12_Commands1>

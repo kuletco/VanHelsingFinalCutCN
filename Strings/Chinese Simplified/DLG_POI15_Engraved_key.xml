@@ -8,32 +8,32 @@
 		<DLG_POI15_Engraved_key>
 			<node1>
 				<Desc>
-					<CHS>你注意到这个球上的钥匙孔了吗？</CHS>
+					<CHS>你注意到这个珠子上的锁孔了吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>还有石头上的蚀刻和钥匙上的一样。咱们试试吧。</CHS>
+					<CHS>而且石头上刻的东西看起来跟钥匙上刻的很像。我们来试试。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>真可惜我们没有钥匙。</CHS>
+					<CHS>真遗憾我们没有钥匙。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我希望我们有把钥匙。</CHS>
+					<CHS>真希望我们有把钥匙。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>可是我们有钥匙！上面有类似的蚀刻图案。咱们试试吧。</CHS>
+					<CHS>但是我们有一把钥匙！有着相似的刻痕。我们来试试。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>可是我们没有。</CHS>
+					<CHS>但是我们什么也没有。</CHS>
 				</Desc>
 			</node6>
 		</DLG_POI15_Engraved_key>

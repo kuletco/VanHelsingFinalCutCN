@@ -8,22 +8,22 @@
 		<DLG_MQ14_stonehead_question2>
 			<node1>
 				<Desc>
-					<CHS>你想要通过！但得先回答我的问题！听好！</CHS>
+					<CHS>你想过去！但是我要先问你个问题！听着！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>肯定是一座山。</CHS>
+					<CHS>那是座山。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>你真聪明！真可惜我不能杀了你。</CHS>
+					<CHS>你好聪明！我好难过不能杀了你。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>你看不到的根是什么？</CHS>
+					<CHS>什么东西有根你看不见？</CHS>
 				</Desc>
 			</node4>
 			<node5>
@@ -33,17 +33,17 @@
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>一种漂浮在湖面上的水百合。</CHS>
+					<CHS>浮于水面的莲花。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>我们必须这么做吗？真的吗？</CHS>
+					<CHS>我们真的要这样？真的吗？</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>你一点都不聪明！太好了！我想看你出手！现在你真的跟人打起来了！</CHS>
+					<CHS>你不聪明！很好！我想看到你的斗志！燃烧吧，少年！</CHS>
 				</Desc>
 			</node8>
 		</DLG_MQ14_stonehead_question2>

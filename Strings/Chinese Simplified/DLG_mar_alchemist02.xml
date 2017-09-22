@@ -8,27 +8,27 @@
 		<DLG_mar_alchemist02>
 			<node1>
 				<Desc>
-					<CHS>我猜你是那个帮助我的人，是吗？</CHS>
+					<CHS>我说，你就是帮了我的人是吧？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>我有出于自私的考虑。我要知道博格维亚发生了什么。</CHS>
+					<CHS>我是出于私心。我需要知道博格瓦发生了什么。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>科学发生了！</CHS>
+					<CHS>科学出现了！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>这意味着……</CHS>
+					<CHS>意思是…</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>有人做实验创造……怪物！博格维亚现在是个怪物了。</CHS>
+					<CHS>通过实验，你就能创造出一头……怪物！博格瓦现在已经是一头怪物了。</CHS>
 				</Desc>
 			</node5>
 		</DLG_mar_alchemist02>

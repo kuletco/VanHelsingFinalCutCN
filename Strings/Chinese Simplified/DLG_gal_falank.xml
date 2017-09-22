@@ -8,17 +8,17 @@
 		<DLG_gal_falank>
 			<node1>
 				<Desc>
-					<CHS>*偶像安静地看着你，脸上显露出饥渴难耐的表情。*</CHS>
+					<CHS>*神像默默地盯着你，脸上似乎略有饥色。*</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>*把骨头古物扔到嘴里。*</CHS>
+					<CHS>*把一块骨头雕像扔进它的嘴中。*</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>*离那具偶像远点*</CHS>
+					<CHS>*放着神像不动*</CHS>
 				</Desc>
 			</node3>
 		</DLG_gal_falank>

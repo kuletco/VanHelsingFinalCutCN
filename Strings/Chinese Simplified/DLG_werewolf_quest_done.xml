@@ -8,32 +8,32 @@
 		<DLG_werewolf_quest_done>
 			<node1>
 				<Desc>
-					<CHS>啊，没有野兽，我的猎人朋友？我很失望。</CHS>
+					<CHS>啊，没有野兽吗，我的猎人朋友？我好失望啊。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>不，我不能救他。现在他所有的秘密都丢失了。</CHS>
+					<CHS>不，我没能救了他。现在他的所有秘密都遗失了。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>我发现了他，但为时已晚。从他的日志里我恢复了一些秘密笔记。</CHS>
+					<CHS>我找到他了，但我太晚了。我从他的日记里回收了一些秘密笔记。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>太棒了，太棒了！干得好，猎人！</CHS>
+					<CHS>非常棒，棒极了！干得好，猎人！</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我发现了他，但为时已晚。从他的日志里我恢复了一些秘密笔记。</CHS>
+					<CHS>我找到他了，但我太晚了。我从他的日记里回收了一些秘密笔记。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>太棒了，太棒了！干得好，猎人！</CHS>
+					<CHS>非常棒，棒极了！干得好，猎人！</CHS>
 				</Desc>
 			</node6>
 		</DLG_werewolf_quest_done>

@@ -8,27 +8,27 @@
 		<DLG_Lair_Alchemist_skrim>
 			<node1>
 				<Desc>
-					<CHS>腐烂的斯克利姆兽内脏的美妙滋味！</CHS>
+					<CHS>腐烂中的斯科林兽内脏，气味如此甜美！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>我在纳洛维得到的它们。你会用吗？</CHS>
+					<CHS>我从格纳拉维拿到这些的。用得上吗？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>我现在就可以为你制作拥有永久效力的药剂。</CHS>
+					<CHS>现在就能为你制造一剂有永久效果的强力药剂。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我想要那个药剂，求你了。</CHS>
+					<CHS>好，请立即为我制造这药剂吧。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>你可以留着那内脏当做礼物，我不感兴趣。</CHS>
+					<CHS>这些内脏给你做礼物了，我对药剂没什么兴趣。</CHS>
 				</Desc>
 			</node5>
 		</DLG_Lair_Alchemist_skrim>

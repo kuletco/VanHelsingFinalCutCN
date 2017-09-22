@@ -8,32 +8,32 @@
 		<DLG_Alchemist_firsttime>
 			<node1>
 				<Desc>
-					<CHS>你想从像我一样的骗子身上得到什么呢？</CHS>
+					<CHS>你想要我这个骗子怎样？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>什么骗子？你是个天才科学家。</CHS>
+					<CHS>什么骗子？你是一个有天赋的科学家。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>是的，我是！那么我呢？我提炼精华！仅此而己！</CHS>
+					<CHS>是啊，我是！但是我都在干什么？我萃取精华。那就是我所做过的一切了！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>然而这有问题吗，因为……？</CHS>
+					<CHS>这有什么问题吗…?</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>因为没有人把我当回事。即使我学什么都很用功。炸毁实验室！制造又臭又冒泡的东西！</CHS>
+					<CHS>因为没有学历文凭的话就没有人会把我当一回事。虽然说我的求学过程很艰辛。把实验室炸飞！炼制出一些臭气熏天冒泡泡的东西！</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>我认为你可以继续一段时间。我们要走了。</CHS>
+					<CHS>我觉得你还能继续下去很久。我们要走了。</CHS>
 				</Desc>
 			</node6>
 		</DLG_Alchemist_firsttime>

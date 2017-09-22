@@ -8,12 +8,12 @@
 		<DLG_mar_alchemist01>
 			<node1>
 				<Desc>
-					<CHS>唔！唔？！</CHS>
+					<CHS>Mmmmfff! Mfff?!</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你能再说一遍吗?</CHS>
+					<CHS>你能重复一次吗？</CHS>
 				</Desc>
 			</node2>
 			<node3>
@@ -23,7 +23,7 @@
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>呃。好吧。以后再说吧。</CHS>
+					<CHS>恩，很好。那就过几天吧。</CHS>
 				</Desc>
 			</node4>
 		</DLG_mar_alchemist01>

@@ -8,47 +8,47 @@
 		<DLG_Palace_of_Machines>
 			<node1>
 				<Desc>
-					<CHS>我带来新的，范海辛。教授逃往机器宫殿了！</CHS>
+					<CHS>我有新消息，范海辛。那个教授逃到机械宫殿去了。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>什么？现在连机器都有宫殿了？</CHS>
+					<CHS>什么？现在连机器都能有宫殿了？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>那只是大厅的一个花哨的叫法，他们最近在那开了个博格维亚科学展。</CHS>
+					<CHS>那只是个昵称，就是博格瓦最近举办科学展览的大厅。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>他为什么去那？</CHS>
+					<CHS>我为什么要去那里？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>嗯……恐怕你不会喜欢的。展出的奇观之一，是新的机器人样机，机械巨人！</CHS>
+					<CHS>好吧……恐怕你不会喜欢这样的，一个展品是全新的机器人原型机， 机器巨人！</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>你是想说，他有个巨型机械士兵？</CHS>
+					<CHS>你是试图告诉我他有一台巨大的机器士兵吗？</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>它不是操作中的……还不是。无论如何，暴脾气称它为Doomsday Automaton。</CHS>
+					<CHS>现在还不能工作… 不过，不管怎样，弗米伽提都把它叫做末日机器人。</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>实在不是个好迹象，相信我。他一定非常绝望。</CHS>
+					<CHS>相信我，这不是个好兆头。他一定极度恐怖。</CHS>
 				</Desc>
 			</node8>
 			<node9>
 				<Desc>
-					<CHS>我们没时间浪费了。我们必须在他完善那个机器前阻止他！</CHS>
+					<CHS>我们没时间浪费了。我们必须在他让那个机器人运行起来之前阻止他！</CHS>
 				</Desc>
 			</node9>
 		</DLG_Palace_of_Machines>

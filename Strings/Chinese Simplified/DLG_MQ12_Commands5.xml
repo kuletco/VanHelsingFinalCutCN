@@ -8,27 +8,27 @@
 		<DLG_MQ12_Commands5>
 			<node1>
 				<Desc>
-					<CHS>抵抗军士兵报告！长官！我们或许有些寡不敌众。</CHS>
+					<CHS>抵抗派士兵报告！先生！我们或许有点寡不敌众。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>部署自动炮塔，坚守你的阵地！</CHS>
+					<CHS>部署自动炮台并坚守阵地。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>坚守阵地，伙计们！</CHS>
+					<CHS>坚守住你们的阵地，战士们！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我们必须不惜一切代价守好这里。向巢穴求援！</CHS>
+					<CHS>我们必须不惜一切代价来保卫这个地区。请求巢穴支援！</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我要去观测一下防线。稍后再向你汇报。</CHS>
+					<CHS>我会调查防线的。之后我会给你做个简报。</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ12_Commands5>

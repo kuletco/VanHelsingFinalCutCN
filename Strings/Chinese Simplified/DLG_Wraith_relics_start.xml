@@ -8,12 +8,12 @@
 		<DLG_Wraith_relics_start>
 			<node1>
 				<Desc>
-					<CHS>由拥有屏障的遗迹保卫者守护着的古老神殿。我就知道你有兴趣！</CHS>
+					<CHS>由神秘护盾保护着的古代神庙，其中还有文物。我知道你一定十分好奇。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>这屏障的能量似乎来自于那四个大门。我之前见过这个。这可能是由特殊的仪式带来的。</CHS>
+					<CHS>仪式这护盾似乎从四扇门处汲取能量。我曾经见过这种装置。可以用特殊的仪式来取消护盾。</CHS>
 				</Desc>
 			</node2>
 		</DLG_Wraith_relics_start>

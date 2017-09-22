@@ -2,24 +2,24 @@
 <Root>
 	<event>
 		<finished>
-			<CHS>完成</CHS>
+			<CHS>已完成</CHS>
 		</finished>
 		<updating_event>
-			<CHS>更新事件</CHS>
+			<CHS>正在更新事件</CHS>
 		</updating_event>
 		<next_event>
-			<CHS>下一个事件:</CHS>
+			<CHS>下个事件于:</CHS>
 		</next_event>
 		<event_end>
-			<CHS>事件结束:</CHS>
+			<CHS>事件结束于:</CHS>
 		</event_end>
 		<background>
 			<CHS>背景</CHS>
 		</background>
 		<leaderboard>
-			<CHS>猎人的声望</CHS>
+			<CHS>出名猎人</CHS>
 			<your_score>
-				<CHS>你的得分:</CHS>
+				<CHS>你的分数:</CHS>
 			</your_score>
 		</leaderboard>
 		<monster_hunt>
@@ -27,14 +27,14 @@
 				<CHS>Nightmares on  the Loose</CHS>
 			</name>
 			<desc>
-				<CHS>Fulmigati教授 – 天才科学家, 危险的疯子和当代的Borgova之父 – 把他自己大部分时间用于尝试融合机械, 生物和魔法。 And as it usually happens with mad inventors, this proved to be a disastrous idea.\nBorgova is filled with a network of secret underground facilities where Fulmigati kept his experiments. Although most of these places are abandoned, some of them still keep failed test subjects, and in the current chaos sometimes these nightmares break free. This time an insanely powerful creature is on the loose and you must hunt it down before it’s too late!</CHS>
+				<CHS>弗米伽提教授 – 天才科学家, 危险的疯子和当代的Borgova之父 – 把他自己大部分时间用于尝试融合机械, 生物和魔法。 And as it usually happens with mad inventors, this proved to be a disastrous idea.\nBorgova is filled with a network of secret underground facilities where Fulmigati kept his experiments. Although most of these places are abandoned, some of them still keep failed test subjects, and in the current chaos sometimes these nightmares break free. This time an insanely powerful creature is on the loose and you must hunt it down before it’s too late!</CHS>
 			</desc>
 			<objectives>
 				<task>
 					<CHS>目标: %s</CHS>
 				</task>
 				<reward>
-					<CHS>击杀%d个目标!</CHS>
+					<CHS>击杀 %d 个目标!</CHS>
 				</reward>
 				<kills>
 					<CHS>目标死亡: %d</CHS>
@@ -68,7 +68,7 @@
 		</boss_hunt>
 		<cursed>
 			<name>
-				<CHS>Cursed</CHS>
+				<CHS>诅咒</CHS>
 			</name>
 			<desc>
 				<CHS>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</CHS>
@@ -76,7 +76,7 @@
 		</cursed>
 		<merchant>
 			<name>
-				<CHS>Wandering merchant</CHS>
+				<CHS>流浪商人</CHS>
 			</name>
 			<desc>
 				<CHS>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</CHS>
@@ -84,7 +84,7 @@
 		</merchant>
 		<parasite>
 			<name>
-				<CHS>Parasite</CHS>
+				<CHS>寄生物</CHS>
 			</name>
 			<desc>
 				<CHS>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</CHS>
@@ -92,7 +92,7 @@
 		</parasite>
 		<choice>
 			<name>
-				<CHS>Choice</CHS>
+				<CHS>选择</CHS>
 			</name>
 			<desc>
 				<CHS>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</CHS>
@@ -101,134 +101,134 @@
 	</event>
 	<dailyquest>
 		<Reward>
-			<CHS>奖励：%d命运点数</CHS>
+			<CHS>奖励：%d命运点数。</CHS>
 		</Reward>
 		<KillCommon>
 			<name>
-				<CHS>暴走</CHS>
+				<CHS>暴怒</CHS>
 			</name>
 			<desc>
-				<CHS>杀死[max_count]怪物 ([count]/[max_count])</CHS>
+				<CHS>击杀[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillCommon>
 		<KillChampion>
 			<name>
-				<CHS>狩猎奖杯</CHS>
+				<CHS>冠军猎人</CHS>
 			</name>
 			<desc>
-				<CHS>杀死[max_count]勇士怪物 ([count]/[max_count])</CHS>
+				<CHS>击杀[max_count]只冠军怪([count]/[max_count])</CHS>
 			</desc>
 		</KillChampion>
 		<KillElite>
 			<name>
-				<CHS>王牌猎人</CHS>
+				<CHS>精英猎人</CHS>
 			</name>
 			<desc>
-				<CHS>杀死[max_count]精英怪物 ([count]/[max_count])</CHS>
+				<CHS>杀死[max_count]只精英怪([count]/[max_count])</CHS>
 			</desc>
 		</KillElite>
 		<LootChest>
 			<name>
-				<CHS>财富之旅</CHS>
+				<CHS>财宝之旅</CHS>
 			</name>
 			<desc>
-				<CHS>打开[max_count] 宝箱 ([count]/[max_count])</CHS>
+				<CHS>打开 [max_count]只宝箱([count]/[max_count])</CHS>
 			</desc>
 		</LootChest>
 		<LootEpic>
 			<name>
-				<CHS>遗物猎人</CHS>
+				<CHS>遗迹猎人</CHS>
 			</name>
 			<desc>
-				<CHS>找到[max_count]史诗道具 ([count]/[max_count])</CHS>
+				<CHS>发现[max_count]个史诗级物品([count]/[max_count])</CHS>
 			</desc>
 		</LootEpic>
 		<KillPhysical>
 			<name>
-				<CHS>冷铁屠杀</CHS>
+				<CHS>钢铁杀戮</CHS>
 			</name>
 			<desc>
-				<CHS>使用物理类型技能杀死 [max_count] 怪物 ([count]/[max_count])</CHS>
+				<CHS>用物理攻击技能杀死[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillPhysical>
 		<KillPoison>
 			<name>
-				<CHS>毒杀</CHS>
+				<CHS>毒素杀戮</CHS>
 			</name>
 			<desc>
-				<CHS>使用淬毒类型技能杀死 [max_count] 怪物 ([count]/[max_count])</CHS>
+				<CHS>用带毒的技能杀死[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillPoison>
 		<KillLightning>
 			<name>
-				<CHS>闪电屠杀</CHS>
+				<CHS>闪电杀戮</CHS>
 			</name>
 			<desc>
-				<CHS>使用闪电类型技能杀死 [max_count] 怪物 ([count]/[max_count])</CHS>
+				<CHS>用闪电技能杀死[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillLightning>
 		<KillFire>
 			<name>
-				<CHS>火焰屠杀</CHS>
+				<CHS>火焰杀戮</CHS>
 			</name>
 			<desc>
-				<CHS>使用火焰类型技能杀死 [max_count] 怪物 ([count]/[max_count])</CHS>
+				<CHS>用火焰系技能杀死[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillFire>
 		<KillIce>
 			<name>
-				<CHS>冰冻屠杀</CHS>
+				<CHS>冰雪狂欢</CHS>
 			</name>
 			<desc>
-				<CHS>使用寒冰类型技能杀死 [max_count] 怪物 ([count]/[max_count])</CHS>
+				<CHS>用冰雪系技能杀死[max_count] 只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillIce>
 		<KillKatarina>
 			<name>
-				<CHS>鬼魂试炼</CHS>
+				<CHS>幽鬼训练</CHS>
 			</name>
 			<desc>
-				<CHS>让卡特琳娜杀死[max_count]怪物 ([count]/[max_count])</CHS>
+				<CHS>让卡特琳娜杀死[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillKatarina>
 		<CompleteScenario>
 			<name>
-				<CHS>奔跑冒险</CHS>
+				<CHS>冒险行者</CHS>
 			</name>
 			<desc>
-				<CHS>完成[max_count]冒险([count]/[max_count])</CHS>
+				<CHS>完成[max_count]场冒险([count]/[max_count])</CHS>
 			</desc>
 		</CompleteScenario>
 		<CompleteScenarioCoop>
 			<name>
-				<CHS>团队奔跑冒险</CHS>
+				<CHS>团队冒险家</CHS>
 			</name>
 			<desc>
-				<CHS>合作完成冒险</CHS>
+				<CHS>组队完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioCoop>
 		<KillChampionNoDeath>
 			<name>
-				<CHS>不死狩猎奖杯</CHS>
+				<CHS>不死的冠军猎人</CHS>
 			</name>
 			<desc>
-				<CHS>杀死[max_count]勇士怪物并且没有死亡 ([count]/[max_count])</CHS>
+				<CHS>在不死的情况下杀死[max_count]只冠军怪([count]/[max_count])</CHS>
 			</desc>
 		</KillChampionNoDeath>
 		<KillEliteNoDeath>
 			<name>
-				<CHS>不死王牌猎人</CHS>
+				<CHS>不死的精英猎人</CHS>
 			</name>
 			<desc>
-				<CHS>杀死[max_count]精英怪物并且没有死亡 ([count]/[max_count])</CHS>
+				<CHS>在不死的情况下杀死[max_count]只精英怪([count]/[max_count])</CHS>
 			</desc>
 		</KillEliteNoDeath>
 		<KillNoDeath>
 			<name>
-				<CHS>不死狂暴者</CHS>
+				<CHS>不死的狂猎</CHS>
 			</name>
 			<desc>
-				<CHS>杀死[max_count]怪物并且没有死亡 ([count]/[max_count])</CHS>
+				<CHS>在不死的情况下杀死[max_count]只怪物([count]/[max_count])</CHS>
 			</desc>
 		</KillNoDeath>
 		<UseEssence>
@@ -236,79 +236,79 @@
 				<CHS>精华锻造</CHS>
 			</name>
 			<desc>
-				<CHS>将[max_count]有价精华加入道具中([count]/[max_count])</CHS>
+				<CHS>为物品添加价值[max_count]的精华([count]/[max_count])</CHS>
 			</desc>
 		</UseEssence>
 		<GoldSpentGambler>
 			<name>
-				<CHS>赌徒狂欢</CHS>
+				<CHS>赌博狂欢</CHS>
 			</name>
 			<desc>
-				<CHS>赌博花费[max_count]金币([count]/[max_count])</CHS>
+				<CHS>在赌博中花费[max_count]金币([count]/[max_count])</CHS>
 			</desc>
 		</GoldSpentGambler>
 		<WinArenaWave>
 			<name>
-				<CHS>竞技场屹立者</CHS>
+				<CHS>竞技场勇士</CHS>
 			</name>
 			<desc>
-				<CHS>在竞技场中幸存[max_count] 波 ([count]/[max_count])</CHS>
+				<CHS>在竞技场中抵住[max_count]波进攻([count]/[max_count])</CHS>
 			</desc>
 		</WinArenaWave>
 		<CompleteScenarioHunterOrElementalist>
 			<name>
-				<CHS>风筝试炼</CHS>
+				<CHS>骗子训练</CHS>
 			</name>
 			<desc>
-				<CHS>使用赏金猎人或者元素师完成冒险</CHS>
+				<CHS>与赏金猎人或元素师一起完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioHunterOrElementalist>
 		<CompleteScenarioHunterOrConstructor>
 			<name>
-				<CHS>枪械奔袭</CHS>
+				<CHS>狂奔枪手</CHS>
 			</name>
 			<desc>
-				<CHS>使用赏金猎人或者工程师完成冒险</CHS>
+				<CHS>与赏金猎人或建造师一起完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioHunterOrConstructor>
 		<CompleteScenarioProtectorOrPhlogistoneer>
 			<name>
-				<CHS>刺杀练习</CHS>
+				<CHS>攻击训练</CHS>
 			</name>
 			<desc>
-				<CHS>使用保卫者或者机甲师完成冒险</CHS>
+				<CHS>与守卫者或燃素师一起完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioProtectorOrPhlogistoneer>
 		<CompleteScenarioProtectorOrUmbralist>
 			<name>
-				<CHS>锻造练习</CHS>
+				<CHS>剑术训练</CHS>
 			</name>
 			<desc>
-				<CHS>使用保卫者或者暗影刺客完成冒险</CHS>
+				<CHS>与守卫者或影术师一起完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioProtectorOrUmbralist>
 		<CompleteScenarioPhlogistoneerOrElementalist>
 			<name>
-				<CHS>钻孔爆破</CHS>
+				<CHS>毁灭练习</CHS>
 			</name>
 			<desc>
-				<CHS>使用机甲师或者元素师完成冒险</CHS>
+				<CHS>与元素师或燃素师一起完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioPhlogistoneerOrElementalist>
 		<CompleteScenarioConstructorOrUmbralist>
 			<name>
-				<CHS>实效测试</CHS>
+				<CHS>效用测试</CHS>
 			</name>
 			<desc>
-				<CHS>使用工程师或者暗影刺客完成冒险</CHS>
+				<CHS>与建造师或影术师一起完成一场冒险</CHS>
 			</desc>
 		</CompleteScenarioConstructorOrUmbralist>
 		<PigasusItemBought>
 			<name>
-				<CHS>愉快购物</CHS>
+				<CHS>快乐购物</CHS>
 			</name>
 			<desc>
-				<CHS>从比格瑟斯商贩那购买道具。</CHS>
+				<CHS>从皮加苏斯地摊上买一件物品。</CHS>
 			</desc>
 		</PigasusItemBought>		
 	</dailyquest>
@@ -317,47 +317,47 @@
 			<map>
 				<scenario_Nightmare_Hollow02>
 					<name>
-						<CHS>黑门公墓</CHS>
+						<CHS>黑门墓地</CHS>
 					</name>
 				</scenario_Nightmare_Hollow02>
 				<scenario_tutorial2_Nightmare_Hollow02>
 					<name>
-						<CHS>黑门公墓</CHS>
+						<CHS>黑门墓地</CHS>
 					</name>
 				</scenario_tutorial2_Nightmare_Hollow02>
 				<scenario_poksziklak>
 					<name>
-						<CHS>黑暗峭壁</CHS>
+						<CHS>阴郁峭壁</CHS>
 					</name>
 				</scenario_poksziklak>
 				<scenario_cold_caverns>
 					<name>
-						<CHS>深层矿井</CHS>
+						<CHS>深井</CHS>
 					</name>
 				</scenario_cold_caverns>
 				<scenario_foundry>
 					<name>
-						<CHS>钢铁区域</CHS>
+						<CHS>钢铁区</CHS>
 					</name>
 				</scenario_foundry>
 				<scenario_ink_glass>
 					<name>
-						<CHS>亚特兰蒂斯遗迹</CHS>
+						<CHS>阿特拉斯废墟</CHS>
 					</name>
 				</scenario_ink_glass>
 				<scenario_ink_beggarking>
 					<name>
-						<CHS>墓地暗礁</CHS>
+						<CHS>骨葬场之礁</CHS>
 					</name>
 				</scenario_ink_beggarking>
 				<scenario_tutorial1_cave>
 					<name>
-						<CHS>废弃洞穴</CHS>
+						<CHS>绝望洞窟</CHS>
 					</name>
 				</scenario_tutorial1_cave>
 				<scenario_haunted_forest02>
 					<name>
-						<CHS>邪恶森林</CHS>
+						<CHS>维尔之森</CHS>
 					</name>
 				</scenario_haunted_forest02>
 				<scenario_ink_frozen>
@@ -367,27 +367,27 @@
 				</scenario_ink_frozen>
 				<scenario_ink_old_town>
 					<name>
-						<CHS>破裂带</CHS>
+						<CHS>破碎区</CHS>
 					</name>
 				</scenario_ink_old_town>
 				<scenario_pokol1>
 					<name>
-						<CHS>地狱边境</CHS>
+						<CHS>荒芜之狱</CHS>
 					</name>
 				</scenario_pokol1>
 				<scenario_tutorial2_ink4>
 					<name>
-						<CHS>虚空列岛</CHS>
+						<CHS>虚空群岛</CHS>
 					</name>
 				</scenario_tutorial2_ink4>
 				<scenario_dark_carnival>
 					<name>
-						<CHS>狂热马戏团</CHS>
+						<CHS>狂暴马戏团</CHS>
 					</name>
 				</scenario_dark_carnival>
 				<scenario_tutorial3_vizt1>
 					<name>
-						<CHS>被感染的平民窟</CHS>
+						<CHS>贫民窟</CHS>
 					</name>
 				</scenario_tutorial3_vizt1>				
 				<scenario_ink_darkness>
@@ -397,7 +397,7 @@
 				</scenario_ink_darkness>
 				<terep_lair>
 					<desc>
-						<CHS>这是你可以进行储存的主基地，同时也可以购买升级装备也可以重设你的人物技能和能力。</CHS>
+						<CHS>这儿是你的主基地，你可以在此储存物品、购买或升级装备，也可以在此重设你的角色技能与能力。</CHS>
 					</desc>
 				</terep_lair>
 				<arena>
@@ -405,74 +405,74 @@
 						<CHS>竞技场</CHS>
 					</name>
 					<desc>
-						<CHS>进入收费竞技场，迎战一波又一波更为强大的敌人。你进行的越远，获得的奖励就越好。</CHS>
+						<CHS>花少量入场费进入竞技场，然后以一己之力打败越来越强的一波波对手，走得越远，你所获得的奖励也将越多。</CHS>
 					</desc>
 				</arena>
 			</map>
 			<scenario>
 				<difficulty>
-					<CHS>特俗状况：</CHS>
+					<CHS>特殊条件：</CHS>
 				</difficulty>
 				<scenario_Nightmare_Hollow02>
-					<CHS>黑门公墓</CHS>
+					<CHS>黑门墓地</CHS>
 				</scenario_Nightmare_Hollow02>
 				<scenario_tutorial2_Nightmare_Hollow02>
-					<CHS>黑门公墓</CHS>
+					<CHS>黑门墓地</CHS>
 				</scenario_tutorial2_Nightmare_Hollow02>
 				<scenario_fenyves>
-					<CHS>死亡树林</CHS>
+					<CHS>死木</CHS>
 				</scenario_fenyves>
 				<scenario_poksziklak>
-					<CHS>黑暗峭壁</CHS>
+					<CHS>阴郁峭壁</CHS>
 				</scenario_poksziklak>
 				<scenario_foundry>
-					<CHS>钢铁区域</CHS>
+					<CHS>钢铁区</CHS>
 				</scenario_foundry>
 				<scenario_cold_caverns>
-					<CHS>深层矿井</CHS>
+					<CHS>深井</CHS>
 				</scenario_cold_caverns>
 				<scenario_ink_glass>
-					<CHS>亚特兰蒂斯遗迹</CHS>
+					<CHS>阿特拉斯废墟</CHS>
 				</scenario_ink_glass>
 				<scenario_ink_beggarking>
-					<CHS>墓地暗礁</CHS>
+					<CHS>骨葬场之礁</CHS>
 				</scenario_ink_beggarking>
 				<scenario_cave>
-					<CHS>废弃洞穴</CHS>
+					<CHS>绝望洞窟</CHS>
 				</scenario_cave>
 				<scenario_haunted_forest02>
-					<CHS>邪恶森林</CHS>
+					<CHS>维尔之森</CHS>
 				</scenario_haunted_forest02>
 				<scenario_ink_frozen>
 					<CHS>永冻岛</CHS>
 				</scenario_ink_frozen>
 				<scenario_ink_old_town>
-					<CHS>破裂带</CHS>
+					<CHS>破碎区</CHS>
 				</scenario_ink_old_town>
 				<scenario_pokol1>
-					<CHS>地狱边境</CHS>
+					<CHS>荒芜之狱</CHS>
 				</scenario_pokol1>
 				<scenario_ink4>
-					<CHS>虚空列岛</CHS>
+					<CHS>虚空群岛</CHS>
 				</scenario_ink4>
 				<scenario_dark_carnival>
-					<CHS>狂热马戏团</CHS>
+					<CHS>狂暴马戏团</CHS>
 				</scenario_dark_carnival>
 				<scenario_gyarnegyed>
-					<CHS>友军熔炉</CHS>
+					<CHS>熔岩巷</CHS>
 				</scenario_gyarnegyed>
 				<scenario_viztisztito_1>
-					<CHS>被感染的平民窟</CHS>
+					<CHS>贫民窟</CHS>
 				</scenario_viztisztito_1>
 				<scenario_tutorial1_cave>
-					<CHS>废弃洞穴</CHS>
+					<CHS>绝望洞窟</CHS>
 				</scenario_tutorial1_cave>
 				<scenario_tutorial2_ink4>
-					<CHS>虚空列岛</CHS>
+					<CHS>虚空群岛</CHS>
 				</scenario_tutorial2_ink4>
 				<scenario_tutorial3_vizt1>
-					<CHS>被感染的平民窟</CHS>
-				</scenario_tutorial3_vizt1>				
+					<CHS>贫民窟</CHS>
+				</scenario_tutorial3_vizt1>	
 				<scenario_ink_darkness>
 					<CHS>Netherville</CHS>
 				</scenario_ink_darkness>
@@ -482,26 +482,26 @@
 				<arena>
 					<CHS>竞技场</CHS>
 					<entry_fee>
-						<CHS>免费进入：20命运点数</CHS>
+						<CHS>入场费：20命运点数</CHS>
 					</entry_fee>
 					<entry_free>
 						<CHS>每天第一次进入是免费的</CHS>
 					</entry_free>
 					<level_req>
-						<CHS>竞技场只有到达20级时才可用。</CHS>
+						<CHS>竞技场只对高于20级的玩家开放。</CHS>
 					</level_req>
 					<round>
-						<CHS>回合%d</CHS>
+						<CHS>第%d轮</CHS>
 					</round>
 				</arena>
 				<nubcsirke>
-					<CHS>恭喜！你已经解锁两张新地图了！</CHS>
+					<CHS>恭喜！你已成功解锁了两张新地图！</CHS>
 				</nubcsirke>
 				<fate_gained>
-					<CHS>+%d命运点数！</CHS>
+					<CHS>增加%d点命运点数！</CHS>
 				</fate_gained>
 				<fate_nomore>
-					<CHS>已达到每日命运限制！</CHS>
+					<CHS>此难度下的每日命运点数已达上限！</CHS>
 				</fate_nomore>
 			</scenario>
 		</gui>

@@ -8,32 +8,32 @@
 		<DLG_haunted_ghost_start>
 			<node1>
 				<Desc>
-					<CHS>我告诉过你，侵犯这些沉睡的骇客不是个好主意！</CHS>
+					<CHS>我告诉过你，打断沉睡中的Creaker是个糟糕的主意！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>但是你在炫耀你的新斧子!我必须出拳了！</CHS>
+					<CHS>但是你当时只是在吹捧你的新斧子！而我必须荡秋千！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>两个正常人......在争吵。这有趣。</CHS>
+					<CHS>两个灵魂如此困顿……却还争论个不停。多么萌呆。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>快看，我们被一棵树生吞活剥了，但是现在我们没办法离开了，直到我们的尸骨埋在这个祭坛旁边为止。</CHS>
+					<CHS>听着，我们被一颗树给生吃了，在我们的残骸被埋在这个圣坛之前，我们都无法离开。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>让我猜一下，你想要让我去捡骨头？</CHS>
+					<CHS>让我猜猜，你们想要我去取尸骨？</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>没错。死去并要永远和这些羊肉陷在这里是一个让人紧张的事情。</CHS>
+					<CHS>是的。不仅死了，还得跟这个羊肉永久困在这里真是太受不了了。</CHS>
 				</Desc>
 			</node6>
 			<node7>
@@ -43,12 +43,12 @@
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>在树林里的麻烦已经够多的了，我会帮你的。</CHS>
+					<CHS>这片森林的麻烦已经够多了，我会帮你的。</CHS>
 				</Desc>
 			</node8>
 			<node9>
 				<Desc>
-					<CHS>我们手头上还有更重要的事情，不好意思......</CHS>
+					<CHS>我们还有更加紧迫的事要做，抱歉……</CHS>
 				</Desc>
 			</node9>
 		</DLG_haunted_ghost_start>

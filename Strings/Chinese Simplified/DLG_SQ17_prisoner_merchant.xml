@@ -8,32 +8,32 @@
 		<DLG_SQ17_prisoner_merchant>
 			<node1>
 				<Desc>
-					<CHS>看！一张熟悉的脸。</CHS>
+					<CHS>看！一张熟悉的面孔。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>是的，我认识你。你是我之前在死亡树林要救的那个商人。这次你要搞什么鬼？</CHS>
+					<CHS>是的，我了解你。你就是之前被我救的那个商人。这次你又有什么事？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>你知道离开这个可怕的村庄有多难吗？</CHS>
+					<CHS>你知道它有多难离开这个可怕的国家吗？</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>你真的应该给我打折。</CHS>
+					<CHS>你真该给我打个折。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>当然！不过还真是好，价格在那之后没有爬升。但是这样你就不用多掏钱了！不过首先你得先给我自由，知道。</CHS>
+					<CHS>当然！这很好，价格自那时以来已经上涨到非常高了。但以这种方式，你就不必付出更多钱了！但首先你应该让我自由，你知道的。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>我去跟灵魂行者们谈谈。</CHS>
+					<CHS>我去和灵魂行者谈谈。</CHS>
 				</Desc>
 			</node6>
 		</DLG_SQ17_prisoner_merchant>

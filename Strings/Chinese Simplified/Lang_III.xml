@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -18,7 +17,7 @@
 			</newgame>
 			<createcharacter>
 				<import_lvl_req_60>
-					<CHS>只能导入60级角色！</CHS>
+					<CHS>角色需要达到60级才能被导入。</CHS>
 				</import_lvl_req_60>
 			</createcharacter>
 		</main>
@@ -27,14 +26,11 @@
 		<GUI>
 			<popup>
 				<InfinitePotionType0>
-					<CHS>喝药水回满生命。</CHS>
+					<CHS>喝药水可以回复全部生命值。</CHS>
 				</InfinitePotionType0>
 				<InfinitePotionType1>
-					<CHS>喝药水回满法力。</CHS>
+					<CHS>喝药水可以回复全部魔法值。</CHS>
 				</InfinitePotionType1>
-				<PotionTypeBlocked>
-					<CHS>此类型的药剂处于冷却状态。</CHS>
-				</PotionTypeBlocked>
 			</popup>
 			<charactersheet>
 				<Armor>
@@ -42,7 +38,7 @@
 						<CHS>护甲</CHS>
 					</label>
 					<desc>
-						<CHS>你的物品和技能所提供的护甲总值会指示出受到所有伤害的减免百分比。考虑到你这个等级的敌人平均值，减免百分比大约为%d%%。这会通过你的伤害类型抗性受到进一步的减免。</CHS>
+						<CHS>你的物品和技能会影响你的总护甲值，后者代表你受到的伤害会被人豁免多少。从你的敌人的平均等级来看，这个数值大概会是%d%%。你的伤害种类抗性会进一步降低受到的伤害。</CHS>
 					</desc>
 				</Armor>
 				<Shield>
@@ -54,130 +50,130 @@
 					<protector>
 						<ability_1>
 							<label>
-								<CHS>物理攻击承受能力</CHS>
+								<CHS>壮实粗野</CHS>
 							</label>
 							<popup>
-								<CHS>这项能力决定了你的耐攻击程度以及通常情况下，你的自我保护的优秀程度。它会增加你的生命值（%s点生命值）以及你的防御（%s）</CHS>
+								<CHS>这个能力代表你有多么坚固耐操，以及如何保护自己免遭伤害。提升你的生命值（%s Hit Points）和防御（%s）</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
 							<label>
-								<CHS>近战专精</CHS>
+								<CHS>近战精通</CHS>
 							</label>
 							<popup>
-								<CHS>它代表了了你对剑，斧子以及盾牌的使用能力。它会增加你的格挡范围（%s%%）以及你物理攻击造成的伤害（%s%%）</CHS>
+								<CHS>这个能力代表你对剑、斧、和盾牌的精通。提升你的格挡范围（%s%%）和你造成的物理攻击的伤害（%s%%）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>心智增强</CHS>
+								<CHS>意志坚定</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你对战斗魔法技能的使用能力。它会增加你的最大法力（%s）以及你元素攻击造成的伤害（%s%%）</CHS>
+								<CHS>此能力决定你的战斗魔法的熟练度。提升你魔法值上限（%s）和你的元素攻击的伤害（%s%%）</CHS>
 							</popup>
 						</ability_3>
 					</protector>
 					<bounty_hunter>
 						<ability_1>
 							<label>
-								<CHS>活力强化</CHS>
+								<CHS>强健</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你通常情况下躲避伤害的能力。它会增加你的生命值（%s点生命值）以及你的躲避统计（%s）</CHS>
+								<CHS>此能力代表你躲避伤害的基本本事。提升你的生命值（%s Hit Points）和闪避属性（%s）</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
 							<label>
-								<CHS>进阶枪炮术</CHS>
+								<CHS>百发百中</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你使用远程武器的能力。它会增加你的伤害（%s%%）以及你的最大怒气（%s）</CHS>
+								<CHS>此能力决定你对远程武器的精通。提升你的伤害（%s%%）和你的狂怒上限（%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>灵性</CHS>
+								<CHS>洞察天地</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你和周围世界的协调程度。它会增加你的最大法力（%s）以及你的暴击伤害增益（%s%%）</CHS>
+								<CHS>此能力决定你对周围环境的契合度。提升你的魔法值上限（%s）和你的暴击伤害加成（%s%%）</CHS>
 							</popup>
 						</ability_3>
 					</bounty_hunter>
 					<elementalist>
 						<ability_1>
 							<label>
-								<CHS>实体平衡</CHS>
+								<CHS>稳如泰山</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你的基本体能。它会增加你的生命值（%s点生命值）以及你使用造成物理伤害的咒语伤害（%s%%）</CHS>
+								<CHS>此能力代表你的体魄基础强健度。提升你的生命值（%s Hit Points）和你的法术的物理伤害（%s%%）</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
 							<label>
-								<CHS>元素大师</CHS>
+								<CHS>元素掌握</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你使用元素的能力。它会增加你使用造成元素伤害（%s%%）的咒语以及你对元素攻击的抗性（%s%%元素抗性）</CHS>
+								<CHS>此能力决定你对元素的掌握程度。提升你的法术的元素伤害（%s%%）以及你对元素攻击的抗性（%s%%元素抗性）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>秘法影响</CHS>
+								<CHS>奥术掌控</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你对周围秘法力量的全面控制能力。它会增加你的最大法力（%s）以及你的暴击伤害增益（%s%%）</CHS>
+								<CHS>此能力代表你对周遭的奥术的总体控制力。提升你的魔法值上限（%s）和你的暴击伤害加成（%s%%）</CHS>
 							</popup>
 						</ability_3>
 					</elementalist>
 					<umbralist>
 						<ability_1>
 							<label>
-								<CHS>实体形态</CHS>
+								<CHS>根深蒂固</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你和物质世界连接力量。它会增加你的生命值（%s点生命值）以及你的暴击伤害增益（%s%%）</CHS>
+								<CHS>此能力代表你跟物质世界的联系强度。提升你的生命值（%s Hit Points）和你的暴击伤害加成（%s%%）</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
 							<label>
-								<CHS>刀刃巫术</CHS>
+								<CHS>剑刃巫术</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你使用匕首的能力。它会增加你的物理伤害（%s%%）以及你的防御（%s）</CHS>
+								<CHS>此能力代表你对符文匕首的精通。提升你的物理伤害（%s%%）和防守（%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>暗影集中</CHS>
+								<CHS>影术专注</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你对渗入到物质世界的异界力量的掌控能力。它会增加你的最大法力（%s），你的元素，秘法和毒性伤害（%s%%）以及你的闪避（%s）</CHS>
+								<CHS>此能力决定你对进入物质世界的异界能力的控制。提升你的魔法值上限%s），你的元素、奥术、以及毒素伤害（%s%%）和你的闪避（%s）</CHS>
 							</popup>
 						</ability_3>
 					</umbralist>
 					<constructor>
 						<ability_1>
 							<label>
-								<CHS>机械战争</CHS>
+								<CHS>进击的机械</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你在战斗中运用装备的程度。它会增加你的生命值（%s点生命值）以及你的伤害（%s%%）。</CHS>
+								<CHS>此能力决定你在战斗中运用装备的熟练度。提升生命值（%s Hit Points）和伤害（%s%%）。</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
 							<label>
-								<CHS>机械协同</CHS>
+								<CHS>人机搭配</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你对机械创造物的掌控能力。它会增加你的最小伤害（%s%%）以及你的最大怒气（%s）</CHS>
+								<CHS>此能力代表你对机械物品的掌控度。提升傀儡的伤害（%s%%）和你的狂怒上限（%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>诡异科学</CHS>
+								<CHS>奇怪科学</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你作为工程师的普通能力。它会增加你的最大法力（%s）以及你仆从的最大生命值（%s%%）</CHS>
+								<CHS>此能力代表你作为建造师的本事。提升你的魔法值上限（%s）和傀儡生命值上限（%s%%）</CHS>
 							</popup>
 						</ability_3>
 					</constructor>
@@ -187,7 +183,7 @@
 								<CHS>外骨骼核心</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你在战斗中运用外骨骼的程度。它会增加你的生命值（%s点生命值）以及你的物理伤害（%s%%）。</CHS>
+								<CHS>此能力代表你在战斗中对自己的外骨骼的掌控度。提升你的生命值（%s生命值）和你的物理伤害（%s%%）</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
@@ -195,89 +191,89 @@
 								<CHS>军事天赋</CHS>
 							</label>
 							<popup>
-								<CHS>该能力代表了你使用战略的能力。它会增加你的元素伤害（%s%%）以及你的防御（%s）</CHS>
+								<CHS>此能力代表你对高级战斗技巧的运用掌控。提升你的元素伤害（%s%%）和你的防御 （%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>护盾大师</CHS>
+								<CHS>盾牌精通</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你对自己外骨骼能量储备的管理能力。它会增加你的最大法力（%s）以及你的最大护盾（%s）</CHS>
+								<CHS>决定你对外骨骼的能量库存的管理能力。提升你的魔法值上限（%s）和盾牌上限（%s）</CHS>
 							</popup>
 						</ability_3>
 					</phlogistoneer>
 					<katarina>
 						<ability_1>
 							<label>
-								<CHS>躯壳</CHS>
+								<CHS>文集</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你的伙伴材料外观的坚固程度。它会增加她的生命值（%s）以及近战攻击造成的伤害（%s）</CHS>
+								<CHS>决定你的同伴的身体的物理坚固度。提升她的生命值（%s）和近攻伤害（%s）</CHS>
 							</popup>
 						</ability_1>
 						<ability_2>
 							<label>
-								<CHS>运动</CHS>
+								<CHS>反应能力</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你的伙伴远程攻击以及她躲避伤害的能力。它会增加远程伤害（%s%%）以及闪避值（%s）</CHS>
+								<CHS>决定你的同伴的远攻的效率和闪避伤害的能力。提升远程伤害（%s）和闪避值（%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
 							<label>
-								<CHS>飘渺</CHS>
+								<CHS>虚无飘渺</CHS>
 							</label>
 							<popup>
-								<CHS>该能力决定了你的伙伴离完成飘渺有多近。它会增加她对所有攻击的抗性（%s），也增加了她几率技能的百分比（%s）</CHS>
+								<CHS>决定你的同伴有多么接近空灵虚无状态。提升她对所有攻击的抗性（%s）和她的所有技能触发的几率。（%s）</CHS>
 							</popup>
 						</ability_3>
 					</katarina>
 				</ability>
 				<BODY_VH3>
 					<companionpopup>
-						<CHS>体质决定了你伙伴的身体条件。较高的体质值会增加她的近战伤害（%s），让她的生命值获得增益（%s）。</CHS>
+						<CHS>体质决定你的同伴的物理状态。体质数值越高，她的近攻伤害就越高（%s)，同时她的生命值还会获得加成（%s）。</CHS>
 					</companionpopup>
 				</BODY_VH3>
 				<BlockPool>
 					<label>
-						<CHS>Block Pool</CHS>
+						<CHS>公用地</CHS>
 					</label>
 					<damage>
-						<CHS>复仇伤害增益：%d%%</CHS>
+						<CHS>反击伤害加成：%d%%</CHS>
 					</damage>					
 				</BlockPool>
 			</charactersheet>
 			<companion>
 				<shopping>
 					<popup_vh3>
-						<CHS>派你的同伴出售物品栏中的物品</CHS>
+						<CHS>拍你的同伴去出售其物品栏中的所有物品。</CHS>
 					</popup_vh3>
 				</shopping>
 				<HPPotionThreshold>
 					<popup_vh3>
-						<CHS>当你的伙伴的生命值处于总生命值的%s时，她会喝下生命药水（除非她刚刚使用过生命药水）。</CHS>
+						<CHS>每当你的同伴的生命值低于%s，她就会饮用生命药水（除非她才刚刚喝过了）</CHS>
 					</popup_vh3>
 				</HPPotionThreshold>
 			</companion>
 			<SkillsWindow>
 				<Skill>
 					<label>
-						<CHS>技能</CHS>
+						<CHS>技巧窗口</CHS>
 					</label>
 				</Skill>
 				<Aura>
 					<levelreq_10>
-						<CHS>10级后栏位可用</CHS>
+						<CHS>10级后槽位可用</CHS>
 					</levelreq_10>
 					<levelreq_20>
-						<CHS>20级后栏位可用</CHS>
+						<CHS>20级后槽位可用</CHS>
 					</levelreq_20>
 					<levelreq_15>
-						<CHS>15级后栏位可用</CHS>
+						<CHS>15级后槽位可用</CHS>
 					</levelreq_15>
 					<levelreq_30>
-						<CHS>30级后栏位可用</CHS>
+						<CHS>30级后槽位可用</CHS>
 					</levelreq_30>
 				</Aura>				
 			</SkillsWindow>
@@ -299,22 +295,22 @@
 				</terep_Haunted_Forest01>
 				<terep_Ink_mocsar>
 					<name>
-						<CHS>纳洛维</CHS>
+						<CHS>格纳拉维</CHS>
 					</name>
 				</terep_Ink_mocsar>
 				<terep_Haunted_Forest02>
 					<name>
-						<CHS>幽灵树林</CHS>
+						<CHS>幽灵之森</CHS>
 					</name>
 				</terep_Haunted_Forest02>
 				<terep_HF_Arena>
 					<name>
-						<CHS>隐匿处</CHS>
+						<CHS>隐藏点</CHS>
 					</name>
 				</terep_HF_Arena>
 				<terep_Ink_Old_Town>
 					<name>
-						<CHS>哥特区</CHS>
+						<CHS>哥特地区</CHS>
 					</name>
 				</terep_Ink_Old_Town>
 				<terep_Dark_Carnival>
@@ -324,7 +320,7 @@
 				</terep_Dark_Carnival>
 				<terep_Nightmare_Hollow01>
 					<name>
-						<CHS>噩梦山谷</CHS>
+						<CHS>恶梦空虚</CHS>
 					</name>
 				</terep_Nightmare_Hollow01>
 				<terep_Nightmare_Hollow02>
@@ -334,27 +330,27 @@
 				</terep_Nightmare_Hollow02>
 				<terep_Nightmare_Hollow03>
 					<name>
-						<CHS>罪恶坟墓</CHS>
+						<CHS>无望坟墓</CHS>
 					</name>
 				</terep_Nightmare_Hollow03>
 				<terep_kapubirtok>
 					<name>
-						<CHS>看门人的领地</CHS>
+						<CHS>守门员的领域</CHS>
 					</name>
 				</terep_kapubirtok>
 				<terep_Ink_mythical>
 					<name>
-						<CHS>幽灵省</CHS>
+						<CHS>幽灵行省</CHS>
 					</name>
 				</terep_Ink_mythical>
 				<terep_Ink_frozen>
 					<name>
-						<CHS>冰霜山谷</CHS>
+						<CHS>寒霜峡谷</CHS>
 					</name>
 				</terep_Ink_frozen>
 				<terep_Ink_darkness>
 					<name>
-						<CHS>恐惧岛</CHS>
+						<CHS>恐怖之岛</CHS>
 					</name>
 				</terep_Ink_darkness>
 				<terep_Ink_glass2>
@@ -364,17 +360,17 @@
 				</terep_Ink_glass2>
 				<terep_TD1_steamhall>
 					<name>
-						<CHS>亡灵部落</CHS>
+						<CHS>不死军团</CHS>
 					</name>
 				</terep_TD1_steamhall>
 				<terep_TD2_floating_monastery>
 					<name>
-						<CHS>苍天周界</CHS>
+						<CHS>苍穹之巅</CHS>
 					</name>
 				</terep_TD2_floating_monastery>
 				<terep_TD3_memorial_park>
 					<name>
-						<CHS>墨境之战</CHS>
+						<CHS>墨境中战斗</CHS>
 					</name>
 				</terep_TD3_memorial_park>
 				<terep_Clockwork_Keep>
@@ -384,12 +380,12 @@
 				</terep_Clockwork_Keep>
 				<terep_Pokol1>
 					<name>
-						<CHS>哀悼神龛</CHS>
+						<CHS>悲歌神龛</CHS>
 					</name>
 				</terep_Pokol1>
 				<terep_Pokol2>
 					<name>
-						<CHS>痛苦之塔</CHS>
+						<CHS>折磨之塔</CHS>
 					</name>
 				</terep_Pokol2>
 				<terep_Void_Cathedral>
@@ -399,27 +395,27 @@
 				</terep_Void_Cathedral>
 				<VH3Scenario_Dark_Carnival>
 					<name>
-						<CHS>恐惧马戏团</CHS>
+						<CHS>恐惧之环</CHS>
 					</name>
 				</VH3Scenario_Dark_Carnival>
 				<VH3Scenario_Haunted_Forest02>
 					<name>
-						<CHS>尖刺森林</CHS>
+						<CHS>荆棘之森</CHS>
 					</name>
 				</VH3Scenario_Haunted_Forest02>
 				<VH3Scenario_Ink_frozen>
 					<name>
-						<CHS>冰柱谷</CHS>
+						<CHS>冰棱峡谷</CHS>
 					</name>
 				</VH3Scenario_Ink_frozen>
 				<VH3Scenario_Ink_Old_Town>
 					<name>
-						<CHS>暗影博格维亚</CHS>
+						<CHS>暗影伯格瓦</CHS>
 					</name>
 				</VH3Scenario_Ink_Old_Town>
 				<VH3Scenario_Nightmare_Hollow02>
 					<name>
-						<CHS>黑门公墓</CHS>
+						<CHS>黑门墓地</CHS>
 					</name>
 				</VH3Scenario_Nightmare_Hollow02>
 				<VH3Scenario_Pokol1>
@@ -429,32 +425,32 @@
 				</VH3Scenario_Pokol1>
 				<Touchdown>
 					<name>
-						<CHS>深渊体育场</CHS>
+						<CHS>幽深运动场</CHS>
 					</name>
 				</Touchdown>
 				<terep_VHGold_TD1>
 					<name>
-						<CHS>巢穴前哨</CHS>
+						<CHS>巢穴哨岗</CHS>
 					</name>
 				</terep_VHGold_TD1>
 				<terep_VHGold_TD2>
 					<name>
-						<CHS>墨境潮汐通道</CHS>
+						<CHS>墨潮隧道</CHS>
 					</name>
 				</terep_VHGold_TD2>
 				<terep_VHGold_TD3>
 					<name>
-						<CHS>地下入侵</CHS>
+						<CHS>偷袭</CHS>
 					</name>
 				</terep_VHGold_TD3>
 				<terep_VHGold_TD4>
 					<name>
-						<CHS>鼠辈入侵</CHS>
+						<CHS>耗子怪的入侵</CHS>
 					</name>
 				</terep_VHGold_TD4>
 				<terep_VHGold_TD5>
 					<name>
-						<CHS>非人部队</CHS>
+						<CHS>野蛮团</CHS>
 					</name>
 				</terep_VHGold_TD5>
 				<terep_VHGold_TD6>
@@ -464,17 +460,17 @@
 				</terep_VHGold_TD6>
 				<terep_VHGold_TD7>
 					<name>
-						<CHS>亡灵部落</CHS>
+						<CHS>不死军团</CHS>
 					</name>
 				</terep_VHGold_TD7>
 				<terep_VHGold_TD8>
 					<name>
-						<CHS>苍天周界</CHS>
+						<CHS>苍穹之巅</CHS>
 					</name>
 				</terep_VHGold_TD8>
 				<terep_VHGold_TD9>
 					<name>
-						<CHS>墨境之战</CHS>
+						<CHS>墨境中战斗</CHS>
 					</name>
 				</terep_VHGold_TD9>
 				<battle_royal_haunted_forest>
@@ -486,17 +482,17 @@
 			<ResistanceWindow>
 				<status>
 					<Dead>
-						<CHS>死亡</CHS>
+						<CHS>死的</CHS>
 					</Dead>
 				</status>
 			</ResistanceWindow>
 			<KeyShop>
 				<title>
-					<CHS>钥匙夫人</CHS>
+					<CHS>钥匙女王</CHS>
 				</title>
 				<key0>
 					<popup>
-						<CHS>铜钥匙</CHS>
+						<CHS>铜质钥匙</CHS>
 					</popup>
 				</key0>
 				<key1>
@@ -517,7 +513,7 @@
 					<CHS>尸体</CHS>
 				</gnome_tribesman_corpse>
 				<skullpile>
-					<CHS>骨堆</CHS>
+					<CHS>一堆头骨</CHS>
 				</skullpile>
 			</Chest>
 			<Info>
@@ -531,136 +527,136 @@
 					<CHS>泰坦肉</CHS>
 				</Meat_tower3>
 				<feeder_cage1>
-					<CHS>进食者</CHS>
+					<CHS>饲养员</CHS>
 				</feeder_cage1>
 				<feeder_cage2>
-					<CHS>进食者</CHS>
+					<CHS>饲养员</CHS>
 				</feeder_cage2>				
 				<haystack>
-					<CHS>草堆</CHS>
+					<CHS>干草堆</CHS>
 				</haystack>
 				<titanslayer_relic_jewel>
-					<CHS>神盾</CHS>
+					<CHS>羊皮盾</CHS>
 				</titanslayer_relic_jewel>
 				<hc_titanmeat>
 					<CHS>葬礼柴堆</CHS>
 				</hc_titanmeat>
 				<hc_utikonyv>
-					<CHS>骷髅堆</CHS>
+					<CHS>一堆骷髅</CHS>
 				</hc_utikonyv>
 				<hc_koschei_fragment>
-					<CHS>骨堆</CHS>
+					<CHS>一堆骨头</CHS>
 				</hc_koschei_fragment>
 				<BNT_activator>
-					<CHS>塔迪斯控制台</CHS>
+					<CHS>时间飞船控制台</CHS>
 				</BNT_activator>				
 				<hc_kiado_lakas>
-					<CHS>待租小屋</CHS>
+					<CHS>出租小屋</CHS>
 				</hc_kiado_lakas>
 				<hc_atlantis_book>
 					<CHS>美人鱼雕像</CHS>
 				</hc_atlantis_book>
 				<hc_atlantiszi_damak>
-					<CHS>阿特兰提斯画作</CHS>
+					<CHS>亚特兰蒂斯的画</CHS>
 				</hc_atlantiszi_damak>				
 				<hc_szoborfelirat>
 					<CHS>雕像</CHS>
 				</hc_szoborfelirat>
 				<hc_padalatt>
-					<CHS>街道长凳</CHS>
+					<CHS>街边长凳</CHS>
 				</hc_padalatt>
 				<hc_hirdetes>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</hc_hirdetes>
 				<hc_postakocsi>
-					<CHS>公共马车</CHS>
+					<CHS>驿站马车 </CHS>
 				</hc_postakocsi>
 				<hc_poni>
-					<CHS>墓地</CHS>
+					<CHS>墓穴</CHS>
 				</hc_poni>
 				<hc_szoborcsodalat>
-					<CHS>可怕的雕像</CHS>
+					<CHS>恐吓雕像</CHS>
 				</hc_szoborcsodalat>
 				<masterkey_container>
-					<CHS>万能钥匙容器</CHS>
+					<CHS>主密钥容器</CHS>				
 				</masterkey_container>
 				<flux_generator>
-					<CHS>异常涌流产生器</CHS>
+					<CHS>非概率流体发生器</CHS>				
 				</flux_generator>
 				<control_station>
-					<CHS>齿轮比控制站</CHS>
+					<CHS>变速控制站</CHS>				
 				</control_station>
 				<relics_hint>
-					<CHS>森林雕像</CHS>
+					<CHS>森林雕像</CHS>				
 				</relics_hint>
 				<haunted_crystal>					
-					<CHS>荡漾水晶</CHS>
+					<CHS>碧波水晶</CHS>				
 				</haunted_crystal>
 				<mind_mondulator>					
-					<CHS>思维调制器</CHS>
+					<CHS>思想调节器</CHS>				
 				</mind_mondulator>
 				<TF_documents>					
-					<CHS>书架 </CHS>
+					<CHS>书架</CHS>				
 				</TF_documents>
 				<Vlados_cell_door>					
-					<CHS>牢房门</CHS>
+					<CHS>牢房门</CHS>				
 				</Vlados_cell_door>
 				<Zsilip_vezerlo>					
-					<CHS>控制桌</CHS>
+					<CHS>控制台</CHS>				
 				</Zsilip_vezerlo>
 				<Inkgrub>					
-					<CHS>墨境之球</CHS>
+					<CHS>墨境蛹石</CHS>				
 				</Inkgrub>
 				<Gnarl_Riddle_Well>					
-					<CHS>井</CHS>
+					<CHS>水井</CHS>				
 				</Gnarl_Riddle_Well>
 				<gnome_door>					
-					<CHS>门</CHS>
+					<CHS>门</CHS>				
 				</gnome_door>
 				<wretched_mirror>
-					<CHS>邪恶镜</CHS>
+					<CHS>悲惨之镜</CHS>				
 				</wretched_mirror>
 				<Tomb>
-					<CHS>墓地</CHS>
+					<CHS>墓穴</CHS>				
 				</Tomb>
 				<corpse>
 					<CHS>尸体</CHS>
 				</corpse>
 				<Skullpile>
-					<CHS>骨堆</CHS>
+					<CHS>一堆头骨</CHS>
 				</Skullpile>
 				<Loot_ruin>
 					<CHS>碎石堆</CHS>
 				</Loot_ruin>
 				<soul_shelter>
-					<CHS>灵魂避难所</CHS>
+					<CHS>灵魂庇护所</CHS>
 				</soul_shelter>
 				<sceptre_location>
 					<CHS>雕像</CHS>
 				</sceptre_location>
 				<sceptre_summon>
-					<CHS>灵魂圆顶</CHS>
+					<CHS>精神圆顶</CHS>
 				</sceptre_summon>
 				<Ink_multientrance>
-					<CHS>墨境深处</CHS>
+					<CHS>幽深墨境</CHS>
 				</Ink_multientrance>
 				<Brazier>
-					<CHS>火盆</CHS>
+					<CHS>火盆</CHS>				
 				</Brazier>
 				<power_relay>
-					<CHS>能量中继器</CHS>
+					<CHS>力量继电器</CHS>
 				</power_relay>
 				<Matrixprinter_controller>
-					<CHS>梦想编织中继器</CHS>
+					<CHS>织梦继电器</CHS>
 				</Matrixprinter_controller>
 				<elevator_caller>
-					<CHS>电梯控制器 </CHS>
+					<CHS>电梯控制器</CHS>
 				</elevator_caller>
 				<bolter>
-					<CHS>Bolter</CHS>
+					<CHS>钻机</CHS>
 				</bolter>
 				<endgame_key_shop>
-					<CHS>钥匙夫人</CHS>
+					<CHS>钥匙女王</CHS>
 				</endgame_key_shop>
 				<terep_Lair_VHIII>
 					<Waypoint_Lair>
@@ -669,17 +665,17 @@
 				</terep_Lair_VHIII>
 				<terep_Testing_Facility>
 					<kutatolabor_waypoint>
-						<CHS>手术室</CHS>
+						<CHS>剧场</CHS>
 					</kutatolabor_waypoint>
 				</terep_Testing_Facility>
 				<terep_Haunted_Forest01>
 					<Hauntedforest_waypoint1>
-						<CHS>废弃的小道</CHS>
+						<CHS>废弃小径</CHS>
 					</Hauntedforest_waypoint1>
 				</terep_Haunted_Forest01>
 				<terep_Haunted_Forest02>
 					<haunted_forest2_waypoint>
-						<CHS>森林深处</CHS>
+						<CHS>幽深森林</CHS>
 					</haunted_forest2_waypoint>
 				</terep_Haunted_Forest02>
 				<terep_Ink_mocsar>
@@ -689,7 +685,7 @@
 				</terep_Ink_mocsar>
 				<terep_Ink_Old_Town>
 					<InkOldTown_waypoint1>
-						<CHS>旧港口</CHS>
+						<CHS>旧港</CHS>
 					</InkOldTown_waypoint1>
 				</terep_Ink_Old_Town>
 				<terep_Dark_Carnival>
@@ -760,7 +756,7 @@
 			</Info>
 		</GameObject>
 		<ScenarioExitConfirm>
-			<CHS>确定要退出吗？\n\n现在退出会导致冒险失败。冒险失败所产生的所有后果都将得到应用。</CHS>
+			<CHS>你确定要退出吗？\n\n现在退出会导致你的冒险失败。冒险失败所产生的所有后果都将被应用。</CHS>
 		</ScenarioExitConfirm>
 	</Battle>
 	<common>
@@ -770,65 +766,65 @@
 					<CHS>赏金猎人</CHS>
 				</name>
 				<desc>
-					<CHS>身手敏捷的猎人，精通各种远程战斗技巧。该职业熟练运用各种火器与战斗姿态，能召唤机械哨兵寻找并标记敌人。情况危急时，他还能自由操控时间流动。</CHS>
+					<CHS>精通各种远程战斗技巧的机敏猎手。一个懂得多种枪械使用和战斗姿态的专家，他可以召唤机械寻猎者来标记和找寻他的猎物。当事态紧急时，他也可以随念操纵时间流。</CHS>
 				</desc>
 				<desc_ingame>
-					<CHS>追踪，嘲讽然后摧毁\n \n- 闪避：作为一个闪避大师，他获得了+20%闪避增益\n \n- 迅捷：总是保持着轻巧的步伐，他的移动速度+10</CHS>
+					<CHS>追踪，嘲讽，然后消灭之\n\n——闪避：身为躲闪大师，他可以获得+20%闪避加成\n\n——迅捷：健步如飞的他获得+10移动速度</CHS>
 				</desc_ingame>
 			</bounty_hunter>
 			<protector>
 				<name>
-					<CHS>保卫者</CHS>
+					<CHS>守护者</CHS>
 				</name>
 				<desc>
-					<CHS>非常强韧的重甲近战斗士。此职业精通失传的剑盾战斗技巧，剑刺盾挡，攻防一体。他还会使用战斗怒吼，闪现入墨境或召唤元素。</CHS>
+					<CHS>一个坚韧不拔，身着重甲的肉搏战士。他冲陷敌阵，挥剑舞盾犹如失传的艺术，力档来敌并狠狠的反击他们。一声响亮的战嚎，闪烁进入墨境，或者召唤元素也都是他的拿手好戏。</CHS>
 				</desc>
 				<desc_ingame>
-					<CHS>就像一个来自于失落时代的战士\n \n- 持盾者：作为一个盾牌大师，他能完全偏斜攻击\n \n- 不死小强：作为一个饱经风霜的战士，他的启始生命值+300</CHS>
+					<CHS>他来自远古\n\n——盾牌手：作为盾牌大师，他可以完全反弹攻击\n\n——超级耐久：身为一位身经百战的战士，他的初始生命值+300</CHS>
 				</desc_ingame>
 			</protector>
 			<elementalist>
 				<name>
-					<CHS>元素师</CHS>
+					<CHS>元素学家</CHS>
 				</name>
 				<desc>
-					<CHS>此职业是强大但脆弱的施法者，会使用各种攻击和实用性法术。他的元素学识无人可比，能发射威力强大的能量箭，还会召唤毁灭性的风暴，秘法生物和致命的屏障。</CHS>
+					<CHS>一个脆弱但强大的施法者，配备有多种攻击和实用法术。他对四种元素的驾驭能力无人可及，使其具现为毁灭性的风暴，神秘的生物，致命的壁障或发射能量箭。</CHS>
 				</desc>
 				<desc_ingame>
-					<CHS>利用着自然的力量\n \n- 浴火而生：作为自然之子，他对所有的元素抗性+50%\n \n-秘法一族:作为古老血液的一员,他的启始法力+25\n \n- 轻而易举：在所有元素中的移动+10</CHS>
+					<CHS>大自然之友\n\n——浴火而生：身为大自然的孩子，他获得+50%所有元素抗性\n\n——元素之子：身上流着远古血统，他获得+25初始魔法值\n\n——易如反掌：在所有元素中的移动速度+10</CHS>
 				</desc_ingame>
 			</elementalist>
 			<umbralist>
 				<name>
-					<CHS>暗影刺客</CHS>
+					<CHS>影术师</CHS>
 				</name>
 				<desc>
-					<CHS>此职业是暗影大师，擅长和敌人打游击。他手持秘法双刃，能遁入墨境，折光弄影，从黑暗中施展法术、召唤盟友、或发动疾风迅雷般的攻击。</CHS>
+					<CHS>掌控暗影的大师，在战斗中应用老练的连打带跑战术。作为神秘双刃的承载者他可以随心遁入墨境，扭曲阴影，释放恶毒的法术，从黑暗中召唤盟友，并且同时进行疾风骤雨般的攻击。</CHS>
 				</desc>
 				<desc_ingame>
-					<CHS>从黑暗中进行攻击\n \n- 暗影行者：能够通过进入暗影世界随意进行伪装（每次持续5秒）\n \n- 伏击：从伪装状态恢复过来时，在3秒之内获得100%的伤害增益\n \n- 闪避：作为一个难以捉摸的战士，他将获得+10%的闪避增益以及额外的10点闪避\n \n- 生命力：作为一个生命力的掌控大师，他的启始生命值+150\n \n- 暗影印记：普通攻击会在敌人身上留下暗影印记。对留有标记的敌人使用的其他攻击会造成更多的伤害。</CHS>
+					<CHS>阴影之击\n\n——影术行者：可以随时把身体隐匿到阴影世界中（每一次持续5秒）\n\n——埋伏：从隐匿状态恢复过来后的3秒内伤害加成100%\n\n——闪避：身为捉摸不定的战士，他获得+10%闪避加成以及额外+10闪避\n\n——生命之力：身为生命操纵大师，他获得+150初始生命值\n\n——阴影标记：他的攻击有时候会在敌人身上置放阴影标记。被标记的敌人会遭受额外伤害。</CHS>
 				</desc_ingame>
 			</umbralist>
 			<phlogistoneer>
 				<name>
-					<CHS>机甲师</CHS>
+					<CHS>燃素师</CHS>
 				</name>
 				<desc>
-					<CHS>穿着机甲的诡异科学专家。装备中近程重型武器和各种地雷。他能呼叫火炮打击，发射火箭弹幕和集束炸弹，喷射火焰，还拥有便携式力场，是战场上的主宰。</CHS>
+					<CHS>一个身穿机械盔甲的奇异科学专家。装备有短程中程的重型武器和几种地雷。他就是一种可怕的军事力量，可以召唤炮兵火力，发射火箭弹幕和集束炸弹，并可以用火焰喷射器和便携力场阻击敌人。</CHS>
 				</desc>
 				<desc_ingame>
-					<CHS>拥抱火焰\n\n- 能量护盾：受到一个能够吸收伤害的屏障保护（默认300点伤害）。如果机甲师在5秒内不受到攻击，护盾会以每秒10%的速度自动重新充能\n\n- 笨拙：由于穿着机械套装，移动速度减少5\n\n- 稳固：无法被敌人的能力击倒\n\n- 虚弱：由于脆弱的人类体质，初始生命值减少100</CHS>
+					<CHS>拥抱火焰\n\n——能量盾：制造一个屏障吸收伤害（默认300点）。此护盾每秒自动恢复10%自身能量，前提是燃素师在5秒内没有发动攻击你\n\n鲁莽大意：穿戴着机械服装时移动速度-5\n\n——抛锚：无法被敌人的技能击倒\n\n——弱不禁风：初始生命值-100，因为体弱多病</CHS>
 				</desc_ingame>
 			</phlogistoneer>
 			<constructor>
 				<name>
-					<CHS>工程师</CHS>
+					<CHS>建造者</CHS>
 				</name>
 				<desc>
-					<CHS>工程师是发明大师，能随手组装各种各样的机械生物。他会部署炮台，扑翼机，爆炸解体机器人或极其精巧而致命的机枪平台，在和敌人保持距离方面可谓真正的艺术家。</CHS>
+					<CHS>一个发明创造的大师，可以现场装配出各式各样的机械生物。当要和敌人保持安全距离时他可是一位真正的艺术家，可以布置炮塔，无人机，启动肢解机器人或者他最为灵活且致命的机枪平台。</CHS>
 				</desc>
 				<desc_ingame>
-					<CHS>构建你的噩梦\n\n- 枪械平台：除了卡特琳娜，他也有一个诡异科学驱动器，以及武装着枪的飞行伙伴</CHS>
+					<CHS>制造你自己的噩梦\n\n——枪炮平台：除了卡特琳娜，他还有一位飞行机械伙伴，脑子里满是研究，身上满是枪炮</CHS>
 				</desc_ingame>
 			</constructor>
 		</class>
@@ -839,15 +835,15 @@
 				<CHS>基础教程</CHS>
 			</name>
 			<desc>
-				<CHS>如果你刚接触本游戏，我们推荐你先在日志里阅读下教程。按“J”打开日志，点击“游戏”标签，找到“教程”部分。</CHS>
+				<CHS>如果您是新玩家，我们建议您遍览日志中的教程章节。你可以通过按“J”键打开日志，并点击“游戏”标签找到教程章节。</CHS>
 			</desc>
 		</base_tut>
 		<class_tut>
 			<name>
-				<CHS>类型专精</CHS>
+				<CHS>职业特性</CHS>
 			</name>
 			<desc>
-				<CHS>每一类都有一些独特的增益或者专精。你可以通过打开技能窗口（按“K”），阅读中央类图标的提示信息来进行浏览。</CHS>
+				<CHS>每个职业都有自己独特的加成或特殊能力。你可以点击K键打开技能窗口查看职业标志的提示。</CHS>
 			</desc>
 		</class_tut>
 		<protector_tut>
@@ -855,31 +851,31 @@
 				<CHS>格挡</CHS>
 			</name>
 			<desc>
-				<CHS>你作为保卫者，为重要的技能是盾牌格挡。此技能让你完全无视面前180度的来袭伤害。</CHS>
+				<CHS>作为一个守护者，你最重要的技能是盾牌格挡。这个技能让你可以抵消180度内的所有伤害。</CHS>
 			</desc>
 		</protector_tut>
 		<protector_tut2>
 			<name>
-				<CHS>复仇攻击</CHS>
+				<CHS>反击</CHS>
 			</name>
 			<desc>
-				<CHS>格挡能积累复仇，给你下次攻击提供伤害加成。作为保卫者，应交替使用盾牌格挡和复仇攻击。</CHS>
+				<CHS>格挡也可以积累反击，反击可以增加你下一次攻击的伤害。作为守护者熟练切换盾牌格挡和反击是一个行之有效的策略。</CHS>
 			</desc>
 		</protector_tut2>
 		<phlogistoneer_tut>
 			<name>
-				<CHS>能量盾</CHS>
+				<CHS>能量护盾</CHS>
 			</name>
 			<desc>
-				<CHS>机甲师由能量护盾保护。护盾给你提供额外生命，脱离战斗后护盾会再生。你也能升级护盾，相关技能可让护盾造成伤害。</CHS>
+				<CHS>燃素师被能量盾所保护。这会增加你最大以外的额外生命值和你在外战斗时的回复力。它也可以通过相关技能升级为可造成伤害。</CHS>
 			</desc>
 		</phlogistoneer_tut>
 		<umbralist_tut>
 			<name>
-				<CHS>潜行</CHS>
+				<CHS>隐身</CHS>
 			</name>
 			<desc>
-				<CHS>暗影刺客有不少潜行技能，潜行后将离开敌人视野。此效果持续5秒，你发动攻击也会取消潜行。</CHS>
+				<CHS>影术师拥有许多隐身的技能，使他们无法被敌人察觉。隐藏状态持续5秒或直到你发动攻击。</CHS>
 			</desc>
 		</umbralist_tut>
 		<umbralist_tut2>
@@ -887,7 +883,7 @@
 				<CHS>伏击加成</CHS>
 			</name>
 			<desc>
-				<CHS>脱离潜行后你将获得巨大伤害加成，持续7秒。暗影刺客的这些能力令其成为游击战术的大师。</CHS>
+				<CHS>从隐藏中现身也能提供7秒显著的伤害加成。这些能力使影术师最适合连打带跑的战术。</CHS>
 			</desc>
 		</umbralist_tut2>
 		<powerup_system>
@@ -895,34 +891,34 @@
 				<CHS>强化系统</CHS>
 			</name>			
 			<desc>
-				<CHS>各个职业都有强化系统，可用来强化各种攻击。你可以消耗怒气使用主要技能附属的强化技能。</CHS>
+				<CHS>强化是一个全职业可用的基本系统，被用于加强一次攻击。它使用作为主要技能扩展或使用特殊愤怒资源的强化技能。</CHS>
 			</desc>			
 		</powerup_system>		
 		<rage_new>
 			<name>
-				<CHS>怒气槽</CHS>
+				<CHS>怒气条</CHS>
 			</name>			
 			<desc>
-				<CHS>黄色的是你的怒气。怒气用来施展强化技能，击杀敌人可获得怒气。</CHS>
+				<CHS>黄色槽是你的愤怒资源。它用来充能强化技能，并通过杀敌积攒</CHS>
 			</desc>			
 		</rage_new>
 		<powerup_new>
 			<name>
-				<CHS>强化技能</CHS>
+				<CHS>道具技能</CHS>
 			</name>			
 			<desc>
-				<CHS>你可以按指定快捷键使用强化（“A”，“S”或“D”）使用强化后，你的下次技能攻击会附带强化的效果。前往“日志”的“教程”部分查看详情。</CHS>
+				<CHS>你可以点击A、S、D热键来充能蓄力。被充能后的蓄力可以提升使用技能的下一次攻击。请查看日记的教程栏以获取更多详情。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以按“LB”充能强化。充能之后，你的下次技能攻击会附带强化的效果。你可以在技能面板中编辑强化来为你的技能进行设置。</CHS>
+				<CHS>你可以点击LB按钮来充能蓄力。一旦充能，蓄力会加强下一次使用技能的攻击。你可以在技能面板设立自己的蓄力。</CHS>
 			</descXBox>			
 		</powerup_new>
 		<outofbattleregen>
 			<name>
-				<CHS>快速再生</CHS>
+				<CHS>快速回复</CHS>
 			</name>			
 			<desc>
-				<CHS>所有职业脱离战斗后都能快速再生。你远离敌人，不攻击且不受到伤害5秒后可开始再生。不被打断的情况下，你4秒内可恢复全部生命。</CHS>
+				<CHS>所有的职业在外战斗时都会从快速回复中获得收益。只有当你远离敌人并且5秒内没有攻击或受到伤害时回复才会生效。在没被打断的情况下，大概4秒钟会恢复一次生命。</CHS>
 			</desc>			
 		</outofbattleregen>
 		<vh_gold_scenario_task>
@@ -930,23 +926,23 @@
 				<CHS>冒险任务列表</CHS>
 			</name>			
 			<desc>
-				<CHS>该窗口列出了那些想要完成冒险必须要进行的任务，以及其他例如生命数目以及剩余时间等信息。</CHS>
+				<CHS>此窗口记录你需要执行的任务，以及诸如你离开的时间之类的各种信息。</CHS>
 			</desc>			
 		</vh_gold_scenario_task>
 		<vh_gold_scenario_condition>
 			<name>
-				<CHS>冒险修改器</CHS>
+				<CHS>冒险修正值</CHS>
 			</name>			
 			<desc>
-				<CHS>这些图标显示了在该冒险中会激活怎样的特殊环境。将鼠标悬停在图标上来查看具体含义。</CHS>
+				<CHS>这些标志显示当前冒险中的特殊状况。滑动光标查看它们的意思。</CHS>
 			</desc>			
 		</vh_gold_scenario_condition>
 		<vh_gold_scenario_keyshop>
 			<name>
-				<CHS>钥匙夫人</CHS>
+				<CHS>钥匙女王</CHS>
 			</name>			
 			<desc>
-				<CHS>你能用信仰点数来交换能够打开附近特殊宝箱的特殊的钥匙。铜宝箱可能包含史诗物品，银宝箱有一些列的物品，而金宝箱则包含神装物品。</CHS>
+				<CHS>你可以用命运点数兑换特殊钥匙，以解锁附近的特殊宝箱。铜箱子可能含有史诗物品，银箱子有套装物品，而金箱子有神器。</CHS>
 			</desc>			
 		</vh_gold_scenario_keyshop>
 		<vh_gold_trophy_stand>
@@ -954,24 +950,24 @@
 				<CHS>奖杯系统</CHS>
 			</name>			
 			<desc>
-				<CHS>在你的旅途期间，你已经收集了一些奖杯。前往位于巢穴东北方的奖杯进行巢堪，在此你可以使用你的奖杯激活常规的增益！</CHS>
+				<CHS>你在冒险途中收集到了一些奖杯。在巢穴的东北方查看奖杯柜架，以选择启用哪些奖励！</CHS>
 			</desc>			
 		</vh_gold_trophy_stand>
 		<vh_gold_scenario_gloves_off>
 			<name>
-				<CHS>全冒险地图已解锁</CHS>
+				<CHS>已解锁完整冒险地图</CHS>
 			</name>			
 			<desc>
-				<CHS>恭喜！你现在已经足够强大，可以使用所有的特性来进行冒险模式！产生的冒险会伴随特殊情况以及高等级的敌人会变得非常常见。同时，你也解锁了所有的冒险地图。</CHS>
+				<CHS>恭喜你！你现在终于有能力挑战完全解锁的冒险模式了！现在的冒险过程会出现特殊条件以及更多的精英敌人。你也一并解锁了所有的冒险者地图。</CHS>
 			</desc>			
 		</vh_gold_scenario_gloves_off>
 		
 		<vh_gold_scenario_firstfail>
 			<name>
-				<CHS>冒险失败</CHS>
+				<CHS>失败的冒险</CHS>
 			</name>			
 			<desc>
-				<CHS>如果你的冒险失败了，你将不能从中获得奖励。该等级剩余的生物仍然会掉落物品，但是这或许不值得你把时间浪费在它们身上了。由你决定。</CHS>
+				<CHS>如果你冒险失败，那么你就不会获得任何奖励。虽然当前地图的怪物依然会掉落物品，但是值不值得由你自己决定。</CHS>
 			</desc>			
 		</vh_gold_scenario_firstfail>
 		<vh_gold_scenario_welcome>
@@ -979,15 +975,15 @@
 				<CHS>冒险地图</CHS>
 			</name>			
 			<desc>
-				<CHS>欢迎来到冒险地图！在此你可以玩各种独立的冒险，每个冒险都有自己特定的目标与挑战。探索地图上的信息来查看当前你能选择的地图。</CHS>
+				<CHS>欢迎来到冒险地图！在这里，你可以挑战拥有各种独特目标的冒险和挑战。探索地图上的各个地点以查看你当前能选择的冒险。</CHS>
 			</desc>			
 		</vh_gold_scenario_welcome>
 		<vh_gold_scenario_welcome2>
 			<name>
-				<CHS>冒险</CHS>
+				<CHS>冒险模式</CHS>
 			</name>			
 			<desc>
-				<CHS>每当你完成冒险或者冒险失败的时候或者在新地图可用的时候，冒险都会随机产生。如果你需要改变你的角色装备或者技能，你也可以通过屏幕底部的按钮访问秘密巢穴。</CHS>
+				<CHS>每当你完成或失败一次冒险，那么新的冒险和新的地区就会随机生成。如果你想要更换角色的装备和技能，那就要从屏幕下方的按钮打开秘密巢穴。</CHS>
 			</desc>			
 		</vh_gold_scenario_welcome2>
 		<vh_gold_scenario_dailyquest>
@@ -995,23 +991,23 @@
 				<CHS>日常任务</CHS>
 			</name>			
 			<desc>
-				<CHS>游戏会自动为你生成日常任务，你可以使用任意角色完成这些任务。这会奖励给你命运点数，命运点数是一种特殊的资源，在很多方面你都可以使用它来提升你的角色装备。</CHS>
+				<CHS>游戏会自动生成日常任务给你，你可以使用任何角色去完成它们。成功就会获得命运点数奖励，这是一种特殊资源，能够用来提升装备。</CHS>
 			</desc>
 		</vh_gold_scenario_dailyquest>
 		<vh_gold_scenario_triumph>
 			<name>
-				<CHS>胜利战利品</CHS>
+				<CHS>战利品</CHS>
 			</name>			
 			<desc>
-				<CHS>当你成功完成一个冒险时，你会增加战利品增益，这会强化你发现史诗装备的几率。该增益会逐渐累积，但是冒险失败会让其清零。</CHS>
+				<CHS>当你完成某个冒险后，你就会获得战利品加成，提升你发现史诗物品的机会。此效果可叠加，但是一旦冒险失败，则会清零。</CHS>
 			</desc>			
 		</vh_gold_scenario_triumph>
 		<vh_gold_scenario_moremaps>
 			<name>
-				<CHS>额外的地点</CHS>
+				<CHS>额外地点</CHS>
 			</name>			
 			<desc>
-				<CHS>恭喜！你解锁了冒险地图上两个新的地点！</CHS>
+				<CHS>恭喜你！你成功解锁冒险地图上的两处新地点！</CHS>
 			</desc>			
 		</vh_gold_scenario_moremaps>					
 	</Tutorial>

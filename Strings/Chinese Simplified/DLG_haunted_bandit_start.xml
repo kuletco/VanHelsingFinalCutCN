@@ -8,37 +8,37 @@
 		<DLG_haunted_bandit_start>
 			<node1>
 				<Desc>
-					<CHS>对不起，先生。作为一个职业强盗，同时也是一个骄傲的拦路强盗，我请求你的帮助！</CHS>
+					<CHS>抱歉阁下。作为一个合法持证的强盗，骄傲的路霸，我请求您的帮助！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>一个遇难的强盗？听上去很有趣!</CHS>
+					<CHS>困境中的强盗？有意思！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>由于显著增加的怪物活动，每日11小时驿站马车抢劫活动的地点现在已经不对公众开放了。当地人在抱怨！</CHS>
+					<CHS>因为怪兽们的活动异常活跃，每日11小时的公路马车打劫工作现在不能实现了。当地人都在抱怨！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>当地人想被抢劫？</CHS>
+					<CHS>当地人想要被抢劫吗？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>这里的一个优良传统，先生。你能处理那些野兽吗？这是为了孩子。</CHS>
+					<CHS>阁下，这是本地的优良传统。你能帮我们解决那些怪兽吗？这都是为了孩子们。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>你想打孩子牌，是吧？给我带路。</CHS>
+					<CHS>你非要利用孩子打温情牌吗？领路吧。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>对不起，我们还要去拯救博格维亚。为了孩子，你懂得。</CHS>
+					<CHS>抱歉，博格维娅还等着我们去拯救呢。你知道的，都是为了孩子。</CHS>
 				</Desc>
 			</node7>
 		</DLG_haunted_bandit_start>

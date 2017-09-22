@@ -8,7 +8,7 @@
 		<DLG_MQ14_stonehead_question4>
 			<node1>
 				<Desc>
-					<CHS>在让你过去之前，你要先回答我的问题。告诉我，什么比树还高？</CHS>
+					<CHS>在你可以通过之前，回答我的问题。告诉我，什么东西比树高？</CHS>
 				</Desc>
 			</node1>
 			<node2>
@@ -23,17 +23,17 @@
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>山。</CHS>
+					<CHS>山峰。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>说得好，小东西！我喜欢你。你可以过去了。</CHS>
+					<CHS>回答得好，渺小的人类。我喜欢你！你可以通过了。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>非常抱歉，但是你不应该在这里。</CHS>
+					<CHS>我道歉，真的，但是你不值得来这里。</CHS>
 				</Desc>
 			</node6>
 		</DLG_MQ14_stonehead_question4>

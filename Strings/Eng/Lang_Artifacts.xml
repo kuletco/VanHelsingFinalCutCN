@@ -6092,7 +6092,7 @@
 				<Name>
 					<eng>Wizard Staff</eng>
 				</Name>
-			</gandalfstaff>			
+			</gandalfstaff>
 			<gray_bag>
 				<Name>
 					<eng>Bag of Riches</eng>
@@ -7240,4 +7240,4 @@
 			</enemies>
 		</property_format>
 	</Property>
-</Root> 
+</Root>

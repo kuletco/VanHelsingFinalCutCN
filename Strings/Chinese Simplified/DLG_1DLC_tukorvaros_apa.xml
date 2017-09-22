@@ -8,7 +8,7 @@
 		<DLG_1DLC_tukorvaros_apa>
 			<node1>
 				<Desc>
-					<CHS>你是猎人吗，阁下？</CHS>
+					<CHS>你是一位猎人吗，先生？</CHS>
 				</Desc>
 			</node1>
 			<node2>
@@ -18,27 +18,27 @@
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>哇，真棒！我们从Inkwell里召唤出一个生物。他叫Pied Piper，据说能用笛声将这些怪物引走。</CHS>
+					<CHS>啊，好极了！我们从墨井召唤出了一个叫彩色风笛手的生物，他应该用风笛声把那些怪物赶走的。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>请别告诉我你们被这老把戏给迷惑了。</CHS>
+					<CHS>别告诉我你相信了。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我们确实这么干了，我的女士。我们确实这么干了！他引走的不是怪物，而是我们的孩子！不过，他还在这里，但我们不能离开这个地方。</CHS>
+					<CHS>我们真的信了，女士。真的！但他却反过来把我们的小孩子都勾引走了。他还在这儿，但我们不能离开这个地方。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>我会找到他的，我保证。</CHS>
+					<CHS>我会找到他的。我承诺。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>对不起，但我现在不能收拾你的烂摊子。</CHS>
+					<CHS>抱歉，但我现在没空帮你。</CHS>
 				</Desc>
 			</node7>
 		</DLG_1DLC_tukorvaros_apa>

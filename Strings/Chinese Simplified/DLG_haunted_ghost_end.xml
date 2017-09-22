@@ -8,12 +8,12 @@
 		<DLG_haunted_ghost_end>
 			<node1>
 				<Desc>
-					<CHS>我们终于自由了！为了表达我们的感激之情，我们给你准备了一些宝藏，范海辛！</CHS>
+					<CHS>我们终于自由了！为表谢意，范海辛，我们为你准备了些宝藏！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>这是你的错！</CHS>
+					<CHS>都是你的错！</CHS>
 				</Desc>
 			</node2>
 		</DLG_haunted_ghost_end>

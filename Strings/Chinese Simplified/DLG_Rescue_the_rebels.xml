@@ -8,22 +8,22 @@
 		<DLG_Rescue_the_rebels>
 			<node1>
 				<Desc>
-					<CHS>帮助我，范海辛，你是我唯一的希望！我的一些同志被困在城堡里。我逃到护城河增援。</CHS>
+					<CHS>帮帮我，范海辛，你是唯一的希望了！我的一些同志们被困在了城堡里。我从护城河逃了出来来找援军。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>小事一桩，朋友。我来帮他们。</CHS>
+					<CHS>放松，朋友。我就是来帮忙的。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>对不起，朋友，我的时间紧迫。必须要阻止暴脾气。</CHS>
+					<CHS>很抱歉，朋友。但是我没时间浪费了。我们必须要阻止弗米伽提。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我无法反驳。好吧，我会试着寻找我的战友。</CHS>
+					<CHS>我不能在这种事情上争论。好吧，我会尽力去找我的士兵们的。</CHS>
 				</Desc>
 			</node4>
 		</DLG_Rescue_the_rebels>

@@ -8,22 +8,22 @@
 		<DLG_MQ22_New_command>
 			<node1>
 				<Desc>
-					<CHS>遵从您的指令，长官！</CHS>
+					<CHS>听你吩咐，长官！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>我没有其他命令了，队长。继续吧！</CHS>
+					<CHS>我没有新命令，队长。继续！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>从现在起，由我来领导。你们将要保护这个我们已经做完清扫的地方。</CHS>
+					<CHS>从现在开始我来带路。 你们要保卫好我们清理出来的地方。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>从现在开始你们跟着我。帮我清理这片区域。</CHS>
+					<CHS>从现在开始你们跟着我。 帮我清理掉这块区域。</CHS>
 				</Desc>
 			</node4>
 		</DLG_MQ22_New_command>

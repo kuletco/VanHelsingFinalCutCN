@@ -8,27 +8,27 @@
 		<DLG_Hell_fallen_warlord>
 			<node1>
 				<Desc>
-					<CHS>站在那里，英勇的骑士！我是奈何姆大人，钢铁军团的最高指挥官。我正在执行一个神圣的任务，那就是获得并使用泰坦的收割者之剑。你见过它吗？</CHS>
+					<CHS>站住，英勇的骑士！我是尼海姆勋爵，钢铁军团的高级指挥官。我肩负神圣的任务，需要获得并使用泰坦的切割刀刃。你有见过吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>抱歉。你的军团400多年前就被摧毁了。</CHS>
+					<CHS>抱歉。您的军团在400多年前就被消灭了。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>不，我没见过收割者之剑。</CHS>
+					<CHS>不，我没见过切割刀刃。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>快看，那个剑至少有你四个高。</CHS>
+					<CHS>听着，那把刀至少比你高4倍。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>胡说！你会为你的恶劣行径付出沉重地代价！</CHS>
+					<CHS>胡说八道！竟然嘲笑我，你会付出惨痛代价的！</CHS>
 				</Desc>
 			</node5>
 		</DLG_Hell_fallen_warlord>

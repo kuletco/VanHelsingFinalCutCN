@@ -8,27 +8,27 @@
 		<DLG_MQ22_Four_command>
 			<node1>
 				<Desc>
-					<CHS>长官！我们已经掌控了发射塔。等候您的命令。</CHS>
+					<CHS>长官！我们拿下了发射塔。我们在等待着你的指示。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>干得好！让炮兵战局阵地，然后返回这里守卫发射塔。</CHS>
+					<CHS>干得好！沿着炮兵走，占领那个位置， 然后回来这里保卫塔楼。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>干的漂亮！附近有一个轨道炮。摧毁那个武器，然后回来防守。</CHS>
+					<CHS>干得好！这里附近有一架列车炮。破坏掉那个武器，然后回来这里保卫塔楼。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>待在这里守卫发射塔！不能让敌人占领这里！</CHS>
+					<CHS>留在这里保卫塔楼！我们不能让敌人占领这个地方！</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>三个抵抗军士兵跟我走！其他人待着这里守卫发射塔！</CHS>
+					<CHS>3个起义士兵跟着我！其他人待在这里保卫发射塔！</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ22_Four_command>

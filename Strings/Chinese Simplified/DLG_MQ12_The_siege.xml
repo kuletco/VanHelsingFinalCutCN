@@ -8,32 +8,32 @@
 		<DLG_MQ12_The_siege>
 			<node1>
 				<Desc>
-					<CHS>总在完美的时刻出现，猎人。我有消息要告诉你：弗拉多斯伯爵向你表达问候，但是他必须火速离开去摧毁立场墙。现在由你负责！</CHS>
+					<CHS>时机毫无瑕疵，猎人，就像往常一样。我给你留了一条信息：瓦兰多斯伯爵致以他的敬意，但是他必须急匆匆地离开去摧毁力场墙。这里由你负责！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>Last time I checked, vampires couldn’t stand daylight.</CHS>
+					<CHS>上一次我检查的时候，吸血鬼还无法站在阳光之下。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>He is a modern vampire. Defying superstition and spontaneous combustion at the same time!</CHS>
+					<CHS>他是一头现代的吸血鬼。他同时能够反抗迷信和自燃！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>I wouldn’t worry for him. I haven’t seen daylight for a while in this smoke. Anyway, General Harker is busy preparing his next attack. Are you ready to employ your tactical genius?</CHS>
+					<CHS>我不会为他担心的。在这片烟雾中我都有一段时候看不到阳光了。不管怎么说，哈克将军正忙于他的下一次攻击。你准备好来使用你的策略天赋了么？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>But of course! I’m quite tactical. And a genius too. I'll visit the posts and give orders to the men.</CHS>
+					<CHS>不过当然啦！我是很有策略思维的。我是一个天才。我会亲自去那里然后把命令直接给他们。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>I’m a hunter, not a commander! You deal with the soldiers, I go to the front line and wait for the attack.</CHS>
+					<CHS>我是一个猎人，不是一个指挥官！你处理战士们的事，我去前线等待进攻。</CHS>
 				</Desc>
 			</node6>
 		</DLG_MQ12_The_siege>

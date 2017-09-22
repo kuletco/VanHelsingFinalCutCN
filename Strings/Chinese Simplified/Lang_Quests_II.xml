@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -11,30 +10,30 @@
 				<CHS>宫殿之下</CHS>
 			</Name>
 			<desc>
-				<CHS>看起来埋在一堆废墟下的打败疯狂科学家和他魔物军队的奖励被烧毁了。幸运的是有人帮我稍微改变了一下。但是我仍然得自己找出前往机器宫殿地下室的路。</CHS>
+				<CHS>似乎打败变态科学家和他那恶心军队的的奖励还深埋在一堆废墟中。还好幸运的是，有人帮了我一把做了个交易。不过我必须得想办法找到从机械皇城地下室离开的出路。</CHS>
 			</desc>
 			<main>
-				<CHS>找到返回巢穴的路</CHS>
+				<CHS>找到回巢穴的路</CHS>
 			</main>
 			<Equipment>
 				<CHS>收集你的装备</CHS>
 			</Equipment>
 			<Completed>
-				<CHS>我的新盟友-七号犯人-帮助我寻找回家的路。他也给我带来一些墓穴的消息：新的威胁即将到来我必须做好准备。我想，英雄可没时间休息了。</CHS>
+				<CHS>我的新搭档——七号囚犯——帮助我找到了回家的路。他还给了我一些重要情报：地平线上有新的威胁，我必须做好准备。我猜，不会再有人挺身而出了。</CHS>
 			</Completed>
 		</Tutorial_objective>
 		<Ch1_Clear_the_streets>
 			<Name>
-				<CHS>清除高架桥交汇处的威胁</CHS>
+				<CHS>清除陆桥结点</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克将军部署了渗透者单位到我们防守线的后方，他们正在四处破坏。我必须消灭他们。</CHS>
+				<CHS>哈克将军部署的渗透者在我们的防线之后并且造成了严重的破坏。我必须清除他们。</CHS>
 			</desc>
 			<main>
-				<CHS>消灭渗透者单位</CHS>
+				<CHS>清除渗透者</CHS>
 			</main>
 			<Completed>
-				<CHS>哈克将军派遣了渗透者单位前往我们战线的后方，但是在他们导致太多破坏之前我能够消灭他们。</CHS>
+				<CHS>哈克将军在我们的防线之后部署了一些渗透者，但是我能够在他们造成太多破坏之前就把他们清除掉。</CHS>
 			</Completed>
 		</Ch1_Clear_the_streets>
 		<Ch1_The_siege>
@@ -42,28 +41,28 @@
 				<CHS>围攻</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克上将的军队将我们包围在了高架交汇处，位于博格维亚的工业厂区内。敌人在使用穹顶之力来保护他们的待命区域，这让我们暂时可以着手防御相关的事情。。我值得信赖的吸血鬼盟友，瓦尔德斯正在想办法破坏这些穹顶因此在他成功之前我们必须坚持住。希望，他会成功。</CHS>
+				<CHS>哈克将军的军队已经把我们包围在陆桥结点里了，就在博加维亚的工厂区。 敌方部队正在用力场穹顶保护他们的集结区，这使得我们处于被动守势。我最信赖的吸血鬼盟友，瓦兰多斯正在试图把他们的穹顶破坏掉，我们必须得坚持住，等待他的胜利。上帝保佑，希望他能马到成功。</CHS>
 			</desc>
 			<main>
-				<CHS>与彼得罗夫指挥官交谈</CHS>
+				<CHS>与指挥官彼得罗夫交谈</CHS>
 			</main>
 			<Listen>
-				<CHS>听取指挥官的报告！</CHS>
+				<CHS>听这个指挥官的报告！</CHS>
 			</Listen>
 			<Talk>
-				<CHS>与彼得罗夫指挥官交谈！</CHS>
+				<CHS>与指挥官彼得罗夫谈谈！</CHS>
 			</Talk>
 			<Return>
-				<CHS>返回指挥官处准备好进行战斗！</CHS>
+				<CHS>回去找指挥官准备战斗！</CHS>
 			</Return>
 			<Retreat>
-				<CHS>掩护撤离！</CHS>
+				<CHS>掩护退却！</CHS>
 			</Retreat>
 			<Defend>
-				<CHS>包围高架交汇处</CHS>
+				<CHS>守卫陆桥结点</CHS>
 			</Defend>
 			<Completed>
-				<CHS>我们已经就可能的进行拖延了但是我们今天的努力还不够。哈克将军控制了前往铸造厂的铁路。</CHS>
+				<CHS>我们会尽我们所能守好阵地，不过我们现在有点吃劲。哈克将军已经控制住了通往铸造厂的铁路。</CHS>
 			</Completed>
 		</Ch1_The_siege>
 		<Ch1_The_first_wave>
@@ -71,82 +70,82 @@
 				<CHS>第一波</CHS>
 			</Name>
 			<desc>
-				<CHS>敌人即将进攻。我们必须准备好防御。</CHS>
+				<CHS>敌人进攻迫在眉睫。我们必须准备防御。</CHS>
 			</desc>
 			<main>
-				<CHS>给在前线的士兵下令让他们做好防御！</CHS>
+				<CHS>把命令给你在第一战线的战士们。</CHS>
 			</main>
 			<Go_back>
-				<CHS>返回指挥官处准备好进行战斗！</CHS>
+				<CHS>回到指挥官那里准备战斗</CHS>
 			</Go_back>
 			<Repel1>
-				<CHS>抵挡住第一波进攻！</CHS>
+				<CHS>击退第一波的攻击!</CHS>
 			</Repel1>
 			<Completed>
-				<CHS>第一波进攻被成功抵挡住了。</CHS>
+				<CHS>第一波攻击成功被击退。</CHS>
 			</Completed>
 		</Ch1_The_first_wave>
 		<Ch1_First_line_of_defense>
 			<Name>
-				<CHS>前线的问题。</CHS>
+				<CHS>前线的麻烦</CHS>
 			</Name>
 			<desc>
-				<CHS>七号犯人为指挥官彼得罗夫带来一个消息。看起来防御前线的队长们有问题要报告。</CHS>
+				<CHS>七号囚犯从指挥官彼得罗夫那里带回来一个情报。似乎队长在防御前线有战况需要报告。</CHS>
 			</desc>
 			<main>
-				<CHS>与队长交谈</CHS>
+				<CHS>与队长们谈谈</CHS>
 			</main>
 			<Speak1>
-				<CHS>与卢戈队长交谈！</CHS>
+				<CHS>与鲁格夫队长谈谈！</CHS>
 			</Speak1>
 			<Speak2>
-				<CHS>与Vrikov队长交谈！</CHS>
+				<CHS>与维里科夫队长谈谈！</CHS>
 			</Speak2>
 			<Speak3>
-				<CHS>与Volovich队长交谈！</CHS>
+				<CHS>与维勒维奇队长谈谈！</CHS>
 			</Speak3>
 			<Speak4>
-				<CHS>与博索卡队长交谈！</CHS>
+				<CHS>与波谢伊队长谈谈！</CHS>
 			</Speak4>
 			<Completed>
-				<CHS>队长们进行了报告。该是我利用他们的信息到我们优势之中的时候了。</CHS>
+				<CHS>队长已经呈上了他们的报告。现在交给我来整理好他们的信息充分发挥出我们的优势。</CHS>
 			</Completed>
 		</Ch1_First_line_of_defense>
 		<Ch1_The_ornithopter_base>
 			<Name>
-				<CHS>扑翼机控制站</CHS>
+				<CHS>飞行兵控制站</CHS>
 			</Name>
 			<desc>
-				<CHS>敌人在附近有扑翼机控制站，这让我们十分惊讶。在第二波进攻开始前我决定要去试一试摧毁它。</CHS>
+				<CHS>敌方在附近有一个飞行兵控制站，这可是个坏消息。我打算在第二波攻击袭来前破坏掉它。</CHS>
 			</desc>
 			<main>
-				<CHS>找到一台引擎！</CHS>
+				<CHS>找一个工程师！</CHS>
 			</main>
 			<Destroy>
 				<CHS>破坏控制站！([Controller_deactivate]/3)</CHS>
 			</Destroy>			
 			<Find>
-				<CHS>找到另一台引擎！</CHS>
+				<CHS>找另外一个工程师！</CHS>
 			</Find>
 			<Completed>
-				<CHS>我设法破坏了控制站。这些扑翼机不会再导致任何问题了。</CHS>
+				<CHS>我成功破坏掉飞行兵控制站。那些个烦人飞行兵不会再来找麻烦了。</CHS>
 			</Completed>					
 		</Ch1_The_ornithopter_base>
 		<Ch1_The_phlogiston_factory>
 			<Name>
-				<CHS>燃素星</CHS>
+				<CHS>燃素车间</CHS>
 			</Name>
 			<desc>
-				<CHS>我们需要炸毁前往我们防守位置的铁路桥好提升战斗获胜的机会。这个人建议直接将水箱中的燃素倒在桥下来作为爆炸物使用。我只需要先打开气阀就行。</CHS>
+				<CHS>我们得炸掉通向我们一个防守点的铁路桥来获得战斗时机。那群家伙直接从桥下的坦克里带出了燃素，似乎要把燃素做炸药使。我只需要先把气阀打开。</CHS>
 			</desc>
 			<main>
-				<CHS>打开气阀！</CHS>
+				<CHS>打开这个气体阀！</CHS>
 			</main>			
 			<Destroy>
-				<CHS>使用升降机离开这片区域并使用电气装置引燃气体！</CHS>
+				<CHS>坐上电梯离开这个地方然后用电子放电器点燃气云。</CHS>
 			</Destroy>
 			<Completed>
-				<CHS>我成功炸毁了铁路桥。敌人现在只能从一个方向接近了。</CHS>
+				<CHS>我成功地炸掉了铁路桥。敌人只能从一个方向来了。</CHS>
 			</Completed>					
 		</Ch1_The_phlogiston_factory>
 		<Ch1_The_second_wave>
@@ -154,67 +153,67 @@
 				<CHS>第二波</CHS>
 			</Name>
 			<desc>
-				<CHS>我们设法成功抵挡了第一波进攻但是战争远没有结束。我们需要重组并填补战线上所有的缺口。</CHS>
+				<CHS>我们成功挫败第一波袭击，但是战争还远远没有结束。我们得重新集合补上我们线上所有缺口。</CHS>
 			</desc>
 			<main>
-				<CHS>给在前线的士兵下令让他们做好第二次防御！</CHS>
+				<CHS>给第二防线的士兵传达命令！</CHS>
 			</main>
 			<Go_back>
-				<CHS>返回指挥官处准备好进行战斗！</CHS>
+				<CHS>回到指挥官那里准备战斗</CHS>
 			</Go_back>
 			<Repel2>
-				<CHS>抵挡住第二波进攻！</CHS>
+				<CHS>击退第二波攻击！</CHS>
 			</Repel2>
 			<Completed>
-				<CHS>尽管花费了很大的代价，但是第二波进攻被成功抵挡了。</CHS>
+				<CHS>第二波被防住了，尽管也来势汹汹。</CHS>
 			</Completed>
 		</Ch1_The_second_wave>
 		<Ch1_Rescue_Vlados>
 			<Name>
-				<CHS>瓦尔德斯有麻烦了</CHS>
+				<CHS>维拉多斯有麻烦了</CHS>
 			</Name>
 			<desc>
-				<CHS>有关弗拉多斯伯爵的消息终于来了，但是不是好消息。看起来他今天不会拯救反抗军，反抗军得去救他。而那个反抗军说的就是我了。</CHS>
+				<CHS>关于瓦兰多斯伯爵的坏消息。似乎他现在救不了抵抗派的人了，抵抗派得把他救出来。所谓抵抗派指的就是我自己。</CHS>
 			</desc>
 			<main>
-				<CHS>解救弗拉多斯伯爵！</CHS>
+				<CHS>营救瓦兰多斯伯爵！</CHS>
 			</main>
 			<Speak_Vcapt>
-				<CHS>找到瓦尔德斯手下的队长并与他交谈！</CHS>
+				<CHS>找到效力于瓦兰多斯的队长并与他交谈！</CHS>
 			</Speak_Vcapt>
 			<Completed>
-				<CHS>我已经到达伯爵本该在的地方但是我只看到了他的一些人。我们的吸血鬼朋友仍然行踪不明。</CHS>
+				<CHS>我已经确定清除伯爵的大致位置，但是我只找到了他的一些下属。我们的吸血鬼伙伴还是无影无踪。</CHS>
 			</Completed>
 		</Ch1_Rescue_Vlados>
 		<Ch1_Saving_private_Bryan>
 			<Name>
-				<CHS>解救二等兵布莱恩</CHS>
+				<CHS>救出小兵布莱恩</CHS>
 			</Name>
 			<desc>
-				<CHS>很明显作为反抗军领导者，我是拯救名叫布莱恩的二等兵的最佳人选。他一定深受上层权力者的青睐。</CHS>
+				<CHS>显然我身为抵抗派的领袖所能发挥的最大作用就是救一个叫布莱恩的小兵。他一定会觉得很荣幸有这么显赫的人来救他。</CHS>
 			</desc>
 			<main>
-				<CHS>找到二等兵布莱恩</CHS>
+				<CHS>找到小兵布莱恩</CHS>
 			</main>
 			<Escort>
-				<CHS>护送二等兵布莱恩到出口</CHS>
+				<CHS>护送小兵布莱恩到出口</CHS>
 			</Escort>
 			<Completed>
-				<CHS>拯救二等兵布莱恩一定是我在战争中进行过的最为危险的任务了。我差点死了-但一如既往-我做到了。</CHS>
+				<CHS>拯救大兵布赖恩可能是我要在战争中执行的最艰难的任务之一。我几乎死了 - 就像平常一样 - 但是做到了。</CHS>
 			</Completed>								
 		</Ch1_Saving_private_Bryan>
 		<Ch1_Protect_evacuation_of_the_wounded>
 			<Name>
-				<CHS>转移伤者</CHS>
+				<CHS>疏散伤员</CHS>
 			</Name>
 			<desc>
-				<CHS>一名官员正在转移受伤的抵抗军领导人。没有适当的保护措施他们很容易就会被敌人捉住。</CHS>
+				<CHS>有个官员正在疏散反抗派的一个领袖。如果没有合适的保护他们很容易招来敌人的追杀。</CHS>
 			</desc>
 			<main>
-				<CHS>找到救援官员护送他安全离开！</CHS>
+				<CHS>找到救援长官把他护送到安全地地方！</CHS>
 			</main>
 			<Completed>
-				<CHS>受伤的反抗军领导者被成功撤离。</CHS>
+				<CHS>受伤的反抗派领袖成功被疏散开。</CHS>
 			</Completed>								
 		</Ch1_Protect_evacuation_of_the_wounded>
 		<Ch1_Protect_the_weapon_shipment>
@@ -222,209 +221,209 @@
 				<CHS>武器补给</CHS>
 			</Name>
 			<desc>
-				<CHS>轮运的主武器正在前往安全地点的路上。它所带来的保护可能会是让反抗军在继续下去必不可少的东西。</CHS>
+				<CHS>重要载运武器正在运送到安全的地方。保护好这些武器很有必要，可以帮助反抗派多争取一些时间。</CHS>
 			</desc>
 			<main>
-				<CHS>找到载有武器的船并保护它！</CHS>
+				<CHS>找到载运武器保护好它们！</CHS>
 			</main>
 			<Completed>
-				<CHS>轮运武器已经到达我的秘密巢穴。</CHS>
+				<CHS>载运武器已经安全运送到我的秘密巢穴。</CHS>
 			</Completed>								
 		</Ch1_Protect_the_weapon_shipment>
 		<Ch1_hunter_explorers>
 			<Name>
-				<CHS>八足歼灭者</CHS>
+				<CHS>八臂毁坏者</CHS>
 			</Name>
 			<desc>
-				<CHS>我想末日机器人可能是暴脾气最为糟糕的发明了……很明显这也是所谓的“八足歼灭者。”好的是我喜欢挑战。</CHS>
+				<CHS>我觉得世界末日终结者是弗米加蒂最糟糕的发明了…它应该叫做“八足歼灭者”。我喜欢这样的挑战。</CHS>
 			</desc>
 			<main>
-				<CHS>摧毁八足歼灭者！</CHS>
+				<CHS>破坏掉八臂毁坏者！</CHS>
 			</main>
 			<Completed>
-				<CHS>我成功摧毁了八足歼灭者。</CHS>
+				<CHS>我成功地消灭掉八足歼灭者。</CHS>
 			</Completed>
 		</Ch1_hunter_explorers>
 		<Ch1_Free_Telsa>
 			<Name>
-				<CHS>犯人</CHS>
+				<CHS>俘虏</CHS>
 			</Name>
 			<desc>
-				<CHS>我们的士兵发现一台扑翼机被重新编程并通过著名的发明家尼古拉·特斯拉发给了我们。很明显他被哈克的军队抓住了并且他想让我们去解救他。扑翼机会指引我们到他被关押的地方。</CHS>
+				<CHS>我们的士兵发现了一个飞行器，是由著名的发明家尼古拉·特斯拉发明创造并且送给我们的。显然他被哈克的势力俘虏了并且他想让我们帮助他恢复自由。飞行器会指引我们到他那去。</CHS>
 			</desc>
 			<main>
-				<CHS>前往排水隧道！</CHS>
+				<CHS>去排水隧道！</CHS>
 			</main>
 			<Follow>
-				<CHS>跟随扑翼机前往排水隧道！</CHS>
+				<CHS>跟上飞行兵找到排水隧道！</CHS>
 			</Follow>
 			<Rescue>
-				<CHS>解救特斯拉！</CHS>
+				<CHS>营救特斯拉！</CHS>
 			</Rescue>
 			<Completed>
-				<CHS>我找到并解救了特斯拉。他现在为我们工作了。</CHS>
+				<CHS>我找到了特斯拉把他救了出来。他现在是我们的人了。</CHS>
 			</Completed>
 		</Ch1_Free_Telsa>
 		<Ch1_First_Tower_defense>
 			<Name>
-				<CHS>地下入侵</CHS>
+				<CHS>偷袭</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克的军队为了能找到我的巢穴无休止在隧道中搜寻着并且他们设法成功到达了我们其中一个偏远哨所。我们需要在那进行防御来拖延住他们。</CHS>
+				<CHS>哈克的势力在不懈地搜索隧道来寻找我的巢穴，并且他们设法到达我们的一个偏远的哨站。我们需要在那里建立一个防御点来把他们困在海湾中。</CHS>
 			</desc>
 			<main>
-				<CHS>在反抗军哨点进行放手对抗地下入侵！</CHS>
+				<CHS>守卫好防御前哨阻挡住地下入侵！</CHS>
 			</main>
 			<report>
-				<CHS>回去找彼得罗夫指挥官</CHS>
+				<CHS>回去找指挥官彼得罗夫</CHS>
 			</report>
 			<Completed>
-				<CHS>哈克的地下攻击军队已经被成功击退。巢穴会暂时保持安全状态。</CHS>
+				<CHS>哈克的地下攻击已经成功地被击退。巢穴会安全一段时间。</CHS>
 			</Completed>
 		</Ch1_First_Tower_defense>
 		<Ch1_Resistance_elite>
 			<Name>
-				<CHS>反抗军精英</CHS>
+				<CHS>反抗派精英</CHS>
 			</Name>
 			<desc>
-				<CHS>看起来我已经作为指挥官有一阵子了。有一组精英士兵被分配给我指挥了，由三名队长进行领导。我分配给他们不同的任务。</CHS>
+				<CHS>似乎我得扮演一段时间指挥官了。我手下已经聚集了一大批精英士兵，由三个队长率领。我得把他们派到不同的位置。</CHS>
 			</desc>
 			<main>
-				<CHS>见见你的队长！</CHS>
+				<CHS>见见你的队长们！</CHS>
 			</main>
 			<Send_captain>
-				<CHS>派遣一名队长让他完成找回托尔锤子的任务！</CHS>
+				<CHS>派个队长去把雷神锤修好！</CHS>
 			</Send_captain>
 			<Completed>
-				<CHS>我已经与我的队长们交流过并了解了他们的强项。我应该时不时的联系他们一下并派遣给他们可行的任务。</CHS>
+				<CHS>我得和我的队长多交流交流了解一下他们的长处。我得时不时来视察一下他们把他们派遣到合适的位置上。</CHS>
 			</Completed>		
 		</Ch1_Resistance_elite>
 		<Ch1_Prisoners>
 			<Name>
-				<CHS>犯人</CHS>
+				<CHS>囚犯</CHS>
 			</Name>
 			<desc>
-				<CHS>有一个乞丐透露说在这个监狱中有一个秘密的地区关押着很多的犯人。解放他们可以提升反抗军的等级。</CHS>
+				<CHS>一个乞丐透露监狱里有一个秘密区域，那里有许多犯人。放了他们对振作抵抗派阶级有好处。</CHS>
 			</desc>
 			<main>
-				<CHS>解放在秘密关押室中的所有犯人</CHS>
+				<CHS>放掉秘密收容所所有囚犯</CHS>
 			</main>
 			<Completed>
-				<CHS>监狱隐藏区现在清空了。今天我们获得了一些自由的贵族战士。</CHS>
+				<CHS>监狱里面的隐藏部分现在已经空了。我们获得了几位忠诚的自由战士。</CHS>
 			</Completed>		
 		</Ch1_Prisoners>
 		<Ch1_Power_of_Perun_Part1>
 			<Name>
-				<CHS>佩伦之力-部分 1</CHS>
+				<CHS>佩隆之能-第1部分</CHS>
 			</Name>
 			<desc>
-				<CHS>根据七号犯人的消息，在雷云山上有一股神秘的强大力量可以帮助我们解决哈克军队的穹顶。即使这个“佩伦”可能只是传说，但猎人工会封锁那个区域也一定是有理由的。不管那是有谁或者有什么，那可能会扭转整个战场的局面。</CHS>
+				<CHS>据七号囚犯说，在雷云山脉有一个拥有强大力量的人物可以帮助我们对付哈克的力场穹顶。也许那个佩隆并不仅仅是一个传说，猎人公会一定以某种理由封住了这片区域。不管谁不管什么，只要到了里面，就会卷到战争中去。</CHS>
 			</desc>
 			<main>
-				<CHS>前往高原</CHS>
+				<CHS>前去平原</CHS>
 			</main>
 			<Pass_through>
-				<CHS>穿过墓穴找到另一个出口</CHS>
+				<CHS>穿过洞穴找到其他出口</CHS>
 			</Pass_through>
 			<Completed>
-				<CHS>我们得穿过名叫巨人之森的高原。我们所要寻找的力量一定在这，但是我们还是要找出精确的位置。</CHS>
+				<CHS>我们已经到了一个叫做巨木森林的高地上了。我们要找的力量确定就在这里，不过我们还需要找到确切地位置。</CHS>
 			</Completed>
 		</Ch1_Power_of_Perun_Part1>
 		<Ch1_Power_of_Perun_Part2>
 			<Name>
-				<CHS>佩伦之力-部分 2</CHS>
+				<CHS>佩隆之能-第2部分</CHS>
 			</Name>
 			<desc>
-				<CHS>巨人之森是一片寒冷危险的区域在很久之前就被猎人公会封锁了。我必须对它进行探索好找到佩伦。</CHS>
+				<CHS>巨木森林是一个又寒冷又危险的地方，而且很久以前被猎人公会封印了。我得彻底把这里勘察一遍才能找到佩隆。</CHS>
 			</desc>
 			<main>
-				<CHS>在巨人之森找到佩伦</CHS>
+				<CHS>在巨木森林中找到佩隆</CHS>
 			</main>
 			<Speak1>
-				<CHS>与巨人石头交谈。</CHS>
+				<CHS>与石首巨人谈谈</CHS>
 			</Speak1>
 			<Speak2>
-				<CHS>与所有的巨人石头交谈。</CHS>
+				<CHS>全部石首巨人谈谈</CHS>
 			</Speak2>
 			<Speak3>
-				<CHS>返回第一个巨人石头那</CHS>
+				<CHS>回去找第一个石首巨人</CHS>
 			</Speak3>
 			<Completed>
-				<CHS>我终于被允许进入佩伦被关押的山内但是我还得到达它的顶峰。</CHS>
+				<CHS>我最后终于抵达了监禁佩隆的的山脚下不过我还得爬到山顶上去。</CHS>
 			</Completed>
 		</Ch1_Power_of_Perun_Part2>
 		<Ch1_Power_of_Perun_Part3>
 			<Name>
-				<CHS>佩伦之力-部分 3</CHS>
+				<CHS>佩隆之能-第3部分</CHS>
 			</Name>
 			<desc>
-				<CHS>这个任务的最后一个部分就在我面前。我必须爬上山顶获得佩伦之力。毫无疑问这个地方被重兵把守着所以我最好要为一场艰难的战斗做好准备。</CHS>
+				<CHS>我的使命的最后一站就在前方。我必须爬到山顶上，然后拿到佩隆的力量。那个地方一定有人严防死守，所以我最好做好打硬战的准备。</CHS>
 			</desc>
 			<main>
-				<CHS>前往佩伦的监狱</CHS>
+				<CHS>前往佩隆囚室</CHS>
 			</main>
 			<Defeat>
-				<CHS>打败佩伦的守卫</CHS>
+				<CHS>打败佩隆守卫</CHS>
 			</Defeat>
 			<Kill>
-				<CHS>杀死异能者</CHS>
+				<CHS>杀掉精通者</CHS>
 			</Kill>
 			<Break>
 				<CHS>打破封印</CHS>
 			</Break>
 			<Return>
-				<CHS>返回在巢穴的七号犯人那</CHS>
+				<CHS>回到巢穴找七号囚犯</CHS>
 			</Return>
 			<Completed>
-				<CHS>我的任务成功了。佩伦的力量很快就会被释放，我们将不会再受到这些该死的武装穹顶的阻碍，可以成功突围了。</CHS>
+				<CHS>我的任务成功了。佩隆的力量很快就会被释放我们就能够不受到那些该死的力量穹顶的影响，它们每回都会阻挡我们。</CHS>
 			</Completed>
 		</Ch1_Power_of_Perun_Part3>
 		<Ch1_Childrens_of_evil>
 			<Name>
-				<CHS>恶魔的孩童</CHS>
+				<CHS>恶魔之子</CHS>
 			</Name>
 			<desc>
-				<CHS>我无意间敲响了一阵锣声召唤了一组邪恶巨人。我最好解决掉他们。</CHS>
+				<CHS>不小心碰响鸣锣招来一大群巨恶魔。我最好赶紧杀掉他们。</CHS>
 			</desc>
 			<main>
-				<CHS>杀死邪恶巨人！</CHS>
+				<CHS>杀掉巨大恶魔！</CHS>
 			</main>
 			<Completed>
-				<CHS>通过鸣锣我召唤了几个邪恶的巨人，但是我解决了他们。在以后我得小心一点所碰触的东西。</CHS>
+				<CHS>不小心碰响鸣锣招来一大群巨恶魔，不过我得小心着点他们。这之后可千万不能再碰到什么东西了。</CHS>
 			</Completed>
 		</Ch1_Childrens_of_evil>
 		<Ch1_Csort_breathes>
 			<Name>
-				<CHS>黑暗偶像</CHS>
+				<CHS>黑神像</CHS>
 			</Name>
 			<desc>
-				<CHS>我们偶然来到了一个墨境和现实世界被打破面纱的地方。一个佩伦的专家要求我们前往那去解决掉引起这个问题的麻烦。</CHS>
+				<CHS>我们穿过了墨境和已经打破的现实世界之间的帷幕。佩隆的精通者要我们穿过来并且处理掉所有碍事的东西。</CHS>
 			</desc>
 			<main>
-				<CHS>穿过门桥进入墨境并摧毁黑暗偶像</CHS>
+				<CHS>穿过通向墨境的门桥，打破黑神像</CHS>
 			</main>
 			<Speak>
-				<CHS>与佩伦的专家交谈</CHS>
+				<CHS>与佩隆的精通者谈谈</CHS>
 			</Speak>
 			<Completed>
-				<CHS>墨境与现实世界的裂口已经被修正了。至少有一个是这样。</CHS>
+				<CHS>墨境与现实世界之间的洞已经补好。至少这一个是如此。</CHS>
 			</Completed>
 		</Ch1_Csort_breathes>
 		<Ch1_Ancient_clock>
 			<Name>
-				<CHS>远古时钟</CHS>
+				<CHS>古老钟表</CHS>
 			</Name>
 			<desc>
-				<CHS>我们碰到了一个叫Vasily Mechanov的发明家。他正在寻找家族的上古传家宝希望我们能帮忙找到它。他答应如果我们帮忙找到的话会为反抗军提供服务。</CHS>
+				<CHS>我们遇到一个叫瓦西里·麦凯诺夫的发明家。他正在找一件古老的传家宝，请我们帮他找回。如果我们遇到了什么麻烦他乐意帮我们一把。</CHS>
 			</desc>
 			<main>
-				<CHS>在寒冷洞穴找到发条钟</CHS>
+				<CHS>在寒冰洞穴中找到一个钟表样装置</CHS>
 			</main>
 			<Speak_Vasily>
-				<CHS>与 Vasily Mechanov交谈</CHS>
+				<CHS>与瓦西里·麦凯诺夫谈谈</CHS>
 			</Speak_Vasily>
 			<Completed>
-				<CHS>我们远古时钟还给了我们的新朋友韦斯利。他也加入了反抗军并前往了秘密巢穴。我会在那找到他。</CHS>
+				<CHS>我们把古钟交还回了我们的新朋友瓦西里。他已经加入到抵抗派中并直接去了秘密巢穴。我随后会在那里找到他。</CHS>
 			</Completed>
 		</Ch1_Ancient_clock>
 		<Ch1_The_curse>
@@ -432,24 +431,24 @@
 				<CHS>诅咒</CHS>
 			</Name>
 			<desc>
-				<CHS>我遇到了一群鬼魂向我寻求帮助。很显然他们村子里的一个人从裂魂人那偷走了一个遗物因此他们被诅咒直到遗物被归还前他们永远不能安息。如果我要帮忙的话，我必须要么找到遗物要么摧毁裂魂人的图腾来结束诅咒。</CHS>
+				<CHS>我遇到了一帮宗教团体，请求我的帮助。似乎他们村子里有个人从灵魂行者那里偷走了一件宝物，如果那件宝物找不回来灵魂行者就会用永恒来世诅咒他们。如果我肯帮忙的话，我要么得找到宝物要么粉碎掉灵魂行者的图腾结束他的诅咒。</CHS>
 			</desc>
 			<main>
-				<CHS>找到裂魂人的遗物或者摧毁裂魂人的图腾</CHS>
+				<CHS>找到灵魂行者的宝物或者破坏掉灵魂行者的图腾</CHS>
 			</main>
 			<Find>
-				<CHS>找到裂魂人遗物的位置</CHS>
+				<CHS>找到灵魂行者的仪式处</CHS>
 			</Find>
 			<Destroy>
-				<CHS>摧毁裂魂人的图腾</CHS>
+				<CHS>破坏掉灵魂行者的图腾</CHS>
 			</Destroy>
 			<Completed>
-				<CHS>裂魂人的诅咒已经结束。受困扰的鬼魂可以安息了。</CHS>
+				<CHS>灵魂行者的诅咒已经消散。受到困扰的灵魂现在可以安息了。</CHS>
 			</Completed>
 		</Ch1_The_curse>
 		<Ch1_The_spiritwalker_camp2>
 			<main>
-				<CHS>与裂魂人长老交谈</CHS>
+				<CHS>与灵魂行者长老谈谈</CHS>
 			</main>
 		</Ch1_The_spiritwalker_camp2>
 		<Ch1_Free_merchant>
@@ -457,45 +456,45 @@
 				<CHS>释放商人</CHS>
 			</Name>
 			<desc>
-				<CHS>我的老友，旅行商贩又遇到问题了。这一次，裂魂人指责他唤醒了一些黑暗地下鬼魂并打算牺牲他。也许我应该做点什么。</CHS>
+				<CHS>我的老朋友，那个行商又陷入到麻烦里了。这一次，灵魂行者指控他唤醒一些黑暗的大地之灵预谋拿他献祭。也许我得做点什么。</CHS>
 			</desc>
 			<main>
-				<CHS>与裂魂人长老交谈</CHS>
+				<CHS>与灵魂行者长老谈谈</CHS>
 			</main>
 			<Fight>
-				<CHS>杀死所有的裂魂人</CHS>
+				<CHS>杀掉所有的灵魂行者</CHS>
 			</Fight>
 			<Calm>
-				<CHS>解决深渊鬼魂</CHS>
+				<CHS>处理掉深灵</CHS>
 			</Calm>
 			<Find>
-				<CHS>找到井中失踪的符文石块</CHS>
+				<CHS>找到失踪的符文石</CHS>
 			</Find>
 			<Return>
-				<CHS>返回裂魂人长老那</CHS>
+				<CHS>回去找灵魂行者长老</CHS>
 			</Return>
 			<Open>
-				<CHS>打开骨制监狱释放旅行商人</CHS>
+				<CHS>打开骨牢释放行商</CHS>
 			</Open>
 			<Completed>
-				<CHS>我再次成功解救了旅行商人。我在想要隔多久他会再次遇到麻烦呢……</CHS>
+				<CHS>我又一次救了行商。我就想知道下一次他又惹麻烦是什么时候……</CHS>
 			</Completed>
 		</Ch1_Free_merchant>
 		<Ch1_Gate_of_Perun>
 			<Name>
-				<CHS>佩伦之门</CHS>
+				<CHS>佩隆大门</CHS>
 			</Name>
 			<desc>
-				<CHS>一个过分激动的佩伦专家打开了附近的佩伦之门让很多霜灵穿过了它。我必须决定是否要再次关上大门。</CHS>
+				<CHS>一个热心过度的佩隆精通者打开了附近的佩隆大门，涌进来许多霜之灵。我必须作出决定要不要再次观赏大门。</CHS>
 			</desc>
 			<main>
-				<CHS>消灭佩伦之门附近所有的霜灵</CHS>
+				<CHS>消灭掉全部从佩隆大门涌进来的霜灵</CHS>
 			</main>
 			<Close>
 				<CHS>关闭大门</CHS>
 			</Close>
 			<Completed>
-				<CHS>大门已经被关闭冰霜恶魔再也不能亵渎这片土地了。</CHS>
+				<CHS>大门已经关闭。那些冰冷的摸不会在祸害这片土地了。</CHS>
 			</Completed>
 		</Ch1_Gate_of_Perun>
 		<Ch1_Szerpentin_ghoul>
@@ -505,7 +504,7 @@
 		</Ch1_Szerpentin_ghoul>
 		<Ch1_The_massacred_caravan>
 			<main>
-				<CHS>屠杀洞穴</CHS>
+				<CHS>屠杀旅行队</CHS>
 			</main>
 		</Ch1_The_massacred_caravan>
 		<Ch1_The_moonstone>
@@ -515,49 +514,49 @@
 		</Ch1_The_moonstone>
 		<Ch2_Second_Tower_defense>
 			<Name>
-				<CHS>鼠辈入侵</CHS>
+				<CHS>耗子怪的入侵</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克的地下军队已经进入十分靠近巢穴的通道了。我们必须击退他们并且再次封锁通道保证我们隐藏点的安全。</CHS>
+				<CHS>哈克的地下军队已经找到了紧挨巢穴的隧道，情况十分危急。我们必须把他们击退然后再次封住隧道保证我们藏匿处的安全。</CHS>
 			</desc>
 			<main>
-				<CHS>打败通道中入侵的鼠辈</CHS>
+				<CHS>守卫隧道抗击卑鄙入侵</CHS>
 			</main>	
 			<Report2>
-				<CHS>与指挥官交谈。</CHS>
+				<CHS>与指挥官谈谈</CHS>
 			</Report2>
 			<Completed>
-				<CHS>哈克的地下军队被再次击退。我希望在他们变得足够强大再进行尝试之前我们可以结束战争。</CHS>
+				<CHS>哈克的地下军队又一次被击溃了。我觉得我们要赶在他们恢复好元气再来挑衅之前彻底结束这场恶斗。</CHS>
 			</Completed>	
 		</Ch2_Second_Tower_defense>
 		<Ch2_Third_Tower_defense>
 			<Name>
-				<CHS>非人部队</CHS>
+				<CHS>野蛮团</CHS>
 			</Name>
 			<desc>
-				<CHS>自从风暴让所有地面军事行动变得不可能之后，哈克向地下分派了大量的军队并在通道中发动了再次的攻击。必须阻止他们。</CHS>
+				<CHS>不管地面上掀起多大军事活动，哈克在地下组织了一支大规模军队向隧道发起了另一场攻击。必须得阻止他们。</CHS>
 			</desc>
 			<main>
-				<CHS>打败通道中的非人军团！</CHS>
+				<CHS>再次护卫隧道对抗不人道团伙！</CHS>
 			</main>
 			<Report3>
-				<CHS>与指挥官交谈。</CHS>
+				<CHS>与指挥官谈谈</CHS>
 			</Report3>
 			<Completed>
-				<CHS>哈克的第次地下攻击受到与上一次相同的结果。我们再次胜利了。</CHS>
+				<CHS>哈克的第三波地下袭击落了个与第一波攻击相同的下场。我们又赢了。</CHS>
 			</Completed>	
 		</Ch2_Third_Tower_defense>
 		<Ch2_Tear_of_Koscsej>
 			<main>
-				<CHS>与丹普博士讨论有关月石的事情！</CHS>
+				<CHS>跟丹普博士谈谈月亮石的事情！</CHS>
 			</main>
 		</Ch2_Tear_of_Koscsej>
 		<Ch2_Legend_of_chimera>
 			<Name>
-				<CHS>奇美拉的传奇</CHS>
+				<CHS>奇美拉传奇</CHS>
 			</Name>
 			<desc>
-				<CHS>七号犯人在墨境发现了一个废弃额设施场所暴脾气在那进行过一些秘密的实验。他相信我能在那找到一些有用的东西，所以我应该去那好好检查一下。</CHS>
+				<CHS>七号囚犯在福尔玛加蒂进行大实验的墨境里找一个废弃的设备。他以为我可能在那里找到了什么有用的东西，所以我应该去那里再检查一下。</CHS>
 			</desc>
 			<main>
 				<CHS>探索秘密实验室</CHS>
@@ -569,83 +568,83 @@
 				<CHS>打败奇美拉</CHS>
 			</Defeat>
 			<Go_back>
-				<CHS>返回巢穴与七号犯人交谈</CHS>
+				<CHS>回到巢穴跟七号囚犯对话</CHS>
 			</Go_back>
 			<Look_chimera>
-				<CHS>前往你的研究处见见你的新守卫！</CHS>
+				<CHS>做你的研究，见见你的新守护者！</CHS>
 			</Look_chimera>
 			<Completed>
-				<CHS>我已经了解了很多关于我最新……同伴相关的情况。我毫不怀疑这种生物会被证明相当有用。</CHS>
+				<CHS>我了解到了不少消息…关于我最新的同伴的。毫无疑问这个生物会非常有用。</CHS>
 			</Completed>
 		</Ch2_Legend_of_chimera>
 		<Ch2_Chimera_informations>
 			<main>
-				<CHS>从书籍上收集信息</CHS>
+				<CHS>从书里收集信息</CHS>
 			</main>
 		</Ch2_Chimera_informations>
 		<Ch2_Counter_offensive>
 			<Name>
-				<CHS>反击</CHS>
+				<CHS>反攻</CHS>
 			</Name>
 			<desc>
-				<CHS>局面已经反转我们终于可以进攻了。我们的目标是铸造厂但是我们首先必须要突破哈克在高架交汇处的兵线。</CHS>
+				<CHS>掀桌子，我们终于准备进攻了。我们的目标是铸造厂但是首先我们一定要突破哈克在陆桥节点的防线。</CHS>
 			</desc>
 			<main>
-				<CHS>与高价交汇处的 Vrikov 队长见面</CHS>
+				<CHS>在陆桥节点与维罗科夫队长碰头</CHS>
 			</main>
 			<Brake_trough>
-				<CHS>突破敌人的兵线到达铸造厂大门处</CHS>
+				<CHS>突破敌人防线，到达铸造厂大门</CHS>
 			</Brake_trough>
 			<Eliminate_automatons>
-				<CHS>消灭末日机器</CHS>
+				<CHS>消除末日机器</CHS>
 			</Eliminate_automatons>
 			<proceed>
-				<CHS>继续朝铸造厂迈进</CHS>
+				<CHS>前往铸造厂</CHS>
 			</proceed>
 			<Completed>
-				<CHS>高架交汇处又是我们的了！现在终于是我们的了，胜利的光环已经从人类的头上升起了！</CHS>
+				<CHS>陆桥节点又是我们的了！主动权现在在我们手上，大家的士气也明显地提升。</CHS>
 			</Completed>
 		</Ch2_Counter_offensive>
 		<Ch2_Enemy_outpost>
 			<Name>
-				<CHS>敌军哨点</CHS>
+				<CHS>敌人前哨</CHS>
 			</Name>
 			<desc>
-				<CHS>我们在高架交汇处的反击战遇到了激烈的反抗我们有失去优势的危险。幸运的是，我们的斥候已经侦测到敌人防线的薄弱点。我要领导向它发起冲锋。</CHS>
+				<CHS>我们对陆桥节点的反击遭到了强烈的抵抗，我们就要败了。幸运的是，我们的部队找到了敌人阵线的弱点。我会领军进攻那里的。</CHS>
 			</desc>
 			<main>
-				<CHS>清除敌人哨点</CHS>
+				<CHS>清理敌军前哨</CHS>
 			</main>
 			<Completed>
-				<CHS>我们突破了！现在我可以对侧翼的敌人发起进攻了协助我们的友军向前推进。</CHS>
+				<CHS>我们突破了！现在我必须从侧面进攻敌人帮助我们的部队向前进。</CHS>
 			</Completed>
 		</Ch2_Enemy_outpost>
 		<Ch2_The_Ornithopter_base_2>
 			<Name>
-				<CHS>敌军坚守点</CHS>
+				<CHS>敌军战略要点</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克的军队在扑翼机控制塔附近挖掘了战壕我们到目前为止想要把他们赶出来的尝试都没有成功。看起来这个战场上的关键点需要我的私人援助了。</CHS>
+				<CHS>哈克的势力已经渗透到扑翼飞机控制塔周围，我们迄今为止还不能驱逐他们。似乎我的个人援助在战场上至关重要。</CHS>
 			</desc>
 			<main>
-				<CHS>帮助反抗军士兵占领扑翼机控制塔！</CHS>
+				<CHS>帮助起义士兵占领飞行器控制塔！</CHS>
 			</main>
 			<Completed>
-				<CHS>又成功了！控制塔是我们的了并且我们可以继续发动攻击。</CHS>
+				<CHS>又是一个成功。控制塔是我们的了，我们可以继续攻击了。</CHS>
 			</Completed>
 		</Ch2_The_Ornithopter_base_2>
 		<Ch2_The_artillery>
 			<Name>
-				<CHS>炮台</CHS>
+				<CHS>炮兵团</CHS>
 			</Name>
 			<desc>
-				<CHS>敌人在附近有一个炮台而且防守十分薄弱。那意味着我们有机会占领它并用它反击敌人。</CHS>
+				<CHS>敌人在附近有个炮击点，防卫并不森严。那意味着我们有机会把它夺下来然后用来打击敌人。</CHS>
 			</desc>
 			<main>
-				<CHS>占领炮台</CHS>
+				<CHS>占领炮兵团</CHS>
 			</main>
 			<Completed>
-				<CHS>炮台是我们的了。该是向哈克的防线撒下死亡的时候了。</CHS>
+				<CHS>炮击点是我们的了。是时候把死亡带到哈克的阵线上了。</CHS>
 			</Completed>
 		</Ch2_The_artillery>
 		<Ch2_The_railway_gun>
@@ -653,72 +652,72 @@
 				<CHS>列车炮</CHS>
 			</Name>
 			<desc>
-				<CHS>重型列车大炮阻挡了我们的步伐。它具备很强的破坏力所以它必须被销毁。</CHS>
+				<CHS>那里有一个列车大炮在挡住我们的去路。它威力太大了，必须搞掉它。</CHS>
 			</desc>
 			<main>
-				<CHS>销毁列车炮</CHS>
+				<CHS>干掉了列车炮。</CHS>
 			</main>
 			<Completed>
-				<CHS>大炮已经被钳制了。</CHS>
+				<CHS>那杆大炮没用了。</CHS>
 			</Completed>
 		</Ch2_The_railway_gun>
 		<Ch2_Four_choise>
 			<main>
-				<CHS>你可以对这个队长下命令</CHS>
+				<CHS>你可以给队长下命令</CHS>
 			</main>
 		</Ch2_Four_choise>
 		<Ch2_Retake_Ornithopter_base>
 			<Name>
-				<CHS>扑翼机控制塔</CHS>
+				<CHS>飞行器控制塔</CHS>
 			</Name>
 			<desc>
-				<CHS>敌人已经重新占领扑翼机发射塔并在尝试重新激活它。它是给高架交汇处第一场战斗带来伤痛的源头，因此不管付出怎样的代价我们必须把它夺回来。</CHS>
+				<CHS>敌人重新夺回了飞行器发射塔并且正在尝试着重新激活它。那是陆桥节点战的悲剧来源，我们必须不计一切重新把它夺回来。</CHS>
 			</desc>
 			<main>
-				<CHS>重新夺回扑翼机控制塔</CHS>
+				<CHS>夺回飞行器控制塔</CHS>
 			</main>
 			<Completed>
-				<CHS>我们刚好及时清除了扑翼机发射塔附近的障碍。</CHS>
+				<CHS>我们及时成功清理了飞行器控发射塔附近的区域。</CHS>
 			</Completed>
 		</Ch2_Retake_Ornithopter_base>
 		<Ch2_Harker_captains>
 			<Name>
-				<CHS>赏金猎人</CHS>
+				<CHS>赏金任务</CHS>
 			</Name>
 			<desc>
-				<CHS>我已经获得三个目标的机会，战争犯罪，杀人恶魔以及新型机器人原形。如果战场条件允许的话我会解决它们。</CHS>
+				<CHS>我收到了三个目标，一个战犯，一个连环杀手，还有一个原型。如果情况允许的话我会搞定他们的。</CHS>
 			</desc>
 			<main>
-				<CHS>找到哈克的狗([Finded_harker_captain]/3)</CHS>
+				<CHS>找到哈克的走狗([Finded_harker_captain]/3)</CHS>
 			</main>
 			<Kill_capt1>
 				<CHS>消灭哈克的队长</CHS>
 			</Kill_capt1>
 			<Kill_capt2>
-				<CHS>消灭谋杀者</CHS>
+				<CHS>消灭凶手</CHS>
 			</Kill_capt2>
 			<Kill_capt3>
-				<CHS>摧毁原形</CHS>
+				<CHS>消灭原型</CHS>
 			</Kill_capt3>
 			<Completed>
-				<CHS>所有目标已经被消灭</CHS>
+				<CHS>所有的目标都被消灭了。</CHS>
 			</Completed>
 		</Ch2_Harker_captains>
 		<Ch2_Fourth_Tower_defense>
 			<Name>
-				<CHS>利刃迷宫</CHS>
+				<CHS>刀剑迷宫</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克选择没人敢通过的最为古老和危险的地窖接近巢穴。我会在那见他。</CHS>
+				<CHS>哈克选择通过最古老最危险没有人敢进入的地下室来接近巢穴。我会在那里见到他。</CHS>
 			</desc>
 			<main>
-				<CHS>打败位于通道的错综刀片中的敌人</CHS>
+				<CHS>防守剑刃迷宫的隧道。</CHS>
 			</main>	
 			<Report4>
-				<CHS>与指挥官交谈。</CHS>
+				<CHS>与指挥官谈谈</CHS>
 			</Report4>
 			<Completed>
-				<CHS>地窖再次安全了。</CHS>
+				<CHS>再次夺回了宝库。</CHS>
 			</Completed>	
 		</Ch2_Fourth_Tower_defense>
 		<Ch2_Clear_the_Foundry>
@@ -726,24 +725,24 @@
 				<CHS>铸造厂</CHS>
 			</Name>
 			<desc>
-				<CHS>没有武力穹顶，铸造厂是一片开放的刺杀地。这毫无疑问是昂贵的行动但是控制这一重要设施可能会战争胜负的决定性因素。</CHS>
+				<CHS>如果没有力场穹顶，铸造厂很容易受到攻击。维持力场穹顶花销颇大，但控制这个关键设施将会是决定战争结果的重要因素。</CHS>
 			</desc>
 			<main>
-				<CHS>拿下铸造厂([occupied_area]%)</CHS>
+				<CHS>夺回铸造厂([occupied_area]%)</CHS>
 			</main>
 			<command>
-				<CHS>你可以对这个队长下命令</CHS>
+				<CHS>你可以给这个队长新命令了</CHS>
 			</command>
 			<Talk_captain>
 				<CHS>与队长交谈</CHS>
 			</Talk_captain>
 			<Completed>
-				<CHS>我们拿下了铸造厂！但是，哈克很明显为了某些邪恶的目的使用了设施并且他所留下的线索表明战争远未结束。</CHS>
+				<CHS>我们夺回了铸造厂！然而哈克显然利用它做了些什么邪恶的事情。他留下的线索意味着这场战场还远未结束。</CHS>
 			</Completed>
 		</Ch2_Clear_the_Foundry>
 		<Ch2_Mystic_machine_plan>
 			<main>
-				<CHS>检视绘图板</CHS>
+				<CHS>观察绘图板</CHS>
 			</main>
 		</Ch2_Mystic_machine_plan>
 		<Ch2_First_Foundry_quest>
@@ -751,30 +750,30 @@
 				<CHS>实用符文手册</CHS>
 			</Name>
 			<desc>
-				<CHS>丹普博士通知我在铸造厂某处有神奇手册。他想让我找到并带给他。</CHS>
+				<CHS>丹普博士告诉我，在这个铸造厂里某处有一本魔法手册。他希望我找到它，然后交给他。</CHS>
 			</desc>
 			<main>
-				<CHS>在隐藏工坊找到手册</CHS>
+				<CHS>在隐藏的车间找到手册！</CHS>
 			</main>
 			<Give>
-				<CHS>带给丹普博士！</CHS>
+				<CHS>把手册带给丹普博士！</CHS>
 			</Give>
 			<Completed>
-				<CHS>我要把手册带给丹普博士。</CHS>
+				<CHS>我已经把手册交给了丹普博士。</CHS>
 			</Completed>
 		</Ch2_First_Foundry_quest>
 		<Ch2_Second_Foundry_quest>
 			<Name>
-				<CHS>强力敌人</CHS>
+				<CHS>强大的敌人</CHS>
 			</Name>
 			<desc>
-				<CHS>我们的士兵在品质控制室遇到了一股特别强力抵抗。</CHS>
+				<CHS>我们的士兵在质量控制室遇到了一小撮敌人猛烈的抵抗。</CHS>
 			</desc>
 			<main>
-				<CHS>肃清大厅</CHS>
+				<CHS>清理大厅</CHS>
 			</main>
 			<Completed>
-				<CHS>这股抵抗已经被消灭。</CHS>
+				<CHS>一小撮抵抗已经被清除。</CHS>
 			</Completed>
 		</Ch2_Second_Foundry_quest>
 		<Ch2_Droppod_base>
@@ -782,22 +781,22 @@
 				<CHS>秘密武器</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克激活了他的秘密武器并部署它进攻巢穴！我必须回去找出它要干什么。</CHS>
+				<CHS>哈克已经激活了他的秘密武器，并且已经将其成功部署！我必须赶回去看看事态如何了。</CHS>
 			</desc>
 			<main>
-				<CHS>返回巢穴与七号犯人交谈！</CHS>
+				<CHS>赶回巢穴与囚犯赛文交谈！</CHS>
 			</main>
 			<Occupy>
-				<CHS>到达漂浮平台！</CHS>
+				<CHS>抵达浮动平台！</CHS>
 			</Occupy>
 			<Turn_on>
-				<CHS>输入萃取装置坐标！</CHS>
+				<CHS>输入萃取装置的坐标！</CHS>
 			</Turn_on>
 			<Use_droppod>
-				<CHS>输入准备好的碎裂壳！</CHS>
+				<CHS>投入裂隙弹！</CHS>
 			</Use_droppod>
 			<Completed>
-				<CHS>我们已经成功进入萃取装置了。该是将扳手扔进齿轮里的时候了。</CHS>
+				<CHS>我们能够通往萃取装置了。是时候给他们点颜色看看。</CHS>
 			</Completed>
 		</Ch2_Droppod_base>
 		<Ch2_Fifth_Tower_defense>
@@ -805,56 +804,56 @@
 				<CHS>钢铁洞穴</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克的军队现在进入了由暴脾气建造的地下工厂里。我必须在他们靠近前阻止他们。</CHS>
+				<CHS>哈克的军队现在正向弗米加蒂建造的地下工厂进军。我必须在他们到达之前阻止他们。</CHS>
 			</desc>
 			<main>
-				<CHS>打败位于通道的钢铁巢穴中的敌人</CHS>
+				<CHS>防守钢铁洞穴的隧道</CHS>
 			</main>				
 			<Report5>
-				<CHS>与指挥官交谈。</CHS>
+				<CHS>与指挥官谈谈</CHS>
 			</Report5>
 			<Completed>
-				<CHS>我们成功摧毁了地下工厂。</CHS>
+				<CHS>我们成功守卫了地下工厂。</CHS>
 			</Completed>
 		</Ch2_Fifth_Tower_defense>
 		<Ch2_Bossfight>
 			<Name>
-				<CHS>歌利亚</CHS>
+				<CHS>巨人</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克的末日装置准备好要摧毁巢穴-即使它会造成博格维亚表面一半会坍塌。我设法到达了这机械魔物的后面，现在我必须找到它的弱点。</CHS>
+				<CHS>哈克的末日装置已经准备好摧毁巢穴——尽管这意味着地表半数的博加维亚将会倾覆。</CHS>
 			</desc>
 			<main>
 				<CHS>摧毁萃取装置！</CHS>
 			</main>
 			<heat>
-				<CHS>中央核心过热！</CHS>
+				<CHS>使中央核心过热！</CHS>
 			</heat>	
 			<escape>
-				<CHS>逃离平台！</CHS>
+				<CHS>逃出平台！</CHS>
 			</escape>			
 			<Completed>
-				<CHS>哈克的巨型末日装置已经被摧毁。博格维亚现在有了一个新的与众不同的地标了。</CHS>
+				<CHS>哈克巨大的末日装置已经被摧毁了。博加维亚城现在有了一个非常别致的新地标。</CHS>
 			</Completed>
 		</Ch2_Bossfight>
 		<Ch3_City1_defeat_Harker>
 			<Name>
-				<CHS>开始结束</CHS>
+				<CHS>终曲之始</CHS>
 			</Name>
 			<desc>
-				<CHS>为了结束这场战争，我必须追上哈克将军。很显然，他占据了商业区但是我们在他的军队中有间谍。也许这可以让我消灭将军而不用冒反抗军士兵的生命危险。</CHS>
+				<CHS>为了结束这场战争，我必须面对哈克将军本人。显然，他很好地隐藏在商人区中。但在他的军队中有我们的间谍。可能这能让我们干掉将军本人，而不必牺牲抵抗士兵的性命。</CHS>
 			</desc>
 			<main>
-				<CHS>与反抗军间谍在商业区见面</CHS>
+				<CHS>在商人区会见抵抗势力间谍。</CHS>
 			</main>
 			<renegat_vampir>
-				<CHS>从吸血鬼叛徒那获得去磁工具箱</CHS>
+				<CHS>从吸血鬼背叛者处取得去磁器工具包</CHS>
 			</renegat_vampir>	
 			<find_harker>
-				<CHS>潜入哈克将军的总部</CHS>
+				<CHS>潜入哈克将军的指挥部</CHS>
 			</find_harker>			
 			<Completed>
-				<CHS>我设法潜入了哈克的总部但是将军已经逃走了。我必须追上他。</CHS>
+				<CHS>我成功地攻入哈克的大本营，但是他已经逃跑了。我必须追击。</CHS>
 			</Completed>
 		</Ch3_City1_defeat_Harker>
 		<Ch3_City1_kaszarnya>
@@ -862,106 +861,106 @@
 				<CHS>精英守卫</CHS>
 			</Name>
 			<desc>
-				<CHS>靠近哈克的总部房附近的驻军部队是将军的精英守卫。当我进入总部时他们会警惕起来，所以也许我应该首先解决他们。如果我摧毁了力墙驻军部队的生成器我也许能使军队中毒。</CHS>
+				<CHS>将军的精英守卫驻扎在哈克的大本营附近的要塞里。一旦我向大本营移动，就会惊动他们。所以我最好先把他们干掉。如果摧毁了要塞的力场墙发生器，我就能让他们中毒。</CHS>
 			</desc>
 			<main>
-				<CHS>摧毁位于博格维亚大坝顶部的力墙生成器</CHS>
+				<CHS>摧毁位于博加维亚银行屋顶的力场墙发生器</CHS>
 			</main>
 			<szellozok_megmergezese>
-				<CHS>释放毒气进入驻军建筑内</CHS>
+				<CHS>把毒气释放进要塞建筑中</CHS>
 			</szellozok_megmergezese>			
 			<Completed>
-				<CHS>精英守卫已经被静静地消灭了。现在潜入总部。</CHS>
+				<CHS>精英守卫已经被悄悄干掉。是时候向大本营进发了。</CHS>
 			</Completed>
 		</Ch3_City1_kaszarnya>
 		<Ch3_City1_hunter_explorers>
 			<Name>
-				<CHS>歼灭者编队</CHS>
+				<CHS>毁坏者小队</CHS>
 			</Name>
 			<desc>
-				<CHS>我碰到了一大群八足歼灭者。我在想将军是在哪得到所有这些的？不管怎样，我想再次陷入矛盾之中……</CHS>
+				<CHS>我遭遇到一整队八臂毁坏者。我奇怪将军在哪里搞到这么多？无论如何，我得大战一场了……</CHS>
 			</desc>
 			<main>
-				<CHS>摧毁八足歼灭者！</CHS>
+				<CHS>摧毁八臂毁坏者！</CHS>
 			</main>						
 			<Completed>
-				<CHS>歼灭者已经被歼灭了。</CHS>
+				<CHS>毁坏者已被消灭。</CHS>
 			</Completed>
 		</Ch3_City1_hunter_explorers>
 		<Ch3_ThroughTheSpiderRocks>
 			<Name>
-				<CHS>打破常规</CHS>
+				<CHS>人迹罕至</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克已经离开城市前往了神秘禁忌之地为了能找到神器：不死者克什的死亡。这据说是一种难以言喻强大的神器这也意味着绝不能落入上将的手中。</CHS>
+				<CHS>哈克已经逃离这座城市，他打算去一个神秘的禁地寻找一个圣物：不灭者科斯凯之死。这是一件难以言喻的充满可怕力量的圣物。我不能让它落到将军手里。</CHS>
 			</desc>
 			<main>
-				<CHS>进入苦艾峡谷找到哈克准确前往的地方。</CHS>
+				<CHS>前往苦艾裂谷，找出哈克的目的地。</CHS>
 			</main>
 			<follow>
 				<CHS>跟随哈克</CHS>
 			</follow>			
 			<Completed>
-				<CHS>我已经找到通过苦艾峡谷的路终于赶上了将军。该是结束这一切的时候了。</CHS>
+				<CHS>我必须打通去往苦艾裂谷的通道，然后抓住将军。是时候终结这一切了。</CHS>
 			</Completed>
 		</Ch3_ThroughTheSpiderRocks>
 		<Ch3_SpiderRocks_Seals>
 			<Name>
-				<CHS>方块极点</CHS>
+				<CHS>六角杆</CHS>
 			</Name>
 			<desc>
-				<CHS>这块土地因为远古方块极点而造成了突起，这也意味这反抗军不能从墨境派遣士兵来协助我。但是，如果我打破了这些保护性的封口那么我就能改正这钟情况。</CHS>
+				<CHS>这边土地被古老的六角杆守护者。这意味着抵抗军无法通过墨境派遣士兵协助我。不过如果我破坏掉这些封印，我就能够逆转局势了。</CHS>
 			</desc>
 			<main>
-				<CHS>摧毁方块极点([broken]/4)</CHS>
+				<CHS>摧毁六角杆([broken]/4)</CHS>
 			</main>					
 			<Completed>
-				<CHS>我已经摧毁方块极点。反抗军可以派遣增援了。</CHS>
+				<CHS>我已经摧毁了六角杆。抵抗军可以派遣增援了。</CHS>
 			</Completed>
 		</Ch3_SpiderRocks_Seals>
 		<Ch3_SpiderRocks_Boss>
 			<Name>
-				<CHS>苦艾峡谷的国王和王后</CHS>
+				<CHS>苦艾裂谷的国王与王后</CHS>
 			</Name>
 			<desc>
-				<CHS>苦艾峡谷是由这些巨型蜘蛛所统治的在哈肯的军队通过时杀死了他们当中大部分人。一名他丢下的受伤的士兵告诉得解决这些蜘蛛当然我也打算这么做。毕竟我是一名怪物猎人……</CHS>
+				<CHS>苦艾裂谷由三只穷凶极恶的蜘蛛精英统治，哈克的军队因为他们减员了十分之一。一名落后的伤员告诉我小心这些蜘蛛。我打算干掉他们，归根结底，我是一名怪物猎人。</CHS>
 			</desc>
 			<main>
-				<CHS>杀死胖寡妇</CHS>
+				<CHS>杀死肥胖寡妇</CHS>
 			</main>
 			<boss_2>
-				<CHS>杀死黑甲虫</CHS>
+				<CHS>杀死黑色编织者</CHS>
 			</boss_2>
 			<boss_3>
-				<CHS>杀死斑纹利维坦</CHS>
+				<CHS>杀死斑点利维坦</CHS>
 			</boss_3>			
 			<Completed>
-				<CHS>我已经清除了苦艾峡谷的障碍。这地方已经足够的安全能让反抗军士兵通过了。</CHS>
+				<CHS>我已经清理了苦艾裂谷。这个地方现在已经足够安全令抵抗军士兵通过了。</CHS>
 			</Completed>
 		</Ch3_SpiderRocks_Boss>
 		<Ch2_Sixth_Tower_defense>
 			<Name>
-				<CHS>回忆大厅</CHS>
+				<CHS>纪念大厅</CHS>
 			</Name>
 			<desc>
-				<CHS>哈克的军队已经打开神圣地下室的门他们十分接近巢穴了。这可能是他们最后的尝试。</CHS>
+				<CHS>哈克的军队已经打开了通往地下神圣房间的大门。他们现在已经离巢穴太近了。这可能是他们最后的一击了。</CHS>
 			</desc>
 			<main>
-				<CHS>打败位于通道的记忆大厅中的敌人</CHS>
+				<CHS>防守纪念堂的隧道</CHS>
 			</main>				
 			<Report6>
-				<CHS>与指挥官交谈。</CHS>
+				<CHS>与指挥官谈谈</CHS>
 			</Report6>
 			<Completed>
-				<CHS>哈克最后向巢穴进发的尝试已经失败了。</CHS>
+				<CHS>哈克最后一次抵达巢穴的尝试被挫败了。</CHS>
 			</Completed>
 		</Ch2_Sixth_Tower_defense>
 		<Ch3_Bossfight>
 			<Name>
-				<CHS>最终战役</CHS>
+				<CHS>最终对抗</CHS>
 			</Name>
 			<desc>
-				<CHS>我终于遇上了哈克将军。他极度渴望获得克什的死亡并吵醒了它的扭曲守卫，树妖女王。我必须要解决掉他们。</CHS>
+				<CHS>最终，我赶上了哈克将军。他拼命地想要取得不灭者科斯凯之死。他已经唤醒了扭曲的守卫——树妖皇后。我必须同时对抗他们两个。</CHS>
 			</desc>
 			<main>
 				<CHS>打败树妖女王</CHS>
@@ -970,385 +969,385 @@
 				<CHS>阻止哈克</CHS>
 			</stop_harker>
 			<kill_harker>
-				<CHS>打败哈克将军</CHS>
+				<CHS>击败哈克将军</CHS>
 			</kill_harker>
 			<completed>
-				<CHS>哈克被打败了但是我也被背叛了。七号犯人偷走了克什的死亡并逃走了。这毫无疑问有开启了新的冒险……我想，英雄可没时间休息了。</CHS>
+				<CHS>哈克被击败了，但是我也遭受了背叛。囚犯赛文偷走了科斯凯之死并逃离了这里。毫无疑问，这是另一场冒险的开始……英雄永无宁息，我猜。</CHS>
 			</completed>
 		</Ch3_Bossfight>
 		<Ch4_New_Assignment2>
 			<Name>
-				<CHS>新的任务</CHS>
+				<CHS>新任务</CHS>
 			</Name>
 			<main>
-				<CHS>与巢穴的守卫队长交谈</CHS>
+				<CHS>与洞穴中的守备队长交谈</CHS>
 			</main>
 		</Ch4_New_Assignment2>
 		<Ch4_New_Assignment3>
 			<Name>
-				<CHS>新的任务</CHS>
+				<CHS>新任务</CHS>
 			</Name>
 			<main>
-				<CHS>与巢穴的指挥官彼得罗夫交谈</CHS>
+				<CHS>与洞穴中的指挥官彼得罗夫交谈</CHS>
 			</main>
 		</Ch4_New_Assignment3>
 		<Ch4_New_Assignment4>
 			<Name>
-				<CHS>新的任务</CHS>
+				<CHS>新任务</CHS>
 			</Name>
 			<main>
-				<CHS>与巢穴的七号犯人交谈</CHS>
+				<CHS>与洞穴中的犯人赛文交谈</CHS>
 			</main>
 		</Ch4_New_Assignment4>
 	</Quests>
 	<reports>		
 		<Commander_Petrov>
 			<Retake_tunnels_first>
-				<CHS>范海辛！我们需要你立刻返回通道。</CHS>
+				<CHS>范海辛！我们希望你立即赶到隧道。</CHS>
 			</Retake_tunnels_first>
 			<Vampire_lord>
-				<CHS>范海辛，我们可能为我们的事业找到了新的成员。请，来这里。</CHS>
+				<CHS>范海辛，为我们的事业，我们找到了一个新兵。请快来这里。</CHS>
 			</Vampire_lord>
 			<Supply_shipment>
-				<CHS>范海辛！一艘重要的轮船快要到达城市了。在它到达哈克那里前我们必须拦截它。</CHS>
+				<CHS>范海辛！一艘非常重要的货船马上要抵达这个城市了。我们必须在哈克得到它之前拦截它。</CHS>
 			</Supply_shipment>
 			<Second_TD_available>
-				<CHS>我们需要你，范海辛！哈克准备对通道发动新的攻击。</CHS>
+				<CHS>我们需要你，范海辛！哈克正准备对隧道发起新的攻击。</CHS>
 			</Second_TD_available>
 			<Retake_tunnels_second>
-				<CHS>范海辛！立刻加入我们到巢穴中。我们得夺回通道。</CHS>
+				<CHS>范海辛！快来巢穴和我们汇合。我们必须夺回隧道。</CHS>
 			</Retake_tunnels_second>
 			<Frankenstein_laboratory>
-				<CHS>范海辛！我们发现了一座秘密实验室。请，回到巢穴加入我们。</CHS>
+				<CHS>范海辛！我们找到了一个隐秘的实验室。请快来巢穴和我们汇合。</CHS>
 			</Frankenstein_laboratory>
 			<Marauders_attack>
-				<CHS>范海辛！掠夺者正在威胁这座城市。我们需要你在这里！</CHS>
+				<CHS>范海辛！掠夺者正在威胁城市。我们这里需要你！</CHS>
 			</Marauders_attack>
 			<Retake_tunnels_third>
-				<CHS>范海辛！我们需要你立刻返回通道。</CHS>
+				<CHS>范海辛！我们希望你立即赶到隧道。</CHS>
 			</Retake_tunnels_third>
 			<Offensive_stalled>
-				<CHS>范海辛！哈克的重装单位包围了发射塔。我们的士兵需要你帮忙进行突破。</CHS>
+				<CHS>范海辛！哈克的重装单位包围了发射塔。我们的士兵需要你的帮助。</CHS>
 			</Offensive_stalled>
 			<Ornibase_under_attack>
-				<CHS>发射塔受到攻击！帮助我们的士兵在他们的位置进行防御。</CHS>
+				<CHS>发射塔正在遭受攻击！帮助我们的士兵防守。</CHS>
 			</Ornibase_under_attack>
 			<Retake_Ornibase>
-				<CHS>范海辛！哈克的士兵重新占据了发射塔。在控制器再次运行前阻止他们。</CHS>
+				<CHS>范海辛！哈克的士兵重新夺回了发射塔。在他们取得控制权之前快阻止他们。</CHS>
 			</Retake_Ornibase>
 			<First_wanted_message>
-				<CHS>范海辛，鲜血队长就在附近。找到并杀了他。</CHS>
+				<CHS>范海辛，血腥队长就在附近。找到那个人然后杀了他。</CHS>
 			</First_wanted_message>
 			<Third_wanted_message>
-				<CHS>你正在接近阿尔法原型。你必须摧毁它！</CHS>
+				<CHS>你正在接近阿尔法原型机。你必须摧毁它！</CHS>
 			</Third_wanted_message>
 			<Second_wanted_message>
-				<CHS>气体面具男已经就在附近，范海辛。当你发现他时，你得杀了他！</CHS>
+				<CHS>毒气男应该就在附近，范海辛。当你找到他，你就干掉他。</CHS>
 			</Second_wanted_message>
 			<Fourth_TD_available>
-				<CHS>范海辛！立刻加入我们到巢穴中。我们得夺回通道。</CHS>
+				<CHS>范海辛！快来巢穴和我们汇合。我们必须夺回隧道。</CHS>
 			</Fourth_TD_available>
 			<Retake_tunnels_fourth>
-				<CHS>范海辛！我们需要你立刻返回通道。</CHS>
+				<CHS>范海辛！我们希望你立即赶到隧道。</CHS>
 			</Retake_tunnels_fourth>
 			<Ch2_bossfight_radio1>
-				<CHS>我们的科学家已经找到薄弱点！如果中央核心过热，那么整个系统就会爆炸！</CHS>
+				<CHS>我们的科学家一经发现了它的弱点！如果中央核心过热，那么整个系统将会爆炸！</CHS>
 			</Ch2_bossfight_radio1>
 			<Ch2_bossfight_radio2>
-				<CHS>核心被盾牌军队保卫着！你可以拉动三个紧急杆好让它无效，但那也只是暂时的！</CHS>
+				<CHS>核心由力场护盾保护！你可以通过拉下三个紧急拉杆关闭护盾，但这只是暂时的！</CHS>
 			</Ch2_bossfight_radio2>
 			<Fifth_TD_available>
-				<CHS>范海辛！哈克已经向通道系统派送了新的军队。立刻返回！</CHS>
+				<CHS>范海辛！哈克向隧道系统派出了新的部队。立即回来！</CHS>
 			</Fifth_TD_available>
 			<Retake_tunnels_fifth>
-				<CHS>范海辛！在哈克找到巢穴前我们必须夺回地窖！</CHS>
+				<CHS>范海辛！我们必须在哈克找到巢穴之前夺回地下宝库！</CHS>
 			</Retake_tunnels_fifth>
 			<Foundry_counterattack>
-				<CHS>范海辛！一大群敌人正在进行反击！我们需要你对抗他们！</CHS>
+				<CHS>范海辛！一支战力可观的敌人部队发起了反击！我们需要你击溃他们！</CHS>
 			</Foundry_counterattack>
 			<Sixth_TD_available>
-				<CHS>范海辛！立刻加入我们到巢穴中。我们在通道系统中遇到麻烦了。</CHS>
+				<CHS>范海辛！立即来巢穴和我们汇合。我们的隧道系统遇到了新的麻烦。</CHS>
 			</Sixth_TD_available>
 			<Ch3_city1_hunter_explorers>
-				<CHS>哈克部署了三个歼灭者！消灭他们！那会成为对他们的毁灭性打击。</CHS>
+				<CHS>哈克部署了三个毁灭者！干掉他们！让他们知道我们不是好惹的。</CHS>
 			</Ch3_city1_hunter_explorers>
 			<Ch3_city1_kaszarnya>
-				<CHS>小心！卫戍部队派遣了增援来帮助哈克了！</CHS>
+				<CHS>小心！要塞正在向哈克派遣增援！</CHS>
 			</Ch3_city1_kaszarnya>
 			<Nationale_treasure>
-				<CHS>我们也许已经找到Borislav神秘财宝下落的线索了。你应该找人去收回它。</CHS>
+				<CHS>我们可能发现了波利斯拉夫国王神秘宝藏的线索。你应该派谁去把它收回。</CHS>
 			</Nationale_treasure>
 			<Bridge_Over_the_River>
-				<CHS>我们其中一个正在重建渡桥的引擎需要援助。请，回到巢穴加入我们。</CHS>
+				<CHS>我们重建桥梁的工程师需要帮助。请回到巢穴和我们汇合。</CHS>
 			</Bridge_Over_the_River>
 		</Commander_Petrov>
 		<Dr_Dampf>
 			<Alchemist_message1>
-				<CHS>范海辛！我需要你在铸铁厂找到稀有的神秘教科书。</CHS>
+				<CHS>范海辛！我需要你在铸造厂里帮我找到一本稀有的教材。</CHS>
 			</Alchemist_message1>
 			<Alchemist_message2>
-				<CHS>在铸铁厂有一个隐藏的工坊来保证手册上的练习符文创建附魔模具。</CHS>
+				<CHS>铸造厂里有一个隐秘的工作室。在那里，你可以找到一本用于制造附魔模组的符文应用手册。</CHS>
 			</Alchemist_message2>
 		</Dr_Dampf>
 		<Koscsej>
 			<Prisoner_Seven_radio1>
-				<CHS>我们可以使用我们的碎裂壳向你派送援军。尽管，这是一个问题。</CHS>
+				<CHS>我们可以用裂隙弹增援你。但有一个问题。</CHS>
 			</Prisoner_Seven_radio1>
 			<Prisoner_Seven_radio2>
-				<CHS>远古方块极点从墨境中被隔离了。首先摧毁四格极点！</CHS>
+				<CHS>古老的六角杆将这个地方与墨境割裂开来。先摧毁四个六角杆！</CHS>
 			</Prisoner_Seven_radio2>
 			<Prisoner_Seven_Message01>
-				<CHS>是的！就是那样，范海辛。你的做法是对的。</CHS>
+				<CHS>是的！就是这个，范海辛。你做得很对。</CHS>
 			</Prisoner_Seven_Message01>
 			<Prisoner_Seven_Message02>
-				<CHS>看看你的周围，猎人。不死者的领域。这不是残忍之美吗？</CHS>
+				<CHS>看看周围，猎人。不灭者的疆域。你不觉得这很美么？</CHS>
 			</Prisoner_Seven_Message02>
 			<Prisoner_Seven_Message03>
-				<CHS>你快要获得博格维亚最为强力的神器了！前进，猎人！</CHS>
+				<CHS>你几乎就要拿到博加维亚最具有威力的圣物了！前进，猎人！</CHS>
 			</Prisoner_Seven_Message03>
 			<Prisoner_Seven_Message04>
-				<CHS>就光想一想这钟可能，范海辛！你和我，拥有那种力量！</CHS>
+				<CHS>想想看，范海辛！</CHS>
 			</Prisoner_Seven_Message04>
 			<Prisoner_Seven_Message05>
-				<CHS>你已经很近了，猎人！现在你敢在博格维亚放弃吗！</CHS>
+				<CHS>你已经很接近了，猎人！现在千万不要放弃博加维亚！</CHS>
 			</Prisoner_Seven_Message05>
 			<Prisoner_Seven_Message06>
-				<CHS>是什么在耽搁你，猎人？为什么你在浪费我们的时间？</CHS>
+				<CHS>你在等什么，猎人？为什么你要浪费我们的时间？</CHS>
 			</Prisoner_Seven_Message06>
 			<Prisoner_Seven_Message07>
-				<CHS>哈克在你前面！他已经到达荆棘沼泽了！</CHS>
+				<CHS>哈克就在你的前面！他已经到达了荆棘林地！</CHS>
 			</Prisoner_Seven_Message07>
 			<Prisoner_Seven_Message08>
-				<CHS>我的意识在告诉我们鲜血正在那片禁忌森林中泼洒！他们很近！</CHS>
+				<CHS>我直觉这片森林禁地曾经洒满了鲜血！他们已经不远了！</CHS>
 			</Prisoner_Seven_Message08>
 			<Prisoner_Seven_Message09>
-				<CHS>猎人！哈克加入了与财宝守卫者的战斗！不要浪费你的时间！</CHS>
+				<CHS>猎人！哈克已经和宝藏的守卫打起来了！别浪费你的时间了！</CHS>
 			</Prisoner_Seven_Message09>
 		</Koscsej>
 		<Vladimir>
 			<Vladimir_morning_show01>
-				<CHS>早上好，博格维亚！</CHS>
+				<CHS>早早早上好好好好好好，博加维亚！</CHS>
 			</Vladimir_morning_show01>
 			<Vladimir_morning_show02>
-				<CHS>注意，反抗军士兵。测试无线电发射，1,2,3.</CHS>
+				<CHS>注意，抵抗军士兵们。测试发射天线，1,2,3.</CHS>
 			</Vladimir_morning_show02>
 			<Vladimir_morning_show03>
-				<CHS>第一次向所有勇敢的反抗军士兵发送无线电！为了博格维亚！</CHS>
+				<CHS>向抵抗军所有英勇的将士们发送第一次广播！为了博加维亚！</CHS>
 			</Vladimir_morning_show03>
 			<Vladimir_morning_show04>
-				<CHS>考虑到设备的能量消耗不再允许发送任何普通的公告。</CHS>
+				<CHS>因为装置的能量消耗，不会再次发送通常公告。</CHS>
 			</Vladimir_morning_show04>
 			<Vladimir_morning_show05>
-				<CHS>我要把这首肖邦钢琴协奏曲送给我的母亲和所有外面的粉丝！</CHS>
+				<CHS>我想把这首肖邦钢琴协奏曲献给我的母亲和所有的粉丝！</CHS>
 			</Vladimir_morning_show05>
 			<Vladimir_morning_show06>
-				<CHS>这是服务公告。不允许任何人频繁使用它发送私人信息。</CHS>
+				<CHS>特别公告。任何人不允许使用该频率传递个人信息。</CHS>
 			</Vladimir_morning_show06>
 		</Vladimir>
 		<Domovoy>
 			<Morning_show_kozjatek>
-				<CHS>幽灵解放阵线就在这！我们拥有发送器！自由！……</CHS>
+				<CHS>这里是德莫沃依解放前线！我们获得了发射器！自由！……</CHS>
 			</Morning_show_kozjatek>
 		</Domovoy>
 		<Message>
 			<Radio_alien_message>
-				<CHS>……我是雷普利，“诺史莫”号的最后幸存者，完毕……</CHS>
+				<CHS>……这里是里普利，诺斯托罗莫最后的幸存者，结束……</CHS>
 			</Radio_alien_message>
 		</Message>
 	</reports>
 	<hiddencontent>
 		<Da_Vinci_note>
-			<CHS>你已经找到Da Vinci丢失的扑翼机蓝图。</CHS>
+			<CHS>你已找到达芬奇的扑翼机蓝图。</CHS>
 		</Da_Vinci_note>
 		<Appleshooter_Bow>
-			<CHS>你已经找到 Wilhelm Tell十字弩。</CHS>
+			<CHS>你已找到威廉·特尔的十字弩。</CHS>
 		</Appleshooter_Bow>
 		<Secret_prison_opened>
-			<CHS>你已经找到隐藏的监狱区域。</CHS>
+			<CHS>你一发现隐藏监牢。</CHS>
 		</Secret_prison_opened>
 		<Hannibal_mask>
-			<CHS>你已经找到Cannibal的面具。</CHS>
+			<CHS>你已找到食人族面罩。</CHS>
 		</Hannibal_mask>
 		<Hannibal_mask_low>
-			<CHS>你已经找到Cannibal的面具。</CHS>
+			<CHS>你已找到食人族面罩。</CHS>
 		</Hannibal_mask_low>
 		<Dr_Jekyl_tincture>
-			<CHS>你已经找到Jekyll博士的药酒。</CHS>
+			<CHS>你已找到哲基尔医生的酊剂。</CHS>
 		</Dr_Jekyl_tincture>
 		<Mushroom_diploma>
-			<CHS>你已经找到蘑菇专家证书。</CHS>
+			<CHS>你已找到蘑菇专家证书。</CHS>
 		</Mushroom_diploma>
 		<BNT_SQ13_dead_hunter>
-			<CHS>你已经收集了年轻死亡猎人的尸体。</CHS>
+			<CHS>你已搜刮了一位年轻猎人的尸体。</CHS>
 		</BNT_SQ13_dead_hunter>
 		<Gold_fish>
-			<CHS>你已经找到一条黄金鱼。</CHS>
+			<CHS>你已找到了一条金鱼。</CHS>
 		</Gold_fish>
 		<rukh_pole>
-			<CHS>你已经找到苦艾的财宝。</CHS>
+			<CHS>你已找到了雕刻家的宝藏。</CHS>
 		</rukh_pole>
 		<Gong_giants_active>
-			<CHS>你通过敲响一面巨型锣鼓召唤了四个巨人。</CHS>
+			<CHS>你已用巨人铜锣召唤出了巨人。</CHS>
 		</Gong_giants_active>
 		<alms_for_ghoul>
-			<CHS>你帮助了伍迪避免人们指责他为一名食尸鬼。</CHS>
+			<CHS>你已帮助伍迪摆脱了别人说他是食尸鬼的指控。</CHS>
 		</alms_for_ghoul>
 		<dinner_for_ghoul>
-			<CHS>你已经揭示伍迪是一个食尸鬼。</CHS>
+			<CHS>你已成功证明伍迪就是食尸鬼。</CHS>
 		</dinner_for_ghoul>
 		<Don_Quijote_Spear>
-			<CHS>你已经找到Don Qijote的长矛。</CHS>
+			<CHS>你已找到了齐乔特阁下的长矛。</CHS>
 		</Don_Quijote_Spear>
 		<VH2harpyfeather_trophy>
-			<CHS>你已经找到稻草人的宝藏。</CHS>
+			<CHS>你已找到了稻草人的宝藏。</CHS>
 		</VH2harpyfeather_trophy>
 		<VH2harpyfeather_trophy_low>
-			<CHS>你已经找到稻草人的宝藏。</CHS>
+			<CHS>你已找到了稻草人的宝藏。</CHS>
 		</VH2harpyfeather_trophy_low>
 		<Steal_the_armor>
-			<CHS>你已经找到地下城守护者的护甲。</CHS>
+			<CHS>你已找到了地牢守护人的盔甲。</CHS>
 		</Steal_the_armor>
 		<Bomb_have_been_planted2>
-			<CHS>你拯救了炸弹专家。</CHS>
+			<CHS>你已成功解救爆破专家。</CHS>
 		</Bomb_have_been_planted2>
 		<cold_cavers_domovoy_done>
-			<CHS>你驱逐了在矿车的幽灵。</CHS>
+			<CHS>你已从矿车中找回了家神。</CHS>
 		</cold_cavers_domovoy_done>
 		<gandalf_looted>
-			<CHS>你收集了灰巫师的尸体。</CHS>
+			<CHS>你已搜刮了灰袍巫师的尸体。</CHS>
 		</gandalf_looted>
 		<Rare_ore_loot_active>
-			<CHS>你已经找到稀有矿石。</CHS>
+			<CHS>你已找到一块稀有矿石。</CHS>
 		</Rare_ore_loot_active>
 		<Vh2cavern_ring>
-			<CHS>你已经找到永生指环</CHS>
+			<CHS>你已找到末世之戒。</CHS>
 		</Vh2cavern_ring>
 		<Vh2cavern_ring_low>
-			<CHS>你已经找到永生指环</CHS>
+			<CHS>你已找到末世之戒。</CHS>
 		</Vh2cavern_ring_low>
 		<spirit_banter_played>
-			<CHS>你已经找到完美搞砸的护甲。</CHS>
+			<CHS>你已找到打满补丁的盔甲。</CHS>
 		</spirit_banter_played>
 		<moonstones>
-			<CHS>你已经找到所有三个月石。</CHS>
+			<CHS>你已找到所有的三块月之石。</CHS>
 		</moonstones>
 		<Spiritwalker_bone_relic>
-			<CHS>你已经找到裂魂人的遗物。</CHS>
+			<CHS>你已找到游灵的遗产。</CHS>
 		</Spiritwalker_bone_relic>
 		<Rune_stone_of_carcas_pit>
-			<CHS>你已经在井中找到了符文石。</CHS>
+			<CHS>你已从古井中找出了符石。</CHS>
 		</Rune_stone_of_carcas_pit>
 		<essence_of_the_rock>
-			<CHS>你从石头那赢得了岩石。</CHS>
+			<CHS>你已从石之首脑处赢得了岩石。</CHS>
 		</essence_of_the_rock>
 		<Fifth_drum_klicked>
-			<CHS>你已经证明雪人是存在的。</CHS>
+			<CHS>你已成功证明了雪人的存在。</CHS>
 		</Fifth_drum_klicked>
 		<Steal_the_medallion>
-			<CHS>你已经找到地下城守护者的护身符。</CHS>
+			<CHS>你已找到了地牢守护者的护符。</CHS>
 		</Steal_the_medallion>
 		<giantwoods_black_knight>
-			<CHS>你击败了黑骑士。</CHS>
+			<CHS>你已打败了黑衣骑士。</CHS>
 		</giantwoods_black_knight>
 		<td1_secret>
-			<CHS>你已经找到地下入侵中的秘密区域。</CHS>
+			<CHS>你已发现了位于地下的隐秘区域。</CHS>
 		</td1_secret>
 		<td2_secret>
-			<CHS>你已经找到鼠人入侵中的秘密区域。</CHS>
+			<CHS>你已发现了鼠类泛滥区的隐秘区域。</CHS>
 		</td2_secret>
 		<td_inkiscoming>
-			<CHS>你已经找到墨境之潮通道中的秘密区域。</CHS>
+			<CHS>你已发现了墨潮隧道里的隐秘区域。</CHS>
 		</td_inkiscoming>
 
 		<ink_glass_statues_finished>
-			<CHS>你通过转动雕像召唤了奇美拉。</CHS>
+			<CHS>你转动雕塑，召唤了奇美拉。</CHS>
 		</ink_glass_statues_finished>
 		<Emerald_lantern>
-			<CHS>你已经找到翠绿灯笼。</CHS>
+			<CHS>你找到了绿宝石灯笼。</CHS>
 		</Emerald_lantern>
 		<vh2_Koscsej_tear>
-			<CHS>你已经让克什的眼泪形成了。</CHS>
+			<CHS>你制成了科斯凯的眼泪。</CHS>
 		</vh2_Koscsej_tear>
 		<terminator>
-			<CHS>你摧毁了阿尔法原型。</CHS>
+			<CHS>你摧毁了阿尔法原型机。</CHS>
 		</terminator>
 		<thief_loot_dropped>
-			<CHS>你偷取了盗贼公会的宝藏。</CHS>
+			<CHS>你偷走了盗贼工会的宝藏。</CHS>
 		</thief_loot_dropped>
 		<vh2_t95_chip>
-			<CHS>你已经找到T95芯片。</CHS>
+			<CHS>你找到了T95芯片。</CHS>
 		</vh2_t95_chip>
 		<diamond_earring>
-			<CHS>你解冻了黄金鱼并许了一个愿望。(不管怎样，有人做了...)</CHS>
+			<CHS>你解冻了金鱼并许了个愿。（好吧，已经有人这么做过了……）</CHS>
 		</diamond_earring>
 		<HalfLife_POI_completed>
-			<CHS>你已经找到看起来相当科学的反抗军标识。</CHS>
+			<CHS>你找到了看起来很奇怪的抵抗军标志。</CHS>
 		</HalfLife_POI_completed>
 		<spilled_essence>
-			<CHS>你已经找到满是精华的宝箱。</CHS>
+			<CHS>你找到了装满精华的箱子。</CHS>
 		</spilled_essence>
 		<BNT_POI11_Secretlab>
-			<CHS>你已经找到铸铁厂的秘密区域。</CHS>
+			<CHS>你找到了铸造厂的秘密区域。</CHS>
 		</BNT_POI11_Secretlab>
 		<Lightsabre_crystal>
-			<CHS>你已经找到光子刀精华。</CHS>
+			<CHS>你找到了光剑精华。</CHS>
 		</Lightsabre_crystal>
 		<Lightsabre_crystal_low>
-			<CHS>你已经找到光子刀精华。</CHS>
+			<CHS>你找到了光剑精华。</CHS>
 		</Lightsabre_crystal_low>
 		<mokusok_az_erdobol>
-			<CHS>你是大规模松鼠攻击下少数幸存者。</CHS>
+			<CHS>你成为了少数能从一群松鼠攻击下存活下来的人之一。</CHS>
 		</mokusok_az_erdobol>
 		<td3_secret>
-			<CHS>你已经找到非人军团入侵的秘密区域。</CHS>
+			<CHS>你发现了非人团入侵的秘密区域。</CHS>
 		</td3_secret>
 		<td4_secret>
-			<CHS>你已经找到错综刀片的秘密区域。</CHS>
+			<CHS>你发现了剑刃迷宫的秘密区域。</CHS>
 		</td4_secret>
 		<td5_secret>
-			<CHS>你已经找到钢铁洞穴的秘密区域。</CHS>
+			<CHS>你发现了钢铁洞穴的秘密区域。</CHS>
 		</td5_secret>
 		<td6_secret>
-			<CHS>你已经找到记忆大厅的秘密区域。</CHS>
+			<CHS>你发现了纪念堂的秘密区域。</CHS>
 		</td6_secret>
 		<Sherlock_Holmes_dialog_done>
-			<CHS>你已经找到著名侦探的家。</CHS>
+			<CHS>你发现了著名侦探的家。</CHS>
 		</Sherlock_Holmes_dialog_done>
 		<inkripper>
-			<CHS>你杀死了墨境撕裂者杰克。</CHS>
+			<CHS>你杀掉了墨境撕裂者杰克。</CHS>
 		</inkripper>
 		<woody>
-			<CHS>你杀死了伍迪。（你这个邪恶的家伙……）</CHS>
+			<CHS>你杀了伍迪。（你这个邪恶的人……）</CHS>
 		</woody>
 		<hannibal>
-			<CHS>你杀死了Lecter博士。</CHS>
+			<CHS>你杀了莱克特医生。</CHS>
 		</hannibal>
 		<batman>
-			<CHS>你已经看到范海辛信号。</CHS>
+			<CHS>你看见了海辛信号。</CHS>
 		</batman>
 		<Steal_the_gloves>
-			<CHS>你从神圣祭坛获取了手套。</CHS>
+			<CHS>你从献祭祭坛上取得了手套。</CHS>
 		</Steal_the_gloves>
 		<BNT_POI15_Scarecrow_pokszikla>
-			<CHS>你在大量鸟身女妖的攻击中幸存了。</CHS>
+			<CHS>你从大量鹰身女妖的攻击下存活。</CHS>
 		</BNT_POI15_Scarecrow_pokszikla>
 		<cemetery_loot_done>
-			<CHS>你已经读过所有的石头。</CHS>
+			<CHS>你阅读了全部的墓碑。</CHS>
 		</cemetery_loot_done>
 		<Steal_the_skull>
-			<CHS>你从神圣祭坛获取了所有的其一骷髅。</CHS>
+			<CHS>你从献祭祭坛上取得了奇异的头骨。</CHS>
 		</Steal_the_skull>
 		<Altair_cutscene_done>
-			<CHS>你从神圣祭坛获取了所有的道具。</CHS>
+			<CHS>你从献祭祭坛上拿走了所有物品。</CHS>
 		</Altair_cutscene_done>
 		<secret_key_door_opened>
-			<CHS>你已经使用钥匙打开了魔力球。</CHS>
+			<CHS>你用钥匙打开了神秘之球。</CHS>
 		</secret_key_door_opened>
 		<Message_ring_POI_done>
-			<CHS>你跟随了指引指环的指导。</CHS>
+			<CHS>你达成了守卫指环上的所有教导。</CHS>
 		</Message_ring_POI_done>
 		<chimera_kaki>
-			<CHS>你已经成为奇美拉真正的主人。</CHS>
+			<CHS>你成为了奇美拉的所有者。</CHS>
 		</chimera_kaki>		
 	</hiddencontent>
 </Root>

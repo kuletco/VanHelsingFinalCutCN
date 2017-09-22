@@ -5361,7 +5361,7 @@
 					<eng>Forgot your password?</eng>
 				</lost_password>
 				<not_verified>
-				  <eng>E-mail not verified!</eng>
+					<eng>E-mail not verified!</eng>
 				</not_verified>
 				<pass_missmatch>
 					<eng>Password missmatch!</eng>

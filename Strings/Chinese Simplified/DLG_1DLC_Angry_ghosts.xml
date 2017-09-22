@@ -8,7 +8,7 @@
 		<DLG_1DLC_Angry_ghosts>
 			<node1>
 				<Desc>
-					<CHS>你在干嘛？</CHS>
+					<CHS>你在干什么？</CHS>
 				</Desc>
 			</node1>
 			<node2>
@@ -18,17 +18,17 @@
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>你不应该打扰死者，他们可能会怒气冲冲地醒来。这点你要相信我，范海辛。</CHS>
+					<CHS>你不应该打扰死者，因为它们醒来时心情可能会很糟。相信我，范海辛。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我们不能让那个可怜人腐烂在笼子里。我会找到钥匙的。</CHS>
+					<CHS>我们不会放任那个可怜的男人烂在笼子里。我会找到钥匙的。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我相信你的经验。不管它。</CHS>
+					<CHS>我相信你作为一位从不休息的鬼魂的经验。走开。</CHS>
 				</Desc>
 			</node5>
 		</DLG_1DLC_Angry_ghosts>

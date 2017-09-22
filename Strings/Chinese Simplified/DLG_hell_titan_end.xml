@@ -8,17 +8,17 @@
 		<DLG_hell_titan_end>
 			<node1>
 				<Desc>
-					<CHS>奖品正在送往泰坦的路上。你实现了不可能实现之事，旅行者!</CHS>
+					<CHS>战利品就在去找的路上。旅者，你已经赢下了不可能能赢的事！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>别假装你没有为你自己弄一些！</CHS>
+					<CHS>得了吧，别装出一副你一点都没吃的样子！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>在经历了几个世纪的折磨之后，这是一场盛宴。也是一个让最初的货品所有者高兴的好机会。</CHS>
+					<CHS>饿了几个世纪，终于吃到大餐了。这也是让商品原主人开心的好机会。</CHS>
 				</Desc>
 			</node3>
 		</DLG_hell_titan_end>

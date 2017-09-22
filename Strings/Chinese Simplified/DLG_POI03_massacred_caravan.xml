@@ -8,32 +8,32 @@
 		<DLG_POI03_massacred_caravan>
 			<node1>
 				<Desc>
-					<CHS>看！那是一个经典的博格维亚小丑。这一定是个商人。嘿，你不会是想去抢劫他，是吧？</CHS>
+					<CHS>看！那是一个经典的波加维亚持械抢劫。这个人以前肯定是个商人。嘿，你该不会想去捡他的东西把？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>你为什么这么神经质？我们可以找到能说明他是谁的东西。</CHS>
+					<CHS>你为什么这么娇气？我们可以找到告诉我们他是谁的东西。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>好吧。我们看看他是否带着什么有用的东西。</CHS>
+					<CHS>好吧。看看他能不能带来点有用的东西。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>没什么。一个叫约翰的人所写的一封信，以及一张物品清单。</CHS>
+					<CHS>并不多。一封信，上面的署名是约翰，还有一份货物清单。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>这是了不得的清单。珠宝，武器，昂贵的丝绸。我们现在能走了吗？</CHS>
+					<CHS>令人印象深刻。珠宝，武器，昂贵的丝绸。我们可以走了吗？</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>当然不能！你把我当成什么了？</CHS>
+					<CHS>当然不是。你带我来干什么？</CHS>
 				</Desc>
 			</node6>
 		</DLG_POI03_massacred_caravan>

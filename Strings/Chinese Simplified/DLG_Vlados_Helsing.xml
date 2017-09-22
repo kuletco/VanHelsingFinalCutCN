@@ -8,37 +8,37 @@
 		<DLG_Vlados_Helsing>
 			<node1>
 				<Desc>
-					<CHS>我怎么帮你呢，梅斯特·范海辛？</CHS>
+					<CHS>我能为你效劳吗，范海辛先生？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>听着，我知道我们是一个阵营的，但我能问你一些事情吗？</CHS>
+					<CHS>等一下，我知道我们是站在统一战线的，不过我能问你一个问题吗？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>当然可以，我的朋友！任何事情！</CHS>
+					<CHS>当然！我的朋友，随便问吧。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>和你的饮食以贯有关。</CHS>
+					<CHS>这和你的饮食习惯有关。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>啊！我就知道这个不体面的话题会被提起。但你放心，我是个改良之后的吸血鬼。</CHS>
+					<CHS>啊！这的确是一个要面对的难以启齿的话题。但是放心，我是个经过改良的吸血鬼。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>那我可以问问附近的人吗，以防万一？</CHS>
+					<CHS>所以我得到处打听打听，以防万一？</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>如果你不过问当地的老鼠，我会很感激的，请便。</CHS>
+					<CHS>如果你留下本地那些老鼠的话，我会很感激的。不过无论如何，你都是我尊贵的客人。</CHS>
 				</Desc>
 			</node7>
 		</DLG_Vlados_Helsing>

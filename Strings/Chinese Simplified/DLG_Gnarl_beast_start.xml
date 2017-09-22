@@ -8,57 +8,57 @@
 		<DLG_Gnarl_beast_start>
 			<node1>
 				<Desc>
-					<CHS>陌生人，救救我们，我们快饿死了！</CHS>
+					<CHS>陌生人，救救我们，我们快要饿死了！</CHS>
 				</Desc>
 			</node1>
 			<node10>
 				<Desc>
-					<CHS>好吧，我会给你个野兽。</CHS>
+					<CHS>好吧，我会替你们抓着那个怪兽。</CHS>
 				</Desc>
 			</node10>
 			<node11>
 				<Desc>
-					<CHS>收拾好你的东西离开这里，我不是你的仆人。</CHS>
+					<CHS>收拾好你的东西，给我滚，我不会替你跑腿的。</CHS>
 				</Desc>
 			</node11>
 			<node2>
 				<Desc>
-					<CHS>你在这做什么呢？我还以为所有的侏儒都已经离开了村庄。</CHS>
+					<CHS>你在这儿干嘛？我还以为所有侏儒都离开村子呢。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>这是一扇很结实的门，我们拒绝把值钱的东西留下。</CHS>
+					<CHS>这扇门很坚固，我们不能抛下我们的贵重物品。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>所以他们宁愿为了些不值钱的东西饿死？呃，好吧。</CHS>
+					<CHS>这么说，他们为了这些破烂玩意儿宁愿饿死。哦，好吧。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>如果你能帮我们一个小忙，我们可以坚持几个月。</CHS>
+					<CHS>如果你愿意帮我们一个小小的但却非常重要的忙，我们可以坚持好几个月呢！</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>请解释一下。</CHS>
+					<CHS>愿闻其详。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>有一头斯克利姆兽被锁在桥上的笼子里。它就是我们做炖汤的完美材料！</CHS>
+					<CHS>那个桥上有个笼子，里面关着斯科林兽。我们要把它清蒸了，爆炒了，油焖了！</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>所以你希望我们把那它带回来给你们吃？</CHS>
+					<CHS>所以你想要我们把那东西带过来，然后你们把它给吃了？</CHS>
 				</Desc>
 			</node8>
 			<node9>
 				<Desc>
-					<CHS>没错。它很温顺，别担心！</CHS>
+					<CHS>没错。不用担心，它很乖的，哄一哄就带走了！</CHS>
 				</Desc>
 			</node9>
 		</DLG_Gnarl_beast_start>

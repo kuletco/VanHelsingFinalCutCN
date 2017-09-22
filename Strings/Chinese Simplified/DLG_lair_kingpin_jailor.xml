@@ -8,42 +8,42 @@
 		<DLG_lair_kingpin_jailor>
 			<node1>
 				<Desc>
-					<CHS>范海辛，监狱里正酝酿着什么麻烦！</CHS>
+					<CHS>范海辛，监狱中出了些麻烦！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>凡人们都很厌烦听到更多你的诗？</CHS>
+					<CHS>囚犯们正在造反，似乎是想听你朗诵诗歌？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>不完全是。这座城市里到处都在犯罪，因此我们的一些家人决定在我们的牢房中寻找庇护。</CHS>
+					<CHS>并非如此。城中犯罪率飙升，有些民众家庭竟决定到咱们的监狱中避难。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>普通市民把自己锁在这里寻求安全？</CHS>
+					<CHS>奉公守法的公民们竟然需要把自己锁起来，以保安全？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>没错。但是一个主要人物出现了，并且还开始跟我们的租户收取"房租"。</CHS>
+					<CHS>是的。但却有一个犯罪组织的领袖跳了出来，到处向平民收取”房租“。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>也就是说这是场从那些在我们的牢房中寻求庇护的家人们那里敲诈金钱的罪行吗？</CHS>
+					<CHS>也就是说有个罪犯在咱们牢里向难民家榨取钱财？</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>我会和这位主要人物谈谈的。</CHS>
+					<CHS>我去和这小头目谈谈！</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>我们手头上还有更重要的事情。</CHS>
+					<CHS>我们手头有更重要的事要做。</CHS>
 				</Desc>
 			</node8>
 		</DLG_lair_kingpin_jailor>

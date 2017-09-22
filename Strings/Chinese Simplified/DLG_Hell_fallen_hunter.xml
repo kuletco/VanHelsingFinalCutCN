@@ -8,22 +8,22 @@
 		<DLG_Hell_fallen_hunter>
 			<node1>
 				<Desc>
-					<CHS>我曾经是个令人闻风丧胆的怪物猎人。追击无面沙皇到最深领域。然后我被背叛了，泰坦屠杀者遗迹在我的控制下被扭曲了。现在我被困在这里，嘲笑永恒。</CHS>
+					<CHS>我曾是一个令人畏惧的怪物猎人。为了追捕无面沙皇我跑到了国度的深处。然后我就遭到背叛，泰坦击杀者遗物也被夺走。现在我被困在这里，受尽永恒的嘲讽……</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>我会在你失败的地方获得成功。</CHS>
+					<CHS>你做不到的，我会做到。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>这里有一个泰坦屠杀者和我在一起。</CHS>
+					<CHS>跟我一起的有个坦击杀者。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>它属于我！我的！全是我的！</CHS>
+					<CHS>它是属于我的！都是我的！</CHS>
 				</Desc>
 			</node4>
 		</DLG_Hell_fallen_hunter>

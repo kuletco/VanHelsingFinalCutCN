@@ -8,27 +8,27 @@
 		<DLG_Alchemist_poison>
 			<node1>
 				<Desc>
-					<CHS>你在那儿干什么呢？像条狗似的闻来闻去。</CHS>
+					<CHS>你在那边做些什么，像夹着尾巴的血猎犬一样到处嗅着？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>这个水坑是黑暗炼金术士放在小镇的障碍。闻起来不错吧？</CHS>
+					<CHS>这水洼中的物质与暗黑炼金术师在镇中投放的是同一种。闻起来不错，对吧？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>告诉我，你不是真的想……</CHS>
+					<CHS>你难道真的想要……</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>…尝尝？我正在测试！这是Borgova的时尚。</CHS>
+					<CHS>……要尝尝？我可是在做实验啊！博格瓦现在就兴这个呢。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>…尝尝？当然不了。它可能会把我变成乌龟或者什么别的。</CHS>
+					<CHS>……要尝尝？才不会呢。变成乌龟什么的怎么办啦。</CHS>
 				</Desc>
 			</node5>
 		</DLG_Alchemist_poison>

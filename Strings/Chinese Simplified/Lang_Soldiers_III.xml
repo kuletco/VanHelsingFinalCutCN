@@ -7,7 +7,7 @@
 	<Soldiers>
 		<aranycikesz>
 			<Name>
-				<CHS>追踪机器人</CHS>
+				<CHS>探索者</CHS>
 			</Name>
 		</aranycikesz>
 		<Daimon_Tormentor>
@@ -17,17 +17,17 @@
 		</Daimon_Tormentor>
 		<Deformed_prisoner>
 			<Name>
-				<CHS>变形囚犯</CHS>
+				<CHS>畸形囚徒</CHS>
 			</Name>
 		</Deformed_prisoner>		
 		<Fulmigati_ghost>
 			<Name>
-				<CHS>暴脾气教授</CHS>
+				<CHS>弗米伽提教授</CHS>
 			</Name>
 		</Fulmigati_ghost>
 		<Katarina_aunt>
 			<Name>
-				<CHS>卡特琳娜阿姨</CHS>
+				<CHS>卡特琳娜姑姑</CHS>
 			</Name>
 		</Katarina_aunt>
 		<crazyoldman>
@@ -47,12 +47,12 @@
 		</fallen_warlord>
 		<Fallen_hunter>
 			<Name>
-				<CHS>堕落的怪物猎人</CHS>
+				<CHS>堕落怪物猎手</CHS>
 			</Name>
 		</Fallen_hunter>		
 		<Interrogator_relative>
 			<Name>
-				<CHS>审问者的堂兄</CHS>
+				<CHS>审讯者堂兄</CHS>
 			</Name>
 		</Interrogator_relative>
 		<Gatekeeper>
@@ -62,12 +62,12 @@
 		</Gatekeeper>
 		<NPC_Gnome_sentry2>
 			<Name>
-				<CHS>侏儒哨兵</CHS>
+				<CHS>地精哨兵</CHS>
 			</Name>
 		</NPC_Gnome_sentry2>		
 		<fat_white_dog>
 			<Name>
-				<CHS>吃得饱的流浪狗</CHS>
+				<CHS>吃饱的丧家犬</CHS>
 			</Name>
 		</fat_white_dog>
 		<Demon_Dog_red>
@@ -77,17 +77,17 @@
 		</Demon_Dog_red>
 		<NPC_Klockmeister>
 			<Name>
-				<CHS>钟匠</CHS>
+				<CHS>钟表大师</CHS>
 			</Name>
 		</NPC_Klockmeister>
 		<Restless_Wonderer>
 			<Name>
-				<CHS>不安的好奇者</CHS>
+				<CHS>无息好奇者</CHS>
 			</Name>
 		</Restless_Wonderer>
 		<Ink_traveller>
 			<Name>
-				<CHS>墨境旅行者领袖</CHS>
+				<CHS>墨境旅行者首领</CHS>
 			</Name>
 		</Ink_traveller>
 		<vampire_hiddenpath>
@@ -97,7 +97,7 @@
 		</vampire_hiddenpath>
 		<Hoarder_Ghost>
 			<Name>
-				<CHS>收藏家幽灵</CHS>
+				<CHS>贮藏者幽魂</CHS>
 			</Name>
 		</Hoarder_Ghost>
 		<Krakenoid_small>
@@ -122,7 +122,7 @@
 		</Krakenoid_elite>
 		<Krakenoid>
 			<Name>
-				<CHS>克拉肯诺德</CHS>
+				<CHS>蓝翼狂龙</CHS>
 			</Name>
 		</Krakenoid>
 		<NPC_Granny_Inkblot>
@@ -132,32 +132,32 @@
 		</NPC_Granny_Inkblot>
 		<Fallen_mercenary>
 			<Name>
-				<CHS>堕落的雇佣兵</CHS>
+				<CHS>堕落雇佣兵</CHS>
 			</Name>
 		</Fallen_mercenary>
 		<Twisted_executioner>
 			<Name>
-				<CHS>扭曲的刽子手</CHS>
+				<CHS>扭曲刽子手</CHS>
 			</Name>
 		</Twisted_executioner>
 		<Spectral_Guardsman>
 			<Name>
-				<CHS>幽灵似的卫兵</CHS>
+				<CHS>幽魂卫兵</CHS>
 			</Name>
 		</Spectral_Guardsman>	
 		<Shrieking_Widow>
 			<Name>
-				<CHS>尖叫的寡妇</CHS>
+				<CHS>尖声寡妇</CHS>
 			</Name>
 		</Shrieking_Widow>
 		<Flame_serpent>
 			<Name>
-				<CHS>火蛇</CHS>
+				<CHS>炽焰之蛇</CHS>
 			</Name>
 		</Flame_serpent>
 		<Crowell_Russ>
 			<Name>
-				<CHS>克罗韦尔·鲁斯</CHS>
+				<CHS>柯洛威尔·鲁斯</CHS>
 			</Name>
 		</Crowell_Russ>
 		<NPC_Jester>
@@ -197,7 +197,7 @@
 		</Vampire_WarLord>
 		<OT_wounded_man>
 			<Name>
-				<CHS>将死的人</CHS>
+				<CHS>濒死的人</CHS>
 			</Name>
 		</OT_wounded_man>	
 		<Oldtown_survivor>
@@ -207,12 +207,12 @@
 		</Oldtown_survivor>		
 		<Cerebralus_v2>
 			<Name>
-				<CHS>Cerebralus</CHS>
+				<CHS>生化犬</CHS>
 			</Name>
 		</Cerebralus_v2>		
 		<Crabling_elite>
 			<Name>
-				<CHS>弱者的国王</CHS>
+				<CHS>弱者之王</CHS>
 			</Name>
 		</Crabling_elite>
 		<Mermaid_elite>
@@ -227,42 +227,42 @@
 		</Gloomstrider_elite>
 		<Mysterious_Cerambyx_elite>
 			<Name>
-				<CHS>不可思议的天才</CHS>
+				<CHS>神秘天才</CHS>
 			</Name>
 		</Mysterious_Cerambyx_elite>
 		<sting_heeled_jack_elite>
 			<Name>
-				<CHS>嬉戏噩梦</CHS>
+				<CHS>跳跃梦魇</CHS>
 			</Name>
 		</sting_heeled_jack_elite>
 		<Conjurer_elite>
 			<Name>
-				<CHS>大魔术师</CHS>
+				<CHS>大咒术师</CHS>
 			</Name>
 		</Conjurer_elite>
 		<Inkwraith_secret_elite>
 			<Name>
-				<CHS>守夜人</CHS>
+				<CHS>暗夜守卫</CHS>
 			</Name>
 		</Inkwraith_secret_elite>
 		<Inkwraith_elite>
 			<Name>
-				<CHS>食光者</CHS>
+				<CHS>噬光者</CHS>
 			</Name>
 		</Inkwraith_elite>
 		<Magmalith_elite>
 			<Name>
-				<CHS>征服者岩浆石怪</CHS>
+				<CHS>岩浆石怪征服者</CHS>
 			</Name>
 		</Magmalith_elite>
 		<Bonechopper_elite>
 			<Name>
-				<CHS>凶残的破碎者</CHS>
+				<CHS>行凶碎裂者</CHS>
 			</Name>
 		</Bonechopper_elite>
 		<Gryphon_elite>
 			<Name>
-				<CHS>山的守护者</CHS>
+				<CHS>山区守卫</CHS>
 			</Name>
 		</Gryphon_elite>
 		<Minotaur_elite>
@@ -277,12 +277,12 @@
 		</Three_Headed_Dragon_elite>	
 		<Basalthanor_boss>
 			<Name>
-				<CHS>无面沙皇助手</CHS>
+				<CHS>无面沙皇侍从</CHS>
 			</Name>
 		</Basalthanor_boss>
 		<Magic_sphere>
 			<Name>
-				<CHS>墨境之球</CHS>
+				<CHS>墨境蛹石</CHS>
 			</Name>
 		</Magic_sphere>
 		<Ravenous>
@@ -312,7 +312,7 @@
 		</Refugee>
 		<Kingpin>
 			<Name>
-				<CHS>教父卢卡斯</CHS>
+				<CHS>头目卢卡斯</CHS>
 			</Name>
 		</Kingpin>		
 		<Centaur_spear_elite>
@@ -342,7 +342,7 @@
 		</Infiltrator>
 		<ghost_favago>
 			<Name>
-				<CHS>伐木工人</CHS>
+				<CHS>伐木工</CHS>
 			</Name>
 		</ghost_favago>
 		<mindswap_female>
@@ -362,12 +362,12 @@
 		</mindswap_cat>		
 		<CountVlados>
 			<Name>
-				<CHS>弗拉多斯伯爵</CHS>
+				<CHS>瓦兰多斯伯爵</CHS>
 			</Name>
 		</CountVlados>
 		<Inkripper_VHIII_elite>
 			<Name>
-				<CHS>邪教教主</CHS>
+				<CHS>邪教首领</CHS>
 			</Name>
 		</Inkripper_VHIII_elite>
 		<Interrogator>
@@ -412,7 +412,7 @@
 		</Eater_Of_The_Dead>
 		<Meatservant>
 			<Name>
-				<CHS>肉仆人</CHS>
+				<CHS>血肉仆人</CHS>
 			</Name>
 		</Meatservant>
 		<Mermaid>
@@ -442,12 +442,12 @@
 		</Windwalker>
 		<Zealot>
 			<Name>
-				<CHS>狂热者</CHS>
+				<CHS>狂战士</CHS>
 			</Name>
 		</Zealot>
 		<Ghoulkin>
 			<Name>
-				<CHS>类食尸鬼</CHS>
+				<CHS>食尸鬼族</CHS>
 			</Name>
 		</Ghoulkin>
 		<Living_Dead>
@@ -457,7 +457,7 @@
 		</Living_Dead>
 		<Restless_Soul>
 			<Name>
-				<CHS>不安的灵魂</CHS>
+				<CHS>无息之魂</CHS>
 			</Name>
 		</Restless_Soul>
 		<Revenant>
@@ -472,27 +472,27 @@
 		</Shambler>
 		<Slouchkin>
 			<Name>
-				<CHS>懒散者</CHS>
+				<CHS>懒散魔</CHS>
 			</Name>
 		</Slouchkin>
 		<Undead_Servant>
 			<Name>
-				<CHS>亡灵仆人</CHS>
+				<CHS>亡灵仆从</CHS>
 			</Name>
 		</Undead_Servant>
 		<Walking_Corpse>
 			<Name>
-				<CHS>步行僵尸</CHS>
+				<CHS>行尸</CHS>
 			</Name>
 		</Walking_Corpse>
 		<Amphibian_Spitter>
 			<Name>
-				<CHS>两栖喷涂者</CHS>
+				<CHS>两栖喷吐者</CHS>
 			</Name>
 		</Amphibian_Spitter>
 		<Amphibian_Crawler>
 			<Name>
-				<CHS>两栖爬虫</CHS>
+				<CHS>两栖爬行者</CHS>
 			</Name>
 		</Amphibian_Crawler>
 		<Drakeling>
@@ -502,17 +502,17 @@
 		</Drakeling>
 		<Centauress>
 			<Name>
-				<CHS>人马族族人</CHS>
+				<CHS>半人马群</CHS>
 			</Name>
 		</Centauress>
 		<Firebird>
 			<Name>
-				<CHS>火红鸟</CHS>
+				<CHS>火鸟</CHS>
 			</Name>
 		</Firebird>
 		<Gloomstrider>
 			<Name>
-				<CHS>阴暗之黾</CHS>
+				<CHS>黑暗袭击者</CHS>
 			</Name>
 		</Gloomstrider>
 		<Great_Cerambyx>
@@ -522,7 +522,7 @@
 		</Great_Cerambyx>
 		<Horned_Abomination>
 			<Name>
-				<CHS>有角魔物</CHS>
+				<CHS>有角的憎恶</CHS>
 			</Name>
 		</Horned_Abomination>
 		<Mysterious_Cerambyx>
@@ -532,22 +532,22 @@
 		</Mysterious_Cerambyx>
 		<Bursterfiend>
 			<Name>
-				<CHS>爆炸恶魔</CHS>
+				<CHS>爆炸魔</CHS>
 			</Name>
 		</Bursterfiend>
 		<Ruined_Beauty>
 			<Name>
-				<CHS>毁灭的美人</CHS>
+				<CHS>废墟美人</CHS>
 			</Name>
 		</Ruined_Beauty>
 		<Grimhound>
 			<Name>
-				<CHS>冷酷猎犬</CHS>
+				<CHS>幽暗犬</CHS>
 			</Name>
 		</Grimhound>
 		<Grosstrich>
 			<Name>
-				<CHS>格罗斯奇科</CHS>
+				<CHS>恶心的玩具</CHS>
 			</Name>
 		</Grosstrich>
 		<Killer_Clown>
@@ -557,37 +557,37 @@
 		</Killer_Clown>
 		<Tusker>
 			<Name>
-				<CHS>长牙怪</CHS>
+				<CHS>长牙象</CHS>
 			</Name>
 		</Tusker>
 		<Tusker_Sow>
 			<Name>
-				<CHS>长牙猪</CHS>
+				<CHS>雌性长牙象</CHS>
 			</Name>
 		</Tusker_Sow>
 		<Salamandertoad_Poronty>
 			<Name>
-				<CHS>火蜥蜴卵</CHS>
+				<CHS>火蜥蟾蜍之卵</CHS>
 			</Name>
 		</Salamandertoad_Poronty>
 		<Outcast>
 			<Name>
-				<CHS>放逐者</CHS>
+				<CHS>被放逐者</CHS>
 			</Name>
 		</Outcast>
 		<Black_Vagrant>
 			<Name>
-				<CHS>黑乞丐</CHS>
+				<CHS>暗黑流浪汉</CHS>
 			</Name>
 		</Black_Vagrant>
 		<Shadow_Imp>
 			<Name>
-				<CHS>暗影小鬼</CHS>
+				<CHS>暗影恶魔</CHS>
 			</Name>
 		</Shadow_Imp>
 		<Gloom_Imp>
 			<Name>
-				<CHS>阴暗小鬼</CHS>
+				<CHS>黑暗恶魔</CHS>
 			</Name>
 		</Gloom_Imp>
 		<Torso>
@@ -597,7 +597,7 @@
 		</Torso>
 		<Bonechopper>
 			<Name>
-				<CHS>斩骨者</CHS>
+				<CHS>切骨者</CHS>
 			</Name>
 		</Bonechopper>
 		<Daimon>
@@ -607,12 +607,12 @@
 		</Daimon>
 		<Flesh_Golem>
 			<Name>
-				<CHS>血肉傀儡</CHS>
+				<CHS>肉体魔像</CHS>
 			</Name>
 		</Flesh_Golem>
 		<Massacrare_Brothers>
 			<Name>
-				<CHS>马萨克瑞兄弟</CHS>
+				<CHS>血腥兄弟</CHS>
 			</Name>
 		</Massacrare_Brothers>
 		<Reanimated_Gentleman>
@@ -622,12 +622,12 @@
 		</Reanimated_Gentleman>
 		<Rotting_Abomination>
 			<Name>
-				<CHS>腐烂的魔物</CHS>
+				<CHS>腐烂的憎恶</CHS>
 			</Name>
 		</Rotting_Abomination>
 		<Mantiswyrm>
 			<Name>
-				<CHS>双头螳螂</CHS>
+				<CHS>螳螂飞龙</CHS>
 			</Name>
 		</Mantiswyrm>
 		<Minotaur>
@@ -642,7 +642,7 @@
 		</Nightmare>
 		<Quag_Thing>
 			<Name>
-				<CHS>沼地怪物</CHS>
+				<CHS>沼泽怪</CHS>
 			</Name>
 		</Quag_Thing>
 		<Mastodon>
@@ -652,7 +652,7 @@
 		</Mastodon>
 		<Centaur_Rampager>
 			<Name>
-				<CHS>暴走半人马</CHS>
+				<CHS>愤怒的半人马</CHS>
 			</Name>
 		</Centaur_Rampager>
 		<Conjurer>
@@ -667,12 +667,12 @@
 		</Daimon_Judge>
 		<Hollow_King>
 			<Name>
-				<CHS>空虚国王</CHS>
+				<CHS>虚空之王</CHS>
 			</Name>
 		</Hollow_King>
 		<Hollow_Lord>
 			<Name>
-				<CHS>空虚领主</CHS>
+				<CHS>虚空领主</CHS>
 			</Name>
 		</Hollow_Lord>
 		<Inkwraith>
@@ -697,22 +697,22 @@
 		</Nosferatu>
 		<Restless_Creaker>
 			<Name>
-				<CHS>不安的尖叫者</CHS>
+				<CHS>躁动的小吵闹</CHS>
 			</Name>
 		</Restless_Creaker>
 		<Silent_Creaker>
 			<Name>
-				<CHS>寂静的尖叫者</CHS>
+				<CHS>安静的小吵闹</CHS>
 			</Name>
 		</Silent_Creaker>
 		<Sneaking_Creaker>
 			<Name>
-				<CHS>潜行的尖叫者</CHS>
+				<CHS>潜伏的小吵闹</CHS>
 			</Name>
 		</Sneaking_Creaker>
 		<Underdweller>
 			<Name>
-				<CHS>地下居住者</CHS>
+				<CHS>地下居民</CHS>
 			</Name>
 		</Underdweller>
 		<Succubus>
@@ -722,12 +722,12 @@
 		</Succubus>
 		<Ghastly_Bride>
 			<Name>
-				<CHS>可怕的新娘</CHS>
+				<CHS>恐怖新娘</CHS>
 			</Name>
 		</Ghastly_Bride>
 		<Vengeful_Lady>
 			<Name>
-				<CHS>复仇女</CHS>
+				<CHS>复仇女士</CHS>
 			</Name>
 		</Vengeful_Lady>
 		<Sting_Heeled_Jack>
@@ -782,17 +782,17 @@
 		</Gnome_encounter>
 		<Gnome_Scavenger>
 			<Name>
-				<CHS>漂泊者西米恩</CHS>
+				<CHS>游荡者萨姆杨</CHS>
 			</Name>
 		</Gnome_Scavenger>
 		<cancroidus>
 			<Name>
-				<CHS>蟹</CHS>
+				<CHS>癌肿</CHS>
 			</Name>
 		</cancroidus>
 		<TD2_devourer>
 			<Name>
-				<CHS>饥饿鱼</CHS>
+				<CHS>饥饿鳕鱼</CHS>
 			</Name>
 		</TD2_devourer>
 		<TD2_windwalker>
@@ -827,27 +827,27 @@
 		</Remnant_ghost>
 		<konyvtaros>
 			<Name>
-				<CHS>记分者</CHS>
+				<CHS>档案管理员</CHS>
 			</Name>
 		</konyvtaros>
 		<evil_helsing>
 			<Name>
-				<CHS>邪恶的范海辛</CHS>
+				<CHS>邪恶范海辛</CHS>
 			</Name>
 		</evil_helsing>
 		<headless_champion>
 			<Name>
-				<CHS>无头勇士</CHS>
+				<CHS>无头冠军</CHS>
 			</Name>
 		</headless_champion>
 		<Tormented_Soul>
 			<Name>
-				<CHS>折磨者灵魂</CHS>
+				<CHS>受折磨的灵魂</CHS>
 			</Name>
 		</Tormented_Soul>
 		<Demented_Sufferer>
 			<Name>
-				<CHS>痴呆症患者</CHS>
+				<CHS>疯狂受难者</CHS>
 			</Name>
 		</Demented_Sufferer>
 		<Irinas_bodyguard>
@@ -857,12 +857,12 @@
 		</Irinas_bodyguard>
 		<Lady_Irina>
 			<Name>
-				<CHS>伊丽娜女士</CHS>
+				<CHS>伊莲娜夫人</CHS>
 			</Name>
 		</Lady_Irina>
 		<gnome_tribesman>
 			<Name>
-				<CHS>侏儒部落人</CHS>
+				<CHS>侏儒部落成员</CHS>
 			</Name>
 		</gnome_tribesman>
 		<Gnome_Elder>
@@ -877,7 +877,7 @@
 		</Scientist>
 		<Dreamer>
 			<Name>
-				<CHS>梦游者</CHS>
+				<CHS>造梦人</CHS>
 			</Name>
 		</Dreamer>
 		<Atlantean_mage>
@@ -892,7 +892,7 @@
 		</Lair_enginier>
 		<Cannon_Ornithopter>
 			<Name>
-				<CHS>枪械平台</CHS>
+				<CHS>枪炮平台</CHS>
 			</Name>
 		</Cannon_Ornithopter>
 		<Constructor_Spider>
@@ -917,27 +917,27 @@
 		</Constructor_Frost_Ray_Sentry>
 		<SmallHidra>
 			<Name>
-				<CHS>小火焰蛇</CHS>
+				<CHS>低阶火焰蛇</CHS>
 			</Name>
 		</SmallHidra>
 		<Reanimated_behemoth>
 			<Name>
-				<CHS>复活的巨兽</CHS>
+				<CHS>重生巨兽</CHS>
 			</Name>
 		</Reanimated_behemoth>
 		<Batmoth_giant>
 			<Name>
-				<CHS>飞蝠巨人</CHS>
+				<CHS>巨型蝙蝠蛾</CHS>
 			</Name>
 		</Batmoth_giant>
 		<rat_pit>
 			<Name>
-				<CHS>鼠坑</CHS>
+				<CHS>老鼠坑</CHS>
 			</Name>
 		</rat_pit>
 		<rovarraj>
 			<Name>
-				<CHS>甲虫云</CHS>
+				<CHS>甲虫群</CHS>
 			</Name>
 		</rovarraj>
 		<shadow_warrior>
@@ -953,13 +953,13 @@
 
 		<SpecialAbilities>
 			<HPRegeneration>
-				<CHS>回复</CHS>
+				<CHS>恢复</CHS>
 			</HPRegeneration>
 			<Nightmare_berserk>
-				<CHS>激怒</CHS>
+				<CHS>狂暴</CHS>
 			</Nightmare_berserk>
 			<Rugas_FlashGolem>
-				<CHS>推力</CHS>
+				<CHS>刺</CHS>
 			</Rugas_FlashGolem>
 			<Bat_Swarm_Vampirelord_Flying>
 				<CHS>蝙蝠群</CHS>
@@ -968,19 +968,19 @@
 				<CHS>寒冰弹</CHS>
 			</__icebolt_Nosferatu>
 			<__fire_ring>
-				<CHS>火焰之环</CHS>
+				<CHS>火焰指环</CHS>
 			</__fire_ring>
 			<Korbeutes>
-				<CHS>疯狂的漩涡</CHS>
+				<CHS>疯狂涡旋</CHS>
 			</Korbeutes>
 			<Panic>
-				<CHS>帕尼奇</CHS>
+				<CHS>恐慌</CHS>
 			</Panic>
 			<Fire_swing>
-				<CHS>燃烧摆动</CHS>
+				<CHS>火焰摇摆</CHS>
 			</Fire_swing>
 			<Molebolt>
-				<CHS>猎人钻</CHS>
+				<CHS>猎人钻孔者</CHS>
 			</Molebolt>
 			<Meteor_rain>
 				<CHS>流星雨</CHS>
@@ -992,40 +992,40 @@
 					<CHS>闪电钳</CHS>
 			</LightningClaw>
 			<Mereghanyas>
-					<CHS>胆汁呕吐</CHS>
+					<CHS>喷吐胆汁</CHS>
 			</Mereghanyas>
 			<Summon_Rovarraj_Silent_Creaker>
-					<CHS>召唤甲虫云</CHS>
+					<CHS>召唤甲虫群</CHS>
 			</Summon_Rovarraj_Silent_Creaker>
 			<Underdweler_swing>
-					<CHS>刀片摆动</CHS>
+					<CHS>舞刀</CHS>
 			</Underdweler_swing>
 			<Verhanyas>
-					<CHS>血的洪流</CHS>
+					<CHS>鲜血激流</CHS>
 			</Verhanyas>
 			<Double_lightning>
-					<CHS>闪电突袭</CHS>
+					<CHS>闪电攻击</CHS>
 			</Double_lightning>
 			<Icespell_area>
-					<CHS>冬日闪光</CHS>
+					<CHS>冬日耀光</CHS>
 			</Icespell_area>
 			<Ice_nova>
-					<CHS>冰凌爆破</CHS>
+					<CHS>冰柱冲击</CHS>
 			</Ice_nova>
 			<Fire_nova>
-					<CHS>火焰爆炸</CHS>
+					<CHS>火焰冲击</CHS>
 			</Fire_nova>
 			<Arcane_nova>
-					<CHS>奥术冲击</CHS>
+					<CHS>秘术爆破</CHS>
 			</Arcane_nova>
 			<Elemental_oszlop>
-					<CHS>秘法支柱</CHS>
+					<CHS>奥术之柱</CHS>
 			</Elemental_oszlop>
 			<Elemental_earthquake>
-					<CHS>泥土爆击</CHS>
+					<CHS>大地震击</CHS>
 			</Elemental_earthquake>
 			<Summon_Bathmoth_giant>
-					<CHS>召唤飞蝠巨人</CHS>
+					<CHS>召唤巨型蝙蝠蛾</CHS>
 			</Summon_Bathmoth_giant>
 			<Summon_Drakeling>
 					<CHS>召唤森林蛇怪</CHS>
@@ -1034,31 +1034,31 @@
 					<CHS>冻土</CHS>
 			</Advanced_icequake>
 			<Jeghanyas>
-					<CHS>冰冻喷吐</CHS>
+					<CHS>霜冻之息</CHS>
 			</Jeghanyas>
 			<double_attack>
-					<CHS>双重攻击</CHS>
+					<CHS>双重打击</CHS>
 			</double_attack>
 			<Minotaur_axethrowing>
 					<CHS>投掷斧头</CHS>
 			</Minotaur_axethrowing>
 			<Tuzcsova>
-					<CHS>火焰喷吐</CHS>
+					<CHS>火焰呼吸</CHS>
 			</Tuzcsova>
 			<Tuzcsova_big>
-					<CHS>高级火焰呼吸</CHS>
+					<CHS>烈火吐息</CHS>
 			</Tuzcsova_big>
 			<Tuzcsova_big_purple>
-					<CHS>秘法呼吸</CHS>
+					<CHS>奥术气息</CHS>
 			</Tuzcsova_big_purple>
 			<Chest_Laser>
-					<CHS>泯灭者射线</CHS>
+					<CHS>湮灭光线</CHS>
 			</Chest_Laser>
 			<Devour_minion>
-					<CHS>吞食仆从</CHS>
+					<CHS>吞噬随从</CHS>
 			</Devour_minion>			
 			<Basalthanor_summon>
-					<CHS>召唤反缚灵</CHS>
+					<CHS>召唤墨境之怒</CHS>
 			</Basalthanor_summon>
 			<__acid_pool>
 					<CHS>腐蚀池</CHS>
@@ -1067,28 +1067,28 @@
 					<CHS>火墙</CHS>
 			</__firewall>
 			<__frost_nova>
-					<CHS>冰暴</CHS>
+					<CHS>冰风暴</CHS>
 			</__frost_nova>
 			<__poison_tocsa_kopet>
 					<CHS>毒液池</CHS>
 			</__poison_tocsa_kopet>
 			<Acid_spill_zombies>
-					<CHS>恶臭泄漏</CHS>
+					<CHS>恶臭爆发</CHS>
 			</Acid_spill_zombies>
 			<Afterburn_Basalthanor>
-					<CHS>火焰打击</CHS>
+					<CHS>烈焰打击</CHS>
 			</Afterburn_Basalthanor>
 			<Bleeding_Bonechopper>
 					<CHS>流血</CHS>
 			</Bleeding_Bonechopper>
 			<Bogarraj_Shambler>
-					<CHS>甲虫云</CHS>
+					<CHS>甲虫群</CHS>
 			</Bogarraj_Shambler>
 			<Bonechopper_Reborn>
-					<CHS>邪恶的重生</CHS>
+					<CHS>亵渎重生</CHS>
 			</Bonechopper_Reborn>
 			<BoosterSigil_Hollow>
-					<CHS>黑暗魔符</CHS>
+					<CHS>黑暗咒印</CHS>
 			</BoosterSigil_Hollow>
 			<Centaur_Archery>
 					<CHS>冰箭</CHS>
@@ -1100,34 +1100,34 @@
 					<CHS>投掷长矛</CHS>
 			</Centaur_SpearThrowing>
 			<Conjurer_Villam>
-					<CHS>雷霆击</CHS>
+					<CHS>闪电一击</CHS>
 			</Conjurer_Villam>
 			<Crystal_nova_Hollow>
-					<CHS>水晶爆炸</CHS>
+					<CHS>水晶冲击</CHS>
 			</Crystal_nova_Hollow>
 			<CurseOfPerun_Conjurer>
 					<CHS>召唤闪电</CHS>
 			</CurseOfPerun_Conjurer>
 			<Dot_aura_poison_Zombies>
-					<CHS>毒云</CHS>
+					<CHS>剧毒之云</CHS>
 			</Dot_aura_poison_Zombies>
 			<Duplacsapas_Minotaur>
-					<CHS>双重攻击</CHS>
+					<CHS>双重打击</CHS>
 			</Duplacsapas_Minotaur>
 			<Entrap_Hollow>
 					<CHS>诱陷</CHS>
 			</Entrap_Hollow>
 			<Explosion_Death>
-					<CHS>致命爆炸</CHS>
+					<CHS>死亡爆炸</CHS>
 			</Explosion_Death>
 			<Explosion_Death_poronty>
-					<CHS>致命爆炸</CHS>
+					<CHS>死亡爆炸</CHS>
 			</Explosion_Death_poronty>
 			<Explosion_take_damage>
-					<CHS>痛苦爆</CHS>
+					<CHS>痛苦冲击</CHS>
 			</Explosion_take_damage>
 			<Fire_ring_Basalthanor>
-					<CHS>火焰之环</CHS>
+					<CHS>火焰指环</CHS>
 			</Fire_ring_Basalthanor>
 			<Fire_wave_Basalthanor>
 					<CHS>火焰波</CHS>
@@ -1145,7 +1145,7 @@
 					<CHS>炽热形态</CHS>
 			</Fireform_Basalthanor>
 			<GrappleAttack_Salamandertoad>
-					<CHS>擒抱</CHS>
+					<CHS>抓取</CHS>
 			</GrappleAttack_Salamandertoad>
 			<Grubshriek_idezes_Haunted_Forest>
 					<CHS>召唤尖啸蛆</CHS>
@@ -1163,13 +1163,13 @@
 					<CHS>冰霜球</CHS>
 			</Ice_DOT>
 			<Inkwraith_lightning>
-					<CHS>电暴</CHS>
+					<CHS>闪电连击</CHS>
 			</Inkwraith_lightning>
 			<Keleskiposszanas>
 					<CHS>卵囊</CHS>
 			</Keleskiposszanas>			
 			<Lightning_ring_Conjurer>
-					<CHS>闪电之环</CHS>
+					<CHS>闪电指环</CHS>
 			</Lightning_ring_Conjurer>
 			<lightningbolt_Conjurer>
 					<CHS>闪电箭</CHS>
@@ -1184,7 +1184,7 @@
 					<CHS>燃素保卫</CHS>
 			</PhlogistonWard_Conjurer>
 			<Plasma_shoot>
-					<CHS>奥术箭</CHS>
+					<CHS>奥术飞弹</CHS>
 			</Plasma_shoot>
 			<Poison_DOT>
 					<CHS>毒云</CHS>
@@ -1193,16 +1193,16 @@
 					<CHS>毒液池</CHS>
 			</Poison_tocsa_kopet_beauty>
 			<Poisonbolt_Amphibian>
-					<CHS>毒素箭</CHS>
+					<CHS>剧毒伤害</CHS>
 			</Poisonbolt_Amphibian>
 			<Poisonbolt_beauty>
-					<CHS>毒素箭</CHS>
+					<CHS>剧毒伤害</CHS>
 			</Poisonbolt_beauty>
 			<Poisonbolt_Heeled_Jack>
-					<CHS>毒素箭</CHS>
+					<CHS>剧毒伤害</CHS>
 			</Poisonbolt_Heeled_Jack>
 			<QuagThing_quake>
-					<CHS>地震袭击</CHS>
+					<CHS>震动攻击</CHS>
 			</QuagThing_quake>
 			<Skyblast_Basalthanor>
 					<CHS>天空爆炸</CHS>
@@ -1211,13 +1211,13 @@
 					<CHS>召唤Sloluchkin</CHS>
 			</Spawn_Slouckin>
 			<Stunutes_Gryphon>
-					<CHS>冲击俯冲</CHS>
+					<CHS>猛烈俯冲</CHS>
 			</Stunutes_Gryphon>
 			<Stunutes_meatservant>
-					<CHS>麻痹踢</CHS>
+					<CHS>麻痹之击</CHS>
 			</Stunutes_meatservant>
 			<Summon_ghoulkin>
-					<CHS>召唤类食尸鬼</CHS>
+					<CHS>召唤食尸鬼族</CHS>
 			</Summon_ghoulkin>
 			<Summon_inkripper>
 					<CHS>召唤墨境撕裂者</CHS>
@@ -1229,16 +1229,16 @@
 					<CHS>召唤脊柱鱼</CHS>
 			</Summon_spinefish>
 			<Summon_Torso>
-					<CHS>鼓舞躯体</CHS>
+					<CHS>重生躯干</CHS>
 			</Summon_Torso>
 			<Summon_TorsoMinion>
-					<CHS>鼓舞躯体</CHS>
+					<CHS>重生躯干</CHS>
 			</Summon_TorsoMinion>
 			<Summon_TorsoVeteran>
-					<CHS>鼓舞躯体</CHS>
+					<CHS>重生躯干</CHS>
 			</Summon_TorsoVeteran>
 			<SummonerSigil_Hollow>
-					<CHS>召唤者魔印</CHS>
+					<CHS>召唤者魔符</CHS>
 			</SummonerSigil_Hollow>
 			<Szellokes_Gryphon>
 					<CHS>风爆</CHS>
@@ -1253,22 +1253,22 @@
 					<CHS>召唤小鬼</CHS>
 			</Wisp_damage_Inkwraith>
 			<GrappleAttack_Sneakingcreaker>
-					<CHS>擒抱</CHS>
+					<CHS>抓取</CHS>
 			</GrappleAttack_Sneakingcreaker>
 			<Summon_Gloomstrider>
-					<CHS>召唤阴暗行者</CHS>
+					<CHS>召唤黑暗袭击者</CHS>
 			</Summon_Gloomstrider>			
 			<Attack_area>
-					<CHS>粉碎击</CHS>
+					<CHS>粉碎袭击</CHS>
 			</Attack_area>
 			<Erdei_szello>
 					<CHS>森林之怒</CHS>
 			</Erdei_szello>
 			<Szikladobas_twigbeast>
-					<CHS>掷石</CHS>
+					<CHS>岩石投掷</CHS>
 			</Szikladobas_twigbeast>
 			<Sziklazapor>
-					<CHS>石阵轰击</CHS>
+					<CHS>岩石屏障</CHS>
 			</Sziklazapor>
 			<__Fireball>
 					<CHS>炽焰法球</CHS>
@@ -1277,16 +1277,16 @@
 					<CHS>生命汲取</CHS>
 			</Wight_drainlife>
 			<feltamasztas_wight>
-					<CHS>复活</CHS>
+					<CHS>重生</CHS>
 			</feltamasztas_wight>			
 			<DelayedBlastSwarm>
 					<CHS>延时爆裂群</CHS>
 			</DelayedBlastSwarm>
 			<ElyctricalBolas_dirigiblusa>
-					<CHS>电子流星</CHS>
+					<CHS>电击箭</CHS>
 			</ElyctricalBolas_dirigiblusa>
 			<Hammersmite_cancroidus>
-					<CHS>锤击</CHS>
+					<CHS>巨锤猛击</CHS>
 			</Hammersmite_cancroidus>
 		</SpecialAbilities>
 	</Soldiers>

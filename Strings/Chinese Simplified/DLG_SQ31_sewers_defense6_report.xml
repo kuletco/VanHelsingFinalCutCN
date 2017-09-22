@@ -8,27 +8,27 @@
 		<DLG_SQ31_sewers_defense6_report>
 			<node1>
 				<Desc>
-					<CHS>范海辛？你击败哈克的部队了吗？</CHS>
+					<CHS>哦，范海辛？你击败哈克的部队了吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>是的。他们真的很累了。</CHS>
+					<CHS>是的。他们已经疲惫不堪了。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>没有。我们不得不撤退。</CHS>
+					<CHS>没。我们必须得撤退了。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>真棒。我真的希望那是他们最后的一次赏识了。</CHS>
+					<CHS>很好。我真心希望这是他们最后一次尝试。</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>外面的情况正在升级。但愿他们没办法享受这次胜利。</CHS>
+					<CHS>外面的事情正在逐渐升级。但愿他们不会享受这次胜利的果实。</CHS>
 				</Desc>
 			</node5>
 		</DLG_SQ31_sewers_defense6_report>

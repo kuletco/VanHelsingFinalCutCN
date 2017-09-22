@@ -8,17 +8,17 @@
 		<DLG_TD1_Report>
 			<node1>
 				<Desc>
-					<CHS>范海辛，你回来了！你阻止了部落了么？</CHS>
+					<CHS>范海辛，你回来了！阻止丧尸军团了吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>那些部落不会再麻烦到我们了。</CHS>
+					<CHS>丧尸军团再也不会麻烦你们了。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>他们中的一些突破进来了，指挥官。你得转移一些兵力来解决他们。</CHS>
+					<CHS>指挥官，他们有几人突破了防线，需要分散一部分兵力，将其剿灭。</CHS>
 				</Desc>
 			</node3>
 		</DLG_TD1_Report>

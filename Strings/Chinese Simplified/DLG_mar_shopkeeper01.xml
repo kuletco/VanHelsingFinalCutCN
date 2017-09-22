@@ -8,22 +8,22 @@
 		<DLG_mar_shopkeeper01>
 			<node1>
 				<Desc>
-					<CHS>我听说你要去绞架沼泽！在那儿，博格维亚的第一个战斗机器还烂在泥里。要是你能找到未爆炸的炸弹，我会付你一大笔钱。</CHS>
+					<CHS>我听说你要去绞刑沼泽！博格瓦的第一辆战车现在还泡在里面呢。如果你能在里面找到还没爆炸的炸弹的话，我会付给你很优厚的报酬。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>好的，我找找。</CHS>
+					<CHS>当然，我会找找的。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>抱歉。我在忙着呢。</CHS>
+					<CHS>对不起。我正在处理别的事情。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>我猜，是在准备搜寻吗？</CHS>
+					<CHS>我猜你们准备好搜索了？</CHS>
 				</Desc>
 			</node4>
 			<node5>
@@ -33,7 +33,7 @@
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>你肯定是把我和别人混淆了。</CHS>
+					<CHS>你一定把我当成了其他人</CHS>
 				</Desc>
 			</node6>
 		</DLG_mar_shopkeeper01>

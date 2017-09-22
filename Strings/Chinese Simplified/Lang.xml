@@ -5,7 +5,7 @@
 			<CHS>找到并杀死强盗</CHS>
 		</KillRobbers>
 		<GoBack>
-			<CHS>回去找鲍里斯拉夫·特威特</CHS>
+			<CHS>回到博斯拉夫·维特处</CHS>
 		</GoBack>
 	</GC>
 	<LanguageName>
@@ -15,104 +15,104 @@
 	<Traps>
 		<conditions>
 			<enemy_killed>
-				<CHS>击杀敌人</CHS>
+				<CHS>杀死敌人</CHS>
 			</enemy_killed>
 			<trap_built>
 				<withParam>
-					<CHS>布置%s陷阱</CHS>
+					<CHS>建造%s陷阱</CHS>
 				</withParam>
 			</trap_built>
 		</conditions>
 		<berantodaralo>
 			<name>
-				<CHS>研磨机</CHS>
+				<CHS>拉近研磨器™</CHS>
 			</name>
 			<desc>
-				<CHS>即插即用研磨机™是一件神作，带有龙卷风似的刀片，以及将入侵者拉入其中的手臂。</CHS>
+				<CHS>拉近研磨器™是令人讨厌的陷阱，靠近的入侵者将被它的一圈支臂拖进去并被旋转的刀片撕得粉碎。</CHS>
 			</desc>
 		</berantodaralo>
 		<daralogodor>
 			<name>
-				<CHS>研磨坑</CHS>
+				<CHS>磨出一个洞™</CHS>
 			</name>
 			<desc>
-				<CHS>掉进坑里已经让人很不爽了，研磨坑™竟然还增加了六层，而且每一层有旋转刀片。</CHS>
+				<CHS>光是掉进一个洞里就足以让入侵者非常不快了，而磨出一个洞™用它那六层的旋转刀片为我们提供了额外的娱乐。</CHS>
 			</desc>
 		</daralogodor>
 		<elektromospadlo>
 			<name>
-				<CHS>电地板</CHS>
+				<CHS>通电地板™</CHS>
 			</name>
 			<desc>
-				<CHS>看上去很天真吧？再仔细想想吧！电地板™不仅让你头发竖起来，而且可以烧焦你的心脏，烤熟你的五脏六腑，并把你的眼球给弹出来。你懂的！就像儿童玩具那样！</CHS>
+				<CHS>看起来够惨了，对吧？好吧，仔细想想！通电地板™不知会让你的头发竖起来，还会烤了你的心，烧了你的肺，煎了你的肝，爆了你的眼珠子！恩！开个玩笑！</CHS>
 			</desc>
 		</elektromospadlo>
 		<hidraulikuspres>
 			<name>
-				<CHS>液压研磨</CHS>
+				<CHS>水力研磨™</CHS>
 			</name>
 			<desc>
-				<CHS>有了这家伙，你就可以坐着消息，看着你的敌人争论谁先去赴他们必然的死亡(相当混乱)。</CHS>
+				<CHS>有了这东西，你就可以坐看你的敌人争论谁先去赴死了(相当混乱)。</CHS>
 			</desc>
 		</hidraulikuspres>
 		<ketrecmonster>
 			<name>
-				<CHS>盒中怪物</CHS>
+				<CHS>盒中怪物™</CHS>
 			</name>
 			<desc>
-				<CHS>简单但有效的陷阱：被锁在狭窄空间里的饥饿狼人。这东西如果被放出来，你最好别站它前面…</CHS>
+				<CHS>简单有效的陷阱：将狼人关在密室里。一旦被放出来，没人敢挡住它的去路……</CHS>
 			</desc>
 		</ketrecmonster>
 		<langszoro>
 			<name>
-				<CHS>火焰喷射器</CHS>
+				<CHS>火焰投掷者™</CHS>
 			</name>
 			<desc>
-				<CHS>"天哪，我真想烧死那群人..但我离得实在太远了。如果能把什么燃烧的东西扔过去就好了..."</CHS>
+				<CHS>"呃，我当然想放把火烧死那边的人……但是太远了我办不到。要是我有什么东西可以往他们那里扔火球就好了……</CHS>
 			</desc>
 		</langszoro>
 		<rugoselloko>
 			<name>
-				<CHS>反冲弹簧</CHS>
+				<CHS>弹跳踢击™</CHS>
 			</name>
 			<desc>
-				<CHS>这聪明的伪装陷阱由四根巨大的弹簧组成，附上可移动的地板块。当他们踏在上面时，弹簧就会松开，将入侵者抛飞出去，但愿掉到深深地下水沟里。</CHS>
+				<CHS>这巧妙的伪装陷阱由四根连接地板块的巨大弹簧组成。当敌人踏到上面时，弹簧就会松开，将其抛飞出去，最后是掉到深深的下水沟里。</CHS>
 			</desc>
 		</rugoselloko>
 		<talajtuskek>
 			<name>
-				<CHS>地板长钉</CHS>
+				<CHS>刺穿地板™</CHS>
 			</name>
 			<desc>
-				<CHS>一种基本陷阱，巨大的生锈长钉从下冒出，没什么特别的。不过并不是说这种陷阱不危险…</CHS>
+				<CHS>比较基础的陷阱，大量生锈的尖刺从下面冒出来，没什么特别。不过并不表示它不危险。</CHS>
 			</desc>
 		</talajtuskek>
 		<tuskeshenger>
 			<name>
-				<CHS>滚动长钉</CHS>
+				<CHS>滚动尖刺™</CHS>
 			</name>
 			<desc>
-				<CHS>这一巧妙的小装置释放旋转毁灭刀片，杀死任何入侵者，使其死无葬身之地。</CHS>
+				<CHS>这个残忍的小东西会放出一段布满旋转刀片的致命的滚柱，用来杀害任何闯入失落古墓的入侵者。</CHS>
 			</desc>
 		</tuskeshenger>
 		<villamveto>
 			<name>
-				<CHS>雷电发射器</CHS>
+				<CHS>闪电投掷者™</CHS>
 			</name>
 			<desc>
-				<CHS>这个像液压研磨机™和喷火器™的混合体，甚至可以发出闪电！这么说吧，站在线圈中间可不是个好主意。</CHS>
+				<CHS>这一个就像是水力研磨器™和火焰投掷者™的混合产物，只是用的是电！我们只能说站在线圈里面绝不是好主意。</CHS>
 			</desc>
 		</villamveto>
 	</Traps>
 	<Battle>
 		<Loot>
 			<Gold>
-				<CHS>%s金币</CHS>
+				<CHS>%s 金币</CHS>
 			</Gold>
 		</Loot>
 		<Event>
 			<Miss>
-				<CHS>失手</CHS>
+				<CHS>未命中</CHS>
 			</Miss>
 			<Dodge>
 				<CHS>闪避</CHS>
@@ -121,30 +121,30 @@
 				<CHS>偏斜</CHS>
 			</Parry>
 			<Resist>
-				<CHS>抵制</CHS>
+				<CHS>抵制 </CHS>
 			</Resist>
 		</Event>
 		<GUI>
 			<constructor>
 				<nagygep_respawn>
-					<CHS> %d秒再生</CHS>
+					<CHS>在 %d 秒内重新生成</CHS>
 				</nagygep_respawn>
 			</constructor>
 			<vote>
 				<start_arena>
 					<title>
-						<CHS>开启竞技场</CHS>
+						<CHS>开始竞技场</CHS>
 					</title>
 					<desc>
-						<CHS>有队友投票要开启竞技场。你准备好开始了吗？</CHS>
+						<CHS>一位队友投票想要开始竞技场，你准备好开始了吗？</CHS>
 					</desc>
 				</start_arena>
 				<leave_map>
 					<title>
-						<CHS>遗落的地图</CHS>
+						<CHS>离开大地图</CHS>
 					</title>
 					<desc>
-						<CHS>有队友投票要结束冒险。你准备好结束了吗？</CHS>
+						<CHS>一位队友投票想要结束冒险，你准备好离开了吗？</CHS>
 					</desc>
 				</leave_map>
 				<surrender>
@@ -152,26 +152,26 @@
 						<CHS>投降</CHS>
 					</title>
 					<desc>
-						<CHS>有队友投票要退出冒险。你希望离开（冒险失败）吗</CHS>
+						<CHS>一位 队友投票想要放弃冒险，你也想要放弃吗（冒险将会失败）？</CHS>
 					</desc>
 				</surrender>
 				<party_vote>
 					<CHS>小队投票：</CHS>
 				</party_vote>
 				<accept_map>
-					<CHS>你要接受地图吗？</CHS>
+					<CHS>你接受这个地图吗？</CHS>
 				</accept_map>
 				<map_change>
-					<CHS>改变地图投票</CHS>
+					<CHS>投票更改地图</CHS>
 				</map_change>
 				<dest_map>
-					<CHS>目的地地图：</CHS>
+					<CHS>最终地图：</CHS>
 				</dest_map>
 				<initiater>
-					<CHS>首先投票：</CHS>
+					<CHS>发起投票的是：</CHS>
 				</initiater>
 				<refused>
-					<CHS>拒绝投票%s</CHS>
+					<CHS>拒绝投票所剩时间 %s</CHS>
 				</refused>
 				<refused_nouser>
 					<CHS>投票失败</CHS>
@@ -184,22 +184,22 @@
 				<Category>
 					<monsters>
 						<label>
-							<CHS>战斗 </CHS>
+							<CHS>战斗</CHS>
 						</label>
 						<Challenge0>
-							<CHS>杀死%d敌人！</CHS>
+							<CHS>消灭 %d 个敌人！</CHS>
 						</Challenge0>
 						<Challenge1>
-							<CHS>杀死%d勇士敌人！</CHS>
+							<CHS>消灭 %d 个冠军敌人！</CHS>
 						</Challenge1>
 						<Challenge2>
-							<CHS>杀死%d精英敌人！</CHS>
+							<CHS>消灭 %d 个精英敌人！</CHS>
 						</Challenge2>
 						<Challenge3>
-							<CHS>杀死%d敌方boss！</CHS>
+							<CHS>消灭 %d 个头目敌人！</CHS>
 						</Challenge3>
 						<Challenge4>
-							<CHS>卡特林娜女士已杀死%d敌人！</CHS>
+							<CHS>让卡特琳娜杀 %d 个敌人！</CHS>
 						</Challenge4>
 					</monsters>
 					<items>
@@ -207,72 +207,72 @@
 							<CHS>物品</CHS>
 						</label>
 						<Challenge0>
-							<CHS>使用炼金术增加%d精华容量！</CHS>
+							<CHS>用炼金术获得 %d 精华容量</CHS>
 						</Challenge0>
 						<Challenge1>
-							<CHS>花费%d金币进行道具附魔！</CHS>
+							<CHS>花费 %d 金币在附魔物品上！</CHS>
 						</Challenge1>
 						<Challenge2>
-							<CHS>更新%d神装道具使它们达到最大优势值！</CHS>
+							<CHS>升级 %d 个达到最大潜力的超神物品！</CHS>
 						</Challenge2>
 						<Challenge3>
-							<CHS>花费%d金币！</CHS>
+							<CHS>花费 %d 金币！</CHS>
 						</Challenge3>
 						<Challenge4>
-							<CHS>出售#d道具！</CHS>
+							<CHS>卖出 %d 物品！</CHS>
 						</Challenge4>
 					</items>
 					<scenarios>
 						<label>
-							<CHS>冒险</CHS>
+							<CHS>冒险模式</CHS>
 						</label>
 						<Challenge0>
-							<CHS>完成%d冒险！</CHS>
+							<CHS>完成 %d 个冒险！</CHS>
 						</Challenge0>
 						<Challenge1>
-							<CHS>完成%d日常任务</CHS>
+							<CHS>完成 %d 个日常任务</CHS>
 						</Challenge1>
 						<Challenge2>
-							<CHS>在没有死亡的情况下完成%d冒险！</CHS>
+							<CHS>无死亡完成 %d 个冒险！</CHS>
 						</Challenge2>
 						<Challenge3>
-							<CHS>在竞技场中存活%d波！</CHS>
+							<CHS>在竞技场撑过 %d 波敌人</CHS>
 						</Challenge3>
 						<Challenge4>
-							<CHS>完成%d合作冒险！</CHS>
+							<CHS>完成 %d 个合作冒险！</CHS>
 						</Challenge4>
 					</scenarios>
 					<characters>
 						<label>
-							<CHS>声望</CHS>
+							<CHS>威望</CHS>
 						</label>
 						<Challenge0>
-							<CHS>使用%d不同类型的角色达到100级！</CHS>
+							<CHS>有 %d 个不同的职业都达到100级！</CHS>
 						</Challenge0>
 						<Challenge1>
-							<CHS>达到神圣等级%d！</CHS>
+							<CHS>达到 %d 荣耀等级</CHS>
 						</Challenge1>
 						<Challenge2>
-							<CHS>花费%d命运点数！</CHS>
+							<CHS>消耗 %d 命运点数！</CHS>
 						</Challenge2>
 						<Challenge3>
-							<CHS>打开%d宝箱！</CHS>
+							<CHS>打开 %d 个宝箱！</CHS>
 						</Challenge3>
 						<Challenge4>
-							<CHS>找到%d史诗/套/神装道具！</CHS>
+							<CHS>找到 %d 个史诗/全套/超神 物品！</CHS>
 						</Challenge4>
 					</characters>
 				</Category>
 			</challenges>
 			<TrapLearnWindow>
 				<TrapsToLearnLabel>
-					<CHS>可研究的陷阱</CHS>
+					<CHS>学习陷阱</CHS>
 				</TrapsToLearnLabel>
 				<LearnIconLabel>
 					<CHS>学习</CHS>
 				</LearnIconLabel>
 				<ResearchCost>
-					<CHS>研究费用: %s</CHS>
+					<CHS>研究费用：%s</CHS>
 				</ResearchCost>
 			</TrapLearnWindow>
 			<TrapSlotWindow>
@@ -280,24 +280,24 @@
 					<CHS>陷阱放置</CHS>
 				</EmplacementLabel>
 				<CapacityLabel>
-					<CHS>发电机容量:</CHS>
+					<CHS>发生器容量：</CHS>
 				</CapacityLabel>
 				<MachinepartsLabel>
-					<CHS>机械零件:</CHS>
+					<CHS>机械零件：</CHS>
 				</MachinepartsLabel>
 				<CapacityCost>
-					<CHS>发电机容量:%s</CHS>
+					<CHS>发生器容量：%s</CHS>
 				</CapacityCost>
 				<MachinepartsCost>
-					<CHS>机械零件:%s</CHS>
+					<CHS>机械零件：%s</CHS>
 				</MachinepartsCost>
 				<ClickActions>
 					<Disassamble>
-						<CHS>%s拆除</CHS>
+						<CHS>%s到分解</CHS>
 					</Disassamble>
 				</ClickActions>
 				<MapTitle>
-					<CHS>巢穴中的陷阱</CHS>
+					<CHS>在巢穴的陷阱</CHS>
 				</MapTitle>
 			</TrapSlotWindow>
 			<Victory>
@@ -305,13 +305,13 @@
 			</Victory>
 			<WaypointWindow>
 				<Label>
-					<CHS>墨门</CHS>
+					<CHS>墨境之门</CHS>
 				</Label>
 				<Activate>
-					<CHS>开启</CHS>
+					<CHS>激活</CHS>
 				</Activate>
 				<CurrentLocation>
-					<CHS>当前位置:</CHS>
+					<CHS>当前位置：</CHS>
 				</CurrentLocation>
 				<Portal>
 					<CHS>传送门 (%s)</CHS>
@@ -322,116 +322,116 @@
 			</WaypointWindow>
 			<ActiveQuest>
 				<Label>
-					<CHS>目标:</CHS>
+					<CHS>目标：</CHS>
 				</Label>
 			</ActiveQuest>
 			<Pause>
 				<CHS>暂停</CHS>
 			</Pause>
 			<Saving>
-				<CHS>保存</CHS>
+				<CHS>正在保存</CHS>
 			</Saving>
 			<MsgBox>
 				<timeleft>
-					<CHS>剩余决定时间:%.0f 秒</CHS>
+					<CHS>剩余的决定时间：%.0f秒</CHS>
 				</timeleft>
 			</MsgBox>
 			<FinalDeathScreen>
-				<CHS>你要死了。不幸的是，这是专家模式下的角色，所以你的优势已经不复存在。\n\n按"菜单"键回到主菜单。</CHS>
+				<CHS>你已经死亡。不幸的是，你的角色处于硬核难度，而你的历险经历也从此结束。\n\n按下”菜单“键以回到主菜单。</CHS>
 			</FinalDeathScreen>
 			<DeathScreen>
-				<CHS>你死了,失去了%d金币。\n\n按Esc重生。</CHS>
+				<CHS>你死亡了，并且损失了%d金币。\n\n按Esc复活</CHS>
 			</DeathScreen>
 			<VictoryScreen>
-				<CHS>关卡完成!\n\n请按Esc返回主菜单。</CHS>
+				<CHS>等级完成！\n\n按Esc返回主菜单</CHS>
 			</VictoryScreen>
 			<FinalDeathScreen_XBOX>
-				<CHS>你死了。很不幸这是一个专家模式角色，所以现在你的冒险结束了。\n\按开始返回主菜单。</CHS>
+				<CHS>你已阵亡。很不幸你所用的是硬核人物，因此你的冒险已经结束了。\n\n按 开始 按钮返回主界面</CHS>
 			</FinalDeathScreen_XBOX>
 			<FinalDeathScreen_XBOXONE>
-				<CHS>你死了。很不幸这是一个专家模式角色，所以现在你的冒险结束了。\n\按主菜单按钮返回主菜单。</CHS>
+				<CHS>你已阵亡。很不幸你所用的是硬核人物，因此你的冒险已经结束了。\n\n按 菜单 按钮返回主界面</CHS>
 			</FinalDeathScreen_XBOXONE>
 			<DeathScreen_XBOX>
-				<CHS>你死了,失去了%d金币。\n\n按开始重生。</CHS>
+				<CHS>你死亡了，并且损失了%d金币。\n\n按Start复活</CHS>
 			</DeathScreen_XBOX>
 			<VictoryScreen_XBOX>
-				<CHS>关卡完成!\n\n按开始返回到主菜单。</CHS>
+				<CHS>等级完成！\n\n按Start返回主菜单</CHS>
 			</VictoryScreen_XBOX>
 			<LevelUp>
-				<CHS>升级!</CHS>
+				<CHS>升级！</CHS>
 			</LevelUp>
 			<ReputationUp>
-				<CHS>声望上升!</CHS>
+				<CHS>名誉上升！</CHS>
 			</ReputationUp>
 			<GloryUp>
-				<CHS>荣誉！</CHS>
+				<CHS>荣耀升级！ </CHS>
 			</GloryUp>
 			<NewPerk>
-				<CHS>新特性！</CHS>
+				<CHS>新技能点！ </CHS>
 			</NewPerk>
 			<ChallengeCompleted>
-				<CHS>挑战已完成！</CHS>
+				<CHS>挑战完成！ </CHS>
 			</ChallengeCompleted>
 			<PowerUpCombo>
 				<text>
-					<CHS>设置连击</CHS>
+					<CHS>设置连招</CHS>
 				</text>
 				<popup>
-					<CHS>设置连击键可以让你创建并保存特定强化组合,可以按空格键取消。你可以为每个技能创建一个单独的组合。当你按空格键时,你当前准备好保存的两个技能连击被取消。</CHS>
+					<CHS>设置组合键，你可以创建和存储特定的能量组合，然后你就可以按空格键再次释放。你可以为每个你掌握的技巧创建一个单独组合。当你下按空格键时，你会使用你目前已准备好的两个技能。 </CHS>
 				</popup>
 			</PowerUpCombo>
 			<PowerUpCombo_XBOX>
 				<text>
-					<CHS>使用连击</CHS>
+					<CHS>使用连招</CHS>
 				</text>
 				<popup>
-					<CHS>你可以按一个键使用预设的强化连击。</CHS>
+					<CHS>你可以预先把几个道具的组合连击设置到一个单独的键上</CHS>
 				</popup>
 			</PowerUpCombo_XBOX>
 			<TownPortal>
 				<text>
-					<CHS>回城术</CHS>
+					<CHS>城镇传送门</CHS>
 				</text>
 				<popup>
-					<CHS>将你传回你的藏身之处。</CHS>
+					<CHS>传送会你的藏匿处。</CHS>
 				</popup>
 			</TownPortal>
 			<Popup>
 				<PotionType0>
-					<CHS>你现在拥有%d治疗药水。喝下该药水可以恢复你最大生命值的50%%。</CHS>
+					<CHS>你目前有%d瓶生命药水，喝一瓶能恢复你生命值上限的50%%</CHS>
 				</PotionType0>
 				<PotionType1>
-					<CHS>你现在拥有%d魔法药水。喝下该药水可以恢复你最大魔法值的50%%。</CHS>
+					<CHS>你目前有%d瓶魔法药水，喝一瓶能恢复你魔法值上限的50%%</CHS>
 				</PotionType1>
 				<PotionType2>
-					<CHS>你现在拥有%d怒气药水。喝下该药剂可以增加你最大愤怒斯的50%%。</CHS>
+					<CHS>你目前有%d瓶愤怒药水，喝一瓶能恢复你愤怒上限值的50%%</CHS>
 				</PotionType2>
 				<PotionType3>
-					<CHS>你现在拥有%d回复药水。喝下该药水可以完全恢复你的魔法值和你的生命值。</CHS>
+					<CHS>你目前有%d瓶回复药水，喝一瓶能完全恢复你的魔法值与生命值</CHS>
 				</PotionType3>
 				<PotionSellCost>
-					<CHS>\n每瓶售价:%s。</CHS>
+					<CHS>\n每瓶药水售出价格：%s.</CHS>
 				</PotionSellCost>
 				<PotionBuyCost>
-					<CHS>\n每瓶买价:%s。</CHS>
+					<CHS>\n每瓶药水购买价格：%s.</CHS>
 				</PotionBuyCost>
 				<FragmentSellCost>
-					<CHS>\n每件碎片售价: %s.</CHS>
+					<CHS>\n每个碎片卖出价格：%s。 </CHS>
 				</FragmentSellCost>
 				<FragmentBuyCost>
-					<CHS>\n每件碎片购价: %s.</CHS>
+					<CHS>\n每个碎片购买价格：%s。 </CHS>
 				</FragmentBuyCost>
 				<RuneSellCost>
-					<CHS>\n每件符文售价: %s.</CHS>
+					<CHS>\n每个符文卖出价格：%s。 </CHS>
 				</RuneSellCost>
 				<RuneBuyCost>
-					<CHS>\n每件符文购价: %s.</CHS>
+					<CHS>\n每个符文购买价格：%s。 </CHS>
 				</RuneBuyCost>
 				<DrinkPotionType0>
-					<CHS>喝治疗药水</CHS>
+					<CHS>饮用生命药剂</CHS>
 				</DrinkPotionType0>
 				<DrinkPotionType1>
-					<CHS>喝魔法药水</CHS>
+					<CHS>饮用法力药剂</CHS>
 				</DrinkPotionType1>
 			</Popup>
 			<LowerRightWindow>
@@ -452,7 +452,7 @@
 					<CHS>菜单</CHS>
 				</Menu>
 				<Character>
-					<CHS>人物</CHS>
+					<CHS>角色</CHS>
 				</Character>
 				<Map>
 					<CHS>地图</CHS>
@@ -461,12 +461,12 @@
 			<LowerLeftWindow>
 				<Sword>
 					<popup>
-						<CHS>切换到近战武器</CHS>
+						<CHS>切换至近战武器</CHS>
 					</popup>
 				</Sword>
 				<Pistol>
 					<popup>
-						<CHS>切换到远程武器</CHS>
+						<CHS>切换至远程武器</CHS>
 					</popup>
 				</Pistol>
 				<Open>
@@ -483,21 +483,21 @@
 			<UpperLeftWindow>
 				<OnErrand>
 					<popup>
-						<CHS>你的同伴去出售和购买物品了。她将在%d秒后返回。</CHS>
+						<CHS>你的同伴出去买卖物品了，她会在%d秒内返回</CHS>
 					</popup>
 				</OnErrand>
 				<Dead>
 					<popup>
-						<CHS>你的同伴非常虚弱，无法进入物质世界。她将在%d秒后恢复力量。</CHS>
+						<CHS>你的同伴处于严重虚弱状态，不能转变为实体形态。她会在%d秒内恢复她的力量</CHS>
 					</popup>
 				</Dead>
 				<Unavailable>
 					<popup>
-						<CHS>目标够不着。</CHS>
+						<CHS>目标太远了。</CHS>
 					</popup>
 				</Unavailable>
 				<ping>
-					<CHS>Ping: %d</CHS>
+					<CHS>延迟： %d</CHS>
 				</ping>
 				<command>
 					<kick>
@@ -513,31 +513,31 @@
 			</UpperLeftWindow>
 			<charactersheet>
 				<label>
-					<CHS>人物列表</CHS>
+					<CHS>角色列表</CHS>
 				</label>
 				<NA>
-					<CHS>N/A</CHS>
+					<CHS>无</CHS>
 				</NA>
 				<BODY>
 					<label>
-						<CHS>体力</CHS>
+						<CHS>身体</CHS>
 					</label>
 					<popup>
-						<CHS>体力决定了你的身体状况。高体力值可以增加你的近战伤害(%s),可以对生命值进行加成(%s)及防御上的加成(%s)。</CHS>
+						<CHS>身体素质决定着你的体能状况。身体素质越高，你的近战伤害就越高(%s)，你的生命值会得到加成(%s)，防御力也会得到加成(%s) 。</CHS>
 					</popup>
 					<companionpopup>
-						<CHS>体力决定了你同伴的身体状况。高体力值可以增加她的近战伤害(%s),可以对她生命值进行加成(%s)及她防御上的加成(%s)。</CHS>
+						<CHS>身体素质决定着你的同伴的体能状况。身体素质越高，她的近战伤害就越高(%s)，她的生命值会得到加成(%s)，防御力也会得到加成(%s) 。</CHS>
 					</companionpopup>
 				</BODY>
 				<DEXTERITY>
 					<label>
-						<CHS>敏捷</CHS>
+						<CHS>灵巧</CHS>
 					</label>
 					<popup>
-						<CHS>敏捷决定了你的手眼协调精确度。高敏捷值可以增加你的远程伤害(%s)及你的闪避值(%s)。</CHS>
+						<CHS>灵巧决定你的手眼协调性有多好。高灵巧值增加你的远程伤害（%s）和你的闪避值（%s）。</CHS>
 					</popup>
 					<companionpopup>
-						<CHS>敏捷决定了你同伴的手眼协调精确度。高敏捷值可以增加她的远程伤害(%s)及她的闪避值(%s)。</CHS>
+						<CHS>灵巧决定你的同伴的手眼协调性有多好。高灵巧值增加她的远程伤害（%s）和她的闪避值（%s）。</CHS>
 					</companionpopup>
 				</DEXTERITY>
 				<WILLPOWER>
@@ -545,32 +545,32 @@
 						<CHS>意志</CHS>
 					</label>
 					<popup>
-						<CHS>意志决定了你在铸造神秘法术上的天赋。高意志值可以进行魔法加成(%s)并提高法术威力(%s)。</CHS>
+						<CHS>意志力能决定你的奥术魔法的强弱。一个很高的意志力值对于你的魔法值(%s)以及魔法伤害都有加成(%s).</CHS>
 					</popup>
 					<companionpopup>
-						<CHS>意志决定你同伴身体和以太界之间的亲密度。因此高意志可以提高其对所有攻击的抗性(%s)。同时提高基础概率技能的几率(%s。</CHS>
+						<CHS>意志力决定了你同伴的身体有多接近永恒。因此，一个高意志力会增加她对所有攻击的抗性(%s)。这也增加了她基础技能(%s)的百分比。 </CHS>
 					</companionpopup>
 				</WILLPOWER>
 				<LUCK>
 					<label>
-						<CHS>幸运</CHS>
+						<CHS>运气</CHS>
 					</label>
 					<popup>
-						<CHS>幸运决定了你的人品好坏。高幸运值可以提高找到金币(%s),魔法物品(%s)的几率并提高闪避值(%s)。还可以提高暴击的伤害(%s)。</CHS>
+						<CHS>运气值决定了你有多幸运。提高运气值，就能提高找到金币的概率（%s），找到魔法物品的概率（%s）和闪避的概率（%s）。它也会增加你的暴击伤害（%s）</CHS>
 					</popup>
 					<companionpopup>
-						<CHS>幸运决定了你伙伴的人品好坏。高幸运值可以提高找到金币(%s),魔法物品(%s)几率并提高你同伴的闪避能力(%s)。还可以提高暴击的伤害(%s)。</CHS>
+						<CHS>运气值决定了你的同伴有多幸运。提高运气值，就能提高找到金币的概率（%s），找到魔法物品的概率（%s）和你同伴闪避的概率（%s）。它也会增加她的暴击伤害（%s）</CHS>
 					</companionpopup>
 				</LUCK>
 				<HP>
 					<label>
-						<CHS>HP</CHS>
+						<CHS>生命</CHS>
 					</label>
 					<popup>
-						<CHS>你的最大生命值。当HP降到0时，你的英雄死亡，且你能花一部分黄金在事先决定的地点重生，甚至花更多黄金原地复活或免费回到最安全的区域。（记住某些选项不是一直可用的！）</CHS>
+						<CHS>你的最大生命值。当你的HP降到0，你的英雄就死了，你可以在预定位置重生，获得你当前金币的一部分，获当场重生获取更多金币，或免费回到上一个安全区域。（请注意，某些选项可能无法在所有情况下使用！）</CHS>
 					</popup>
 					<companionpopup>
-						<CHS>你的英雄的最大生命值。当她的HP降到0时，她将回到幽灵状态，且一段时间内不可复原。</CHS>
+						<CHS>同伴的最大生命值。当生命值降至零时同伴将会转为鬼魂状态，需要一定时间才能恢复。</CHS>
 					</companionpopup>
 				</HP>
 				<RAGE>
@@ -578,7 +578,7 @@
 						<CHS>怒气</CHS>
 					</label>
 					<popup>
-						<CHS>怒气用来强化技能，可通过打败怪物积累。</CHS>
+						<CHS>怒气用来激活技能道具，打败怪物累积怒气。</CHS>
 					</popup>
 				</RAGE>
 				<MANA>
@@ -586,7 +586,7 @@
 						<CHS>魔法</CHS>
 					</label>
 					<popup>
-						<CHS>魔法用来施放法术和特殊攻击。</CHS>
+						<CHS>法术和特殊攻击消耗的魔法值</CHS>
 					</popup>
 				</MANA>
 				<ATTACK>
@@ -594,7 +594,7 @@
 						<CHS>攻击</CHS>
 					</label>
 					<popup>
-						<CHS>攻击等级决定了你对敌人攻击时命中的几率。和敌人的防御等级相比，你的攻击等级越高，就越容易命中敌人。你命中几率最低是5%，但不能超过95%。</CHS>
+						<CHS>攻击等级决定着你击中一名敌人的几率。你的攻击等级比敌人的防御等级高出的越多，你就越有机会击中敌人。击中的几率至少有5%，但无法超过95%。</CHS>
 					</popup>
 				</ATTACK>
 				<DEFENSE>
@@ -602,15 +602,15 @@
 						<CHS>防御</CHS>
 					</label>
 					<popup>
-						<CHS>当前防御住普通攻击几率:%d%%.\n防御有助于避开敌人的攻击。与敌人的攻击等级相比，你的防御等级越高就越不容易被击中。避开几率最低是5%%，最高不能超过95%%。</CHS>
+						<CHS>目前防御普通攻击的几率： %d%%。\n防御有助于躲避敌人的攻击。与敌人的攻击值相比，你的防御值越高，就越有可能完全不被击中。不被击中的几率总是至少为5%%，但不能超过95%%。</CHS>
 					</popup>
 				</DEFENSE>
 				<SPELLPOWER>
 					<label>
-						<CHS>法术威力</CHS>
+						<CHS>法强</CHS>
 					</label>
 					<popup>
-						<CHS>法术威力影响你的法术威力大小。该值越高，法术效果就越大。</CHS>
+						<CHS>法术强度影响咒语强弱。法术强度值越高，咒语越强大。</CHS>
 					</popup>
 				</SPELLPOWER>
 				<RESISTANCES>
@@ -623,15 +623,15 @@
 						<CHS>物理</CHS>
 					</label>
 					<popup>
-						<CHS>减少%d%%如盗贼之刃或者狼爪之类的物理伤害。（来自防御的减少值也被包含在内）</CHS>
+						<CHS>降低 %d%% 点物理伤害，比如强盗的刀砍，狼的爪击所造成的伤害（防御属性的减伤已经算在里面了）</CHS>
 					</popup>
 				</PHYSICAL_RESISTANCE>
 				<POISON_RESISTANCE>
 					<label>
-						<CHS>毒素</CHS>
+						<CHS>毒药</CHS>
 					</label>
 					<popup>
-						<CHS>剧毒抗性减少%d%%中毒的伤害。（来自防御的减少值也被包含在内）</CHS>
+						<CHS>毒抗。降低 %d%% 点中毒伤害（防御属性的减伤已经算在里面了）</CHS>
 					</popup>
 				</POISON_RESISTANCE>
 				<ELEMENTAL_RESISTANCE>
@@ -639,7 +639,7 @@
 						<CHS>元素</CHS>
 					</label>
 					<popup>
-						<CHS>提升%d%%对如火焰球或者闪电攻击之类的元素法术的伤害抗性。（来自防御的减少值也被包含在内）</CHS>
+						<CHS>降低 %d%% 点元素法术伤害，比如火球术，电光震击所造成的伤害（防御属性的减伤已经算在里面了）</CHS>
 					</popup>
 				</ELEMENTAL_RESISTANCE>
 				<DetailedStats>
@@ -647,7 +647,7 @@
 						<CHS>详情</CHS>
 					</label>
 					<popup>
-						<CHS>给出你角色导出统计数据的详细信息。</CHS>
+						<CHS>给出你角色的衍生数据的详细信息。</CHS>
 					</popup>
 				</DetailedStats>
 				<AvailablePoints>
@@ -655,7 +655,7 @@
 						<CHS>可用能力点数</CHS>
 					</label>
 					<popup>
-						<CHS>你可以将能力点在你的三大属性中进行分配。</CHS>
+						<CHS>这是你能分配在三个主要天赋上的能力点数。</CHS>
 					</popup>
 				</AvailablePoints>
 				<DODGE>
@@ -663,7 +663,7 @@
 						<CHS>闪避</CHS>
 					</label>
 					<popup>
-						<CHS>当前闪避普通攻击几率:%d%%\n闪避可以在进攻和防御的估算之前直接避开任何攻击。</CHS>
+						<CHS>当前闪避普通攻击的几率：%d%%\n闪避让你有几率在计算攻击和防御前直接闪避任何攻击。</CHS>
 					</popup>
 				</DODGE>
 				<PARRY>
@@ -671,23 +671,23 @@
 						<CHS>偏转</CHS>
 					</label>
 					<popup>
-						<CHS>偏转可以让你有直接机会完全避开在你偏转范围内的攻击。</CHS>
+						<CHS>偏转能让你百分之百回避在你偏转范围内发起的任何攻击。</CHS>
 					</popup>
 				</PARRY>
 				<CRITICAL_HIT>
 					<label>
-						<CHS>暴击率</CHS>
+						<CHS>暴击几率</CHS>
 					</label>
 					<popup>
-						<CHS>暴击率是对对手造成致命一击的可能几率，也就是造成更多的伤害</CHS>
+						<CHS>致命几率是对你的敌人造成致命一击的几率，致命一击会显著提升造成的伤害。</CHS>
 					</popup>
 				</CRITICAL_HIT>
 				<CRITICAL_DAMAGE>
 					<label>
-						<CHS>致命伤害</CHS>
+						<CHS>暴击伤害</CHS>
 					</label>
 					<popup>
-						<CHS>致命伤害表示致命一击时的伤害加成。</CHS>
+						<CHS>暴击伤害表示产生暴击时伤害的加成率。</CHS>
 					</popup>
 				</CRITICAL_DAMAGE>
 				<MagicItemFindBonus>
@@ -695,15 +695,15 @@
 						<CHS>魔法物品几率</CHS>
 					</label>
 					<popup>
-						<CHS>奖励会影响到获取更多更好的魔法物品的几率</CHS>
+						<CHS>加成可以带来更多更好的魔法物品。</CHS>
 					</popup>
 				</MagicItemFindBonus>
 				<GoldFindBonus>
 					<label>
-						<CHS>金币奖励</CHS>
+						<CHS>金币加成</CHS>
 					</label>
 					<popup>
-						<CHS>让你找到更多金币</CHS>
+						<CHS>加成可以让你找到更多的金币。</CHS>
 					</popup>
 				</GoldFindBonus>
 				<MovementSpeed>
@@ -711,66 +711,66 @@
 						<CHS>移动速度</CHS>
 					</label>
 					<popup>
-						<CHS>你的英雄在战场上移动的速度</CHS>
+						<CHS>你的英雄在战场移动的速度。</CHS>
 					</popup>
 				</MovementSpeed>
 				<MAIN_ATTACK_RATE>
 					<label>
-						<CHS>初始攻击速度</CHS>
+						<CHS>主武器攻击速度</CHS>
 					</label>
 					<popup>
-						<CHS>你的英雄用初始技能每秒中能够发出的攻击数目。</CHS>
+						<CHS>你的英雄使用主要技能每秒的攻击数。</CHS>
 					</popup>
 					<popupmax>
-						<CHS>你的英雄用初始技能每秒中能够发出的攻击数目。（已达最大速度!）</CHS>
+						<CHS>你的英雄使用主要技能每秒的攻击数。（已达到最大速度！）</CHS>
 					</popupmax>
 				</MAIN_ATTACK_RATE>
 				<ALTERNATE_ATTACK_RATE>
 					<label>
-						<CHS>次级攻击速度</CHS>
+						<CHS>副武器攻击速度</CHS>
 					</label>
 					<popup>
-						<CHS>你的英雄用次级技能每秒中能够发出的攻击数目。</CHS>
+						<CHS>你的英雄使用辅助技能每秒的攻击数。</CHS>
 					</popup>
 					<popupmax>
-						<CHS>你的英雄用次级技能每秒中能够发出的攻击数目。（已达最大速度!）</CHS>
+						<CHS>你的英雄使用辅助技能每秒的攻击数。（已达到最大速度！）</CHS>
 					</popupmax>
 				</ALTERNATE_ATTACK_RATE>
 				<attack_DPS>
 					<melee_popup>
-						<CHS>每秒基础近战攻击伤害</CHS>
+						<CHS>你的基本近战攻击的每秒伤害。</CHS>
 					</melee_popup>
 					<ranged_popup>
-						<CHS>每秒基础远程攻击伤害</CHS>
+						<CHS>你的基本远程攻击的每秒伤害。</CHS>
 					</ranged_popup>
 					<skill_popup>
-						<CHS>%s技能每秒伤害</CHS>
+						<CHS>你的%s技能的每秒伤害。</CHS>
 					</skill_popup>
 				</attack_DPS>
 				<MAIN_DPS>
 					<label>
-						<CHS>初始伤害值</CHS>
+						<CHS>主武器DPH</CHS>
 					</label>
 				</MAIN_DPS>
 				<ALTERNATE_DPS>
 					<label>
-						<CHS>次级伤害值</CHS>
+						<CHS>副武器DPH</CHS>
 					</label>
 				</ALTERNATE_DPS>
 				<HP_ON_HIT>
 					<label>
-						<CHS>HP/击</CHS>
+						<CHS>每击HP</CHS>
 					</label>
 					<popup>
-						<CHS>每次击中时可获得吸血效果</CHS>
+						<CHS>每次成功的攻击获得生命。</CHS>
 					</popup>
 				</HP_ON_HIT>
 				<HP_PER_KILL>
 					<label>
-						<CHS>HP/击杀</CHS>
+						<CHS>每击杀HP</CHS>
 					</label>
 					<popup>
-						<CHS>每次杀敌时可获得吸血效果</CHS>
+						<CHS>每次击杀获得生命。</CHS>
 					</popup>
 				</HP_PER_KILL>
 				<HP_STEAL>
@@ -778,7 +778,7 @@
 						<CHS>生命偷取</CHS>
 					</label>
 					<popup>
-						<CHS>治疗造成伤害百分比的生命值</CHS>
+						<CHS>伤害恢复比例</CHS>
 					</popup>
 				</HP_STEAL>
 				<HP_REGEN>
@@ -786,47 +786,47 @@
 						<CHS>HP回复</CHS>
 					</label>
 					<popup>
-						<CHS>每秒HP回复值</CHS>
+						<CHS>每秒回复的生命。</CHS>
 					</popup>
 				</HP_REGEN>
 				<MANA_ON_HIT>
 					<label>
-						<CHS>魔法/击</CHS>
+						<CHS>每击消耗魔法值</CHS>
 					</label>
 					<popup>
-						<CHS>每次击中时可获得回魔复效果</CHS>
+						<CHS>每次成功的攻击后获得魔法值</CHS>
 					</popup>
 				</MANA_ON_HIT>
 				<MANA_PER_KILL>
 					<label>
-						<CHS>魔法/杀敌</CHS>
+						<CHS>每次击杀消耗魔法值</CHS>
 					</label>
 					<popup>
-						<CHS>每次杀敌时可获得回魔复效果</CHS>
+						<CHS>每次击杀后获得魔法值</CHS>
 					</popup>
 				</MANA_PER_KILL>
 				<MANA_STEAL>
 					<label>
-						<CHS>魔法偷取</CHS>
+						<CHS>法力窃取</CHS>
 					</label>
 					<popup>
-						<CHS>增加造成伤害百分比的魔法值</CHS>
+						<CHS>所受伤害转为魔法值比例</CHS>
 					</popup>
 				</MANA_STEAL>
 				<MANA_REGEN>
 					<label>
-						<CHS>魔法回复</CHS>
+						<CHS>魔法恢复</CHS>
 					</label>
 					<popup>
-						<CHS>每秒魔法回复值</CHS>
+						<CHS>每秒魔法值恢复</CHS>
 					</popup>
 				</MANA_REGEN>
 				<GLOBAL_COOLDOWN>
 					<label>
-						<CHS>全球冷却</CHS>
+						<CHS>公共冷却时间</CHS>
 					</label>
 					<popup>
-						<CHS>两个攻击法术之间的最短时间。</CHS>
+						<CHS>使用两种攻击咒语间的最低冷却时间。</CHS>
 					</popup>
 				</GLOBAL_COOLDOWN>
 				<DAMAGE_REDUCTION>
@@ -834,63 +834,63 @@
 						<CHS>伤害减免</CHS>
 					</label>
 					<popup>
-						<CHS>你所受到的伤害首先会降低%d%%，然后基于结果减去%d。卡特琳娜女士会承受剩余的%d%%。从 %d点的总伤害总你会受到 %d。</CHS>
+						<CHS>你受到的伤害将先行减少%d%%后，再减少%d点，卡特琳娜会受到剩下伤害的%d%%。若受到%d点初始伤害，你将受到%d点实际伤害。</CHS>
 					</popup>
 				</DAMAGE_REDUCTION>
 				<COOLDOWN_REDUCE>
 					<label>
-						<CHS>冷却缩减</CHS>
+						<CHS>冷却降低</CHS>
 					</label>
 					<popup>
-						<CHS>你的法术的所有冷却时间按该百分比缩减。</CHS>
+						<CHS>所有法术的冷却时间按该百分比缩减。</CHS>
 					</popup>
 				</COOLDOWN_REDUCE>
 				<CC_RESIST>
 					<label>
-						<CHS>控场抗性</CHS>
+						<CHS>群控抗性</CHS>
 					</label>
 					<popup>
-						<CHS>对控场的抵抗。降低失能效果（减速、晕眩等等）的持续时间%d%%.</CHS>
+						<CHS>抵抗群控。降低衰弱效果（减速、晕眩等等）的持续时间%d%%。</CHS>
 					</popup>
 				</CC_RESIST>
 				<Statistics>
 					<label>
-						<CHS>数据统计</CHS>
+						<CHS>数据</CHS>
 					</label>
 					<popup>
-						<CHS>英雄比较有趣的数据</CHS>
+						<CHS>关于英雄的有趣统计</CHS>
 					</popup>
 				</Statistics>
 				<GoldGathered>
 					<label>
-						<CHS>收集到的金币</CHS>
+						<CHS>获取金币</CHS>
 					</label>
 					<popup>
-						<CHS>到目前为止你在旅途当中收集到的金币总数。</CHS>
+						<CHS>你旅程目前获得的黄金数量。</CHS>
 					</popup>
 				</GoldGathered>
 				<MonstersKilled>
 					<label>
-						<CHS>怪物杀死数</CHS>
+						<CHS>怪物击杀</CHS>
 					</label>
 					<popup>
-						<CHS>冒险期间你杀死的怪物和其他敌人的总数。</CHS>
+						<CHS>你冒险中杀死怪物与其他敌人的总数。</CHS>
 					</popup>
 				</MonstersKilled>
 				<BossesKilled>
 					<label>
-						<CHS>复仇者杀死数</CHS>
+						<CHS>击杀的天敌</CHS>
 					</label>
 					<popup>
-						<CHS>你的冒险期间杀死的最强大敌人的总数。</CHS>
+						<CHS>你冒险中杀死最强大敌人的总数。</CHS>
 					</popup>
 				</BossesKilled>
 				<MiniBossesKilled>
 					<label>
-						<CHS>大反派杀死数</CHS>
+						<CHS>杀死的精英怪</CHS>
 					</label>
 					<popup>
-						<CHS>你的冒险期间杀死的最强大复仇者盟友的总数。</CHS>
+						<CHS>你冒险中杀死复仇女生最强大的盟友的总数。</CHS>
 					</popup>
 				</MiniBossesKilled>
 				<DeathCount>
@@ -898,7 +898,7 @@
 						<CHS>死亡次数</CHS>
 					</label>
 					<popup>
-						<CHS>在对抗无数的邪恶怪物的战斗中你的死亡次数。</CHS>
+						<CHS>在战斗对付无尽的恶魔部落之类死去的次数。</CHS>
 					</popup>
 				</DeathCount>
 				<PlayTime>
@@ -906,71 +906,71 @@
 						<CHS>游戏时间</CHS>
 					</label>
 					<popup>
-						<CHS>范海辛的奇妙冒险游戏总时间。</CHS>
+						<CHS>你进行游戏的总时间。</CHS>
 					</popup>
 				</PlayTime>
 				<HPDrinkCount>
 					<label>
-						<CHS>使用的HP药水</CHS>
+						<CHS>HP药剂已使用</CHS>
 					</label>
 					<popup>
-						<CHS>你使用的HP药水数目。</CHS>
+						<CHS>你使用过的生命药剂数量。</CHS>
 					</popup>
 				</HPDrinkCount>
 				<ManaDrinkCount>
 					<label>
-						<CHS>使用的魔法药水</CHS>
+						<CHS>已使用的魔法值药剂</CHS>
 					</label>
 					<popup>
-						<CHS>你使用的魔法药水数目。</CHS>
+						<CHS>你使用过的魔力药剂数量。</CHS>
 					</popup>
 				</ManaDrinkCount>
 				<CompletedQuestCount>
 					<label>
-						<CHS>完成的任务</CHS>
+						<CHS>已完成任务</CHS>
 					</label>
 					<popup>
-						<CHS>你完成的任务数目。</CHS>
+						<CHS>你完成的任务数量。</CHS>
 					</popup>
 				</CompletedQuestCount>
 				<ChestLooted>
 					<label>
-						<CHS>索取战利品次数</CHS>
+						<CHS>尝试拾取</CHS>
 					</label>
 					<popup>
-						<CHS>打开箱子、搜刮尸体等行为的次数。</CHS>
+						<CHS>打开箱子，搜刮尸体等等的次数。</CHS>
 					</popup>
 				</ChestLooted>
 				<ItemsGambled>
 					<label>
-						<CHS>赌博物品数</CHS>
+						<CHS>赌博获得物品</CHS>
 					</label>
 					<popup>
-						<CHS>你在赌博当中购买来的物品数目。</CHS>
+						<CHS>你下注赌钱的次数。</CHS>
 					</popup>
 				</ItemsGambled>
 				<ItemsEnchanted>
 					<label>
-						<CHS>附魔物品数</CHS>
+						<CHS>被附魔的物品</CHS>
 					</label>
 					<popup>
-						<CHS>你附过魔的物品数目。</CHS>
+						<CHS>你附魔的物品数。</CHS>
 					</popup>
 				</ItemsEnchanted>
 				<AlchemyUsed>
 					<label>
-						<CHS>炼金术使用次数</CHS>
+						<CHS>使用的炼金术</CHS>
 					</label>
 					<popup>
-						<CHS>你使用实验室的次数。</CHS>
+						<CHS>你使用实验室的次数</CHS>
 					</popup>
 				</AlchemyUsed>
 				<ArtifactsForged>
 					<label>
-						<CHS>物品锻造数目</CHS>
+						<CHS>锻造的物品</CHS>
 					</label>
 					<popup>
-						<CHS>神器锻造所制造的物品数目。</CHS>
+						<CHS>你在锻炉所创造的物品数。</CHS>
 					</popup>
 				</ArtifactsForged>
 				<HighestDamageTaken>
@@ -978,41 +978,41 @@
 						<CHS>受到的最高伤害</CHS>
 					</label>
 					<popup>
-						<CHS>单次攻击受到的最高伤害值。</CHS>
+						<CHS>一击输出的最大伤害值。</CHS>
 					</popup>
 				</HighestDamageTaken>
 				<HighestDamageDealt>
 					<label>
-						<CHS>造成的最高伤害值</CHS>
+						<CHS>造成的最高伤害</CHS>
 					</label>
 					<popup>
-						<CHS>对单个目标时一次攻击造成的最高伤害值</CHS>
+						<CHS>你对付单个敌人一击输出的最大伤害值。</CHS>
 					</popup>
 				</HighestDamageDealt>
 				<StrongestKilled>
 					<label>
-						<CHS>杀死的最强者:</CHS>
+						<CHS>击杀的最强敌人：</CHS>
 					</label>
 					<popup>
-						<CHS>到目前为止你所击败的最强敌人。</CHS>
+						<CHS>你目前打败的最强大敌人。</CHS>
 					</popup>
 				</StrongestKilled>
 				<FavouriteSkill>
 					<label>
-						<CHS>最喜欢的技能:</CHS>
+						<CHS>最爱技能：</CHS>
 					</label>
 					<popup>
-						<CHS>你最经常用的技能。</CHS>
+						<CHS>你使用最多的技能。</CHS>
 					</popup>
 					<UseCount>
-						<CHS>技能使用数</CHS>
+						<CHS>技能使用次数</CHS>
 					</UseCount>
 				</FavouriteSkill>
 				<XP>
-					<CHS>XP</CHS>
+					<CHS>经验</CHS>
 				</XP>
 				<XPPercent>
-					<CHS>(升级尚需：%.0f%%)</CHS>
+					<CHS>(距下一等级%.0f%%)</CHS>
 				</XPPercent>
 				<increase>
 					<label>
@@ -1032,16 +1032,16 @@
 				</decrease>
 				<accept>
 					<popup>
-						<CHS>点击该按钮完成你的属性点分配。</CHS>
+						<CHS>点击这个按钮会确认你所分配的属性点。</CHS>
 					</popup>
 				</accept>
 				<cancel>
 					<popup>
-						<CHS>点击该按钮返还你分配的属性点并再次进行分配。</CHS>
+						<CHS>点击这个按钮会恢复你分配的属性点，以便你进行重新分配。</CHS>
 					</popup>
 				</cancel>
 				<regen_value>
-					<CHS>( +%g 每秒 )</CHS>
+					<CHS>（+%g每秒）</CHS>
 				</regen_value>
 			</charactersheet>
 			<companion>
@@ -1049,89 +1049,89 @@
 					<CHS>等级</CHS>
 				</level>
 				<XP>
-					<CHS>XP</CHS>
+					<CHS>经验</CHS>
 				</XP>
 				<Equipment>
 					<label>
 						<CHS>装备</CHS>
 					</label>
 					<popup>
-						<CHS>你同伴的物品栏和装配的物品。</CHS>
+						<CHS>你同伴的物品栏和已装备的物品</CHS>
 					</popup>
 				</Equipment>
 				<Skills>
 					<label>
-						<CHS>技能</CHS>
+						<CHS>技巧窗口</CHS>
 					</label>
 					<popup>
-						<CHS>你同伴的技能。</CHS>
+						<CHS>你同伴的技能</CHS>
 					</popup>
 					<Vanilla>
 						<popup>
-							<CHS>一般技能</CHS>
+							<CHS>通用技能</CHS>
 						</popup>
 					</Vanilla>
 					<DLC>
 						<popup>
-							<CHS>贵族技能</CHS>
+							<CHS>蓝血技能</CHS>
 						</popup>
 					</DLC>
 				</Skills>
 				<Behaviour>
 					<label>
-						<CHS>行为</CHS>
+						<CHS>习性</CHS>
 					</label>
 					<popup>
-						<CHS>你对你同伴的行为指示。</CHS>
+						<CHS>关于你同伴行为的指导</CHS>
 					</popup>
 				</Behaviour>
 				<MeleeDPS>
 					<label>
-						<CHS>近战DPS</CHS>
+						<CHS>近战秒伤</CHS>
 					</label>
 					<popup>
-						<CHS>大概让你知道你的英雄近战攻击时能造成多少伤害。（记住卡特琳娜女士根据她的等级造成%s伤害.）</CHS>
+						<CHS>显示你的同伴每秒可造成的近战伤害。（基于当前等级，卡特琳娜女士造成%s的伤害。）</CHS>
 					</popup>
 				</MeleeDPS>
 				<HPPotionThreshold>
 					<popup>
-						<CHS>当你的英雄总生命值低于%s时，她会喝下一瓶治疗药水（如果物品栏中有的话）。</CHS>
+						<CHS>当你的同伴的生命值低于她生命值上限的%s时，她会喝一瓶生命药水（如果她的物品栏里有的话）</CHS>
 					</popup>
 					<label>
-						<CHS>HP药水临界值</CHS>
+						<CHS>HP药剂上限</CHS>
 					</label>
 				</HPPotionThreshold>
 				<RangedDPS>
 					<label>
-						<CHS>远程DPS</CHS>
+						<CHS>远程防御力</CHS>
 					</label>
 					<popup>
-						<CHS>让你大致了解同伴能从远处造成多大的伤害。（注意：基于等级，卡特琳娜女士造成%s伤害。）</CHS>
+						<CHS>让你大致知道你的同伴在远处能够造成多大伤害。(请注意，卡特琳娜小姐根据她的等级造成%s伤害。)</CHS>
 					</popup>
 				</RangedDPS>
 				<RESISTANCE>
 					<label>
-						<CHS>抗性(物理/元素/毒素)</CHS>
+						<CHS>抗性(物理/元素/毒药)</CHS>
 					</label>
 					<popup>
-						<CHS>你同伴的物理/元素/毒素攻击抗性。</CHS>
+						<CHS>你同伴对于物理/元素/毒药攻击的抗性</CHS>
 					</popup>
 				</RESISTANCE>
 				<behaviour>
 					<Defend>
 						<label>
-							<CHS>守护</CHS>
+							<CHS>防御</CHS>
 						</label>
 						<popup>
-							<CHS>你的队友会攻击想要伤害你的人。敌人也会将她作为首要目标。</CHS>
+							<CHS>你的同伴会攻击任何对你构成威胁的目标。你的敌人也有可能以你的同伴先作为他们的目标</CHS>
 						</popup>
 					</Defend>
 					<Assist>
 						<label>
-							<CHS>协助</CHS>
+							<CHS>辅助</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会攻击你的目标。如果有群伤法术的话，她就会攻击伤害离你最近你最后攻击的敌人。</CHS>
+							<CHS>你的同伴会攻击你的目标敌人。在群伤法术的情况下，她会攻击离你最近的你最后攻击的敌人。</CHS>
 						</popup>
 					</Assist>
 					<Weakest>
@@ -1139,28 +1139,28 @@
 							<CHS>冲锋</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会抢先移动攻击敌人并且会以为最弱的生物作为首要目标。</CHS>
+							<CHS>你的同伴会尽快去攻击敌人，而且她会先以最弱的生物作为目标。</CHS>
 						</popup>
 					</Weakest>
 					<Vulnarable>
 						<label>
-							<CHS>幸存</CHS>
+							<CHS>生存</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会首先攻击最弱的生物而敌人往往会最后攻击她。</CHS>
+							<CHS>你的同伴会先攻击最弱的生物，并且你的敌人会尽可能最后攻击她。</CHS>
 						</popup>
 					</Vulnarable>
 				</behaviour>
 				<form>
 					<label>
-						<CHS>形象</CHS>
+						<CHS>外观</CHS>
 					</label>
 					<Melee>
 						<label>
 							<CHS>近战</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴将近战攻击敌人。</CHS>
+							<CHS>你的同伴会近程攻击敌人</CHS>
 						</popup>
 					</Melee>
 					<Ranged>
@@ -1168,24 +1168,24 @@
 							<CHS>远程</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴将远程攻击敌人。</CHS>
+							<CHS>你的同伴会远程攻击敌人</CHS>
 						</popup>
 					</Ranged>
 					<Ghost>
 						<label>
-							<CHS>幽灵</CHS>
+							<CHS>鬼魂</CHS>
 						</label>
 						<popup>
-							<CHS>在战斗中你的同伴将呈现出幽灵形态，为你提供10%所有伤害减免。注：她处在幽灵形态时无法攻击，也无法被攻击。</CHS>
+							<CHS>在战斗中你的同伴将保持幽灵形式，为您提供10%的所有类型伤害减免。注：她不能在幽灵形式中发动攻击，也不会受到攻击。</CHS>
 						</popup>
 					</Ghost>
 				</form>
 				<shopping>
 					<label>
-						<CHS>购物</CHS>
+						<CHS>去购物</CHS>
 					</label>
 					<popup>
-						<CHS>派你的同伴出售物品栏中的物品并购买药水。注意：你可以在行为表中更改她的购物清单。</CHS>
+						<CHS>派遣同伴出售其物品栏内的物品并购买药水。记住：你可以在动作栏内更改购物清单。</CHS>
 					</popup>
 				</shopping>
 				<loottype>
@@ -1197,23 +1197,23 @@
 							<CHS>金币</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有金币</CHS>
+							<CHS>你的同伴会在战场上拾起所有金币</CHS>
 						</popup>
 					</Gold>
 					<HPPotions>
 						<label>
-							<CHS>生命药水</CHS>
+							<CHS>生命药剂</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有生命药水。</CHS>
+							<CHS>你的同伴会在战场上拾起所有生命药水</CHS>
 						</popup>
 					</HPPotions>
 					<ManaPotions>
 						<label>
-							<CHS>魔法药水</CHS>
+							<CHS>魔法值药剂</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有魔法药水。</CHS>
+							<CHS>你的同伴会在战场上拾起所有魔法药水</CHS>
 						</popup>
 					</ManaPotions>
 					<Normal>
@@ -1221,7 +1221,7 @@
 							<CHS>普通物品</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有非魔法物品。</CHS>
+							<CHS>你的同伴会在战场上拾起所有非魔法物品</CHS>
 						</popup>
 					</Normal>
 					<Essence>
@@ -1229,7 +1229,7 @@
 							<CHS>精华</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有炼金精华。</CHS>
+							<CHS>你的同伴会在战场上拾起所有炼金精华</CHS>
 						</popup>
 					</Essence>
 					<Magic>
@@ -1237,7 +1237,7 @@
 							<CHS>魔法物品</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上所有次要的魔法物品。</CHS>
+							<CHS>你的同伴会在战场上拾起所有魔法物品</CHS>
 						</popup>
 					</Magic>
 					<Rare>
@@ -1245,7 +1245,7 @@
 							<CHS>稀有物品</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有稀有物品。</CHS>
+							<CHS>你的同伴会在战场上拾起所有稀有物品</CHS>
 						</popup>
 					</Rare>
 					<Unique>
@@ -1253,7 +1253,7 @@
 							<CHS>史诗物品</CHS>
 						</label>
 						<popup>
-							<CHS>你的同伴会收集战场上的所有史诗物品。</CHS>
+							<CHS>你的同伴会在战场上拾起所有史诗级物品</CHS>
 						</popup>
 					</Unique>
 				</loottype>
@@ -1262,34 +1262,34 @@
 						<CHS>价值限度</CHS>
 					</label>
 					<popup>
-						<CHS>你的同伴会拾取低于该价值的所有物品。</CHS>
+						<CHS>你的同伴会拾起所有价值比这件低的物品</CHS>
 					</popup>
 				</valuelimit>
 				<buypotions>
 					<label>
-						<CHS>购买药水</CHS>
+						<CHS>购买药剂</CHS>
 					</label>
 				</buypotions>
 				<hppotionstobuy>
 					<label>
-						<CHS>购买生命药水</CHS>
+						<CHS>购买HP药剂</CHS>
 					</label>
 					<popup>
-						<CHS>下次你把同伴派往商店时，她将购买同等数量的生命药水。</CHS>
+						<CHS>你的同伴会在下一次你派她去商店的时候购买这个数量的生命药水</CHS>
 					</popup>
 					<bought>
-						<CHS>使用%d金币购买%d瓶生命药水。</CHS>
+						<CHS>%d生命药水，花费金币%d。</CHS>
 					</bought>
 				</hppotionstobuy>
 				<manapotionstobuy>
 					<label>
-						<CHS>购买魔法药水</CHS>
+						<CHS>购买魔法值药剂</CHS>
 					</label>
 					<popup>
-						<CHS>下次你把同伴派往商店时，她将购买同等数量的魔法药水。</CHS>
+						<CHS>你的同伴会在下一次你派她去商店的时候购买这个数量的魔法药水</CHS>
 					</popup>
 					<bought>
-						<CHS>使用%d金币购买%d瓶魔法药水。</CHS>
+						<CHS>%d魔法药水，花费金币%d。</CHS>
 					</bought>
 				</manapotionstobuy>
 			</companion>
@@ -1298,135 +1298,135 @@
 					<CHS>物品栏</CHS>
 				</label>
 				<comp_label>
-					<CHS>卡特琳娜的物品栏</CHS>
+					<CHS>卡特的物品栏</CHS>
 				</comp_label>
 				<ClickActions>
 					<Identify>
-						<CHS>%s鉴定</CHS>
+						<CHS>%s 鉴定</CHS>
 					</Identify>
 					<Split>
-						<CHS>%s分解</CHS>
+						<CHS>%s 分割</CHS>
 					</Split>
 					<Sell>
-						<CHS>%s出售</CHS>
+						<CHS>%s 卖出</CHS>
 					</Sell>
 					<Sell5>
-						<CHS>%s一次出售5个</CHS>
+						<CHS>%s 一次卖出5个</CHS>
 					</Sell5>
 					<SellStack>
-						<CHS>%s出售所有</CHS>
+						<CHS>%s 卖出一整叠</CHS>
 					</SellStack>
 					<Buy>
-						<CHS>%s购买</CHS>
+						<CHS>%s 购买</CHS>
 					</Buy>
 					<Buy5>
-						<CHS>%s一次购买五个</CHS>
+						<CHS>%s 一次购买5个</CHS>
 					</Buy5>
 					<BuyStack>
-						<CHS>%s购买一捆</CHS>
+						<CHS>%s 购买一整叠</CHS>
 					</BuyStack>
 					<ToCompanion>
-						<CHS>%s交给卡特琳娜</CHS>
+						<CHS>%s 给予卡特琳娜</CHS>
 					</ToCompanion>
 					<ToHero>
-						<CHS>%s交给范海辛</CHS>
+						<CHS>%s 给予范海辛</CHS>
 					</ToHero>
 					<ToCompanionEquip>
-						<CHS>%s装备在卡特琳娜身上</CHS>
+						<CHS>%s 给卡特琳娜装备</CHS>
 					</ToCompanionEquip>
 					<ToHeroEquip>
-						<CHS>%s装备在范海辛身上</CHS>
+						<CHS>%s 给范海辛装备</CHS>
 					</ToHeroEquip>
 					<ToCompanionCompare>
-						<CHS>%s与卡特琳娜对比</CHS>
+						<CHS>%s 与卡特琳娜比较</CHS>
 					</ToCompanionCompare>
 					<ToHeroCompare>
-						<CHS>%s与范海辛对比</CHS>
+						<CHS>%s 与范海辛比较</CHS>
 					</ToHeroCompare>
 					<ToStorage>
-						<CHS>%s放入仓库</CHS>
+						<CHS>%s 放入仓库</CHS>
 					</ToStorage>
 					<ToTrophy>
-						<CHS>%s穿戴显示</CHS>
+						<CHS>%s 放出展示</CHS>
 					</ToTrophy>
 					<ToAlchemy>
-						<CHS>%s在实验室使用</CHS>
+						<CHS>%s 在实验室里使用</CHS>
 					</ToAlchemy>
 					<ToEnchant>
-						<CHS>%s附魔</CHS>
+						<CHS>%s 附魔</CHS>
 					</ToEnchant>
 					<ToForge>
-						<CHS>%s在锻造炉使用</CHS>
+						<CHS>%s 在锻造所里使用</CHS>
 					</ToForge>
 					<Drink>
-						<CHS>%s饮用</CHS>
+						<CHS>%s 喝下</CHS>
 					</Drink>
 					<Consume>
-						<CHS>%s食用</CHS>
+						<CHS>%s 消费</CHS>
 					</Consume>
 					<Equip>
-						<CHS>%s装备</CHS>
+						<CHS>%s 装备</CHS>
 					</Equip>
 					<EquipLeft>
-						<CHS>%s装备到左槽</CHS>
+						<CHS>%s 装备在左侧空位</CHS>
 					</EquipLeft>
 					<EquipRight>
-						<CHS>%s装备到右槽</CHS>
+						<CHS>%s 装备在右侧空位</CHS>
 					</EquipRight>
 					<CompareWithRightRing>
-						<CHS>%s与右槽对比</CHS>
+						<CHS>%s 与右侧位比较</CHS>
 					</CompareWithRightRing>
 					<UnEquip>
-						<CHS>%s卸下装备</CHS>
+						<CHS>%s 分割</CHS>
 					</UnEquip>
 				</ClickActions>
 				<gold>
 					<popup>
-						<CHS>这是你现在携带的总金币，你可以在商店购买更好的装备。</CHS>
+						<CHS>这是你现在携带的黄金量。你可以在商店消费，购买更好的装备。</CHS>
 					</popup>
 					<label>
 						<CHS>金币</CHS>
 					</label>
 				</gold>
 				<item_count>
-					<CHS>物品数%d/%d</CHS>
+					<CHS>物品计数 %d/%d</CHS>
 				</item_count>
 				<DefaultSword>
 					<popup>
-						<CHS>范海辛的基础剑\n造成%s伤害。</CHS>
+						<CHS>范海辛的基础剑\n输出%s伤害。</CHS>
 					</popup>
 				</DefaultSword>
 				<DefaultPistol>
 					<popup>
-						<CHS>范海辛的基础手枪\n造成%s伤害。</CHS>
+						<CHS>范海辛的基础手枪\n输出%s伤害。</CHS>
 					</popup>
 				</DefaultPistol>
 				<reorganize>
 					<popup>
-						<CHS>该按键将重新整理你的物品栏，使其更优化。</CHS>
+						<CHS>这个按键可重新整理你的物品栏，达到更优化。</CHS>
 					</popup>
 					<label>
-						<CHS>整理</CHS>
+						<CHS>重新组织</CHS>
 					</label>
 				</reorganize>
 				<Buyback>
 					<popup>
-						<CHS>近期出售的物品 (仍然可以原价购回！)</CHS>
+						<CHS>最近卖出的物品（仍能以原价购回！）(</CHS>
 					</popup>
 				</Buyback>
 				<Alchemy>
 					<popup>
-						<CHS>炼金材料和药水</CHS>
+						<CHS>炼金素材和药水</CHS>
 					</popup>
 				</Alchemy>
 				<Items>
 					<popup>
-						<CHS>常规物品</CHS>
+						<CHS>普通物品</CHS>
 					</popup>
 				</Items>
 				<Extra>
 					<popup>
-						<CHS>附加物品栏</CHS>
+						<CHS>额外的空间来放置更多的战利品！</CHS>
 					</popup>
 				</Extra>
 				<Quest>
@@ -1440,31 +1440,31 @@
 					</popup>
 				</gamemode>
 				<Identify>
-					<CHS>鉴定</CHS>
+					<CHS>识别</CHS>
 				</Identify>
 				<ToHero>
-					<CHS>至英雄</CHS>
+					<CHS>致英雄</CHS>
 				</ToHero>
 				<ToCompanion>
-					<CHS>至同伴</CHS>
+					<CHS>致同伴</CHS>
 				</ToCompanion>
 				<Equip>
 					<CHS>装备</CHS>
 				</Equip>
 				<Equip_2>
-					<CHS>副手装备</CHS>
+					<CHS>装备在次要</CHS>
 				</Equip_2>
 				<Unequip>
-					<CHS>卸下装备</CHS>
+					<CHS>未装备</CHS>
 				</Unequip>
 				<Sell>
-					<CHS>出售</CHS>
+					<CHS>卖出</CHS>
 				</Sell>
 				<Use>
 					<CHS>使用</CHS>
 				</Use>
 				<Use_Alchemy>
-					<CHS>放入 %s 槽</CHS>
+					<CHS>放入%s槽位</CHS>
 				</Use_Alchemy>
 				<Drop>
 					<CHS>丢弃</CHS>
@@ -1473,7 +1473,7 @@
 					<CHS>商店</CHS>
 				</Store>
 				<trophy>
-					<CHS>穿戴显示</CHS>
+					<CHS>展示</CHS>
 				</trophy>
 				<Slot>
 					<Melee>
@@ -1513,7 +1513,7 @@
 					</boots>
 					<cape>
 						<popup>
-							<CHS>长袍</CHS>
+							<CHS>斗篷</CHS>
 						</popup>
 					</cape>
 					<belt>
@@ -1523,7 +1523,7 @@
 					</belt>
 					<trophy>
 						<popup>
-							<CHS>奖章</CHS>
+							<CHS>奖品</CHS>
 						</popup>
 					</trophy>
 					<ring1>
@@ -1548,19 +1548,19 @@
 					</questitem>
 				</Slot>
 				<left_action_damage>
-					<CHS>左手技能伤害</CHS>
+					<CHS>左侧技能伤害</CHS>
 				</left_action_damage>
 				<right_action_damage>
-					<CHS>右手技能伤害</CHS>
+					<CHS>右侧技巧伤害</CHS>
 				</right_action_damage>
 				<left_action_dps>
-					<CHS>左手技能DPS</CHS>
+					<CHS>左侧技能秒伤</CHS>
 				</left_action_dps>
 				<right_action_dps>
-					<CHS>右手技能DPS</CHS>
+					<CHS>右侧技巧DPS</CHS>
 				</right_action_dps>
 				<split_label>
-					<CHS>分解药水</CHS>
+					<CHS>摊分药水</CHS>
 				</split_label>				
 			</inventory>
 			<gambler>
@@ -1579,96 +1579,96 @@
 				</vendor>
 				<buyback>
 					<popup>
-						<CHS>最近出手物品</CHS>
+						<CHS>最近卖出的物品</CHS>
 					</popup>
 				</buyback>
 				<buy>
 					<CHS>购买</CHS>
 				</buy>
 				<buy_for_pet>
-					<CHS>替同伴购买</CHS>
+					<CHS>为同伴购买</CHS>
 				</buy_for_pet>
 				<sellall>
-					<CHS>出售所有</CHS>
+					<CHS>全部卖出</CHS>
 					<popup>
-						<CHS>将所有的道具（除了精华和任务必须道具）卖给商人</CHS>
+						<CHS>向这个商人出售所有物品（除了精华和主要任务物品）</CHS>
 					</popup>
 				</sellall>
 			</vendor>
 			<storage>
 				<label>
-					<CHS>仓库</CHS>
+					<CHS>存贮</CHS>
 				</label>
 				<additem>
-					<CHS>至英雄</CHS>
+					<CHS>致英雄</CHS>
 				</additem>
 				<additemtopet>
-					<CHS>至同伴</CHS>
+					<CHS>致同伴</CHS>
 				</additemtopet>
 				<store>
 					<CHS>商店</CHS>
 				</store>
 				<take>
-					<CHS> 撤退</CHS>
+					<CHS>恢复</CHS>
 				</take>
 			</storage>
 			<soldierinfo>
 				<magic_resistance>
-					<CHS>魔法抵抗: %d</CHS>
+					<CHS>魔法抗性：%d</CHS>
 				</magic_resistance>
 				<immunity>
-					<CHS>对%s免疫</CHS>
+					<CHS>免疫%s</CHS>
 				</immunity>
 				<hit_dodge_chance>
-					<CHS>命中/躲避几率: %s/%s</CHS>
+					<CHS>命中/躲闪几率：%s/%s</CHS>
 				</hit_dodge_chance>
 				<dodge_chance>
-					<CHS>躲避几率: %s</CHS>
+					<CHS>闪避几率：%s</CHS>
 				</dodge_chance>
 			</soldierinfo>
 			<PerkWindow>
 				<title>
-					<CHS>特性</CHS>
+					<CHS>专精</CHS>
 				</title>
 				<availablepoints>
 					<label>
-						<CHS>可用特性</CHS>
+						<CHS>可用专精</CHS>
 					</label>
 				</availablepoints>
 				<reputation>
-					<CHS>声望</CHS>
+					<CHS>名誉</CHS>
 				</reputation>
 				<available>
-					<CHS>可用特性:</CHS>
+					<CHS>可用的专精：</CHS>
 				</available>
 				<learned>
-					<CHS>已学习的特性:</CHS>
+					<CHS>已解锁的专精：</CHS>
 				</learned>
 				<learnperk>
-					<CHS>学习特性</CHS>
+					<CHS>学习专精</CHS>
 				</learnperk>
 				<unlearnperk>
-					<CHS>遗忘</CHS>
+					<CHS>忘却</CHS>
 				</unlearnperk>
 				<CantBeUndone>
-					<CHS>学习该特性后无法消除了！你确定要学习吗？</CHS>
+					<CHS>该专精学习后将不能被忘记！确定要学习吗？</CHS>
 				</CantBeUndone>
 				<available_aura>
-					<CHS>可用光环:</CHS>
+					<CHS>可用光环：</CHS>
 				</available_aura>
 				<available_buff>
-					<CHS>可用技巧:</CHS>
+					<CHS>可用技巧：</CHS>
 				</available_buff>
 				<active_aura>
-					<CHS>激活光环:</CHS>
+					<CHS>当前光环：</CHS>
 				</active_aura>
 				<active_buff>
-					<CHS>激活技巧:</CHS>
+					<CHS>当前技巧：</CHS>
 				</active_buff>
 			</PerkWindow>
 			<SkillsWindow>
 				<label>
-					<CHS>技能</CHS>
+					<CHS>技巧窗口</CHS>
 				</label>
 				<fullscreen>
 					<CHS>切换至全屏模式</CHS>
@@ -1678,7 +1678,7 @@
 				</windowed>
 				<Melee>
 					<label>
-						<CHS>神秘战士</CHS>
+						<CHS>神秘勇士</CHS>
 					</label>
 					<popup>
 						<CHS>近战技能</CHS>
@@ -1694,26 +1694,26 @@
 				</Ranged>
 				<Magus>
 					<label>
-						<CHS>咒术师 </CHS>
+						<CHS>奇术师</CHS>
 					</label>
 					<popup>
-						<CHS>魔法</CHS>
+						<CHS>魔法咒语</CHS>
 					</popup>
 				</Magus>
 				<Engineer>
 					<label>
-						<CHS>奥术机械</CHS>
+						<CHS>神秘技工</CHS>
 					</label>
 					<popup>
-						<CHS>工具和设备</CHS>
+						<CHS>工具和配件</CHS>
 					</popup>
 				</Engineer>
 				<Perk>
 					<label>
-						<CHS>技巧和光环</CHS>
+						<CHS>技巧与光环</CHS>
 					</label>
 					<popup>
-						<CHS>特殊技巧和持续光环</CHS>
+						<CHS>特殊技巧以及持续的光环</CHS>
 					</popup>
 				</Perk>
 				<Aura>
@@ -1724,20 +1724,20 @@
 						<CHS>持续光环</CHS>
 					</popup>
 					<instructions>
-						<CHS>拖动放下光环来激活光环槽！</CHS>
+						<CHS>把光环拖到激活的光环槽！</CHS>
 					</instructions>
 				</Aura>
 				<Buff>
 					<label>
-						<CHS>招数</CHS>
+						<CHS>技巧</CHS>
 					</label>
 					<popup>
-						<CHS>特殊的招数</CHS>
+						<CHS>特殊技巧</CHS>
 					</popup>
 				</Buff>
 				<Mastery>
 					<popup>
-						<CHS>目前，这组技能的熟练等级已经达到%d。所有技能效果按百分比提升。</CHS>
+						<CHS>你目前对这组技能的掌握等级为%d，这组内所有技能的效果都会受到这个百分比的影响</CHS>
 					</popup>
 				</Mastery>
 				<SkillPoints>
@@ -1750,16 +1750,16 @@
 				</SkillPoints>
 				<accept>
 					<popup>
-						<CHS>单击此按键，技能点数分配将完成。</CHS>
+						<CHS>点击这个按钮会确认你所分配的技能点。</CHS>
 					</popup>
 				</accept>
 				<cancel>
 					<popup>
-						<CHS>单击此按键，可撤销技能点数，你可以重新进行分配。</CHS>
+						<CHS>点击这个按钮会恢复你分配的技能点，以便你进行重新分配。</CHS>
 					</popup>
 				</cancel>
 				<IncSkillLevel>
-					<CHS>增加技能等级</CHS>
+					<CHS>提升技能等级</CHS>
 				</IncSkillLevel>
 				<DecSkillLevel>
 					<CHS>降低技能等级</CHS>
@@ -1768,37 +1768,37 @@
 					<CHS>等级</CHS>
 				</Level>
 				<AddPowerup>
-					<CHS>%s增加强化</CHS>
+					<CHS>%s 添加强化</CHS>
 				</AddPowerup>
 				<RemovePowerup>
-					<CHS>%s移除强化</CHS>
+					<CHS>%s 移除增强</CHS>
 				</RemovePowerup>
 				<LearnPowerup>
-					<CHS>%s学习强化</CHS>
+					<CHS>%s 学习增强</CHS>
 				</LearnPowerup>
 				<LearnMastery>
-					<CHS>%s学习技能精通</CHS>
+					<CHS>%s 学习技能精通</CHS>
 				</LearnMastery>
 				<NotLearned>
-					<CHS>尚未学习</CHS>
+					<CHS>尚未掌握</CHS>
 				</NotLearned>
 				<Learn>
 					<CHS>学习</CHS>
 				</Learn>
 				<UnLearn>
-					<CHS>遗忘</CHS>
+					<CHS>忘却</CHS>
 				</UnLearn>
 				<PowerupSetup>
-					<CHS>设置强化</CHS>
+					<CHS>设置道具</CHS>
 				</PowerupSetup>
 				<FinishSetup>
-					<CHS>完成连击</CHS>
+					<CHS>完结连击</CHS>
 				</FinishSetup>
 				<AddPowerupXBOX>
-					<CHS>增加强化</CHS>
+					<CHS>添加强化</CHS>
 				</AddPowerupXBOX>
 				<RemovePowerupXBOX>
-					<CHS>移除强化</CHS>
+					<CHS>移除道具</CHS>
 				</RemovePowerupXBOX>
 				<Link>
 					<CHS>连接</CHS>
@@ -1807,26 +1807,26 @@
 					<CHS>连接到%s</CHS>
 				</LinkTo>
 				<LinkToSlot0>
-					<CHS>设为光环2</CHS>
+					<CHS>设置为光环1</CHS>
 				</LinkToSlot0>
 				<LinkToSlot1>
-					<CHS>设为光环1</CHS>
+					<CHS>设置为光环1</CHS>
 				</LinkToSlot1>
 				<LinkToSlot2>
-					<CHS>设为光环3</CHS>
+					<CHS>设定为光环3</CHS>
 				</LinkToSlot2>
 				<CancelLink>
 					<CHS>取消连接</CHS>
 				</CancelLink>
 				<ClickActions>
 					<ToLearn>
-						<CHS>%s学习</CHS>
+						<CHS>%s 学习</CHS>
 					</ToLearn>
 					<ToLearnNextLevel>
-						<CHS>%s学习下一等级</CHS>
+						<CHS>%s 学习下一等级</CHS>
 					</ToLearnNextLevel>
 					<ToUnLearn>
-						<CHS>%s取消上一等级</CHS>
+						<CHS>%s 取消上一等级</CHS>
 					</ToUnLearn>
 					<ToSetFirstSlotPassive>
 						<CHS>%s设置为光环1</CHS>
@@ -1835,35 +1835,35 @@
 						<CHS>%s设置为光环2</CHS>
 					</ToSetSecondSlotPassive>
 					<ToSetFirstSlotActive>
-						<CHS>%s设置为左技巧</CHS>
+						<CHS>%s 设置为左侧技巧</CHS>
 					</ToSetFirstSlotActive>
 					<ToSetSecondSlotActive>
-						<CHS>%s设置为右技巧</CHS>
+						<CHS>%s 设置为右侧技巧</CHS>
 					</ToSetSecondSlotActive>
 					<ToRemovePassive>
-						<CHS>%s解除光环</CHS>
+						<CHS>%s 停止光环</CHS>
 					</ToRemovePassive>
 					<ToRemoveActive>
-						<CHS>%s移除技巧</CHS>
+						<CHS>%s 移除技巧</CHS>
 					</ToRemoveActive>
 					<ToSelect>
-						<CHS>%s选择不同的技能</CHS>
+						<CHS>%s 选择其他技能</CHS>
 					</ToSelect>
 					<ToSelectForTraining>
-						<CHS>%s选择训练</CHS>
+						<CHS>%s 选择进行训练</CHS>
 					</ToSelectForTraining>
 				</ClickActions>
 				<page_index>
-					<CHS>页数 %d/%d</CHS>
+					<CHS>第%d/%d页</CHS>
 				</page_index>
 				<quest_required>
-					<CHS>你需要完成某个任务解开这个技能。</CHS>
+					<CHS>你需要完成一个特定的任务来解锁这个技能。</CHS>
 				</quest_required>
 				<skill_required>
-					<CHS>所需的技能</CHS>
+					<CHS>所需技能</CHS>
 				</skill_required>
 				<LinkDescription>
-					<CHS>选择你想要链接到的动作按钮！</CHS>
+					<CHS>选择关联的动作按钮！</CHS>
 				</LinkDescription>
 			</SkillsWindow>
 			<MapWindow>
@@ -1873,7 +1873,7 @@
 			</MapWindow>
 			<PetWindow>
 				<label>
-					<CHS>同伴</CHS>
+					<CHS>伙伴</CHS>
 				</label>
 			</PetWindow>
 			<JournalWindow>
@@ -1883,48 +1883,48 @@
 			</JournalWindow>
 			<propertypopup>
 				<sellvalue>
-					<CHS>出售价格:</CHS>
+					<CHS>出售价格：</CHS>
 				</sellvalue>
 				<buyvalue>
-					<CHS>购买价格:</CHS>
+					<CHS>购买价格：</CHS>
 				</buyvalue>
 			</propertypopup>
 			<info>
 				<HighlightItemsOn>
-					<CHS>打开高亮显示物品</CHS>
+					<CHS>高粱物品开启</CHS>
 				</HighlightItemsOn>
 				<HighlightItemsOff>
-					<CHS>关闭高亮显示物品</CHS>
+					<CHS>高粱物品关闭</CHS>
 				</HighlightItemsOff>
 			</info>
 			<AlchemyWindow>
 				<label>
-					<CHS>研究室</CHS>
+					<CHS>实验室</CHS>
 				</label>
 				<ResultCapped>
-					<CHS>炼金术只能到这种程度了。由于理论上的限制，你当前实验的结果或许没你预想的那么强力！</CHS>
+					<CHS>炼金术只能帮你到这里了。由于理论有限，你这次试验可能达不到预期的结果。</CHS>
 				</ResultCapped>
 				<labels>
 					<cost_gem_enchant>
-						<CHS>强化消耗:</CHS>
+						<CHS>强化花费：</CHS>
 					</cost_gem_enchant>
 					<cost_gem_combine>
-						<CHS>合并消耗:</CHS>
+						<CHS>合成花费：</CHS>
 					</cost_gem_combine>
 					<cost_item_enchant>
-						<CHS>镶嵌消耗:</CHS>
+						<CHS>注入消耗</CHS>
 					</cost_item_enchant>
 					<cost_item_dismantle>
-						<CHS>移除消耗:</CHS>
+						<CHS>移除花费：</CHS>
 					</cost_item_dismantle>
 					<button_gem_enchant>
 						<CHS>强化</CHS>
 					</button_gem_enchant>
 					<button_gem_combine>
-						<CHS>合并</CHS>
+						<CHS>合成</CHS>
 					</button_gem_combine>
 					<button_item_enchant>
-						<CHS>插入</CHS>
+						<CHS>注入</CHS>
 					</button_item_enchant>
 					<button_item_dismantle>
 						<CHS>移除</CHS>
@@ -1933,22 +1933,22 @@
 						<CHS>强化精华</CHS>
 					</tab_gem_enchant>
 					<tab_gem_combine>
-						<CHS>结合精华</CHS>
+						<CHS>合成精华</CHS>
 					</tab_gem_combine>
 					<tab_item_enchant>
-						<CHS>附魔物品</CHS>
+						<CHS>强化物品</CHS>
 					</tab_item_enchant>
 					<tab_item_dismantle>
-						<CHS>拆除</CHS>
+						<CHS>分解</CHS>
 					</tab_item_dismantle>
 					<gem_enchant_source_1>
-						<CHS>来源精华</CHS>
+						<CHS>源精华</CHS>
 					</gem_enchant_source_1>
 					<gem_enchant_source_2>
-						<CHS>强化剂精华</CHS>
+						<CHS>被强化精华</CHS>
 					</gem_enchant_source_2>
 					<gem_enchant_target>
-						<CHS>强化精华</CHS>
+						<CHS>已强化精华</CHS>
 					</gem_enchant_target>
 					<gem_combine_source_1>
 						<CHS>主要来源</CHS>
@@ -1957,22 +1957,22 @@
 						<CHS>次要来源</CHS>
 					</gem_combine_source_2>
 					<gem_combine_target>
-						<CHS>合并来源</CHS>
+						<CHS>已合成精华</CHS>
 					</gem_combine_target>
 					<item_enchant_source_1>
-						<CHS>来源物品</CHS>
+						<CHS>源物品</CHS>
 					</item_enchant_source_1>
 					<item_enchant_source_2>
-						<CHS>强化剂精华</CHS>
+						<CHS>被强化精华</CHS>
 					</item_enchant_source_2>
 					<item_enchant_target>
-						<CHS>强化物品</CHS>
+						<CHS>已强化物品</CHS>
 					</item_enchant_target>
 					<item_dismantle_source_1>
-						<CHS>强化物品</CHS>
+						<CHS>已强化物品</CHS>
 					</item_dismantle_source_1>
 					<item_dismantle_target_1>
-						<CHS>拆除物品</CHS>
+						<CHS>已分解物品</CHS>
 					</item_dismantle_target_1>
 					<item_dismantle_target_2>
 						<CHS>精华</CHS>
@@ -1980,49 +1980,49 @@
 				</labels>
 				<popup>
 					<tab_gem_enchant>
-						<CHS>强化精华\n你可以将其与其他精华合并，增加精华的能力。结果取决于强化剂精华与提高的精华的比较。史诗精华只能与其他史诗精华合并。</CHS>
+						<CHS>强化精华\n通过将精华与另一个精华合成来强化它的力量。强化结果取决于用以强化的精华与用以提升的精华的强度差别。史诗级精华只能与另一个史诗级精华合成。</CHS>
 					</tab_gem_enchant>
 					<tab_gem_combine>
-						<CHS>合并精华\n将两个不同类型的精华结合，可能会得到一个新的，更有潜力的精华。不过，并不是所有结合都会成功。</CHS>
+						<CHS>合成精华\n将两种不同的精华合成可能制造出一种新的、更强力的精华。但是，不是所有的组合方式都会出现有用的结果。</CHS>
 					</tab_gem_combine>
 					<tab_item_enchant>
-						<CHS>附魔物品\n将精华附加到物品中，可让物品拥有精华的魔法性能。</CHS>
+						<CHS>附魔物品\n将精华注入一件物品，把它的魔法属性附加到物品上。</CHS>
 					</tab_item_enchant>
 					<tab_item_dismantle>
-						<CHS>拆除物品\n将一件物品分解成任何之前灌输的精华或分解之前灌输的精华。物品和精华都不会消失。</CHS>
+						<CHS>分解物品\n将精华从物品上取下来或者将之前合成的精华分离开。物品和精华都不会损坏。</CHS>
 					</tab_item_dismantle>
 					<gem_enchant_source_1>
-						<CHS>将你想要强化的精华放入此槽。</CHS>
+						<CHS>将你希望强化的元素放入槽内。</CHS>
 					</gem_enchant_source_1>
 					<gem_enchant_source_2>
-						<CHS>将你想要用于强化另一精华的精华放入此槽中。</CHS>
+						<CHS>将希望用来强化另一元素的元素放入槽内。</CHS>
 					</gem_enchant_source_2>
 					<gem_enchant_target>
-						<CHS>你可以在此槽中看到强化的精华。</CHS>
+						<CHS>你可以在这个槽中看到增强的精华</CHS>
 					</gem_enchant_target>
 					<gem_combine_source_1>
-						<CHS>将你想要结合的精华放入此槽中。</CHS>
+						<CHS>将你希望结合的元素放入槽内。</CHS>
 					</gem_combine_source_1>
 					<gem_combine_source_2>
-						<CHS>将你想要结合的精华放入此槽中。</CHS>
+						<CHS>将你希望结合的元素放入槽内。</CHS>
 					</gem_combine_source_2>
 					<gem_combine_target>
-						<CHS>如果两个选择的精华可以结合，他们的产物将在此槽中。</CHS>
+						<CHS>如果选中的两个精华可以合成，它们的产物就会出现在这个空槽里</CHS>
 					</gem_combine_target>
 					<item_enchant_source_1>
-						<CHS>将你想要用精华附魔的物品放入此槽中。</CHS>
+						<CHS>将希望注入元素的物品放入槽内。</CHS>
 					</item_enchant_source_1>
 					<item_enchant_source_2>
-						<CHS>把你想要使用的精华放入此槽。</CHS>
+						<CHS>将你希望使用的元素放入槽内。</CHS>
 					</item_enchant_source_2>
 					<item_enchant_target>
-						<CHS>你可以在此槽中看到附魔的物品。</CHS>
+						<CHS>你可以在这个槽中看到附魔武器</CHS>
 					</item_enchant_target>
 					<item_dismantle_source_1>
-						<CHS>把你想要拆除的物品放入此槽。</CHS>
+						<CHS>将希望分解的物品放入槽内。</CHS>
 					</item_dismantle_source_1>
 					<item_dismantle_target>
-						<CHS>你可以在此槽中看到移除精华后的物品。</CHS>
+						<CHS>你可以看到这个其精华被从槽中去除的的物品</CHS>
 					</item_dismantle_target>
 				</popup>
 			</AlchemyWindow>
@@ -2035,57 +2035,57 @@
 						<CHS>附魔</CHS>
 					</label>
 					<popup>
-						<CHS>对选中物品添加随机效果。</CHS>
+						<CHS>给选定的物品施加随机附魔</CHS>
 					</popup>
 				</enchant>
 				<disenchant>
 					<label>
-						<CHS>消魔</CHS>
+						<CHS>去除附魔</CHS>
 					</label>
 					<popup>
-						<CHS>移除选中物品的所有附魔。 (除了物品本身所带的附魔效果和精华的附魔)</CHS>
+						<CHS>移除所选物品的所有附魔（物品原有附魔以及元素附魔除外）</CHS>
 					</popup>
 				</disenchant>
 				<cant_enchant>
 					<no_item>
-						<CHS>先选择一件物品！</CHS>
+						<CHS>先选择已物品！</CHS>
 					</no_item>
 					<too_many_enchants>
-						<CHS>该附魔师无法给这件物品附任何魔法效果。</CHS>
+						<CHS>巫师不能在对这个物品附魔了。</CHS>
 					</too_many_enchants>
 					<no_enchants>
-						<CHS>移除附魔效果之前你必须先给这件物品附魔。</CHS>
+						<CHS>你得你能将其移除前在一件物品上附魔</CHS>
 					</no_enchants>
 					<not_enough_gold>
-						<CHS>金币不足，无法完成动作！</CHS>
+						<CHS>你的金币不够用</CHS>
 					</not_enough_gold>
 					<essence_capacity_overload>
-						<CHS>移除这些附魔效果会使该物品的精华利用度超过其精华上限！你必须先在实验室移除精华。</CHS>
+						<CHS>移除附魔将令物品元素使用超过其元素容量！你需要先在实验室内移除元素！</CHS>
 					</essence_capacity_overload>
 				</cant_enchant>
 				<EnchantCount>
-					<CHS>附魔值</CHS>
+					<CHS>附魔数量</CHS>
 				</EnchantCount>
 				<MaxEnchantCount>
-					<CHS>最大附魔值</CHS>
+					<CHS>最大附魔数量</CHS>
 				</MaxEnchantCount>
 				<enchant_cost>
-					<CHS>附魔消耗</CHS>
+					<CHS>附魔花费</CHS>
 				</enchant_cost>
 				<disenchant_cost>
-					<CHS>消魔消耗</CHS>
+					<CHS>去除附魔花费</CHS>
 				</disenchant_cost>
 			</EnchantWindow>
 			<ArtifactForgeWindow>
 				<title>
-					<CHS>神器锻造</CHS>
+					<CHS>锻炉</CHS>
 				</title>
 				<forge>
 					<label>
 						<CHS>锻造</CHS>
 					</label>
 					<popup>
-						<CHS>将该物品熔合！</CHS>
+						<CHS>锻造熔合物品！</CHS>
 					</popup>
 				</forge>
 				<normal>
@@ -2093,14 +2093,14 @@
 						<CHS>普通</CHS>
 					</label>
 					<popup>
-						<CHS>融合两个相同品质的道具变成新的一个。新创造的道具往往更与你的等级相适应，而新道具中的一半会继承旧的两个基础道具的附魔。</CHS>
+						<CHS>把两个具有相同品质的物品融合在一起。新生成的物品会与你的等级匹配，保留它一半的附魔效果并且继承原来两件物品的一些附魔效果。</CHS>
 					</popup>
 					<source>
 						<label>
 							<CHS>来源</CHS>
 						</label>
 						<popup>
-							<CHS>原物品已经在锻造过程中被破坏了，但是其附魔能够随机转移到锻造的物品中。出现在两种原物品上的附魔有很大几率出现在新物品上。</CHS>
+							<CHS>这个槽里的物品会随机失去其附魔的一半，但是会从原物品那继承随机选择的附魔。</CHS>
 						</popup>
 					</source>
 					<target>
@@ -2140,169 +2140,169 @@
 					<CHS>抱歉，要锻造该特殊物品的材料不足。</CHS>
 				</CantCreateArtifact>
 				<CantCreateArtifactDEBUG>
-					<CHS>抱歉，要锻造该特殊物品的材料不足。\n类型: %s, 附加类型: %s\n等级: %d, 最小消耗: %d, 最大消耗: %d</CHS>
+					<CHS>抱歉，要锻造该特殊物品的材料不足。\n类型：%s， 次类型：%s\n等级：%d，最小消耗：%d，最大消耗：%d</CHS>
 				</CantCreateArtifactDEBUG>
 				<TooFewEnchantments>
-					<CHS>抱歉，新物品可用附魔不足。</CHS>
+					<CHS>抱歉，该物品可用附魔不足。</CHS>
 				</TooFewEnchantments>
 				<TooFewEnchantmentsDEBUG>
-					<CHS>抱歉，新物品可用附魔不足。\n等级: %d\n平均附魔消耗: %f\n预期计数: %d\n实际计数: %d</CHS>
+					<CHS>抱歉，该物品可用附魔不足。\n等级：%d\n平均附魔消耗：%f\n预期数额：%d\n实际数额：%d</CHS>
 				</TooFewEnchantmentsDEBUG>
 			</ArtifactForgeWindow>
 			<LairGeneratorWindow>
 				<title>
-					<CHS>发电机</CHS>
+					<CHS>发生器</CHS>
 				</title>
 				<build>
 					<label>
 						<CHS>建造</CHS>
 					</label>
 					<popup>
-						<CHS>为发电机建造当前选择的升级。</CHS>
+						<CHS>为你的生成器建造目前所选的升级。</CHS>
 					</popup>
 				</build>
 				<GeneratorUpgrades>
 					<label>
-						<CHS>发电机升级</CHS>
+						<CHS>发生器升级</CHS>
 					</label>
 				</GeneratorUpgrades>
 				<ForgeUpgrades>
 					<label>
-						<CHS>神器锻造升级</CHS>
+						<CHS>锻炉升级</CHS>
 					</label>
 				</ForgeUpgrades>
 				<AlchemyUpgrades>
 					<label>
-						<CHS>研究室升级</CHS>
+						<CHS>实验室升级</CHS>
 					</label>
 				</AlchemyUpgrades>
 				<GeneratorCapacity>
 					<label>
-						<CHS>发电机容量</CHS>
+						<CHS>发生器容量</CHS>
 					</label>
 				</GeneratorCapacity>
 				<goldcost>
-					<CHS>金币消耗</CHS>
+					<CHS>金币花费</CHS>
 				</goldcost>
 				<capacityrequirement>
-					<CHS>发电机容量</CHS>
+					<CHS>发生器使用</CHS>
 				</capacityrequirement>
 				<itemrequired>
-					<CHS>要想实现这一升级，必须获得如下物品</CHS>
+					<CHS>要建造此升级，你需要以下物品</CHS>
 				</itemrequired>
 				<upgraderequired>
-					<CHS>要建造该升级，你需要如下发电机升级</CHS>
+					<CHS>要建造该项升级，你需要满足下列的发生器升级。</CHS>
 				</upgraderequired>
 				<upgrade>
 					<generator_base>
 						<name>
-							<CHS>普通强化器</CHS>
+							<CHS>普通附魔者</CHS>
 						</name>
 						<desc>
-							<CHS>发电机容量提高30点。</CHS>
+							<CHS>提升发电机容量30点</CHS>
 						</desc>
 					</generator_base>
 					<generator_basic>
 						<name>
-							<CHS>改良放大镜</CHS>
+							<CHS>改良的放大镜</CHS>
 						</name>
 						<desc>
-							<CHS>发电机容量提高30点。</CHS>
+							<CHS>提升发电机容量30点</CHS>
 						</desc>
 					</generator_basic>
 					<generator_advanced>
 						<name>
-							<CHS>完美积累器</CHS>
+							<CHS>绝对累加器</CHS>
 						</name>
 						<desc>
-							<CHS>发电机容量提高50点。</CHS>
+							<CHS>提升发电机容量50点</CHS>
 						</desc>
 					</generator_advanced>
 					<forge_type_slot>
 						<name>
-							<CHS>奥术器具</CHS>
+							<CHS>奥术应用</CHS>
 						</name>
 						<desc>
-							<CHS>为神器锻造提供新槽，允许你给锻造的物品设置相同类型。</CHS>
+							<CHS>在锻炉中开启新的一格，让你在锻造物品时能设置确切的物品类型。</CHS>
 						</desc>
 					</forge_type_slot>
 					<forge_enchant_count_slot>
 						<name>
-							<CHS>精华转变器</CHS>
+							<CHS>精华转换器</CHS>
 						</name>
 						<desc>
-							<CHS>为神器锻造提供新槽，允许你给锻造的物品设置相同附魔值。</CHS>
+							<CHS>在锻炉中开启新的一格，让你在锻造物品时能设置确切的附魔数量。</CHS>
 						</desc>
 					</forge_enchant_count_slot>
 					<forge_boost>
 						<name>
-							<CHS>奇术涡轮</CHS>
+							<CHS>奇迹的涡轮</CHS>
 						</name>
 						<desc>
-							<CHS>让锻造物品和附魔更加强力。</CHS>
+							<CHS>让锻造出的物品和其附魔更加强大</CHS>
 						</desc>
 					</forge_boost>
 					<alchemy_essence_enhance_discount>
 						<name>
-							<CHS>普通净化器</CHS>
+							<CHS>通用净化器</CHS>
 						</name>
 						<desc>
-							<CHS>强化精华的消耗减半。</CHS>
+							<CHS>附魔精华的花费减半。</CHS>
 						</desc>
 					</alchemy_essence_enhance_discount>
 					<alchemy_item_dismantle_discount>
 						<name>
-							<CHS>炼金炉</CHS>
+							<CHS>浸煮炉</CHS>
 						</name>
 						<desc>
-							<CHS>移除物品精华的消耗减半。</CHS>
+							<CHS>从物品上移除精华的花费减半。</CHS>
 						</desc>
 					</alchemy_item_dismantle_discount>
 					<alchemy_item_enchant_discount>
 						<name>
-							<CHS>高级炼金炉</CHS>
+							<CHS>豪华浸煮炉</CHS>
 						</name>
 						<desc>
-							<CHS>用精华附魔物品的消耗减半。</CHS>
+							<CHS>用精华给物品附魔的花费减半。</CHS>
 						</desc>
 					</alchemy_item_enchant_discount>
 				</upgrade>
 			</LairGeneratorWindow>
 			<RespawnWindow>
 				<title>
-					<CHS>复活</CHS>
+					<CHS>重生</CHS>
 				</title>
 				<respawn_here>
-					<CHS>在此处复活！</CHS>
+					<CHS>原地重生！</CHS>
 				</respawn_here>
 				<respawn_checkpoint>
-					<CHS>在最近的检查点复活！</CHS>
+					<CHS>在最近的记录点重生！</CHS>
 				</respawn_checkpoint>
 				<respawn_town>
-					<CHS>重生于：%s</CHS>
+					<CHS>在%s内重生！</CHS>
 				</respawn_town>
 				<cost>
-					<CHS>消耗：</CHS>
+					<CHS>花费：</CHS>
 				</cost>
 				<respawn>
-					<CHS>复活</CHS>
+					<CHS>重生</CHS>
 				</respawn>
 			</RespawnWindow>
 			<ResetSkillWindow>
 				<title>
-					<CHS>重置技能点</CHS>
+					<CHS>重置技巧点</CHS>
 				</title>
 				<cost>
-					<CHS>1个技能点消耗:</CHS>
+					<CHS>1技能点花费：</CHS>
 				</cost>
 				<totalcost>
-					<CHS>总消耗:</CHS>
+					<CHS>总费用：</CHS>
 				</totalcost>
 				<description>
-					<CHS>你可以在此撤销技能点。用“-“ 恢复技能点，右击强化忘却。</CHS>
+					<CHS>你可以在这里收回你用掉的技能点，一个接一个地。按减号键来收回它们，在强化上点鼠标右键来忘却它们</CHS>
 				</description>
 				<ask_before_close>
-					<CHS>你想在退出前确定更改吗？</CHS>
+					<CHS>你能在放弃之前完成你的改变吗？</CHS>
 				</ask_before_close>
 				<Reset>
 					<CHS>重置</CHS>
@@ -2310,19 +2310,19 @@
 			</ResetSkillWindow>
 			<ResetAbilityWindow>
 				<title>
-					<CHS>重置能力点</CHS>
+					<CHS>重置技能点</CHS>
 				</title>
 				<cost>
-					<CHS>1能力点消耗:</CHS>
+					<CHS>1能力点花费：</CHS>
 				</cost>
 				<totalcost>
-					<CHS>总消耗:</CHS>
+					<CHS>总费用：</CHS>
 				</totalcost>
 				<description>
-					<CHS>你可以在此撤销能力点。用“-“恢复。</CHS>
+					<CHS>你可以在这里收回你用掉的能力点，一个接一个地。按减号键来收回它们</CHS>
 				</description>
 				<ask_before_close>
-					<CHS>你想在退出前确定更改吗？</CHS>
+					<CHS>你能在放弃之前完成你的改变吗？</CHS>
 				</ask_before_close>
 				<Reset>
 					<CHS>重置</CHS>
@@ -2333,13 +2333,13 @@
 					<CHS>重置卡特琳娜</CHS>
 				</title>
 				<totalcost>
-					<CHS>重置消耗:</CHS>
+					<CHS>重置消耗：</CHS>
 				</totalcost>
 				<description>
-					<CHS>你可以在此撤销卡特琳娜女士的能力和技能点。</CHS>
+					<CHS>你可以在这里收回卡特琳娜女士用掉的能力点和技能点，一次全部取回</CHS>
 				</description>
 				<ask_before_close>
-					<CHS>你想在退出前确定更改吗？</CHS>
+					<CHS>你能在放弃之前完成你的改变吗？</CHS>
 				</ask_before_close>
 				<Reset>
 					<CHS>重置</CHS>
@@ -2347,27 +2347,27 @@
 			</ResetKatarinaWindow>
 			<TrophyDisplay>
 				<label>
-					<CHS>奖章展示</CHS>
+					<CHS>奖品展示</CHS>
 				</label>
 				<worldeffects>
-					<CHS>世界效果:</CHS>
+					<CHS>世界效果：</CHS>
 				</worldeffects>
 				<removeitem>
-					<CHS>至英雄</CHS>
+					<CHS>致英雄</CHS>
 				</removeitem>
 				<removeitem_pet>
-					<CHS>至同伴</CHS>
+					<CHS>致同伴</CHS>
 				</removeitem_pet>
 			</TrophyDisplay>
 			<PowerupCombo>
 				<label>
-					<CHS>强化组合</CHS>
+					<CHS>道具组合</CHS>
 				</label>
 			</PowerupCombo>
 			<Interaction>
 				<endgame_key_shop>
 					<name>
-						<CHS>钥匙商店</CHS>
+						<CHS>钥匙铺</CHS>
 					</name>
 				</endgame_key_shop>
 				<gamble>
@@ -2387,7 +2387,7 @@
 				</talk>
 				<alchemy>
 					<name>
-						<CHS>研究室</CHS>
+						<CHS>实验室</CHS>
 					</name>
 				</alchemy>
 				<trainer>
@@ -2402,12 +2402,12 @@
 				</enchant>
 				<reset_ability>
 					<name>
-						<CHS>重置能力点</CHS>
+						<CHS>重置技能点</CHS>
 					</name>
 				</reset_ability>
 				<reset_skill>
 					<name>
-						<CHS>重置技能点</CHS>
+						<CHS>重置技巧点</CHS>
 					</name>
 				</reset_skill>
 				<reset_katarina>
@@ -2417,12 +2417,12 @@
 				</reset_katarina>
 				<trophy_display>
 					<name>
-						<CHS>奖章展示</CHS>
+						<CHS>奖品展示</CHS>
 					</name>
 				</trophy_display>
 				<artifact_forge>
 					<name>
-						<CHS>神器锻造</CHS>
+						<CHS>锻炉</CHS>
 					</name>
 				</artifact_forge>
 				<trapshop>
@@ -2452,7 +2452,7 @@
 				</trade>
 				<lair_generator>
 					<name>
-						<CHS>发电机改良</CHS>
+						<CHS>发生器增幅装置</CHS>
 					</name>
 				</lair_generator>
 			</Interaction>
@@ -2461,42 +2461,42 @@
 					<CHS>成就</CHS>
 				</title>
 				<upgrades>
-					<CHS>荣誉</CHS>
+					<CHS>荣耀</CHS>
 					<popup>
-						<CHS>在冒险中杀死怪物会不断提升你的荣誉池。当你的荣誉池达到一定点数时，你会获得新的荣誉等级并获得2点荣誉点。你可以通过各种奖励获得荣誉点。这些奖励会应用到你的账户中是你所有的角色都可以获益。每一种奖励都有15个等级：学习首先的5个等级会花费1点荣誉点/等级；等级5-10会花费2点荣誉点/等级，最后的5个等级需要花费3点荣誉点/等级。</CHS>
+						<CHS>在冒险模式中杀怪会让你的荣耀值持续增加。当你的荣耀值达到某一个点时，你会获得一个新的荣耀等级和得到2个荣耀点数。你可以将这些荣耀点数分配到各种加成当中。你账号下的所有角色都能享受到这些加成。每个加成都有15个等级：学习最初的5个等级需要消耗1荣耀点/级；5-10级消耗2荣耀点/级，最后5级则需要花费3荣耀点/级。</CHS>
 					</popup>
 				</upgrades>
 				<page>
 					<combat>
-						<CHS>战斗 </CHS>
+						<CHS>战斗</CHS>
 					</combat>
 					<resources>
-						<CHS>资源 </CHS>
+						<CHS>资源</CHS>
 					</resources>
 					<elementalism>
-						<CHS>元素机制</CHS>
+						<CHS>元素学</CHS>
 					</elementalism>
 					<survival>
-						<CHS>幸存</CHS>
+						<CHS>生存</CHS>
 					</survival>
 				</page>
 				<HeroicPoints>
 					<CHS>英雄点数</CHS>
 				</HeroicPoints>
 				<HeroicBuffs>
-					<CHS>英雄恩惠</CHS>
+					<CHS>英雄恩赐</CHS>
 				</HeroicBuffs>
 				<HeroicDeeds>
 					<CHS>成就</CHS>
 				</HeroicDeeds>
 				<Accept>
 					<Popup>
-						<CHS>应用当前设置后无法再复原。</CHS>
+						<CHS>接受当前的设定会让它们最终定型，而你今后将不能改变它们。</CHS>
 					</Popup>
 				</Accept>
 				<Cancel>
 					<Popup>
-						<CHS>单击此按钮将还原该窗口的所有更改。</CHS>
+						<CHS>点击这个按钮会恢复你在这个窗口中所做的所有更变。</CHS>
 					</Popup>
 				</Cancel>
 			</HeroicDeeds>
@@ -2505,21 +2505,21 @@
 					<CHS>成就</CHS>
 				</label>
 				<ScenarioXP>
-					<CHS>荣誉</CHS>
+					<CHS>荣耀</CHS>
 				</ScenarioXP>
 				<ScenarioRank>
-					<CHS>等级</CHS>
+					<CHS>排名</CHS>
 				</ScenarioRank>
 				<AvailablePoints>
-					<CHS>可用的荣誉点</CHS>
+					<CHS>可用荣耀积分</CHS>
 				</AvailablePoints>
 				<ScenarioLevelLimitReached>
-					<CHS>达到荣誉限制</CHS>
+					<CHS>已达到荣耀限制</CHS>
 				</ScenarioLevelLimitReached>
 			</HeroicDeedsWindow>
 			<TradeWindow>
 				<changeincrement>
-					<CHS>更改增量</CHS>
+					<CHS>改变增额</CHS>
 				</changeincrement>
 			</TradeWindow>
 			<Journal>
@@ -2528,47 +2528,47 @@
 				</title>
 				<Active>
 					<label>
-						<CHS>活跃任务</CHS>
+						<CHS>当前任务</CHS>
 					</label>
 				</Active>
 				<Finished>
 					<label>
-						<CHS>完成的任务</CHS>
+						<CHS>已完成任务</CHS>
 					</label>
 				</Finished>
 				<Chapter1>
 					<name>
-						<CHS>章节 I - 前往博格维亚的道路</CHS>
+						<CHS>第一章 - 前往博加维亚</CHS>
 					</name>
 				</Chapter1>
 				<Chapter2>
 					<name>
-						<CHS>章节 II - 怪物和机械的城市</CHS>
+						<CHS>第二章 - 怪物与机械的城市</CHS>
 					</name>
 				</Chapter2>
 				<Chapter3>
 					<name>
-						<CHS>章节 III - 致命交锋</CHS>
+						<CHS>第三章 - 致命对决</CHS>
 					</name>
 				</Chapter3>
 				<Reward>
 					<label>
-						<CHS>奖励:</CHS>
+						<CHS>奖励：</CHS>
 					</label>
 					<Popup>
-						<CHS>完成这一任务后，你将获得这些奖励。</CHS>
+						<CHS>这是你完成这个任务会获得的奖励。</CHS>
 					</Popup>
 					<SkillPoint>
-						<CHS>%d技能点数</CHS>
+						<CHS>%d技能点</CHS>
 					</SkillPoint>
 					<SkillPointKatarina>
-						<CHS>%d卡特琳娜女士的技能点数</CHS>
+						<CHS>%d技能点给卡特琳娜女士</CHS>
 					</SkillPointKatarina>
 					<AbilityPoint>
-						<CHS>%d能力点数</CHS>
+						<CHS>%d能力点</CHS>
 					</AbilityPoint>
 					<RandomArtifact>
-						<CHS>%s神器</CHS>
+						<CHS>%s 圣物</CHS>
 					</RandomArtifact>
 					<Artifact_Normal>
 						<CHS>普通</CHS>
@@ -2585,10 +2585,10 @@
 				</Reward>
 				<XP>
 					<label>
-						<CHS>XP</CHS>
+						<CHS>经验</CHS>
 					</label>
 					<Popup>
-						<CHS>完成这一任务后，你将得到这些经验。</CHS>
+						<CHS>你完成此任务将会获得的经验值。</CHS>
 					</Popup>
 				</XP>
 				<Gold>
@@ -2596,7 +2596,7 @@
 						<CHS>金币</CHS>
 					</label>
 					<Popup>
-						<CHS>完成这一任务后，你将得到这些金币。</CHS>
+						<CHS>完成任务会获得的黄金数量。</CHS>
 					</Popup>
 				</Gold>
 				<QuestCompleted>
@@ -2613,16 +2613,16 @@
 			</Journal>
 			<Progress>
 				<Identify>
-					<CHS>鉴定中...</CHS>
+					<CHS>识别中……</CHS>
 				</Identify>
 				<Portal>
-					<CHS>传输中...</CHS>
+					<CHS>传送中…</CHS>
 				</Portal>
 				<Resurrect>
-					<CHS>复活中...</CHS>
+					<CHS>复活中……</CHS>
 				</Resurrect>
 				<Resurrected>
-					<CHS>复活中..</CHS>
+					<CHS>被复活中...</CHS>
 				</Resurrected>
 			</Progress>
 			<TrainerWindow>
@@ -2630,41 +2630,41 @@
 					<CHS>训练</CHS>
 				</title>
 				<Auras>
-					<CHS>可学习的光环</CHS>
+					<CHS>要学习的光环</CHS>
 				</Auras>
 				<Buffs>
-					<CHS>可学习的技巧</CHS>
+					<CHS>学习技巧</CHS>
 				</Buffs>
 			</TrainerWindow>
 			<map>
 				<terep_falu>
 					<name>
-						<CHS>麦柯维纳</CHS>
+						<CHS>马克夫纳</CHS>
 					</name>
 				</terep_falu>
 				<terep_falu_ejjel>
 					<name>
-						<CHS>麦柯维纳</CHS>
+						<CHS>马克夫纳</CHS>
 					</name>
 				</terep_falu_ejjel>
 				<terep>
 					<name>
-						<CHS>蛇女通道</CHS>
+						<CHS>戈尔贡路</CHS>
 					</name>
 				</terep>
 				<terep_fenyves>
 					<name>
-						<CHS>死亡树林</CHS>
+						<CHS>死木</CHS>
 					</name>
 				</terep_fenyves>
 				<terep_ink_scarecrow>
 					<name>
-						<CHS>不详稻草人</CHS>
+						<CHS>难闻的稻草人</CHS>
 					</name>
 				</terep_ink_scarecrow>
 				<terep_werewolf_odu>
 					<name>
-						<CHS>狼人兽穴</CHS>
+						<CHS>狼人巢穴</CHS>
 					</name>
 				</terep_werewolf_odu>
 				<terep_Ink_in_the_Well>
@@ -2674,27 +2674,27 @@
 				</terep_Ink_in_the_Well>
 				<terep_nagyerdo>
 					<name>
-						<CHS>绞架沼泽</CHS>
+						<CHS>恐吓沼泽</CHS>
 					</name>
 				</terep_nagyerdo>
 				<terep_start_priest>
 					<name>
-						<CHS>蛇女通道</CHS>
+						<CHS>戈尔贡路</CHS>
 					</name>
 				</terep_start_priest>
 				<terep_cave>
 					<name>
-						<CHS>黄铜矿山</CHS>
+						<CHS>奥里哈鲁根</CHS>
 					</name>
 				</terep_cave>
 				<terep_cave_boss>
 					<name>
-						<CHS>拖运驻地</CHS>
+						<CHS>牵引站</CHS>
 					</name>
 				</terep_cave_boss>
 				<terep_gyarnegyed>
 					<name>
-						<CHS>恐惧工厂</CHS>
+						<CHS>恐惧之作</CHS>
 					</name>
 				</terep_gyarnegyed>
 				<terep_lair>
@@ -2704,12 +2704,12 @@
 				</terep_lair>
 				<terep_viztisztito_1>
 					<name>
-						<CHS>假山</CHS>
+						<CHS>贫民窟</CHS>
 					</name>
 				</terep_viztisztito_1>
 				<terep_viztisztito_1_ejjel>
 					<name>
-						<CHS>假山</CHS>
+						<CHS>贫民窟</CHS>
 					</name>
 				</terep_viztisztito_1_ejjel>
 				<terep_viztisztito_2>
@@ -2729,37 +2729,37 @@
 				</terep_viztisztito_3_ejjel>
 				<terep_gasmachine>
 					<name>
-						<CHS>旧隧道</CHS>
+						<CHS>老旧的隧道</CHS>
 					</name>
 				</terep_gasmachine>
 				<terep_ink_monsta>
 					<name>
-						<CHS>迷失之所</CHS>
+						<CHS>失落之地</CHS>
 					</name>
 				</terep_ink_monsta>
 				<terep_ink_Beggarking>
 					<name>
-						<CHS>藏身所</CHS>
+						<CHS>藏身之处</CHS>
 					</name>
 				</terep_ink_Beggarking>
 				<terep_csatorna_kiserletitelep>
 					<name>
-						<CHS>废弃研究站</CHS>
+						<CHS>废弃研究所</CHS>
 					</name>
 				</terep_csatorna_kiserletitelep>
 				<terep_Belvaros>
 					<name>
-						<CHS>旧城区</CHS>
+						<CHS>旧镇</CHS>
 					</name>
 				</terep_Belvaros>
 				<terep_ink_choice1>
 					<name>
-						<CHS> 闪灯</CHS>
+						<CHS>闪烁的灯光</CHS>
 					</name>
 				</terep_ink_choice1>
 				<terep_ink_choice2>
 					<name>
-						<CHS>更好选项</CHS>
+						<CHS>伟大之人</CHS>
 					</name>
 				</terep_ink_choice2>
 				<terep_ink_choice3>
@@ -2789,7 +2789,7 @@
 				</terep_tetok>
 				<terep_tetok2>
 					<name>
-						<CHS>屋顶混战</CHS>
+						<CHS>屋顶混乱</CHS>
 					</name>
 				</terep_tetok2>
 				<terep_final_boss>
@@ -2804,57 +2804,57 @@
 				</scenario_Lair>
 				<scenario_nagyerdo>
 					<name>
-						<CHS>绞架沼泽</CHS>
+						<CHS>恐吓沼泽</CHS>
 					</name>
 					<desc>
-						<CHS>所有这些在树林中蹒跚的阴影！如果有人不流一滴血能够摧毁他们…那么这个人就可以在饕餮雕像前大摆筵席。</CHS>
+						<CHS>所有在树林里游荡的阴影啊！如果有人可以摧毁他们，并且自己不流一滴血...那么这个人可以在饕餮雕像中享受盛宴。</CHS>
 					</desc>
 				</scenario_nagyerdo>
 				<scenario_cave>
 					<name>
-						<CHS>黄铜矿山</CHS>
+						<CHS>奥里哈鲁根</CHS>
 					</name>
 					<desc>
-						<CHS> 成为洞穴里最快的食腐动物。你有15分钟时间找到所有的尸体和战利品：你的奖励将会是在密门之后的一场壮阔的大战，然后一些更加物质的东西。</CHS>
+						<CHS>成为最快的洞穴的清道夫。你有15分钟时间来找到所有尸体和战利品：你的奖励将是一道暗门背后的宏伟战斗，还有更多材料。</CHS>
 					</desc>
 				</scenario_cave>
 				<scenario_cave_boss>
 					<name>
-						<CHS>拖运驻地</CHS>
+						<CHS>牵引站</CHS>
 					</name>
 				</scenario_cave_boss>
 				<scenario_fenyves>
 					<name>
-						<CHS>死亡树林</CHS>
+						<CHS>死木</CHS>
 					</name>
 					<desc>
-						<CHS>你是否准备好清除所有的勇士和弱小的生物不要让他们死在半路上？如果回答是肯定的，就干吧，然后回到连鸟都不敢去的地方</CHS>
+						<CHS>你准备好要消灭所有的冠军和所有的微不足道的魔物并且在路上不死一次吗？如果答案是肯定的，那就去做吧，去往哪个连鸟儿都不敢前往的地方。</CHS>
 					</desc>
 				</scenario_fenyves>
 				<scenario_ink_scarecrow>
 					<name>
-						<CHS>不详稻草人</CHS>
+						<CHS>难闻的稻草人</CHS>
 					</name>
 				</scenario_ink_scarecrow>
 				<scenario_viztisztito_1>
 					<name>
-						<CHS>假山</CHS>
+						<CHS>贫民窟</CHS>
 					</name>
 					<desc>
-						<CHS>摧毁所有最肮脏，最大和最小的，不要让你的灵魂从你的身体中滑走，一次也不行。 涉水深及膝的生灵，找到去卡布姆的东西，把它们关入铁栅，大门开向秘密的地方。</CHS>
+						<CHS>消灭所有的脏东西，不论大小，不要让你的灵魂从你身上滑落，一次也不行。趟过及膝的魔物，找到引起爆炸的东西，把它放进气格栅，还有一扇通往秘密地点的门。</CHS>
 					</desc>
 				</scenario_viztisztito_1>
 				<scenario_gasmachine>
 					<name>
-						<CHS>旧隧道</CHS>
+						<CHS>老旧的隧道</CHS>
 					</name>
 				</scenario_gasmachine>
 				<scenario_gyarnegyed>
 					<name>
-						<CHS>恐惧工厂</CHS>
+						<CHS>恐惧之作</CHS>
 					</name>
 					<desc>
-						<CHS>污染很糟。所有这些冒泡的化学品流入博格维亚土壤中！一种灵魂会炸掉所有有毒的东西。尽管这会让很多强大的奴才愤怒。但是有时做这些英雄事迹时会得到奖励的</CHS>
+						<CHS>污染是不好的。那么多气泡化学品都渗入了博加维亚的土壤！一个仁慈的灵魂会摧毁所有有毒之物。虽然这会让一些强大的奴才很生气。但有时你会因这种英雄之举而获得回报。</CHS>
 					</desc>
 				</scenario_gyarnegyed>
 				<scenario_ink4>
@@ -2862,12 +2862,12 @@
 						<CHS>口袋王国</CHS>
 					</name>
 					<desc>
-						<CHS>猎人，你有7分钟的时间打败他们。如果成功，前往区域中心与神秘领主见面，他有话对你说。</CHS>
+						<CHS>您有八分钟时间，猎人，不论大小，将它们全部打败。如果你这样做了，去往王国的中心去见有话要对你说的神秘领主。</CHS>
 					</desc>
 				</scenario_ink4>
 				<battle_royal_fenyves>
 					<name>
-						<CHS>死亡树林</CHS>
+						<CHS>死木</CHS>
 					</name>
 				</battle_royal_fenyves>
 				<battle_royal_ink4>
@@ -2877,13 +2877,13 @@
 				</battle_royal_ink4>
 			</map>		
 			<pointofnoreturn>
-				<CHS>你一旦通过这里，就再也不能回到这一部分地图了。在进入之前，最好完成所有的开放任务。确定要继续吗？</CHS>
+				<CHS>一旦你进入此地，你将无法返回这里。你应该在进入之前完成未完成的任务。是否继续？</CHS>
 			</pointofnoreturn>
 		</GUI>
 		<GameObject>
 			<Chest>
 				<TreasureChest>
-					<CHS>旧箱子</CHS>
+					<CHS>老箱子</CHS>
 				</TreasureChest>
 				<VH_chest_01>
 					<CHS>宝箱</CHS>
@@ -2895,10 +2895,10 @@
 					<CHS>尸体</CHS>
 				</Bandit_Corpse>
 				<Dreadknecht_corps>
-					<CHS>恐惧侍从躯壳</CHS>
+					<CHS>恐惧奴隶空壳</CHS>
 				</Dreadknecht_corps>
 				<Dreadknecht_corps_pokos>
-					<CHS>恐惧侍从躯壳</CHS>
+					<CHS>恐惧奴隶空壳</CHS>
 				</Dreadknecht_corps_pokos>
 				<vrikolak_corps>
 					<CHS>狼人尸体</CHS>
@@ -2907,75 +2907,75 @@
 					<CHS>叛军尸体</CHS>
 				</rebel_corpse>
 				<hordo_vasalt_normal1>
-					<CHS>桶</CHS>
+					<CHS>桶子</CHS>
 				</hordo_vasalt_normal1>
 				<hordo_vasalt_normal2>
-					<CHS>坚固的桶</CHS>
+					<CHS>坚固的枪管</CHS>
 				</hordo_vasalt_normal2>
 				<hordo_vasalatlan_normal1>
-					<CHS>简单的桶</CHS>
+					<CHS>光滑枪管</CHS>
 				</hordo_vasalatlan_normal1>
 				<doboz1>
-					<CHS>木盒</CHS>
+					<CHS>木质盒子</CHS>
 				</doboz1>
 				<doboz2>
 					<CHS>板条箱</CHS>
 				</doboz2>
 				<doboz3>
-					<CHS>大箱子</CHS>
+					<CHS>大板条箱</CHS>
 				</doboz3>
 				<contener>
 					<CHS>容器</CHS>
 				</contener>
 				<vegyszeres_tartaly_kek>
-					<CHS>化学槽</CHS>
+					<CHS>化学缸</CHS>
 				</vegyszeres_tartaly_kek>
 				<vegyszeres_tartaly_voros>
-					<CHS>化学槽</CHS>
+					<CHS>化学缸</CHS>
 				</vegyszeres_tartaly_voros>
 				<vegyszeres_tartaly_zold>
-					<CHS>化学槽</CHS>
+					<CHS>化学缸</CHS>
 				</vegyszeres_tartaly_zold>
 				<rat_corpse>
 					<CHS>老鼠尸体</CHS>
 				</rat_corpse>
 				<Domovoy_Corpse>
-					<CHS>幽灵尸体</CHS>
+					<CHS>家神尸体</CHS>
 				</Domovoy_Corpse>
 				<BR_chest1>
-					<CHS>上锁的宝箱</CHS>
+					<CHS>锁住的宝箱</CHS>
 				</BR_chest1>
 			</Chest>
 			<Door>
 				<CHS>门</CHS>
 				<KeyRequired>
-					<CHS>必须的钥匙</CHS>
+					<CHS>所需钥匙</CHS>
 				</KeyRequired>
 			</Door>
 			<Info>
 				<signpost_start_1>
-					<CHS>麦柯维纳\n博格维亚</CHS>
+					<CHS>马克夫纳\n伯格瓦</CHS>
 				</signpost_start_1>
 				<signpost_fenyves_1>
-					<CHS>麦柯维纳\n森林</CHS>
+					<CHS>马克夫纳\n森林</CHS>
 				</signpost_fenyves_1>
 				<signpost_falu_1>
-					<CHS>死亡树林\n绞架沼泽</CHS>
+					<CHS>死木\n恐吓沼泽</CHS>
 				</signpost_falu_1>
 				<statue_hidden_treasure>
 					<CHS>雄狮雕像</CHS>
 				</statue_hidden_treasure>
 				<halaskofa_bode>
-					<CHS>鱼摊</CHS>
+					<CHS>鱼档</CHS>
 				</halaskofa_bode>				
 				<hirdetotabla>
 					<CHS>留言板</CHS>
 				</hirdetotabla>
 				<excalibur>
-					<CHS>石头中的宝剑</CHS>
+					<CHS>石中剑</CHS>
 				</excalibur>
 				<WishingWell>
-					<CHS>许愿池</CHS>
+					<CHS>许愿井</CHS>
 				</WishingWell>
 				<kopjafa>
 					<CHS>狼人图腾柱</CHS>
@@ -3029,10 +3029,10 @@
 					<CHS>红色按钮</CHS>
 				</RedButton>
 				<stoneidol>
-					<CHS>巨大贪吃者雕像</CHS>
+					<CHS>大食者神像</CHS>
 				</stoneidol>
 				<Beka_Nagy>
-					<CHS>巨大的青蛙雕像</CHS>
+					<CHS>巨蛙雕像</CHS>
 				</Beka_Nagy>
 				<Beka_1>
 					<CHS>青蛙雕像</CHS>
@@ -3047,40 +3047,40 @@
 					<CHS>青蛙雕像</CHS>
 				</Beka_4>
 				<borislav_alap>
-					<CHS>国王鲍里斯拉夫</CHS>
+					<CHS>波利斯拉夫国王</CHS>
 				</borislav_alap>
 				<aramtermelo>
-					<CHS>静电放电装置</CHS>
+					<CHS>静电放射装置</CHS>
 				</aramtermelo>
 				<Rusty_bomb_1>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_1>
 				<Rusty_bomb_2>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_2>
 				<Rusty_bomb_3>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_3>
 				<Rusty_bomb_4>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_4>
 				<Rusty_bomb_5>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_5>
 				<Rusty_bomb_explosive_1>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_explosive_1>
 				<Rusty_bomb_explosive_2>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_explosive_2>
 				<Rusty_bomb_explosive_3>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_explosive_3>
 				<Rusty_bomb_explosive_4>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_explosive_4>
 				<Rusty_bomb_explosive_5>
-					<CHS>腐蚀的炸弹</CHS>
+					<CHS>锈迹斑斑的炸弹</CHS>
 				</Rusty_bomb_explosive_5>
 				<terep_falu>
 					<waypoint_falu>
@@ -3089,15 +3089,15 @@
 				</terep_falu>
 				<terep_fenyves>
 					<waypoint_fenyves>
-						<CHS>吉普赛营地</CHS>
+						<CHS>吉普赛人营地</CHS>
 					</waypoint_fenyves>
 				</terep_fenyves>
 				<terep_nagyerdo>
 					<nagyerdo_waypoint_1>
-						<CHS>南方</CHS>
+						<CHS>南部</CHS>
 					</nagyerdo_waypoint_1>
 					<nagyerdo_waypoint_2>
-						<CHS>北方</CHS>
+						<CHS>北部</CHS>
 					</nagyerdo_waypoint_2>
 				</terep_nagyerdo>
 				<terep_cave>
@@ -3107,7 +3107,7 @@
 				</terep_cave>
 				<terep_gyarnegyed>
 					<Waypoint_Dreadworks>
-						<CHS>大广场</CHS>
+						<CHS>中央广场</CHS>
 					</Waypoint_Dreadworks>
 				</terep_gyarnegyed>
 				<terep_lair>
@@ -3117,15 +3117,15 @@
 				</terep_lair>
 				<terep_viztisztito_1>
 					<Waypoint_Viztisztito1>
-						<CHS>监视哨</CHS>
+						<CHS>当心</CHS>
 					</Waypoint_Viztisztito1>
 				</terep_viztisztito_1>
 				<terep_viztisztito_2>
 					<Waypoint_Viztisztito2_1>
-						<CHS>畸形屋</CHS>
+						<CHS>歪楼</CHS>
 					</Waypoint_Viztisztito2_1>
 					<Waypoint_Viztisztito2_2>
-						<CHS>阴暗小巷</CHS>
+						<CHS>幽暗巷</CHS>
 					</Waypoint_Viztisztito2_2>
 				</terep_viztisztito_2>
 				<terep_csatorna_kiserletitelep>
@@ -3135,12 +3135,12 @@
 				</terep_csatorna_kiserletitelep>
 				<terep_viztisztito_3>
 					<Waypoint_Viztisztito3>
-						<CHS>码头13</CHS>
+						<CHS>13号码头</CHS>
 					</Waypoint_Viztisztito3>
 				</terep_viztisztito_3>
 				<terep_viztisztito_3_ejjel>
 					<Waypoint_vizt3_night>
-						<CHS>码头13</CHS>
+						<CHS>13号码头</CHS>
 					</Waypoint_vizt3_night>
 				</terep_viztisztito_3_ejjel>
 				<terep_Belvaros>
@@ -3153,12 +3153,12 @@
 				</terep_Belvaros>
 				<terep_tetok>
 					<Waypoint_tetok>
-						<CHS>屋顶花园</CHS>
+						<CHS>天台花园</CHS>
 					</Waypoint_tetok>
 				</terep_tetok>
 				<terep_tetok2>
 					<Waypoint_tetok2>
-						<CHS>观察点</CHS>
+						<CHS>观测点</CHS>
 					</Waypoint_tetok2>
 				</terep_tetok2>
 				<scenario_Lair>
@@ -3197,31 +3197,31 @@
 					</waypoint_ink4scenario>
 				</scenario_ink4>
 				<goat_corps>
-					<CHS>山羊尸体</CHS>
+					<CHS>山羊骨架</CHS>
 				</goat_corps>
 				<Electric_machine_one>
-					<CHS>发电机</CHS>
+					<CHS>发生器</CHS>
 				</Electric_machine_one>
 				<Electric_machine_two>
-					<CHS>发电机</CHS>
+					<CHS>发生器</CHS>
 				</Electric_machine_two>
 				<Trophy_desk>
-					<CHS>奖章桌</CHS>
+					<CHS>奖品服务台</CHS>
 				</Trophy_desk>
 				<Elevator_1>
-					<CHS>电梯</CHS>
+					<CHS>升降机</CHS>
 				</Elevator_1>
 				<Elevator_2>
-					<CHS>电梯</CHS>
+					<CHS>升降机</CHS>
 				</Elevator_2>
 				<Elevator_3>
-					<CHS>电梯</CHS>
+					<CHS>升降机</CHS>
 				</Elevator_3>
 				<Elevator_4>
-					<CHS>电梯</CHS>
+					<CHS>升降机</CHS>
 				</Elevator_4>
 				<Inventor_lift>
-					<CHS>电梯</CHS>
+					<CHS>升降机</CHS>
 				</Inventor_lift>
 				<aramfejleszto1>
 					<CHS>充电器</CHS>
@@ -3236,37 +3236,37 @@
 					<CHS>充电器</CHS>
 				</aramfejleszto4>
 				<aramgyujto>
-					<CHS>轰击炮</CHS>
+					<CHS>电子放电器 </CHS>
 				</aramgyujto>
 				<Eromu>
-					<CHS>发电机</CHS>
+					<CHS>发生器</CHS>
 				</Eromu>
 				<Outflow>
-					<CHS>排泄渠</CHS>
+					<CHS>外流</CHS>
 				</Outflow>
 				<Outflow2>
-					<CHS>排泄渠</CHS>
+					<CHS>外流</CHS>
 				</Outflow2>
 				<Bridge_machine_controller>
-					<CHS>桥梁超载调整器</CHS>
+					<CHS>桥梁过载调整器</CHS>
 				</Bridge_machine_controller>
 				<Gate_machine_button>
-					<CHS>神秘控制面板</CHS>
+					<CHS>神秘的控制面板</CHS>
 				</Gate_machine_button>
 				<Telep_controller>
-					<CHS>电力网控制板</CHS>
+					<CHS>能量矩阵控制面板</CHS>
 				</Telep_controller>
 				<teleport>
-					<CHS>墨境之门</CHS>
+					<CHS>墨境传送门</CHS>
 				</teleport>
 				<secret_teleport>
 					<CHS>暗门</CHS>
 				</secret_teleport>
 				<Signal_controller>
-					<CHS>灯塔控制</CHS>
+					<CHS>灯塔控制器</CHS>
 				</Signal_controller>
 				<swampflower>
-					<CHS>沼泽睡莲</CHS>
+					<CHS>百合沼泽 </CHS>
 				</swampflower>
 				<Lair_map>
 					<CHS>下水道</CHS>
@@ -3284,52 +3284,52 @@
 					<CHS>钓鱼点</CHS>
 				</Fishing_place>
 				<working_list>
-					<CHS>科学研究时间表</CHS>
+					<CHS>科学工作计划</CHS>
 				</working_list>
 				<Talapzat_2>
-					<CHS>国王鲍里斯拉夫</CHS>
+					<CHS>波利斯拉夫国王</CHS>
 				</Talapzat_2>
 				<Borislav_statue>
-					<CHS>国王鲍里斯拉夫</CHS>
+					<CHS>波利斯拉夫国王</CHS>
 				</Borislav_statue>
 				<Guard_statue_1>
-					<CHS>守卫雕像</CHS>
+					<CHS>守护者雕像</CHS>
 				</Guard_statue_1>
 				<Guard_statue_2>
-					<CHS>守卫雕像</CHS>
+					<CHS>守护者雕像</CHS>
 				</Guard_statue_2>
 				<Hirdetotabla1>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</Hirdetotabla1>
 				<Hirdetotabla2>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</Hirdetotabla2>
 				<Hirdetotabla3>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</Hirdetotabla3>
 				<Hirdetotabla4>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</Hirdetotabla4>
 				<Hirdetotabla5>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</Hirdetotabla5>
 				<Hirdetotabla6>
-					<CHS>广告栏</CHS>
+					<CHS>广告栏 </CHS>
 				</Hirdetotabla6>
 				<Lightning_collector_1>
-					<CHS>闪电陷阱</CHS>
+					<CHS>闪电陷阱 </CHS>
 				</Lightning_collector_1>
 				<Lightning_collector_2>
-					<CHS>闪电陷阱</CHS>
+					<CHS>闪电陷阱 </CHS>
 				</Lightning_collector_2>
 				<Lightning_collector_3>
-					<CHS>闪电陷阱</CHS>
+					<CHS>闪电陷阱 </CHS>
 				</Lightning_collector_3>
 				<Lightning_collector_4>
-					<CHS>闪电陷阱</CHS>
+					<CHS>闪电陷阱 </CHS>
 				</Lightning_collector_4>
 				<Whisperer_treasure>
-					<CHS>秘密精华货物</CHS>
+					<CHS>隐藏的本质出货 </CHS>
 				</Whisperer_treasure>
 				<Secret_entrance_vissza>
 					<CHS></CHS>
@@ -3337,61 +3337,61 @@
 			</Info>
 			<Poi>
 				<falu_szobor>
-					<CHS>鲍里斯拉夫国王雕像</CHS>
+					<CHS>王鲍里斯拉夫雕像 </CHS>
 				</falu_szobor>
 				<fenyves_akasztofa>
-					<CHS>绞刑架</CHS>
+					<CHS>绞刑架 </CHS>
 				</fenyves_akasztofa>
 				<fenyves_kut>
-					<CHS>许愿池</CHS>
+					<CHS>许愿井</CHS>
 				</fenyves_kut>
 				<fenyves_madarijeszto>
-					<CHS>不详稻草人</CHS>
+					<CHS>难闻的稻草人</CHS>
 				</fenyves_madarijeszto>
 				<fenyves_labnyom>
-					<CHS>巨人的脚印</CHS>
+					<CHS>巨人的足迹 </CHS>
 				</fenyves_labnyom>
 				<nagyerdo_runako>
 					<CHS>符文石</CHS>
 				</nagyerdo_runako>
 				<nagyedro_leghajo>
-					<CHS>实验飞艇残骸</CHS>
+					<CHS>实验飞船残骸</CHS>
 				</nagyedro_leghajo>
 				<nagyedro_beka_forg>
-					<CHS>沃迪亚诺伊雕像</CHS>
+					<CHS>伏贾诺雕像</CHS>
 				</nagyedro_beka_forg>
 				<nagyerdo_beka_idezo>
-					<CHS>沃迪亚诺伊国王雕像</CHS>
+					<CHS>伏贾诺国王雕像 </CHS>
 				</nagyerdo_beka_idezo>
 				<nagyerdo_beka_szaj>
-					<CHS>巨大贪吃者雕像</CHS>
+					<CHS>大食者神像</CHS>
 				</nagyerdo_beka_szaj>
 				<nagyerdo_generator>
-					<CHS>静电放电装置</CHS>
+					<CHS>静电放射装置</CHS>
 				</nagyerdo_generator>
 				<electric_fence>
-					<CHS>力场墙</CHS>
+					<CHS>力墙 </CHS>
 				</electric_fence>
 				<vizt1_watertank>
-					<CHS>水槽</CHS>
+					<CHS>水箱 </CHS>
 				</vizt1_watertank>
 				<vizt1_kikoto>
-					<CHS>左舷</CHS>
+					<CHS>左舷 </CHS>
 				</vizt1_kikoto>
 				<gazm_gastank>
-					<CHS>实验气机</CHS>
+					<CHS>实验瓦斯机</CHS>
 				</gazm_gastank>
 				<lair_generator>
-					<CHS>发电机</CHS>
+					<CHS>电气发电机 </CHS>
 				</lair_generator>
 				<lift>
-					<CHS>电梯</CHS>
+					<CHS>升降机</CHS>
 				</lift>
 				<cave_aramfejleszto>
-					<CHS>轰击炮</CHS>
+					<CHS>放电器</CHS>
 				</cave_aramfejleszto>
 				<cave_villamveto>
-					<CHS>轰击炮控制设备</CHS>
+					<CHS>放电控制装置</CHS>
 				</cave_villamveto>
 			</Poi>
 			<trapbuildingcontroller>
@@ -3399,12 +3399,12 @@
 			</trapbuildingcontroller>
 		</GameObject>
 		<ExitConfirm>
-			<CHS>确定退出？</CHS>
+			<CHS>你确定要退出吗？</CHS>
 		</ExitConfirm>
 	</Battle>
 	<Common>
 		<previewbuild>
-			<CHS>已到预览版的结尾。感谢游戏。\n现在，你可以退出或者继续探索这一区域。</CHS>
+			<CHS>你已经到达预览地图末端了。感谢你玩这款游戏。\n你可以选择现在退出或是留在这个区域之中</CHS>
 		</previewbuild>
 		<popups>
 			<Damage>
@@ -3416,7 +3416,7 @@
 		</popups>
 		<labels>
 			<XP>
-				<CHS>XP</CHS>
+				<CHS>经验</CHS>
 			</XP>
 			<Level>
 				<CHS>等级</CHS>
@@ -3428,16 +3428,16 @@
 				<CHS>保护</CHS>
 			</Protection>
 			<Spellpower>
-				<CHS>法术威力</CHS>
+				<CHS>法强</CHS>
 			</Spellpower>
 			<Damage>
-				<CHS>DPH</CHS>
+				<CHS>每击伤害</CHS>
 			</Damage>
 			<DPS>
-				<CHS>DPS</CHS>
+				<CHS>每秒伤害</CHS>
 			</DPS>
 			<HP>
-				<CHS>HP</CHS>
+				<CHS>生命</CHS>
 			</HP>
 			<Mana>
 				<CHS>魔法</CHS>
@@ -3457,60 +3457,60 @@
 				<CHS>右击</CHS>
 			</RightClick>
 			<MiddleClick>
-				<CHS>鼠标中键</CHS>
+				<CHS>MiddleClick</CHS>
 			</MiddleClick>
 			<Click4>
-				<CHS>鼠标按键4</CHS>
+				<CHS>MouseButton4</CHS>
 			</Click4>
 			<Click5>
-				<CHS>鼠标按键5</CHS>
+				<CHS>MouseButton5</CHS>
 			</Click5>
 			<ShiftLeftClick>
-				<CHS>Shift + 左击</CHS>
+				<CHS>Shift+左键单击</CHS>
 			</ShiftLeftClick>
 			<ShiftRightClick>
-				<CHS>Shift + 右击</CHS>
+				<CHS>Shift+右键单击</CHS>
 			</ShiftRightClick>
 			<CtrlLeftClick>
-				<CHS>Ctrl + 左击</CHS>
+				<CHS>Ctrl+左键</CHS>
 			</CtrlLeftClick>
 			<CtrlRightClick>
-				<CHS>Ctrl + 右击</CHS>
+				<CHS>Ctrl+右键</CHS>
 			</CtrlRightClick>
 			<AltLeftClick>
-				<CHS>Alt + 左击</CHS>
+				<CHS>Alt+左键单击</CHS>
 			</AltLeftClick>
 			<AltRightClick>
-				<CHS>Alt + 右击</CHS>
+				<CHS>Alt+右键单击</CHS>
 			</AltRightClick>
 			<DoubleClick>
 				<CHS>双击</CHS>
 			</DoubleClick>
 			<HoldShift>
-				<CHS>按住 Shift</CHS>
+				<CHS>按住Shift</CHS>
 			</HoldShift>
 			<HoldCtrl>
-				<CHS>按住 Ctrl</CHS>
+				<CHS>按住Ctrl</CHS>
 			</HoldCtrl>
 			<HoldAlt>
-				<CHS>按住 Alt</CHS>
+				<CHS>按住Alt</CHS>
 			</HoldAlt>
 		</Mouse>
 		<ControllerKeys>
 			<ThumbLeft>
-				<CHS>RS 左</CHS>
+				<CHS>右摇杆左</CHS>
 			</ThumbLeft>
 			<ThumbRight>
-				<CHS>RS 右</CHS>
+				<CHS>右摇杆右</CHS>
 			</ThumbRight>
 			<ThumbDown>
-				<CHS>RS 下</CHS>
+				<CHS>右摇杆下</CHS>
 			</ThumbDown>
 			<ThumbUp>
-				<CHS>RS 上</CHS>
+				<CHS>右摇杆上</CHS>
 			</ThumbUp>
 			<LeftTrigger>
-				<CHS>LT</CHS>
+				<CHS>LT键</CHS>
 			</LeftTrigger>
 			<RightTrigger>
 				<CHS>RT</CHS>
@@ -3528,7 +3528,7 @@
 				<CHS>十字键下</CHS>
 			</DPADDown>
 			<LeftShoulder>
-				<CHS>LB</CHS>
+				<CHS>LB键</CHS>
 			</LeftShoulder>
 			<RightShoulder>
 				<CHS>RB</CHS>
@@ -3540,7 +3540,7 @@
 				<CHS>返回</CHS>
 			</Back>
 			<RightThumbPress>
-				<CHS>按右摇杆</CHS>
+				<CHS>按下右摇杆</CHS>
 			</RightThumbPress>
 			<Y>
 				<CHS>Y</CHS>
@@ -3556,16 +3556,16 @@
 			</B>
 		</ControllerKeys>
 		<unassigned>
-			<CHS>未分配</CHS>
+			<CHS>未定义</CHS>
 		</unassigned>
 		<SkipLine>
-			<CHS>跳行</CHS>
+			<CHS>跳过台词</CHS>
 		</SkipLine>
 		<SkipToNextChoice>
-			<CHS>结束对话/跳到下个选择</CHS>
+			<CHS>结束对话/跳到下一选项</CHS>
 		</SkipToNextChoice>
 		<SkipCutScene>
-			<CHS>跳过剧情画面</CHS>
+			<CHS>跳过过场动画</CHS>
 		</SkipCutScene>
 		<Continue>
 			<CHS>继续</CHS>
@@ -3583,7 +3583,7 @@
 			<CHS>删除</CHS>
 		</Delete>
 		<Disabled>
-			<CHS>此版本中这项功能不可用。</CHS>
+			<CHS>这个功能在此版本中不可使用</CHS>
 		</Disabled>
 		<go_online>
 			<CHS>上线！</CHS>
@@ -3592,19 +3592,19 @@
 			<CHS>离线！</CHS>
 		</go_offline>
 		<report_bug>
-			<CHS>汇报BUG</CHS>
+			<CHS>报告问题</CHS>
 		</report_bug>
 		<Exit>
 			<CHS>退出</CHS>
 		</Exit>
 		<Agree>
-			<CHS>同意</CHS>
+			<CHS>我同意</CHS>
 		</Agree>
 		<Version>
 			<CHS>版本: %s</CHS>
 		</Version>
 		<Checksum>
-			<CHS>校验: %X</CHS>
+			<CHS>校验和: %X</CHS>
 		</Checksum>
 		<Website>
 			<CHS>网站</CHS>
@@ -3613,14 +3613,14 @@
 			<CHS>论坛</CHS>
 		</Press_assets>
 		<DevBlog>
-			<CHS>研发者博客</CHS>
+			<CHS>开发博客</CHS>
 		</DevBlog>
 		<Load>
-			<CHS>加载</CHS>
+			<CHS>读取</CHS>
 		</Load>
 		<Measure>
 			<Cost>
-				<CHS>消耗: %d金币</CHS>
+				<CHS>花费：%d金币</CHS>
 			</Cost>
 			<Meters>
 				<CHS>%i米</CHS>
@@ -3629,32 +3629,32 @@
 				<CHS>%i秒</CHS>
 			</Seconds>
 			<Minutes>
-				<CHS>%i分</CHS>
+				<CHS>%i 分钟</CHS>
 			</Minutes>
 			<Hours>
-				<CHS>%i小时</CHS>
+				<CHS>%i 小时</CHS>
 			</Hours>
 			<Days>
-				<CHS>%i天</CHS>
+				<CHS>%i 天</CHS>
 			</Days>
 			<Turns>
 				<CHS>%i回合</CHS>
 			</Turns>
 			<secondshort>
-				<CHS>秒</CHS>
+				<CHS>s</CHS>
 			</secondshort>
 			<minuteshort>
-				<CHS>min</CHS>
+				<CHS>分</CHS>
 			</minuteshort>
 			<metershort>
-				<CHS>分</CHS>
+				<CHS>m</CHS>
 			</metershort>
 		</Measure>
 		<No>
-			<CHS>否</CHS>
+			<CHS>不</CHS>
 		</No>
 		<OK>
-			<CHS>确定</CHS>
+			<CHS>确认</CHS>
 		</OK>
 		<Done>
 			<CHS>完成</CHS>
@@ -3663,35 +3663,35 @@
 			<CHS>无</CHS>
 		</None>
 		<All>
-			<CHS>所有</CHS>
+			<CHS>全部</CHS>
 		</All>
 		<Info>
 			<CHS>信息</CHS>
 		</Info>
 		<pick>
-			<CHS>选取</CHS>
+			<CHS>选择</CHS>
 		</pick>
 		<Options>
 			<Gameplay>
-				<CHS>游戏设置</CHS>
+				<CHS>游戏性</CHS>
 			</Gameplay>
 			<Video>
 				<CHS>视频</CHS>
 			</Video>
 			<Audio>
-				<CHS>音频</CHS>
+				<CHS>声音</CHS>
 			</Audio>
 			<Controls>
 				<CHS>控制</CHS>
 			</Controls>
 			<Advancedvideo>
-				<CHS>高级设置</CHS>
+				<CHS>高级设定</CHS>
 			</Advancedvideo>
 			<Advancedvideoback>
-				<CHS>基础设置</CHS>
+				<CHS>基本设定</CHS>
 			</Advancedvideoback>
 			<AffectguiResolution>
-				<CHS>采用图形界面分辨率(SLI/交火)</CHS>
+				<CHS>影响GUI分辨率（SLI/CrossFire）</CHS>
 			</AffectguiResolution>
 			<WindowedStyle>
 				<CHS>窗口模式</CHS>
@@ -3700,54 +3700,54 @@
 				<CHS>抗锯齿</CHS>
 			</Antialiasing>
 			<Autosave>
-				<CHS>自动保存</CHS>
+				<CHS>自动存档</CHS>
 			</Autosave>
 			<Battle>
-				<CHS>战斗声音:</CHS>
+				<CHS>战斗声音：</CHS>
 			</Battle>
 			<Brightness>
-				<CHS>亮度:</CHS>
+				<CHS>亮度：</CHS>
 			</Brightness>
 			<Characterdetail>
-				<CHS>人物详情:</CHS>
+				<CHS>角色详情：</CHS>
 			</Characterdetail>
 			<Contrast>
-				<CHS>对比:</CHS>
+				<CHS>对比度：</CHS>
 			</Contrast>
 
 			<force32bit>
 				<CHS>强制32位</CHS>
 			</force32bit>
 			<Subtitles>
-				<CHS>动画字幕</CHS>
+				<CHS>视频字幕</CHS>
 			</Subtitles>
 			<Banters>
-				<CHS>游戏字幕</CHS>
+				<CHS>游戏内字幕</CHS>
 			</Banters>
 			<ControllerEnabled>
-				<CHS>开启控制器</CHS>
+				<CHS>启用手柄</CHS>
 			</ControllerEnabled>
 			<hidenews>
-				<CHS>隐藏消息</CHS>
+				<CHS>隐藏新闻</CHS>
 			</hidenews>
 			<Controls>
 				<console>
-					<CHS>终端</CHS>
+					<CHS>控制台</CHS>
 				</console>
 				<escape>
 					<CHS>逃离</CHS>
 				</escape>
 				<zoom_in>
-					<CHS>镜头放大</CHS>
+					<CHS>缩进视角</CHS>
 				</zoom_in>
 				<zoom_out>
-					<CHS>镜头缩小</CHS>
+					<CHS>拉远视角</CHS>
 				</zoom_out>
 				<character_sheet>
-					<CHS>人物窗口</CHS>
+					<CHS>角色窗口</CHS>
 				</character_sheet>
 				<character_sheet_details>
-					<CHS>人物详情</CHS>
+					<CHS>角色详情</CHS>
 				</character_sheet_details>
 				<inventory>
 					<CHS>物品栏</CHS>
@@ -3756,19 +3756,19 @@
 					<CHS>地图</CHS>
 				</map>
 				<switch_skillset>
-					<CHS>切换技能设置</CHS>
+					<CHS>切换技巧足组</CHS>
 				</switch_skillset>
 				<skills>
-					<CHS>技能窗口</CHS>
+					<CHS>技巧窗口</CHS>
 				</skills>
 				<pet_window>
-					<CHS>同伴窗口</CHS>
+					<CHS>伙伴窗口</CHS>
 				</pet_window>
 				<journal_window>
 					<CHS>日记窗口</CHS>
 				</journal_window>
 				<active_quest_window>
-					<CHS>活跃任务</CHS>
+					<CHS>当前目标</CHS>
 				</active_quest_window>
 				<heroic_deeds_window>
 					<CHS>成就窗口</CHS>
@@ -3780,94 +3780,94 @@
 					<CHS>使用特殊物品</CHS>
 				</use_item>
 				<town_portal>
-					<CHS>回城术</CHS>
+					<CHS>城镇传送门</CHS>
 				</town_portal>
 				<powerup0>
-					<CHS>1. 强化</CHS>
+					<CHS>1.强化</CHS>
 				</powerup0>
 				<powerup1>
-					<CHS>2. 强化</CHS>
+					<CHS>2.强化</CHS>
 				</powerup1>
 				<powerup2>
-					<CHS>3. 强化</CHS>
+					<CHS>3.强化</CHS>
 				</powerup2>
 				<powerup_clear>
 					<CHS>清除强化</CHS>
 				</powerup_clear>
 				<powerup_set>
-					<CHS>加载强化预设</CHS>
+					<CHS>读取预调配置</CHS>
 				</powerup_set>
 				<highlight_items>
-					<CHS>高亮显示物品</CHS>
+					<CHS>高亮物品</CHS>
 				</highlight_items>
 				<autoloot_items>
-					<CHS>拾取附近物品</CHS>
+					<CHS>捡起附近的物品</CHS>
 				</autoloot_items>
 				<store_action_1>
-					<CHS>1. 预设动作</CHS>
+					<CHS>1.预置动作</CHS>
 				</store_action_1>
 				<store_action_2>
-					<CHS>2. 预设动作</CHS>
+					<CHS>2.预置动作</CHS>
 				</store_action_2>
 				<store_action_3>
-					<CHS>3. 预设动作</CHS>
+					<CHS>3.预置动作</CHS>
 				</store_action_3>
 				<store_action_4>
-					<CHS>4. 预设动作</CHS>
+					<CHS>4.预置动作</CHS>
 				</store_action_4>
 				<store_action_5>
-					<CHS>5. 预设动作</CHS>
+					<CHS>5.预置动作</CHS>
 				</store_action_5>
 				<store_action_6>
-					<CHS>6. 预设动作</CHS>
+					<CHS>6.预置动作</CHS>
 				</store_action_6>
 				<store_action_7>
-					<CHS>7. 预设动作</CHS>
+					<CHS>7.预置动作</CHS>
 				</store_action_7>
 				<store_action_8>
-					<CHS>8. 预设动作</CHS>
+					<CHS>8.预置动作</CHS>
 				</store_action_8>
 				<use_potion_1>
-					<CHS>喝治疗药水</CHS>
+					<CHS>饮用生命药剂</CHS>
 				</use_potion_1>
 				<use_potion_2>
-					<CHS>喝魔法药水</CHS>
+					<CHS>饮用法力药剂</CHS>
 				</use_potion_2>
 				<use_buff_1>
-					<CHS>使用第一技巧</CHS>
+					<CHS>使用第一个技巧</CHS>
 				</use_buff_1>
 				<use_buff_2>
-					<CHS>使用第二技巧</CHS>
+					<CHS>使用第二个技巧</CHS>
 				</use_buff_2>
 				<use_buff_3>
-					<CHS>使用第三招</CHS>
+					<CHS>使用第三个技巧</CHS>
 				</use_buff_3>
 				<use_buff_4>
-					<CHS>使用第四招</CHS>
+					<CHS>使用第四个技巧</CHS>
 				</use_buff_4>
 				<use_buff_5>
-					<CHS>使用第5特技</CHS>
+					<CHS>使用第五个技巧</CHS>
 				</use_buff_5>
 				<use_buff_6>
-					<CHS>使用第6特技</CHS>
+					<CHS>使用第六个技巧</CHS>
 				</use_buff_6>
 				<open_chat>
 					<CHS>聊天窗口</CHS>
 				</open_chat>
 				<weapon_switch>
-					<CHS>切换武器设置</CHS>
+					<CHS>切换武器组</CHS>
 				</weapon_switch>
 				<katarina_switch_form>
-					<CHS>切换卡特琳娜形态</CHS>
+					<CHS>切换卡特琳娜的形态</CHS>
 				</katarina_switch_form>
 				<pause>
 					<CHS>暂停游戏</CHS>
 				</pause>
 				<forward>
-					<CHS>前移</CHS>
+					<CHS>前进</CHS>
 				</forward>
 				<backward>
-					<CHS>后移</CHS>
+					<CHS>后退</CHS>
 				</backward>
 				<strafe_left>
 					<CHS>左移</CHS>
@@ -3879,22 +3879,19 @@
 					<CHS>附魔/使用实验室</CHS>
 				</enchant>
 				<disenchant>
-					<CHS>消魔</CHS>
+					<CHS>去除附魔</CHS>
 				</disenchant>
-				<go_shopping>
-					<CHS>买东西</CHS>
-				</go_shopping>
 				<hold_position>
-					<CHS>原地站定</CHS>
+					<CHS>站定</CHS>
 				</hold_position>
 				<scoreboard>
-					<CHS>记分板</CHS>
+					<CHS>得分板</CHS>
 				</scoreboard>
 				<secondary_interaction>
-					<CHS>创建菜单</CHS>
+					<CHS>建造菜单</CHS>
 				</secondary_interaction>
 				<perk_window>
-					<CHS>能力窗口</CHS>
+					<CHS>专精窗口</CHS>
 				</perk_window>
 				<intelligent_zoom>
 					<CHS>智能缩放</CHS>
@@ -3904,258 +3901,258 @@
 				<CHS>默认</CHS>
 			</Defaultcontrols>
 			<DefaultcontrolsMsg>
-				<CHS>确定要恢复默认设置吗？</CHS>
+				<CHS>你确定要恢复到默认的控制方式吗？</CHS>
 			</DefaultcontrolsMsg>
 			<ControlsExceptionMsg>
-				<CHS>此键已经绑定不同的功能: %s\n确定要使用这个键吗？</CHS>
+				<CHS>这个按键已经绑定于不同的功能：%s\n你确定要使用这个按键？</CHS>
 			</ControlsExceptionMsg>
 			<Custom>
 				<CHS>自定义</CHS>
 			</Custom>
 			<Difficulty>
-				<CHS>难度:</CHS>
+				<CHS>难度：</CHS>
 			</Difficulty>
 			<DynamicFarShadows>
-				<CHS>动态远阴影</CHS>
+				<CHS>动态远景阴影</CHS>
 			</DynamicFarShadows>
 			<Environmentdetail>
-				<CHS>环境细节:</CHS>
+				<CHS>环境细节：</CHS>
 			</Environmentdetail>
 			<Gamma>
-				<CHS>灰度系数:</CHS>
+				<CHS>伽马值：</CHS>
 			</Gamma>
 			<Saturation>
-				<CHS>饱和度:</CHS>
+				<CHS>饱和度：</CHS>
 			</Saturation>
 			<HDR>
 				<CHS>HDR渲染</CHS>
 			</HDR>
 			<HighShaders>
-				<CHS>高着色</CHS>
+				<CHS>高渲染</CHS>
 			</HighShaders>
 			<High>
 				<CHS>高</CHS>
 			</High>
 			<HighAudio>
-				<CHS>高音质</CHS>
+				<CHS>高质量音频</CHS>
 			</HighAudio>
 			<Low>
 				<CHS>低</CHS>
 			</Low>
 			<Medium>
-				<CHS>中</CHS>
+				<CHS>中等</CHS>
 			</Medium>
 			<Motionblur>
-				<CHS>动感模糊</CHS>
+				<CHS>动态模糊</CHS>
 			</Motionblur>
 			<Msg>
 				<hdrreverted>
-					<CHS>HDR恢复</CHS>
+					<CHS>HDR反转</CHS>
 				</hdrreverted>
 				<resolutionreverted>
-					<CHS>分辨率恢复</CHS>
+					<CHS>决心恢复</CHS>
 				</resolutionreverted>
 				<shadowdetailreverted>
-					<CHS>阴影详细恢复</CHS>
+					<CHS>阴影细节恢复</CHS>
 				</shadowdetailreverted>
 			</Msg>
 			<ParallaxMapping>
-				<CHS>视差映射</CHS>
+				<CHS>视差贴图</CHS>
 			</ParallaxMapping>
 			<Physicsdetail>
-				<CHS>物理细节:</CHS>
+				<CHS>物理细节：</CHS>
 			</Physicsdetail>
 			<Popup>
 				<AmbientOcclusion>
-					<CHS>打开/关闭扩散阴影。低端GPU可能会导致系统运行缓慢。</CHS>
+					<CHS>开启/关闭漫射阴影。也许会造成游戏运行速度减慢。</CHS>
 				</AmbientOcclusion>
 				<Antialias>
-					<CHS>提高边缘图形质量，减少锯齿。如果你的显卡为中端（或低端），选择这一选项可能会造成延迟。</CHS>
+					<CHS>增加多边形棱角数，让它们看去来没有太多锯齿。如果你的是中端显卡（或更低），选择这个选项可能会造成延迟</CHS>
 				</Antialias>
 				<Character>
-					<CHS>改善模型细节以及人物外观。将其调低可以提高低配显卡的性能。</CHS>
+					<CHS>强化模型细节和改善角色的视觉效果。关闭此选项将提升配备低端显卡的电脑的游戏速度。</CHS>
 				</Character>
 				<Environment>
-					<CHS>降低这一设置可以彻底提高性能。</CHS>
+					<CHS>调低这项设置可以大幅提升性能</CHS>
 				</Environment>
 				<HDRRender>
-					<CHS>提高所有天气效果需要大量的显卡内存。如果你在游戏中有延迟，最好关闭这一选项。</CHS>
+					<CHS>强化所有天气效果，需要一定量的显卡内存。如果你在游戏中出现延迟，推荐你关闭此选项。</CHS>
 				</HDRRender>
 				<HighShaders>
-					<CHS>提高纹理细节，阴影和亮度。此设置会占用CPU，影响游戏运行速度。</CHS>
+					<CHS>强化材质细节，阴影和闪电效果。此设定会在中端CPU的电脑上显著降低游戏运行速度。</CHS>
 				</HighShaders>
 				<DetailedEnvironment>
-					<CHS>如果你的处理器性能较低，建议你关闭这一选项：游戏仅使用低效细节环境。</CHS>
+					<CHS>如果你的处理器性能不佳，建议将这个选项关闭：游戏会只是用低细节度环境</CHS>
 				</DetailedEnvironment>
 				<HighEffects>
-					<CHS>开启地图的详细效果和大气粒子系统。关闭这一选项可以大大提升游戏性能。</CHS>
+					<CHS>开启地图上的详细效果和空气粒子系统。关闭该选项能显著提升游戏速度。</CHS>
 				</HighEffects>
 				<Reflections>
-					<CHS>开启水面倒影。不建议中端CPU或显卡使用此项。</CHS>
+					<CHS>开启水面反射。在中端CPU和显卡的电脑上不建议使用。</CHS>
 				</Reflections>
 				<OrganicsPhysics>
-					<CHS>移动单位与地图上植物的交互效果。不建议低端显卡使用此项。</CHS>
+					<CHS>移动的单位将会在地图上显示。不建议显卡较差的系统开启</CHS>
 				</OrganicsPhysics>
 				<OrganicsAnimation>
-					<CHS>开启植物和树木的动画，不建议中端处理器使用此项。</CHS>
+					<CHS>开启植物动画。在低端处理器上不建议使用。</CHS>
 				</OrganicsAnimation>
 				<NoSoftCoronas>
-					<CHS>在某些地图开启柔和，雾气效果。推荐所有配置使用此项。</CHS>
+					<CHS>开启植物动画。在低端处理器上不建议使用。</CHS>
 				</NoSoftCoronas>
 				<ForceWaitGPU>
-					<CHS>如果你遇到不明原因的卡顿。推荐在开始一个新框架之前，强制CPU等待GPU结束。</CHS>
+					<CHS>强制CPU与GPU同步开始渲染新的帧。建议在遇到不明卡顿的时候开启。</CHS>
 				</ForceWaitGPU>
 				<MultiGPU>
-					<CHS>此选项将最优化双显卡/交火配置的渲染步骤。但也会降低有机物理模拟的视觉效果。</CHS>
+					<CHS>开启选项将会为SLI/CrossFire系统的渲染进程优化。但也会降低生物物理运动模拟的视觉效果。</CHS>
 				</MultiGPU>
 				<HighAudio>
-					<CHS>未经核对的话少用系统内存。</CHS>
+					<CHS>关闭选项可以减少系统内存占用率。</CHS>
 				</HighAudio>
 				<MotionBlur>
-					<CHS>镜头迅速移动时，产生高速幻觉。可能会降低低端GPU的游戏运行速度。</CHS>
+					<CHS>当镜头快速移动时制造出高速幻影。也许会导致游戏在低端GPU系统上运行缓慢。</CHS>
 				</MotionBlur>
 				<Parallax>
-					<CHS>提高地形细节。开启这一选项会降低中低端显卡游戏运行速度。</CHS>
+					<CHS>强化地形细节。开启此选项会降低游戏在使用中低端显卡的电脑上的运行速度。</CHS>
 				</Parallax>
 				<Physics>
-					<CHS>这一选项设置一定区域内，受物理模拟影像的最大单位数量。最低要求: 3核处理器。</CHS>
+					<CHS>此选项可设置在一定区域受物理模拟影响单位的最大数量。至少需要：3核处理器。</CHS>
 				</Physics>
 				<ShadowDetail>
-					<CHS>提高游戏阴影质量。不建议中低配的PC使用。最高设置仅推荐高端显卡使用此项。</CHS>
+					<CHS>强化游戏的阴影效果。不推荐在配备中低端表现的电脑上开启。最高级设定仅推荐高级显卡使用。</CHS>
 				</ShadowDetail>
 				<SmoothAnimations>
-					<CHS>提高并改进动画质量。不建议低端显卡使用此项。</CHS>
+					<CHS>强化并改善动画。不推荐在配备非常低端显卡的电脑上使用。</CHS>
 				</SmoothAnimations>
 				<SmoothShadows>
-					<CHS>改进游戏阴影质量。不建议低端显卡的PC使用此项。</CHS>
+					<CHS>提升游戏中的阴影效果。如果电脑显卡性能不佳，不建议打开这个选项</CHS>
 				</SmoothShadows>
 				<Texture>
-					<CHS>提高纹理质量。细节设置越高，游戏画面越美，但需要较大的显卡内存。</CHS>
+					<CHS>强化材质。你设置的细节越高，游戏就越漂亮，但也会显著提升所需的显卡内存。</CHS>
 				</Texture>
 				<Tooltip>
-					<CHS>设置在战斗中显示的细节单位信息延迟，与战役地图的省市一样。</CHS>
+					<CHS>战斗时部队详细信息显示以及省会在战役地图行信息显示的缓冲时间设置。</CHS>
 				</Tooltip>
 				<VSync>
-					<CHS>这一选项使显卡和显示器的刷新率同步，阻止相位差的出现。不过，这样会导致总体性能降低，而且可能会出现游戏延迟。</CHS>
+					<CHS>此选项会同步显卡与显示器的刷新率，避免掉帧。但是，会减慢整体的表现和让游戏镜头滞后。</CHS>
 				</VSync>
 				<FPSLimit>
-					<CHS>从列表中选择你想使用的帧率。</CHS>
+					<CHS>从列表中选择你的理想帧率。</CHS>
 				</FPSLimit>
 				<affectguiresolution>
-					<CHS>如果使用此选项，用户界面在游戏的其他部分将以同样分辨率显示。建议关闭该选项，除非你计算机的是双显卡/交火配置。</CHS>
+					<CHS>开启后，用户界面的分辨率将会和游戏分辨率相同。建议保持该选项关闭，除非主机使用SLI/CrossFire多显卡方案。</CHS>
 				</affectguiresolution>
 				<WindowedStyle>
-					<CHS>游戏窗口化。</CHS>
+					<CHS>窗口化游戏界面</CHS>
 				</WindowedStyle>
 				<resolution>
-					<CHS>如果你的显卡较为高端，建议设置高分辨率。</CHS>
+					<CHS>如果你的显卡性能够好，建议你设置高分辨率</CHS>
 				</resolution>
 				<autoequip>
-					<CHS>如果有空槽可用，将自动装备新物品。</CHS>
+					<CHS>如果有空余装备槽则自动装备新物品。</CHS>
 				</autoequip>
 				<showenemyhpcsik>
-					<CHS>不断显示当前敌人的生命力 (仅适用于他们受伤的时候)。</CHS>
+					<CHS>持续显示敌人的当前生命值(仅在受伤情况下)。</CHS>
 				</showenemyhpcsik>
 				<showalliedhpcsik>
-					<CHS>不断显示当前盟军的生命力。</CHS>
+					<CHS>持续显示盟友的当前生命值。</CHS>
 				</showalliedhpcsik>
 				<characterspecific>
-					<CHS>角色特定选项只会影响这个角色。有些选项不是所有难度关卡都可用。选项也不会在主菜单中显示。</CHS>
+					<CHS>角色独立选项只会影响当前特定角色。在某些难度里一些选项将不可用。无法在主菜单进行设置。</CHS>
 				</characterspecific>
 				<autopowerup>
-					<CHS>当拥有足够的怒气进行整套连招时自动应用强化连招设置。</CHS>
+					<CHS>在连击中获得足够的怒气时将自动激活 Powerup Combo Set</CHS>
 				</autopowerup>
 				<autopotiondrink>
-					<CHS>范海辛在生命值过低时会自动饮用治愈药剂。（只在普通和正常难度中可用！）</CHS>
+					<CHS>当生命值过低时范海辛会自动使用治疗药剂（只有在休闲和一般难度中此功能才会生效）</CHS>
 				</autopotiondrink>
 				<autoequipchange>
-					<CHS>自动装备新物品，如果该物品比当前装备的物品好。</CHS>
+					<CHS>新的装备如果比现有装备性能更好将会自动替换现有装备。</CHS>
 				</autoequipchange>
 				<verboseitemcomparision>
-					<CHS>在物品比较界面列出额外附魔和属性的更改，连同当前的更改。</CHS>
+					<CHS>在物品对照界面连同当前变更，列出额外的附魔和精华变更。</CHS>
 				</verboseitemcomparision>
 				<noblood>
-					<CHS>关闭血液效果。</CHS>
+					<CHS>关闭血效果</CHS>
 				</noblood>
 				<allmessages>
-					<CHS>显示聊天窗口来查看每条新消息。（关闭时只显示多人玩家的消息，但消息仍旧会被记录。）</CHS>
+					<CHS>新消息出现后总是显示聊天窗口。（关闭后只有多人游戏时消息自动显示，其余消息将被保存在聊天纪录里。）</CHS>
 				</allmessages>
 				<respawn>
-					<CHS>如果你离开游戏，敌人将会刷新。</CHS>
+					<CHS>你离开游戏再回来时敌人会重生。</CHS>
 				</respawn>
 				<floatingbattletext>
-					<CHS>战斗信息将在屏幕上显示。</CHS>
+					<CHS>战斗信息文本会在屏幕上出现。</CHS>
 				</floatingbattletext>
 				<floatingtextsize>
-					<CHS>缩放屏幕的浮动信息。</CHS>
+					<CHS>缩放屏幕上悬浮的文字</CHS>
 				</floatingtextsize>
 				<generaltextsize>
-					<CHS>缩放屏幕上所有文本。（需要重启）</CHS>
+					<CHS>调整文本大小，以将全文本显示在屏幕上（需要重启）</CHS>
 				</generaltextsize>
 				<hidehelmet>
-					<CHS>隐藏角色帽子。</CHS>
+					<CHS>隐藏你角色的帽子</CHS>
 				</hidehelmet>
 				<hidepets>
-					<CHS>隐藏你的人物宠物。</CHS>
+					<CHS>隐藏角色的宠物。</CHS>
 				</hidepets>
 				<showtutorial>
-					<CHS>管理游戏中的基础教程窗口。</CHS>
+					<CHS>管理基础教程窗口是否会在游戏中出现。</CHS>
 				</showtutorial>
 				<showadvancedtutorial>
-					<CHS>管理游戏中的高级教程窗口。</CHS>
+					<CHS>管理高级教程窗口是否会在游戏中出现。</CHS>
 				</showadvancedtutorial>
 				<showenemyhitpoints>
-					<CHS>显示敌人的生命值。</CHS>
+					<CHS>显示敌人生命点</CHS>
 				</showenemyhitpoints>
 				<lootvisibilitytoggle>
-					<CHS>检验后，Alt键可在地面物品名称的显示和隐藏之间切换。另外，Alt必须按下才能显示名称。</CHS>
+					<CHS>如果选中，按Alt键可为切换显示和隐藏地面上的物品名称。否则，必须按住Alt键才能显示名称</CHS>
 				</lootvisibilitytoggle>				
 				<autolootpotions>
-					<CHS>人物移动到药水旁边时，可自动拾取。</CHS>
+					<CHS>你的角色会在经过药水时自动拾起它们</CHS>
 				</autolootpotions>
 				<lootalwaysvisible>
-					<CHS>地面物体名称通常设为显示，而按下Alt也无法隐藏。</CHS>
+					<CHS>按住Alt显示地上物品的名字</CHS>
 					<xbox>
-						<CHS>散落地面的道具名称一直可见。</CHS>
+						<CHS>总是显示掉落物品的名称</CHS>
 					</xbox>
 				</lootalwaysvisible>
 				<showtutorial_basic>
-					<CHS>关闭基础教程，你可以在选项/游戏设置中重新打开。</CHS>
+					<CHS>勾选以关闭基本指南。你可以在选项/游戏性中再次开启它。</CHS>
 				</showtutorial_basic>
 				<showtutorial_advanced>
-					<CHS>关闭高级教程，你可以在选项/游戏设置中重新打开。</CHS>
+					<CHS>勾选以关闭高级指南。你可以在选项/游戏性中再次开启它。</CHS>
 				</showtutorial_advanced>
 				<language>
-					<CHS>选择游戏名称。</CHS>
+					<CHS>选择游戏语言。</CHS>
 				</language>
 				<mapopacity>
-					<CHS>移动滑块，设置地图透明度。</CHS>
+					<CHS>移动滑块调节地图透明度</CHS>
 				</mapopacity>
 
 				<force32bit>
-					<CHS>Forces the game launcher to run _x86 executable regardless of the current operating system type.</CHS>
+					<CHS>强制游戏以_x86之行为ujian启动，无视当前操作系统类型。</CHS>
 				</force32bit>
 				<Subtitles>
-					<CHS>显示动画字幕</CHS>
+					<CHS>动画时显示字幕</CHS>
 				</Subtitles>
 				<Banters>
-					<CHS>显示游戏对话字幕</CHS>
+					<CHS>游戏内对话显示字幕</CHS>
 				</Banters>
 				<ControllerEnabled>
-					<CHS>开启控制器支持。在游戏开始前就必须连接控制器以使其生效！</CHS>
+					<CHS>启用手柄辅助。若想使用，请在游戏开始时确保手柄已连接！</CHS>
 				</ControllerEnabled>
 				<hidenews>
-					<CHS>你可以用此选项隐藏消息</CHS>
+					<CHS>此选项可以关闭新闻面板</CHS>
 				</hidenews>
 			</Popup>
 			<Qualitylevel>
 				<CHS>质量等级：</CHS>
 			</Qualitylevel>
 			<Resolution>
-				<CHS>分辨率：</CHS>
+				<CHS>决心：</CHS>
 			</Resolution>
 			<FpsLimit>
-				<CHS>FPS限制：</CHS>
+				<CHS>FPS上限：</CHS>
 				<FPS20>
 					<CHS>20 FPS</CHS>
 				</FPS20>
@@ -4197,52 +4194,52 @@
 				<CHS>浮动战斗信息</CHS>
 			</floatingbattletext>
 			<floatingtextsize>
-				<CHS>浮动字体大小</CHS>
+				<CHS>浮动文字大小</CHS>
 			</floatingtextsize>
 			<generaltextsize>
-				<CHS>总体文本大小</CHS>
+				<CHS>总体文字大小</CHS>
 			</generaltextsize>
 			<hidehelmet>
 				<CHS>隐藏帽子</CHS>
 			</hidehelmet>
 			<hidepets>
-				<CHS>隐藏宠物</CHS>
+				<CHS>隐藏宠物。</CHS>
 			</hidepets>
 			<autoequip>
 				<CHS>自动装备</CHS>
 			</autoequip>
 			<showenemyhpcsik>
-				<CHS>敌方HP槽</CHS>
+				<CHS>敌方生命条</CHS>
 			</showenemyhpcsik>
 			<showalliedhpcsik>
-				<CHS>友方HP槽</CHS>
+				<CHS>同伴HP条</CHS>
 			</showalliedhpcsik>
 			<characterspecific>
-				<CHS>角色特定选项</CHS>
+				<CHS>角色独立选项</CHS>
 			</characterspecific>
 			<autopowerup>
 				<CHS>自动强化</CHS>
 			</autopowerup>
 			<autopotiondrink>
-				<CHS>自动喝HP药水</CHS>
+				<CHS>自动饮用生命药剂</CHS>
 			</autopotiondrink>
 			<autoequipchange>
-				<CHS>自动装备较好物品</CHS>
+				<CHS>自动装备更好的道具</CHS>
 			</autoequipchange>
 			<verboseitemcomparision>
 				<CHS>详细物品对照</CHS>
 			</verboseitemcomparision>
 			<noblood>
-				<CHS>无血腥</CHS>
+				<CHS>无流血效果</CHS>
 			</noblood>
 			<allmessages>
-				<CHS>显示所有消息</CHS>
+				<CHS>显示所有信息</CHS>
 			</allmessages>
 			<respawn>
-				<CHS>刷新敌人</CHS>
+				<CHS>重生敌人</CHS>
 			</respawn>
 			<lootalwaysvisible>
-				<CHS>高亮显示物品</CHS>
+				<CHS>高亮物品</CHS>
 			</lootalwaysvisible>
 			<autolootpotions>
 				<CHS>自动拾取药水</CHS>
@@ -4254,22 +4251,22 @@
 				<CHS>语言</CHS>
 			</language>
 			<mapopacity>
-				<CHS>地图透明度</CHS>
+				<CHS>地图不透明度</CHS>
 			</mapopacity>
 			<SmoothAnimations>
-				<CHS>平滑动画</CHS>
+				<CHS>动画流畅</CHS>
 			</SmoothAnimations>
 			<Reflections>
-				<CHS>反射</CHS>
+				<CHS>反应</CHS>
 			</Reflections>
 			<OrganicsPhysics>
 				<CHS>有机物理</CHS>
 			</OrganicsPhysics>
 			<SmoothShadows>
-				<CHS>平滑阴影</CHS>
+				<CHS>阴影流畅</CHS>
 			</SmoothShadows>
 			<Master>
-				<CHS>主音量：</CHS>
+				<CHS>精通：</CHS>
 			</Master>
 			<Music>
 				<CHS>音乐：</CHS>
@@ -4278,43 +4275,43 @@
 				<CHS>音效：</CHS>
 			</Sound>
 			<Speech>
-				<CHS>人声：</CHS>
+				<CHS>对话：</CHS>
 			</Speech>
 			<Terrainsounds>
-				<CHS>地形音：</CHS>
+				<CHS>地形音效：</CHS>
 			</Terrainsounds>
 			<Texturedetail>
-				<CHS>材质细节：</CHS>
+				<CHS>纹理细节：</CHS>
 			</Texturedetail>
 			<Tooltipdelay>
-				<CHS>提示延时：</CHS>
+				<CHS>提示信息延时：</CHS>
 			</Tooltipdelay>
 			<VSync>
 				<CHS>垂直同步</CHS>
 			</VSync>
 			<MultiGPU>
-				<CHS>双显卡/交火最优化</CHS>
+				<CHS>SLI\CrossFire 优化</CHS>
 			</MultiGPU>
 			<NoSoftCoronas>
-				<CHS>不使用柔化光晕</CHS>
+				<CHS>无软光环</CHS>
 			</NoSoftCoronas>
 			<ForceWaitGPU>
 				<CHS>同步CPU到GPU</CHS>
 			</ForceWaitGPU>
 			<OrganicsAnimation>
-				<CHS>有机物动画</CHS>
+				<CHS>有机动物</CHS>
 			</OrganicsAnimation>
 			<HighEffects>
-				<CHS>高效果</CHS>
+				<CHS>高特效</CHS>
 			</HighEffects>
 			<DetailedEnvironment>
-				<CHS>环境细节</CHS>
+				<CHS>详细环境</CHS>
 			</DetailedEnvironment>
 			<Veryhigh>
-				<CHS>非常高</CHS>
+				<CHS>很高</CHS>
 			</Veryhigh>
 			<Verylow>
-				<CHS>非常低</CHS>
+				<CHS>很低</CHS>
 			</Verylow>
 			<dx10>
 				<CHS>Direct3D 10</CHS>
@@ -4326,16 +4323,16 @@
 				<CHS>Direct3D 9</CHS>
 			</dx9>
 			<gl>
-				<CHS>打开GL（32bit）</CHS>
+				<CHS>Open GL (32bit)</CHS>
 			</gl>
 			<willtakeffectonnextstartmsg>
-				<CHS>此改动将在游戏下一次运行时起效。确定？</CHS>
+				<CHS>这次更改会在下次启动游戏生效。你确定吗？</CHS>
 			</willtakeffectonnextstartmsg>
 			<controlscannotchangetoselected>
-				<CHS>此键有特定用途，无法被另行绑定。请重新选择按键。</CHS>
+				<CHS>已选择的按键是留作特殊用途的，不能绑定其他动作。请选择其他按键。</CHS>
 			</controlscannotchangetoselected>
 			<ControllerVibrationStrength>
-				<CHS>震动强度</CHS>
+				<CHS>震动力度</CHS>
 			</ControllerVibrationStrength>
 		</Options>
 		<Restart>
@@ -4345,7 +4342,7 @@
 			<CHS>继续</CHS>
 		</Resume>
 		<Save>
-			<CHS>存档</CHS>
+			<CHS>保存</CHS>
 		</Save>
 		<Start>
 			<CHS>开始</CHS>
@@ -4358,19 +4355,19 @@
 				<CHS>人类</CHS>
 			</egyeb>
 			<mythical>
-				<CHS>神秘</CHS>
+				<CHS>神族</CHS>
 			</mythical>
 			<nincs>
-				<CHS>无</CHS>
+				<CHS>什么都没有。</CHS>
 			</nincs>
 			<undead>
-				<CHS>不死生物</CHS>
+				<CHS>亡灵</CHS>
 			</undead>
 			<mechanic>
 				<CHS>机械</CHS>
 			</mechanic>
 			<abomination>
-				<CHS>憎恶</CHS>
+				<CHS>恶物</CHS>
 			</abomination>
 			<spider>
 				<CHS>蜘蛛</CHS>
@@ -4410,7 +4407,7 @@
 			<CHS>选项</CHS>
 		</options>
 		<please_press_a_key>
-			<CHS>请按任意键！</CHS>
+			<CHS>按任意键！</CHS>
 		</please_press_a_key>
 		<remove>
 			<CHS>移除</CHS>
@@ -4419,11 +4416,11 @@
 			<CHS>选择</CHS>
 		</select>
 		<LevelLimitReached>
-			<CHS>已达等级上限</CHS>
+			<CHS>到达等级限制</CHS>
 		</LevelLimitReached>
 		<msg>
 			<noaudioinitialized>
-				<CHS>音频系统初始化失败。请运行dxredist检查。如果问题依旧存在，请更新声卡驱动。</CHS>
+				<CHS>声音系统启动失败。请在游戏文件库启动dxredist 。如果问题仍存在，请尝试更新声卡驱动器。</CHS>
 			</noaudioinitialized>
 		</msg>
 		<network>
@@ -4431,82 +4428,82 @@
 				<CHS>你接受交易吗？</CHS>
 			</invite_trade>
 			<Checksum_error>
-				<CHS>版本不匹配！\n你的版本： %X\n服务器版本： %X</CHS>
+				<CHS>版本不匹配\n你的总和校验码：%X\n服务器总和校验码：%X</CHS>
 			</Checksum_error>
 			<connection_refused>
-				<CHS>连接被拒绝。服务器不可用或已满。</CHS>
+				<CHS>连接被拒。服务器不可用或已满。</CHS>
 			</connection_refused>
 			<requirements_failed>
-				<CHS>未满足进入此服务器的要求。</CHS>
+				<CHS>未满足进入该服务器的要求。</CHS>
 				<level_low>
-					<CHS>你等级太低。</CHS>
+					<CHS>你的等级太低。</CHS>
 				</level_low>
 				<level_high>
-					<CHS>你等级太高。</CHS>
+					<CHS>你的等级太高。</CHS>
 				</level_high>
 				<hardcore_no>
-					<CHS>核心人物无法进入。</CHS>
+					<CHS>硬核模式角色不能进入此地。</CHS>
 				</hardcore_no>
 				<hardcore_yes>
-					<CHS>只有核心人物可以进入。</CHS>
+					<CHS>只有硬核模式角色才可以进入此地。</CHS>
 				</hardcore_yes>
 				<normal_campaign>
-					<CHS>老兵人物无法进入普通游戏。</CHS>
+					<CHS>老兵级别角色不能加入普通级别游戏。</CHS>
 				</normal_campaign>
 				<veteran_campaign>
-					<CHS>只有老兵人物可以进入。</CHS>
+					<CHS>只有老兵级别角色才能加入此游戏。</CHS>
 				</veteran_campaign>
 				<campaign>
-					<CHS>你不能使用这种模式。</CHS>
+					<CHS>该游戏模式对你不可用。</CHS>
 				</campaign>
 			</requirements_failed>
 			<disconnected_question>
-				<CHS>继续进行离线模式吗？</CHS>
+				<CHS>你想脱机状态下继续游戏吗？</CHS>
 			</disconnected_question>
 			<disconnected>
 				<CHS>你将返回到主菜单。</CHS>
 			</disconnected>
 			<pinging>
-				<CHS>检查网络</CHS>
+				<CHS>延迟</CHS>
 			</pinging>
 			<connecting>
-				<CHS>连接中</CHS>
+				<CHS>正在连接</CHS>
 				<server>
-					<CHS>连接服务器中</CHS>
+					<CHS>正连接至解析服务器</CHS>
 				</server>
 				<resolving>
-					<CHS>连接中</CHS>
+					<CHS>解析中</CHS>
 				</resolving>
 				<direct>
-					<CHS>连接成功</CHS>
+					<CHS>解析成功</CHS>
 				</direct>
 			</connecting>
 			<authenticating>
-				<CHS>认证中</CHS>
+				<CHS>验证中</CHS>
 			</authenticating>
 			<connected>
 				<CHS>已连接</CHS>
 			</connected>
 			<map_change_init>
-				<CHS>%s开始了地图改动</CHS>
+				<CHS>%s 开始了地图变更</CHS>
 			</map_change_init>
 			<map_change_left>
-				<CHS>还剩%d秒</CHS>
+				<CHS>剩余%d秒</CHS>
 			</map_change_left>
 			<map_change_cancel>
-				<CHS>%s已取消传输！</CHS>
+				<CHS>%s 取消了传送！</CHS>
 			</map_change_cancel>
 			<advance_level_too_low>
-				<CHS>你无法加入该游戏，因为你的角色还没到此情节点。</CHS>
+				<CHS>无法加入游戏，角色在故事模式中未达到该进度</CHS>
 			</advance_level_too_low>
 			<invite_teleport>
-				<CHS>你已被邀请传送去打 BOSS。</CHS>
+				<CHS>您已被邀请传送到一个boss战中。</CHS>
 			</invite_teleport>
 			<accept_teleport>
 				<CHS>接受</CHS>
 			</accept_teleport>
 			<invite_bossfight>
-				<CHS>你想加入去打 BOSS 吗？</CHS>
+				<CHS>你想加入boss战吗？</CHS>
 			</invite_bossfight>
 			<accept_bossfight>
 				<CHS>参与</CHS>
@@ -4515,14 +4512,14 @@
 				<CHS>等待其他玩家</CHS>
 			</bossfight_wait>
 			<teleporting>
-				<CHS>你将在短时间内被传送。</CHS>
+				<CHS>你会被瞬间传送的</CHS>
 			</teleporting>
 			<disconnect>
 				<kick>
-					<CHS>你被主机踢出了。</CHS>
+					<CHS>您已被踢出服务器主机。</CHS>
 				</kick>
 				<user_command>
-					<CHS>服务器已关闭游戏。</CHS>
+					<CHS>服务器关闭了游戏。</CHS>
 				</user_command>
 				<timeout>
 					<CHS>服务器超时。</CHS>
@@ -4531,7 +4528,7 @@
 					<CHS>从服务器断开连接。</CHS>
 				</other>
 				<could_not_resolve>
-					<CHS>无法解决服务器</CHS>
+					<CHS>无法解析服务器</CHS>
 					<target_not_connected>
 						<CHS>目标未连接到服务器</CHS>
 					</target_not_connected>
@@ -4539,10 +4536,10 @@
 						<CHS>目标无响应</CHS>
 					</target_not_responsive>
 					<target_connection_lost>
-						<CHS>目标的连接丢失</CHS>
+						<CHS>目标连接丢失</CHS>
 					</target_connection_lost>
 					<fail>
-						<CHS>选择路径失败</CHS>
+						<CHS>路径选择失败</CHS>
 					</fail>
 					<init_fail>
 						<CHS>无法初始化路径选择</CHS>
@@ -4552,52 +4549,52 @@
 					</no_server>
 				</could_not_resolve>
 				<banned>
-					<CHS>你被禁止访问该服务器。</CHS>
+					<CHS>你已在该服务器中被禁止。</CHS>
 				</banned>
 				<vac_banned>
-					<CHS>这一账户被禁止。</CHS>
+					<CHS>此帐户被VAC禁止。</CHS>
 				</vac_banned>
 				<invalid_character>
-					<CHS>此角色无效！无法使用无效的角色进行PVP游戏！</CHS>
+					<CHS>该字符是无效的！你不能在PVP游戏中使用无效字符！</CHS>
 				</invalid_character>
 			</disconnect>
 			<death_respawn>
-				<CHS>你将在 %d 秒内重生</CHS>
+				<CHS>你将在%d秒内重生</CHS>
 			</death_respawn>
 			<user>
 				<entered>
-					<CHS>%s加入了游戏。</CHS>
+					<CHS>%s已加入游戏。</CHS>
 				</entered>
 				<connected>
-					<CHS>有人正尝试加入游戏！</CHS>
+					<CHS>有人正在尝试加入游戏！</CHS>
 				</connected>
 				<disconnected>
-					<CHS>%s离开了游戏。</CHS>
+					<CHS>%s已离开游戏。</CHS>
 				</disconnected>
 			</user>
 			<restart_steam>
-				<CHS>游戏未从 Steam 启动。你无法完成成就，DLC 将被禁用，你也无法看到网上游戏服务器。你要从 Steam 重新启动游戏吗？</CHS>
+				<CHS>游戏未从Steam启动，因此将不能解锁成就。DLC与网络游戏服务器也将变为不可用。你想通过Steam重启游戏吗？</CHS>
 			</restart_steam>
 			<restart_steam_failed>
-				<CHS>无法从 Steam 启动。请确保 Steam 已正确安装。</CHS>
+				<CHS>未能通过Steam启动。请确保已正确安装Steam。</CHS>
 			</restart_steam_failed>
 			<character_limit>
-				<CHS>达到角色极限</CHS>
+				<CHS>已达到角色数量最大值</CHS>
 			</character_limit>
 		</network>
 		<closedbeta>
 			<CHS>封闭测试</CHS>
 		</closedbeta>
 		<demo>
-			<CHS>完成试玩版</CHS>
+			<CHS>完整试玩版</CHS>
 			<text>
-				<CHS>限制区（试玩版）</CHS>
+				<CHS>禁区（试玩版）</CHS>
 			</text>
 		</demo>
 		<class>
 			<katarina>
 				<name>
-					<CHS>卡塔琳娜</CHS>
+					<CHS>卡特琳娜</CHS>
 				</name>
 			</katarina>
 			<helsing>
@@ -4605,23 +4602,23 @@
 					<CHS>猎人</CHS>
 				</name>
 				<Desc>
-					<CHS>经典的怪物猎人手持战刃和火器以及一些神秘的力量。</CHS>
+					<CHS>经典的怪物猎人装备有刀剑，枪支，还有一些神秘力量。</CHS>
 				</Desc>
 			</helsing>
 			<magus>
 				<name>
-					<CHS>咒术师 </CHS>
+					<CHS>奇术师</CHS>
 				</name>
 				<Desc>
-					<CHS>一个神秘的专家挥舞着强大的攻击法术和操纵技巧。</CHS>
+					<CHS>一名神秘专家挥舞着强大的攻击性法术和操纵技巧。</CHS>
 				</Desc>
 			</magus>
 			<engineer>
 				<name>
-					<CHS>奥术机械</CHS>
+					<CHS>神秘技工</CHS>
 				</name>
 				<Desc>
-					<CHS>新一代猎人用科学的力量对抗邪恶。配备一个多功能混合隐匿性物质驱逐炮和各种小设备。</CHS>
+					<CHS>新一代与邪恶科学力量斗争的猎人。装备着一个多用途混合型神秘物质驱逐炮和各种小工具。</CHS>
 				</Desc>
 			</engineer>
 		</class>
@@ -4630,60 +4627,60 @@
 		</multiplayer>
 		<Gamepad>
 			<Connect>
-				<CHS>当前无控制器，请连接！</CHS>
+				<CHS>未检测到手柄。请插入手柄！</CHS>
 			</Connect>
 			<Choose>
-				<CHS>已连接多个控制器，请选择一个并按任意按钮！</CHS>
+				<CHS>当前已连接多个手柄，请选择你要用的手柄，并按下那个手柄上的任意键！</CHS>
 			</Choose>
 			<Restart>
-				<CHS>你连接了新控制器，需要重启游戏，变更才能生效！</CHS>
+				<CHS>你刚刚插入了一个新手柄。若要使用它，请重启游戏！</CHS>
 			</Restart>
 		</Gamepad>
 		<xboxone>
 			<user>
 				<welcome>
-					<CHS>欢迎%s。</CHS>
+					<CHS>欢迎你，%s。</CHS>
 				</welcome>
 				<changed>
-					<CHS>再见，%s。你的进度将被保存。</CHS>
+					<CHS>下次再见，%s，你的进度将会被储存。</CHS>
 				</changed>
 				<mustsignin>
-					<CHS>你必须登录！</CHS>
+					<CHS>请登录！</CHS>
 				</mustsignin>
 				<ChangeUser>
 					<CHS>变更用户</CHS>
 				</ChangeUser>
 				<NotSignedInPlay>
-					<CHS>游戏需要用户登录。你可以继续，但是你的进程将不会被保存！</CHS>
+					<CHS>只有注册用户才能游玩，你可以继续，但你的游戏进度将不会被保存</CHS>
 				</NotSignedInPlay>
 				<SignInMainMenu>
-					<CHS>此选项需要用户登录。</CHS>
+					<CHS>只有注册用才能使用这个选项</CHS>
 				</SignInMainMenu>
 				<changednosave>
-					<CHS>你正在进行未登录用户游戏，游戏进程将会丢失……</CHS>
+					<CHS>你一直都是以非注册用户的身份来游玩，游戏进度将会被丢失...</CHS>
 				</changednosave>
 				<mute>
 					<CHS>静音</CHS>
 				</mute>
 				<unmute>
-					<CHS>静音关闭</CHS>
+					<CHS>取消静音</CHS>
 				</unmute>
 			</user>
 			<StreamingInstall>
 				<Progress>
-					<CHS>正在安装游戏内容，请等待……</CHS>
+					<CHS>正在安装游戏内容，请稍候……</CHS>
 				</Progress>
 				<Paused>
-					<CHS>The installation of this content is paused...</CHS>
+					<CHS>内容安装已暂停……</CHS>
 				</Paused>
 				<Waiting>
-					<CHS>The installation of this content is waiting to be started...</CHS>
+					<CHS>内容安装正等待开始……</CHS>
 				</Waiting>
 				<Error>
-					<CHS>An error occured during the installation of game contents!</CHS>
+					<CHS>安装游戏内容时发生错误！</CHS>
 				</Error>
 				<BackToMenu>
-					<CHS>返回主选单</CHS>
+					<CHS>回到主菜单</CHS>
 				</BackToMenu>
 			</StreamingInstall>
 			<Multiplayer>
@@ -4691,45 +4688,45 @@
 					<CHS>邀请好友</CHS>
 				</Invite>
 				<ShowGamerCard>
-					<CHS>显示玩家卡片</CHS>
+					<CHS>显示游戏名片</CHS>
 				</ShowGamerCard>
 				<InviteAccepted>
-					<CHS>你接受了多人游戏请求，现在你将返回主选单。将保存你的游戏进度。</CHS>
+					<CHS>你已接受了多人游戏邀请，即将将你移至主菜单。你的游戏进度将被储存。</CHS>
 				</InviteAccepted>
 				<InternetLost>
-					<CHS>失去网络连接……</CHS>
+					<CHS>已丢失网络连接。</CHS>
 				</InternetLost>
 				<FindMatch>
-					<CHS>寻找匹配</CHS>
+					<CHS>寻找游戏</CHS>
 				</FindMatch>
 				<MatchmakeProgress>
-					<CHS>正在寻找匹配……</CHS>
+					<CHS>匹配进行中……</CHS>
 				</MatchmakeProgress>
 				<MatchNotFound>
-					<CHS>未找到匹配</CHS>
+					<CHS>未找到匹配的游戏。</CHS>
 				</MatchNotFound>
 				<JoinFriend>
-					<CHS>加入好友的游戏</CHS>
+					<CHS>加入好友战局</CHS>
 				</JoinFriend>
 				<AlreadyJoined>
-					<CHS>你已经加入此游戏！</CHS>
+					<CHS>你已经加入了这个战局！</CHS>
 				</AlreadyJoined>
 				<NoFriendGame>
-					<CHS>你没有好友正在进行此游戏！</CHS>
+					<CHS>你没有朋友在玩这个游戏！</CHS>
 				</NoFriendGame>
 				<CantStartMatchmake>
-					<CHS>无法开始匹配，请稍后再尝试……</CHS>
+					<CHS>无法发起匹配，请重试..</CHS>
 				</CantStartMatchmake>
 				<OffensiveName>
-					<CHS>你的英雄可能对他人不友好，无法进行在线游戏！</CHS>
+					<CHS>你的名字太不和谐了，你不能玩在线模式！</CHS>
 				</OffensiveName>
 				<OffensiveNameCreate>
-					<CHS>你的英雄具有冒犯性，你将会被禁止进行在线游戏！\n你一定要创建此角色吗？</CHS>
+					<CHS>你的名字太不和谐了，玩在线模式的话你有可能会被封号！\n你确定要创建这个角色吗？</CHS>
 				</OffensiveNameCreate>
 			</Multiplayer>
 			<Artifacts>
 				<AlchemyCapacityShort>
-					<CHS>EC:%d</CHS>
+					<CHS>EC：%d</CHS>
 				</AlchemyCapacityShort>
 			</Artifacts>
 			<GUI>
@@ -4743,15 +4740,15 @@
 						<CHS>类别</CHS>
 					</SelectCategory>
 					<Compare>
-						<CHS>对比</CHS>
+						<CHS>比较</CHS>
 					</Compare>
 				</Inventory>
 				<HeroicDeeds>
 					<GloryReqInfo>
-						<CHS>你必须达到%d等级！</CHS>
+						<CHS>你必须先达到 %d 级！</CHS>
 					</GloryReqInfo>
 					<ScenarioXPPercentCompact>
-						<CHS>荣誉：%d%%</CHS>
+						<CHS>荣耀：%d%%</CHS>
 					</ScenarioXPPercentCompact>
 				</HeroicDeeds>
 				<PerkWindow>
@@ -4768,7 +4765,7 @@
 	<menu>
 		<Introduction>
 			<Title>
-				<CHS>PRODUCT LICENSE</CHS>
+				<CHS>产品执照</CHS>
 			</Title>
 			<Desc>
 				<CHS>PLEASE READ THIS PRODUCT LICENSE (THE “LICENSE”) CAREFULLY. BY USING THE PROGRAM AND CLICKING ON THE “I AGREE" BUTTON, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS LICENSE AND THAT YOU AGREE TO BE BOUND BY ITS TERMS.\n\n1. COPYRIGHT\nThe copyright of The Incredible Adventures of Van Helsing Closed Beta Build hereinafter referred to as “Product” (meaning this copy of the program and any complementary electronic files and printed materials) and all the elements of the Product are the property of Neocoregames Ltd. hereinafter referred to as “NEOCORE” and/or its suppliers and are protected by copyright law. \n\n2. GRANT OF LICENSE\nNEOCORE hereby grants you (as an individual or a legal entity), the end user, the limited, non-transferable right to use the Product on two computers at most, for your own personal use and enjoyment or for creating and publishing previews in the media, subject to the terms and conditions of this License. This License is proof of your entitlement to exercise the rights granted herein and you must conserve it. NEOCORE may terminate this License immediately if you fail to comply with any of the terms thereof. Furthermore NEOCORE reserves the right of immediate termination of this License in NEOCORE’s sole discretion anytime. \n\n3. RESTRICTIONS\nNEOCORE reserves all rights which have not been expressly granted in this License. Therefore, the Product must be given the same treatment as any other material subject to copyright (for example, a book or a musical recording) with the exception that, as the Product is a computer program, the Product may be transferred to a single hard disk and the original conserved solely for filing purposes or as a backup copy. It is not permitted to copy the written materials which accompany the Product. \nYou may not rent out, lend, sell or transfer the Product nor any element incorporated into it, including images which appear on screen, sounds or accompanying documents, to any third party by any means whatsoever, nor offer it for sale or grant subordinated Licenses, and nor may you permit any other person to use the Product. Moreover, you may not place the Product in any computer system which permits multiple users to access it. You may not transfer your rights (temporarily or permanently) by virtue of this License. \nYou may not copy, modify, adapt, distribute, transmit, decompile, disassemble or try to decipher the source code of all or any part of the Product or any element incorporated into it, nor permit or encourage any third party to do so. \nYou may not offer the Product as payment for playing in a computer system or network which may be accessed by means of rental, nor electronically distribute the Product or part of the Product or any element incorporated into it, including any image shown on screen, sound or accompanying document. \n\nWithout limiting the general nature of the above restrictions you may publish self-captured screenshots and/or videos for previewing purposes and share information about the Product with public audience. \n\n4. NO WARRANTY\nYou expressly acknowledge and agree to use the Product on your own exclusive account and risk. NEOCORE does not guarantee that the Product meets the requirements of the computer system nor that the Product is entirely error- or defect-free nor that the functioning of the Product will be uninterrupted. \nNo dealership, distributor, agent or employee of NEOCORE is authorised to make any modification or addition whatsoever to this warranty. \nNEOCORE does not recognise any other warranties, express, implicit or, insofar as law permits, legal, including any warranty of satisfactory quality, suitability for a specific use and non-infraction of intellectual property rights, in relation to the Product. \n\n NOTHING IN THE CONTENT OF THIS LICENSE AFFECTS YOUR LEGAL RIGHTS AS A PREVIEWER PROTECTED BY AN APPLICABLE LAW. \n\n5. LIMITATION OF LIABILITY\nIn no case shall NEOCORE be liable for any kind of damage (this term includes, though is not restricted to, derived, special, indirect, direct or incidental damage, loss of earnings, interruptions in mercantile activity or other pecuniary loss) deriving from the use of the Product, even when NEOCORE has been notified of the possibility of this damage. \n\n6. GENERAL\nThis License contains the complete agreement between NEOCORE and yourself in relation to the object thereof and replaces all previous negotiations, understandings and agreements, written or oral, between NEOCORE and yourself in relation to the object thereof. This License shall be governed and interpreted in accordance with Swiss law and you specifically agree to submit to the non-exclusive jurisdiction of Swiss law courts. If any term or condition of this License is declared invalid or null and void, all remaining terms and conditions thereof shall remain in full force and effect as if the invalid terms or conditions had been removed from this License. No failure to exercise or enforce, or delay in exercising or enforcing NEOCORE’s rights, remedies and powers by virtue of the present License shall constitute a waiver of said rights, powers or remedies.</CHS>
@@ -4776,10 +4773,10 @@
 		</Introduction>
 		<Changelog>
 			<title>
-				<CHS>更改日志</CHS>
+				<CHS>更新日志</CHS>
 			</title>
 			<unsafe>
-				<CHS>该角色是用更早的游戏版本创建的，游戏时或许会不稳定！任何该角色的错误报告将被忽略。\n强烈推荐重建新角色。</CHS>
+				<CHS>该角色创建于游戏的早期版本，有可能不稳定！使用该角色时任何错误报告都将被忽略。\n强烈建议重建一个新人物进行游戏。</CHS>
 			</unsafe>
 		</Changelog>
 		<GC_Menu>
@@ -4796,7 +4793,7 @@
 					<CHS>休闲</CHS>
 				</Name>
 				<Popup>
-					<CHS>刚来博格维亚的新人你好！你知道ARPG是怎么回事，但更想在A（动作）与RPG（扮演）之间找到平衡吗？那从这里开始吧！\n\n敌人生命值-40%，伤害-30%。\n\n每天最大命运点数：10</CHS>
+					<CHS>博格维娅的新手赏金猎人！你也许知道怎么玩动作RPG游戏，但你是不是更希望在动作和RPG，战斗和剧情之间找到一个平衡？那这个模式就是为你准备的。\n\n敌人 -40%生命值 -30%伤害\n\n收益：\n -10% 金币\n每天最多能获得的命运点数：10</CHS>
 				</Popup>
 			</Casual>
 			<Normal>
@@ -4804,7 +4801,7 @@
 					<CHS>普通</CHS>
 				</Name>
 				<Popup>
-					<CHS>建议第一次准备进入范海辛的危险世界的ARPG粉丝选用。\n\n敌人生命值 +0%，伤害 +0%\n\n收益:\n +10% 金币\n每天最大命运点数：20</CHS>
+					<CHS>建议对动作RPG狂热，并且已经准备好迎接一个危机四伏的范海辛世界的一周目玩家游玩。\n\n敌人 +0%生命值 +0%伤害\n\n收益：\n +0% 金币\n每天最多能获得的命运点数：20</CHS>
 				</Popup>
 			</Normal>
 			<Hard>
@@ -4812,23 +4809,23 @@
 					<CHS>困难</CHS>
 				</Name>
 				<Popup>
-					<CHS>推荐精通这种类型，并渴望新挑战的ARPG老玩家。进入风险自担！\n\n敌人生命值 +60%，伤害 +30%\n\n收益:\n +40% 找到的金币\n +15% 经验\n每天最大命运点数：30</CHS>
+					<CHS>这个难度推荐给那些已经对这类型的游戏相当熟练并且寻求挑战的资深ARPG玩家。\n\n敌人 +60%生命值 +30%伤害\n\n收益：\n +30% 金币\n +15% Xp\n每天最多能获得的命运点数：30</CHS>
 				</Popup>
 			</Hard>
 			<Heroic>
 				<Name>
-					<CHS>英雄</CHS>
+					<CHS>英勇</CHS>
 				</Name>
 				<Popup>
-					<CHS>推荐那些觉得自己见识过一切的骨灰级ARPG玩家选用：我们已准备好向你们展现博格维亚甚至能够你们这样的人提供新挑战！\n\n敌人生命值 +150%，伤害 +70%\n\n收益:\n +80% 找到的金币\n +80% 经验\n每天最大命运点数：40</CHS>
+					<CHS>这段话是为那些自以为洞悉一切的硬核级ARPG骨灰粉准备的：这个难度的博格维娅能教你们做人！\n\n敌人 +150%生命值 +70%伤害\n\n收益：\n +70% 金币\n +80% Xp\n每天最多能获得的命运点数：40</CHS>
 				</Popup>
 			</Heroic>
 			<Hardcore>
 				<Name>
-					<CHS>核心</CHS>
+					<CHS>硬核角色</CHS>
 				</Name>
 				<Popup>
-					<CHS>你会获得高于所选难度相对应品级的战利品，但人物死后无法复活。</CHS>
+					<CHS>你会得到比基本难度更多的战利品，但一旦死在了游戏中国，那么你的角色将会永远地死去</CHS>
 				</Popup>
 			</Hardcore>
 		</Difficulty>
@@ -4844,7 +4841,7 @@
 			</join>
 			<grid>
 				<name>
-					<CHS>名称</CHS>
+					<CHS>名字</CHS>
 				</name>
 				<gamemode>
 					<CHS>游戏模式</CHS>
@@ -4853,7 +4850,7 @@
 					<CHS>难度</CHS>
 				</difficulty>
 				<players>
-					<CHS>玩家</CHS>
+					<CHS>玩家数</CHS>
 				</players>
 				<level>
 					<CHS>等级</CHS>
@@ -4862,10 +4859,10 @@
 					<CHS>地图</CHS>
 				</map>
 				<safety>
-					<CHS>安全？</CHS>
+					<CHS>游戏模式</CHS>
 				</safety>
 				<ping>
-					<CHS>Ping</CHS>
+					<CHS>难度</CHS>
 				</ping>
 				<region>
 					<CHS>地区</CHS>
@@ -4875,26 +4872,26 @@
 				</password>
 			</grid>
 			<friends>
-				<CHS>好友</CHS>
+				<CHS>玩家</CHS>
 			</friends>
 			<gamelist>
-				<CHS>游戏列表</CHS>
+				<CHS>安全么？</CHS>
 			</gamelist>
 			<filter>
 				<gamemode>
-					<CHS>游戏模式：</CHS>
+					<CHS>延迟</CHS>
 				</gamemode>
 				<difficulty>
 					<CHS>难度</CHS>
 				</difficulty>
 				<fullrooms>
-					<CHS>显示所有</CHS>
+					<CHS>显示全部</CHS>
 				</fullrooms>
 				<Name>
-					<CHS>名称：</CHS>
+					<CHS>名字：</CHS>
 				</Name>
 				<pinglimit>
-					<CHS>Ping限制：</CHS>
+					<CHS>游戏列表</CHS>
 				</pinglimit>
 				<region>
 					<CHS>地区：</CHS>
@@ -4913,24 +4910,24 @@
 				</region>
 			</filter>
 			<msg_invalid_character>
-				<CHS>此角色被判定为无效。无法使用无效的角色进行PVP游戏模式！你想要重置能力和技能点至有效值吗？(警告，此变更不可逆转！)</CHS>
+				<CHS>这个角色是无效的。你在PVP游戏模式中不能使用无效字符。你是否想重置能力和技能点以变为有效？（警告，这种变化无法被还原！）</CHS>
 			</msg_invalid_character>
 		</GameList>
 		<loadsave>
 			<DeleteConfirm>
-				<CHS>确定删除此文件吗？</CHS>
+				<CHS>你确定要删除这个文件吗？</CHS>
 			</DeleteConfirm>
 			<NewName>
-				<CHS>新名称：</CHS>
+				<CHS>新游戏：</CHS>
 			</NewName>
 			<SaveCompleted>
-				<CHS>游戏已保存。</CHS>
+				<CHS>游戏已成功保存</CHS>
 			</SaveCompleted>
 			<SaveConfirm>
-				<CHS>文件已存在。覆盖吗？</CHS>
+				<CHS>文件已经存在。你想要覆盖它吗？</CHS>
 			</SaveConfirm>
 			<SaveFailed>
-				<CHS>保存失败！</CHS>
+				<CHS>游戏保存失败！</CHS>
 			</SaveFailed>
 			<SortByDate>
 				<CHS>按日期</CHS>
@@ -4939,10 +4936,10 @@
 				<CHS>按名称</CHS>
 			</SortByName>
 			<playtime>
-				<CHS>游戏时间: %dh %dm</CHS>
+				<CHS>游戏时间：%dh %dm</CHS>
 			</playtime>
 			<file_too_old>
-				<CHS>此文件太旧，无法被载入</CHS>
+				<CHS>这个存档太旧了，不能载入。</CHS>
 			</file_too_old>
 		</loadsave>
 		<main>
@@ -4953,7 +4950,7 @@
 				<CHS>新游戏</CHS>
 			</start>
 			<credits>
-				<CHS>开发小组</CHS>
+				<CHS>3DM轩辕汉化组</CHS>
 			</credits>
 			<dlc>
 				<CHS>DLC</CHS>
@@ -4967,13 +4964,13 @@
 					<CHS>选择</CHS>
 				</select>
 				<rename>
-					<CHS>重命名</CHS>
+					<CHS>重新命名</CHS>
 				</rename>
 				<delete>
 					<CHS>删除</CHS>
 				</delete>
 				<namelabel>
-					<CHS>名称</CHS>
+					<CHS>名字</CHS>
 				</namelabel>
 			</profile>
 			<play>
@@ -4982,43 +4979,43 @@
 			<NewGame>
 				<CHS>新游戏</CHS>
 				<Name>
-					<CHS>名称：</CHS>
+					<CHS>名字：</CHS>
 					<vkeyboard_title>
-						<CHS>为英雄取名</CHS>
+						<CHS>命名英雄</CHS>
 					</vkeyboard_title>
 				</Name>
 			</NewGame>
 			<load>
-				<CHS>载入游戏</CHS>
+				<CHS>读取游戏</CHS>
 			</load>
 			<resume>
 				<CHS>继续</CHS>
 				<story>
-					<CHS>继续剧情</CHS>
+					<CHS>继续故事</CHS>
 				</story>
 				<new_game_plus>
-					<CHS>继续N. 故事</CHS>
+					<CHS>继续无尽故事</CHS>
 				</new_game_plus>
 			</resume>
 			<new_game_plus>
-				<CHS>循环故事</CHS>
+				<CHS>无尽故事</CHS>
 				<noreturn>
-					<CHS>在开始循环剧情之后，你将不能在继续普通剧情。你准备好面对新的挑战了吗？</CHS>
+					<CHS>开始无休止的故事后，您将不再玩常规故事。你确定你已经准备好面对新的挑战了？</CHS>
 				</noreturn>
 			</new_game_plus>
 			<new_game_plus_popup>
-				<CHS>用你高等级的角色，重新开始剧情并面对极限挑战。怪物将变得越来越强，而你唯一的出路就是玩得更好。看看你能走多远吧！\n\n- 你必须完成剧情模式来解锁该游戏模式。\n- 敌人会掉落高等级物品。</CHS>
+				<CHS>重新开始故事，使用你的高级别角色面对极端的挑战。怪物会越来越强，而你变强的唯一办法就是提升自己的技术。看看你能走多远！\n\n你必须完成故事模式来解开这个游戏模式。\n-敌人会掉落高等级物品。</CHS>
 			</new_game_plus_popup>
 			<overwrite>
-				<CHS>%s已有存档。如果用该名称创建新人物，先前的存档将被覆盖。确定吗？</CHS>
+				<CHS>属于%s的存档已经存在。如果你用这个名字创建一个新角色，该存档会被自动覆盖。你确定想要这样做吗？</CHS>
 			</overwrite>
 			<delete>
-				<CHS>你确定要删除此角色吗？</CHS>
+				<CHS>你确信想要删除这个角色？</CHS>
 			</delete>
 			<character>
 				<CHS>选择角色</CHS>
 				<new>
-					<CHS>新建</CHS>
+					<CHS>新</CHS>
 				</new>
 				<delete>
 					<CHS>删除</CHS>
@@ -5030,44 +5027,44 @@
 					<CHS>当前地图：</CHS>
 				</map>
 				<difficulty>
-					<CHS>难度:</CHS>
+					<CHS>难度：</CHS>
 				</difficulty>
 				<dead>
-					<CHS>该人物已死亡。</CHS>
+					<CHS>这个角色已经死了。</CHS>
 				</dead>
 				<hardcore>
 					<label>
-						<CHS>核心人物</CHS>
+						<CHS>硬核角色</CHS>
 					</label>
 					<popup>
-						<CHS>此人物一死即结束，所以小心点！</CHS>
+						<CHS>死亡意味着这个角色的终结，所以要小心！</CHS>
 					</popup>
 				</hardcore>
 				<unique_skin>
 					<label>
-						<CHS>经验丰富的猎人</CHS>
+						<CHS>猎人老手</CHS>
 					</label>
 					<popup>
-						<CHS>只能在资深包中使用的独特皮肤</CHS>
+						<CHS>拥有老兵包才能使使用这种特殊的皮肤。</CHS>
 					</popup>
 				</unique_skin>
 				<color_intensity>
 					<label>
-						<CHS>鲜艳程度</CHS>
+						<CHS>颜色强度</CHS>
 					</label>
 				</color_intensity>
 			</character>
 			<Character_Cloud>
-				<CHS>在线角色</CHS>
+				<CHS>延迟限度：</CHS>
 			</Character_Cloud>
 			<character_cloudpopup>
-				<CHS>网上角色只保存在Steam云端，并且不能在本地操作。在线角色只能与其他在线角色玩多人游戏，以确保没有作弊。</CHS>
+				<CHS>在线角色只存储在Steam云端，不能在本地操作。在线人物只能在多人模式中与其他玩家的在线角色进行游戏，以确保没有人作弊。</CHS>
 			</character_cloudpopup>
 			<select_scenario>
 				<CHS>选择冒险</CHS>
 			</select_scenario>
 			<selected_scenario>
-				<CHS>选择冒险：</CHS>
+				<CHS>已选择的冒险</CHS>
 			</selected_scenario>
 			<join>
 				<CHS>加入</CHS>
@@ -5095,35 +5092,35 @@
 				</label>
 				<dlcrequired>
 					<magus>
-						<CHS>所需DLC ：咒术师 </CHS>
+						<CHS>需要DLC：奇术师</CHS>
 					</magus>
 					<engineer>
-						<CHS>需要DLC ：奥术机械</CHS>
+						<CHS>需要DLC：神秘技工</CHS>
 					</engineer>
 					<katarina>
-						<CHS>需要DLC ：贵族血统</CHS>
+						<CHS>需要DLC：蓝血</CHS>
 					</katarina>
 				</dlcrequired>
 			</createcharacter>
 			<customize>
-				<CHS>自定义</CHS>
+				<CHS>是否删除此角色？</CHS>
 			</customize>
 			<scenario_popup>
-				<CHS>此冒险模式会让你在每个地图上与初始等级在30级以上的怪物进行战斗并能收集更高等级的道具。\n\n- 人物等级要求：27\n- 此模式下史诗道具掉落几率比普通难度要高。</CHS>
+				<CHS>冒险模式可以让你在不同的地图中面对至少30级的怪物和收集高等级的物品。\n\n- 角色等级要求：27\n- 在此模式中史诗物品的掉率将会更高。</CHS>
 			</scenario_popup>
 		</main>
 		<dlc>
 			<donwloadablecontent>
-				<CHS>DLC</CHS>
+				<CHS>可下载内容</CHS>
 			</donwloadablecontent>
 			<info>
 				<CHS>信息</CHS>
 			</info>
 			<notpurchased>
-				<CHS>没拥有的</CHS>
+				<CHS>未拥有</CHS>
 			</notpurchased>
 			<purchased>
-				<CHS>拥有的</CHS>
+				<CHS>拥有</CHS>
 			</purchased>
 		</dlc>
 		<character>
@@ -5134,10 +5131,10 @@
 				<CHS>加入多人游戏</CHS>
 			</join>
 			<new>
-				<CHS>创建新人物</CHS>
+				<CHS>创建新角色</CHS>
 			</new>
 			<delete>
-				<CHS>删除人物</CHS>
+				<CHS>删除角色</CHS>
 			</delete>
 		</character>
 		<servercreator>
@@ -5148,20 +5145,20 @@
 				<CHS>创建</CHS>
 			</create>
 			<server_name>
-				<CHS>服务器名：</CHS>
+				<CHS>服务器名称：</CHS>
 			</server_name>
 			<visibility>
 				<label>
-					<CHS>可见性：</CHS>
+					<CHS>可见：</CHS>
 				</label>
 				<public>
 					<CHS>公共</CHS>
 				</public>
 				<private>
-					<CHS>个人</CHS>
+					<CHS>私人</CHS>
 				</private>
 				<friends_only>
-					<CHS>只限好友</CHS>
+					<CHS>仅好友</CHS>
 				</friends_only>
 			</visibility>
 			<password>
@@ -5172,27 +5169,27 @@
 
 				<min>
 					<vkeyboard_title>
-						<CHS>英雄等级下限</CHS>
+						<CHS>最低英雄等级</CHS>
 					</vkeyboard_title>
 				</min>
 				<max>
 					<vkeyboard_title>
-						<CHS>英雄等级上限</CHS>
+						<CHS>最高英雄等级</CHS>
 					</vkeyboard_title>
 				</max>
 			</levellimit>
 			<to>
-				<CHS>to</CHS>
+				<CHS>至</CHS>
 			</to>
 			<safety>
-				<CHS>安全特征</CHS>
+				<CHS>安全角色</CHS>
 			</safety>
 			<game_mode>
 				<title>
-					<CHS>游戏模式：</CHS>
+					<CHS>延迟</CHS>
 				</title>
 				<max_players>
-					<CHS>最大玩家：</CHS>
+					<CHS>最大玩家数：</CHS>
 				</max_players>
 				<map>
 					<CHS>地图：</CHS>
@@ -5201,25 +5198,25 @@
 					<CHS>时间限制：</CHS>
 				</time_limit>
 				<frag_limit>
-					<CHS>分数限制：</CHS>
+					<CHS>分数上限：</CHS>
 				</frag_limit>
 			</game_mode>
 		</servercreator>
 		<news>
 			<scenario>
 				<title>
-					<CHS>冒险模式可用！</CHS>
+					<CHS>已激活冒险模式！</CHS>
 				</title>
 				<text>
-					<CHS>此冒险模式会让你在每个地图上与初始等级在30级以上的怪物进行战斗并能收集更高等级的道具。你可以通过你秘密巢穴中的墨境门到达这些区域。</CHS>
+					<CHS>冒险模式可以让你在不同的地图中面对至少30级的怪物和收集高等级的物品。你可以在你的藏身地点通过墨境之门来到达这片区域。</CHS>
 				</text>
 			</scenario>
 			<CompletePack>
 				<title>
-					<CHS>新内容可用！</CHS>
+					<CHS>发现可用的新内容！</CHS>
 				</title>
 				<text>
-					<CHS>在新的PvP战斗模式中好好享受彼此间的战斗吧！更新的特色冒险地图中包含了30+等级的敌人和特殊史诗级道具，怪物重生并且在无尽模式中怪物会不断变强而你能做的就是不断改进自身的水平来发挥的更好！更谈不上控制器支持……</CHS>
+					<CHS>享受在盛大的PVP模式中与玩家们对抗的乐趣！这次升级不仅包含了充满30+等级敌人的冒险地图，特别的史诗物品，还有无尽的故事模式和怪物重生，这些怪物会不断的变强，想要战胜它们的唯一方法只有是让你自己变得更强！而且还会更新手柄支持哦...</CHS>
 				</text>
 			</CompletePack>
 		</news>
@@ -5228,78 +5225,78 @@
 		</wrongpassword>
 		<dlc>
 			<freedlc>
-				<CHS>免费DLC</CHS>
+				<CHS>免费可下载内容包</CHS>
 			</freedlc>
 			<treasure_hunter>
 				<name>
-					<CHS>宝藏猎人珀克</CHS>
+					<CHS>宝藏猎人专精</CHS>
 				</name>
 				<desc>
-					<CHS>这种给所有预订者的独特礼物将给与你一个特别的提升，给你的团队提供了一个+50%的魔法物品获得概率奖励。成为一个真正的宝藏猎人，并收集一些更多的战利品！</CHS>
+					<CHS>这个为所有预定用户准备的特殊礼物会给您一个特殊的增益效果，为你队伍中所有成员+50%找到魔法物品的几率。成为一个真正的宝藏猎人并收集更多的战利品 ！</CHS>
 				</desc>
 			</treasure_hunter>
 			<extra_multi_skin>
 				<name>
-					<CHS>老手多人皮肤</CHS>
+					<CHS>资深多人游戏皮肤</CHS>
 				</name>
 				<desc>
-					<CHS>你觉得像一个身经百战的猎人，你看起来像吗？那么，这个给所有预订者的特别礼物有机会将范海辛变成为一个真正的战斗老手。</CHS>
+					<CHS>你觉得自己像是一个久经沙场的猎人，并且想成为这样的人吗？这个为所有预定用户准备的特殊礼物可以让你有机会将范海辛变成真正的百战精英。</CHS>
 				</desc>
 			</extra_multi_skin>
 			<katarina>
 				<name>
-					<CHS>贵族</CHS>
+					<CHS>蓝血</CHS>
 				</name>
 				<desc>
-					<CHS>尊敬的女士们，先生们，让我们展现范海辛先生的迷人，美丽和机智的助手：卡塔琳娜小姐。让她学习一些新招式 - 一个高贵的幽灵从来不休息。</CHS>
+					<CHS>尊敬的女士们，先生们，请允许我们介绍范海辛先生那迷人美丽而又机智的主手：卡特琳娜女士。请让她学习几个新的技巧——蓝血幽灵永不安息。</CHS>
 				</desc>
 			</katarina>
 			<magus>
 				<name>
-					<CHS>咒术师 </CHS>
+					<CHS>奇术师</CHS>
 				</name>
 				<desc>
-					<CHS>范海辛：咒术师DLC现在让你玩专家级别，一定会丰富你的游戏体验。忘记钢刃和那些粗鲁的枪，然后使用纯洁的眩晕奥术技能。</CHS>
+					<CHS>范海辛：奇术师可下载内容包现在允许您体验一个一定可以让您的游戏体验更加有趣的专家等级。忘记那些刀剑和粗鲁的枪械吧，试着只使用那些神秘能力吧。</CHS>
 				</desc>
 			</magus>
 			<engineer>
 				<name>
-					<CHS>奥术机械</CHS>
+					<CHS>神秘技工</CHS>
 				</name>
 				<desc>
-					<CHS>现在奥术机械DLC能让你玩一种完全不同的怪物猎人，专家级别。奥术机械是怪异设备，致命小设备和神秘的机器的主人。</CHS>
+					<CHS>神秘机械师可下载内容报可以让你体验一个完全不同的专家级怪物猎人。神秘机械师是古怪装置，致命装备和神秘机械的大师。</CHS>
 				</desc>
 			</engineer>
 			<scenario>
 				<name>
-					<CHS>冒险</CHS>
+					<CHS>冒险模式</CHS>
 				</name>
 				<desc>
-					<CHS>此冒险模式会让你在每个地图上与初始等级在30级以上的怪物进行战斗并能收集更高等级的道具。</CHS>
+					<CHS>冒险模式可以让你在不同的地图中面对至少30级的怪物和收集高等级的物品。</CHS>
 				</desc>
 			</scenario>
 			<preorder>
 				<name>
-					<CHS>加成工具箱</CHS>
+					<CHS>奖励包</CHS>
 				</name>
 				<desc>
-					<CHS>给所有预购的小小惊喜！这一工具箱包含一个全新的光环，绝对能增加你存活的机会，还有一顶魔法帽：一个不错的时尚配件，是整体装备中非常独特的一个部分！</CHS>
+					<CHS>为所有预定用户准备的小惊喜！这个包里面有着一个一定可以提升你生存几率的光环和一顶魔法帽：它是一个非常好看的配件，也是独一无二的特殊装备！</CHS>
 				</desc>
 			</preorder>
 		</dlc>
 		<login>
 			<login>
-				<CHS>登入</CHS>
+				<CHS>登录</CHS>
 			</login>
 			<logoff>
-				<CHS>登出</CHS>
+				<CHS>下线</CHS>
 			</logoff>
 			<offline_mode>
 				<CHS>离线模式</CHS>
 			</offline_mode>
 			<logoff>
 				<popup>
-					<CHS>用另外的账户登入或进行离线游戏</CHS>
+					<CHS>用其他账号登录或者使用离线模式</CHS>
 				</popup>
 			</logoff>
 			<signup>
@@ -5309,7 +5306,7 @@
 				<CHS>创建账号</CHS>
 			</createaccount>
 			<email_address>
-				<CHS>输入邮箱地址</CHS>
+				<CHS>输入电子邮箱</CHS>
 			</email_address>
 			<password>
 				<CHS>输入密码</CHS>
@@ -5318,95 +5315,95 @@
 				<CHS>确认密码</CHS>
 			</password_confirm>
 			<autologin>
-				<CHS>自动登入</CHS>
+				<CHS>自动登录</CHS>
 				<popup>
-					<CHS>请检查是否要在每次开始时自动登入此账户。</CHS>
+					<CHS>如果你想每次开启游戏都让系统自动登录这个账号的话就在这里打钩。</CHS>
 				</popup>
 			</autologin>
 			<play_offline>
-				<CHS>离线游戏</CHS>
+				<CHS>开启离线模式</CHS>
 				<popup>
-					<CHS>你可以进行离线游戏。\n这不需要进行网络连接但是你将无法使用在线功能：云储存，冒险以及多人在线游戏。</CHS>
+					<CHS>你可以使用离线模式。\n虽然不要求持续连网，但是你也无法体验一些在线内容例如，云存档，冒险，和多人在线模式。</CHS>
 				</popup>
 			</play_offline>
 			<play_offline_e_biztos>
-				<CHS>你确定要进行离线游戏吗？你将无法进行冒险模式，访问云存储和多人在线游戏！</CHS>
+				<CHS>你确定要开启离线模式吗？你将不能玩冒险模式，读取你的云存档和进入多人在线模式！</CHS>
 			</play_offline_e_biztos>
 			<lost_password>
-				<CHS>忘了密码？</CHS>
+				<CHS>忘记密码了？</CHS>
 				<popup>
-					<CHS>如果你已拥有账户但忘记了密码，点击此链接将确认信息发送至输入的邮箱中！</CHS>
+					<CHS>如果你已有注册账号但忘记密码了，按这个链接，一封电子邮件将发送到指定邮箱</CHS>
 				</popup>
 			</lost_password>
 			<message>
 				<logging_in>
-					<CHS>登入...</CHS>
+					<CHS>登录中...</CHS>
 				</logging_in>
 				<signing_up>
-					<CHS>注册……</CHS>
+					<CHS>注册中...</CHS>
 				</signing_up>
 				<email_sent>
-					<CHS>邮件已发送！</CHS>
+					<CHS>已发送电子邮件！</CHS>
 				</email_sent>
 				<invalid_email>
-					<CHS>邮箱无效！</CHS>
+					<CHS>电子邮箱格式错误！</CHS>
 				</invalid_email>
 				<wrong_password>
-					<CHS>邮箱或密码错误！</CHS>
+					<CHS>错误的电子邮箱或者密码！</CHS>
 				</wrong_password>
 				<change_name>
 					<CHS>选择显示名称</CHS>
 				</change_name>
 				<name_changed>
-					<CHS>显示名称已经改变。如果以后需要再次修改，可以访问 www.neocoregames.com 进行修改！</CHS>
+					<CHS>显示名称已变更。如果你想再次更改它，你可以访问www.neocoregames.com！</CHS>
 				</name_changed>
 				<lost_password>
 					<CHS>忘记密码？</CHS>
 				</lost_password>
 				<not_verified>
-				  <CHS>邮件未验证！</CHS>
+					<CHS>未验证的电子邮箱！</CHS>
 				</not_verified>
 				<pass_missmatch>
-					<CHS>密码不匹配！</CHS>
+					<CHS>密码错误！</CHS>
 				</pass_missmatch>
 				<user_exists>
-					<CHS>邮箱已被使用</CHS>
+					<CHS>已使用过的电子邮箱！</CHS>
 				</user_exists>
 				<network_error>
-					<CHS>网络故障！</CHS>
+					<CHS>连线出错！</CHS>
 				</network_error>
 				<saveloading>
-					<CHS>下载人物……</CHS>
+					<CHS>下载角色中...</CHS>
 				</saveloading>
 			</message>
 		</login>
 		<networkerror>
 			<error>
 				<message>
-					<CHS>网络错误！</CHS>
+					<CHS>连线出错！</CHS>
 				</message>
 				<desc>
-					<CHS>连接服务器发生错误。\n\n请检查你的网络连接。如果现在离开游戏，任何没有保存的进程将会丢失。</CHS>
+					<CHS>连接服务器出错。\n\n请检查你的网络设置。如果你现在退出游戏，任何未保存的游戏进度将不会被保存。</CHS>
 				</desc>
 			</error>
 			<session>
 				<message>
-					<CHS>登出！</CHS>
+					<CHS>已下线！</CHS>
 				</message>
 				<desc>
-					<CHS>你的会话已无效。请重新连接尝试恢复。如果现在离开游戏，任何没有保存的进程将会丢失。</CHS>
+					<CHS>您的登录期限已失效。请检查你的网络设置。如果你现在退出游戏，任何未保存的游戏进度将不会被保存。</CHS>
 				</desc>
 			</session>
 			<reconnecting>
-				<CHS>重连中……</CHS>
+				<CHS>重新连接中...</CHS>
 			</reconnecting>
 			<reconnect>
-				<CHS>重连</CHS>
+				<CHS>重新连接</CHS>
 			</reconnect>
 		</networkerror>
 		<scenario>
 			<levellow>
-				<CHS>在你进入冒险地图前，你希望首先在你的故事模式中升级你的角色吗？完成少量的战役也能为你的角色进入冒险模式做好准备。\n\n继续？</CHS>
+				<CHS>在进入冒险地图前，你最好先把你的角色在故事模式中升到一定级数。或完成一部分战役也能更好得让你的角色应对冒险地图。\n\n继续吗？</CHS>
 			</levellow>
 		</scenario>
 	</menu>
@@ -5414,13 +5411,13 @@
 		<Common>
 			<Reward>
 				<InNextSeconds>
-					<CHS>在%s秒内</CHS>
+					<CHS>在接下来的%s秒内</CHS>
 				</InNextSeconds>
 				<GetAwayArtType>
 					<CHS>%s %s</CHS>
 				</GetAwayArtType>
 				<GetAwayArtifact>
-					<CHS>遗失的神器：</CHS>
+					<CHS>失落的神器：</CHS>
 				</GetAwayArtifact>
 				<Gold>
 					<CHS>%s 金币</CHS>
@@ -5429,38 +5426,38 @@
 					<CHS>%s 伤害</CHS>
 				</HeroDamage>
 				<HeroHP>
-					<CHS>%s HP</CHS>
+					<CHS>%s 生命值</CHS>
 				</HeroHP>
 				<HeroMana>
-					<CHS>%s 法力</CHS>
+					<CHS>%s 魔法值</CHS>
 				</HeroMana>
 				<HeroSkillpoint>
-					<CHS>%s 技能点</CHS>
+					<CHS>%s 技能点数</CHS>
 				</HeroSkillpoint>
 				<HeroAbilitypoint>
-					<CHS>%s 属性点</CHS>
+					<CHS>%s 能力点数</CHS>
 				</HeroAbilitypoint>
 				<HeroSpellpower>
-					<CHS>%s 法术威力</CHS>
+					<CHS>%s 法术强度</CHS>
 				</HeroSpellpower>
 				<SkillToHero>
-					<CHS>至主英雄：</CHS>
+					<CHS>致主要英雄：</CHS>
 				</SkillToHero>
 				<ToAll>
-					<CHS>至所有 %s</CHS>
+					<CHS>给所有人%s</CHS>
 				</ToAll>
 				<ToSome>
-					<CHS>至 %s %s</CHS>
+					<CHS>给%s %s</CHS>
 				</ToSome>
 				<XP>
-					<CHS>%s XP</CHS>
+					<CHS>%s 经验值</CHS>
 				</XP>
 			</Reward>
 		</Common>
 	</Conversation>	
 	<Tutorial>
 		<NoMoreTutorials_basic>
-			<CHS>关闭基础教程</CHS>
+			<CHS>关闭基本教程</CHS>
 		</NoMoreTutorials_basic>
 		<NoMoreTutorials_advanced>
 			<CHS>关闭高级教程</CHS>
@@ -5473,10 +5470,10 @@
 				<CHS>切换武器</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>按下这一图标或者“R”键可在近战和远程武器中切换。</CHS>
+				<CHS>你可以通过点武器图标或者按R键来切换近程或远程武器</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以按“左摇杆”切换近战和远程武器。</CHS>
+				<CHS>按下左摇杆即可在近战武器与远程武器之间切换。</CHS>
 			</descXBox>
 		</switch_weapons>
 		<companion_combat_states>
@@ -5487,10 +5484,10 @@
 				<CHS>卡特琳娜的战斗姿态</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>单击这一图标，可选择同伴使用近战还是远程攻击。</CHS>
+				<CHS>你可以通过点击这些图标告诉你的同伴是选择近战武器还是远程武器</CHS>
 			</desc>
 			<descXBox>
-				<CHS>单击这一图标，可选择同伴使用近战还是远程攻击。</CHS>
+				<CHS>你可以通过点击这些图标告诉你的同伴是选择近战武器还是远程武器</CHS>
 			</descXBox>
 		</companion_combat_states>
 		<new_item>
@@ -5501,13 +5498,13 @@
 				<CHS>新物品</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你得到了新物品！按此图标或者“I”键查看。</CHS>
+				<CHS>你把一件新物品拾得了一件新物品！点击图标或按I键进入物品栏窗口</CHS>
 			</desc>
 			<descXBox>
-				<CHS>在你的物品栏内有一件新的物品！按"返回"键进入屏幕。</CHS>
+				<CHS>你的物品栏中多了个新的物品！按“后退”按钮进入该屏幕。</CHS>
 			</descXBox>
 			<descXBoxOne>
-				<CHS>你的物品栏里有新物品！按“查看”按钮打开界面。</CHS>
+				<CHS>你的物品栏中有一件新物品！按下“浏览”键即可调出物品栏查看。</CHS>
 			</descXBoxOne>
 		</new_item>
 		<equip_item>
@@ -5518,10 +5515,10 @@
 				<CHS>装备物品</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能鼠标右键点击或直接将其拖到右槽内来快速装备一件物品。</CHS>
+				<CHS>你可以通过对这一件物品点鼠标右键来快速装备它，或者直接把它拖到正确的槽位中</CHS>
 			</desc>
 			<descXBox>
-				<CHS>通过按"A"键，你可以快速装备一个物品。</CHS>
+				<CHS>你可以通过按“A”按钮快速装备物品。</CHS>
 			</descXBox>
 		</equip_item>
 		<xbox_equipments>
@@ -5529,251 +5526,251 @@
 				<CHS>你的装备</CHS>
 			</nameXBox>
 			<descXBox>
-				<CHS>用“右摇杆”选择装备部位。\n你选的部位至少需要拥有一件可用物品。</CHS>
+				<CHS>使用右摇杆即可选择装备区域。\n你只可以选择至少有一件可用装备的区域。</CHS>
 			</descXBox>
 		</xbox_equipments>
 		<hold_position>
 			<name>
-				<CHS>坚守岗位</CHS>
+				<CHS>站住不动</CHS>
 			</name>
 			<nameXBox>
-				<CHS>坚守岗位</CHS>
+				<CHS>站住不动</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>如果你想站着不动攻击，一直按住SHIFT键。这是确保不在跑动中意外遇到敌人的好办法。</CHS>
+				<CHS>如果你想站在原地进行攻击，按住SHIFT。这是确保你不会意外冲进怪群的好方法</CHS>
 			</desc>
 			<descXBox>
-				<CHS>如果你想站着不动攻击，一直按住SHIFT键。这是确保不在跑动中意外遇到敌人的好办法。</CHS>
+				<CHS>如果你想站在原地进行攻击，按住SHIFT。这是确保你不会意外冲进怪群的好方法</CHS>
 			</descXBox>
 		</hold_position>
 		<new_points>
 			<name>
-				<CHS>新的可用点数</CHS>
+				<CHS>可用点数</CHS>
 			</name>
 			<nameXBox>
-				<CHS>新的可用点数</CHS>
+				<CHS>可用点数</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>按这个图标打开你的技能和能力窗口，你可以在这两个窗口内升级数据。</CHS>
+				<CHS>按下该图标打开技能和能力窗口升级属性。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>按"返回"键打开你的角色窗口，你可以在此升级自己的能力与技能。</CHS>
+				<CHS>按"后退"按钮以打开角色窗口，你可以在这里升级你的能力和技能。</CHS>
 			</descXBox>
 			<descXBoxOne>
-				<CHS>按“查看”按钮打开角色窗口，并在其中升级能力和技能。</CHS>
+				<CHS>按下“浏览”键即可打开你的角色界面。在这里可以对你的技能与技巧进行升级。</CHS>
 			</descXBoxOne>
 		</new_points>
 		<ability_points>
 			<name>
-				<CHS>分配你的能力点</CHS>
+				<CHS>花费技能点</CHS>
 			</name>
 			<nameXBox>
-				<CHS>分配你的能力点</CHS>
+				<CHS>花费技能点</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能点击“+”键分配你的能力点。</CHS>
+				<CHS>你可以通过点击加号键来使用能力点</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以选择能力并按“A”花费能力点。</CHS>
+				<CHS>选择相应技能并按下“A”键即可使用你的技能点数。</CHS>
 			</descXBox>
 		</ability_points>
 		<skill_points>
 			<name>
-				<CHS>分配你的技能点</CHS>
+				<CHS>花费技巧点</CHS>
 			</name>
 			<nameXBox>
-				<CHS>分配你的技能点</CHS>
+				<CHS>花费技巧点</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能点击“+”键或双击技能图标分配你的技能点。</CHS>
+				<CHS>你可以通过点击加号或者双击某个技能图标来使用技能点</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以按“A”花费技能点编辑技能。</CHS>
+				<CHS>你可以通过按下“A”键对你的技巧进行编辑并使用你的技巧点数。</CHS>
 			</descXBox>
 		</skill_points>
 		<assigning_skills>
 			<name>
-				<CHS>分配技能</CHS>
+				<CHS>配置技能</CHS>
 			</name>
 			<nameXBox>
-				<CHS>分配技能</CHS>
+				<CHS>配置技能</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能左键点击技能槽后从列表中选择分配鼠标左键或右键施放技能。</CHS>
+				<CHS>你可以通过用左键点击技能槽并在技能列表中选择技能来为你的鼠标左右键分配技能</CHS>
 			</desc>
 			<descXBox>
-				<CHS>在编辑技能时，你可以打开相关菜单（"Y"键），并通过按适当的键，将该技能指派到一个行动键上。</CHS>
+				<CHS>当你想编辑技能时，可以打开链接菜单（“Y”按钮）并将通过按下相应的按钮将该按钮制定给相应技能。</CHS>
 			</descXBox>
 		</assigning_skills>
 		<companion_levelup>
 			<name>
-				<CHS>同伴升级</CHS>
+				<CHS>伙伴升级</CHS>
 			</name>
 			<nameXBox>
-				<CHS>同伴升级</CHS>
+				<CHS>伙伴升级</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你的同伴升级了！点击这儿或按“O”调出她的角色属性表！</CHS>
+				<CHS>你的同伴升级了！点击这里或者按O键进入她的人物菜单</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你的同伴升级了！点击"返回"按键，查看她的属性表！</CHS>
+				<CHS>你的伙伴升级了！单击“后退”按钮来进入她的角色页面！</CHS>
 			</descXBox>
 			<descXBoxOne>
-				<CHS>你的同伴升级了！按“查看”按钮打开她的角色页面！</CHS>
+				<CHS>你的同伴升级了！点击“浏览”按键即可调出她的角色界面！</CHS>
 			</descXBoxOne>
 		</companion_levelup>
 		<companion_ability_points>
 			<name>
-				<CHS>同伴能力点</CHS>
+				<CHS>伙伴能力点</CHS>
 			</name>
 			<nameXBox>
-				<CHS>同伴能力点</CHS>
+				<CHS>伙伴能力点</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能单击“+”键分配卡特琳娜的能力点。</CHS>
+				<CHS>你可以通过点击加号键来使用卡特琳娜的能力点</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以选择能力并按“A”花费卡特琳娜的能力点。</CHS>
+				<CHS>选择技能并按下“A”键即可使用卡特琳娜的技能点数。</CHS>
 			</descXBox>
 		</companion_ability_points>
 		<companion_skill_points>
 			<name>
-				<CHS>同伴技能点</CHS>
+				<CHS>伙伴技能点</CHS>
 			</name>
 			<nameXBox>
-				<CHS>同伴技能点</CHS>
+				<CHS>伙伴技能点</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>点击技能表后，单击“+”键或双击技能图标分配卡特琳娜的技能点。</CHS>
+				<CHS>点击技能标签，然后点击“+”或者双击技能图标来为卡特琳娜分配技能点。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以选择技能并按“A”花费卡特琳娜的技能点。</CHS>
+				<CHS>要使用卡特琳娜的技巧点数，选择技巧并按下“A”键即可。</CHS>
 			</descXBox>
 		</companion_skill_points>
 		<companion_behaviour>
 			<name>
-				<CHS>行为</CHS>
+				<CHS>习性</CHS>
 			</name>
 			<nameXBox>
-				<CHS>行为</CHS>
+				<CHS>习性</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>此张表让你告诉同伴何时喝药水，以及如何在战斗中协助你。阅读工具提示了解更多信息。</CHS>
+				<CHS>此标签是告诉你的伙伴，何时在战斗中使用药剂辅助你。阅读工具提示或获得更多信息。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>此张表让你告诉同伴何时喝药水，以及如何在战斗中协助你。阅读工具提示了解更多信息。</CHS>
+				<CHS>此标签是告诉你的伙伴，何时在战斗中使用药剂辅助你。阅读工具提示或获得更多信息。</CHS>
 			</descXBox>
 		</companion_behaviour>
 		<rage>
 			<name>
-				<CHS>怒气槽</CHS>
+				<CHS>怒气条</CHS>
 			</name>
 			<nameXBox>
-				<CHS>怒气槽</CHS>
+				<CHS>怒气条</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>这条黄色物质是你的怒气值指示器。它可以强化你的攻击。按空格使用怒气。</CHS>
+				<CHS>该黄色物质是你的怒气资源。可用来强化你的攻击。现在按空格键使用怒气。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>这条黄色物质是你的怒气值指示器。它可以强化你的攻击。按LB使用怒气。</CHS>
+				<CHS>该黄色物质是你的怒气资源。可用来强化你的攻击。现在按“LB”使用怒气。</CHS>
 			</descXBox>
 		</rage>
 		<powerup>
 			<name>
-				<CHS>强化技能</CHS>
+				<CHS>道具技能</CHS>
 			</name>
 			<nameXBox>
-				<CHS>强化技能</CHS>
+				<CHS>道具技能</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>每次你使用怒气时，下次攻击具有附带效果，例如减速，晕眩，额外伤害等等。尽量多使用怒气。</CHS>
+				<CHS>你每次使用愤怒，你的下次攻击将会附加额外效果，比如减速、晕眩、额外伤害等等。尽可能多使用它。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>每次你使用怒气时，下次攻击具有附带效果，例如减速，晕眩，额外伤害等等。尽量多使用怒气。</CHS>
+				<CHS>你每次使用愤怒，你的下次攻击将会附加额外效果，比如减速、晕眩、额外伤害等等。尽可能多使用它。</CHS>
 			</descXBox>
 		</powerup>
 		<powerup_hotkeys>
 			<name>
-				<CHS>强化技能热键</CHS>
+				<CHS>道具技能热键</CHS>
 			</name>
 			<nameXBox>
-				<CHS>强化技能热键</CHS>
+				<CHS>道具技能热键</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>多次点击使效果更明显。你也能按热键1,2,3取代单击。</CHS>
+				<CHS>多次点击可让效果更大。你也可以用热键123来代替</CHS>
 			</desc>
 			<descXBox>
-				<CHS>多次点击使效果更明显。你也能按热键1,2,3取代单击。</CHS>
+				<CHS>多次点击可让效果更大。你也可以用热键123来代替</CHS>
 			</descXBox>
 		</powerup_hotkeys>
 		<set_combo>
 			<name>
-				<CHS>设置连击</CHS>
+				<CHS>设置连招</CHS>
 			</name>
 			<nameXBox>
-				<CHS>设置连击</CHS>
+				<CHS>设置连招</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>每个技能你都能储备一次强化连击。按“空格”键将在游戏期间取消连击。</CHS>
+				<CHS>你可以给每个技能储存一个强化连击。在游戏中按空格点来查看连击组成</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以存储每个技能的一个强化连击。按"Y"键设置你的连击。按"LB"将会在游戏期间召唤连击。</CHS>
+				<CHS>你可以为每个技能储存一个道具组合。按“Y”按钮设置您的组合。在游戏中按“LB”可以调用该组合。</CHS>
 			</descXBox>
 		</set_combo>
 		<merchant>
 			<name>
-				<CHS>商人</CHS>
+				<CHS>商人们</CHS>
 			</name>
 			<nameXBox>
-				<CHS>商人</CHS>
+				<CHS>商人们</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能将物品卖给商人。右键点击物品出售或将物品直接拖到商人的物品栏。</CHS>
+				<CHS>你可以把物品卖给商人，对着商品右击鼠标或者把它们拖到商人的物品栏中</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以向商人售卖物品。按"A"按钮来将已选择的物品卖到商人的物品栏中。</CHS>
+				<CHS>你可以把物品卖给商人。按“A”按钮把选定的物品卖给商人。</CHS>
 			</descXBox>
 		</merchant>
 		<buyback>
 			<name>
-				<CHS>回购</CHS>
+				<CHS>买回</CHS>
 			</name>
 			<nameXBox>
-				<CHS>回购</CHS>
+				<CHS>买回</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>如果你不小心卖掉了不想卖的东西，这些东西将留在这张出售表上，直到你关闭商店窗口。</CHS>
+				<CHS>如果你不小心卖掉了你不想出售的物品，在你关闭商店窗口前，他们会保留在这个标签里</CHS>
 			</desc>
 			<descXBox>
-				<CHS>如果你不小心卖掉了你不想卖的东西，在你关闭商店窗口之前，它们会在这个商人的出价标签上。</CHS>
+				<CHS>如果你不小心卖你不想卖的物品，在你关闭交易窗口之前，这些物品就会出现在商人的出售选项卡种。</CHS>
 			</descXBox>
 		</buyback>
 		<inventory_full>
 			<name>
-				<CHS>你的物品栏满了</CHS>
+				<CHS>你的物品栏已满</CHS>
 			</name>
 			<nameXBox>
-				<CHS>你的物品栏满了</CHS>
+				<CHS>你的物品栏已满</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你无法携带更多物品了。你可以扔掉不需要的物品或到城里卖掉。</CHS>
+				<CHS>你不能再携带更多的物品了，你可以丢弃物品栏中不需要的物品或者在镇上把它们卖掉</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你无法携带更多物品了。你可以扔掉不需要的物品或到城里卖掉。</CHS>
+				<CHS>你不能再携带更多的物品了，你可以丢弃物品栏中不需要的物品或者在镇上把它们卖掉</CHS>
 			</descXBox>
 		</inventory_full>
 		<hp_mana_hotkeys>
 			<name>
-				<CHS>生命和魔法热键</CHS>
+				<CHS>生命与法力热键</CHS>
 			</name>
 			<nameXBox>
-				<CHS>生命和魔法热键</CHS>
+				<CHS>生命与法力热键</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>按“Q”和“W”热键快速喝生命或魔法药水。喝药水将使你在战斗中保持良好状态。</CHS>
+				<CHS>使用“Q”和“W”快捷键可快速使用生命或魔力药剂。这可使你在战斗中表现更好。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>用“十字键左”按“十字键右”快捷键快速使用生命或法力药水。这样能让你在战斗中活命。</CHS>
+				<CHS>使用十字键左和十字键右即可快速引用生命与魔力药水。战斗中熟加运用，便可创造优势。</CHS>
 			</descXBox>
 		</hp_mana_hotkeys>
 		<map>
@@ -5784,38 +5781,38 @@
 				<CHS>地图</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>单击这个图标或按“M”显示区域地图！地图将帮你在更大的关卡中更好地找到路。</CHS>
+				<CHS>用这个按钮，或是按下“M”来调出区域地图！它会帮助你找到想去的地方。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>通过按"方向键下"按钮来调出地图！它会帮助你更快找到更大的关卡周围的路。</CHS>
+				<CHS>按“方向键向下”按钮可以打开区域地图！它将帮助您更好地找大致的路线。</CHS>
 			</descXBox>
 		</map>
 		<town_portal>
 			<name>
-				<CHS>回城术</CHS>
+				<CHS>城镇传送门</CHS>
 			</name>
 			<nameXBox>
-				<CHS>回城术</CHS>
+				<CHS>城镇传送门</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你能单击这个图标返回城镇。你也能利用城里的墨门传送回去。</CHS>
+				<CHS>你可以通过点击这个图标回到镇上，也可以通过镇上的墨水门回去</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以通过按"方向键上"按钮回到城镇。你可以使用城镇中的墨境门传送回去。</CHS>
+				<CHS>您可以按“方向键向上”按钮返回小镇。您可以使用小镇中的墨境之门传送回去。</CHS>
 			</descXBox>
 		</town_portal>
 		<masters>
 			<name>
-				<CHS>大师</CHS>
+				<CHS>马斯特斯</CHS>
 			</name>
 			<nameXBox>
-				<CHS>大师</CHS>
+				<CHS>马斯特斯</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>游戏中有类似此人的大师，他们能教你新技巧和光环。学习需要黄金。</CHS>
+				<CHS>游戏中有像这个人一样的大师，他们能教你新技巧和光环。你需要金币才能学习。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>游戏中有类似此人的大师，他们能教你新技巧和光环。学习需要黄金。</CHS>
+				<CHS>游戏中有像这个人一样的大师，他们能教你新技巧和光环。你需要金币才能学习。</CHS>
 			</descXBox>
 		</masters>
 		<tricks_and_auras>
@@ -5826,52 +5823,52 @@
 				<CHS>光环</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>在同一时间你只能准备两个光环。对它们“Shift+左击或右击”来将它们分配进槽。</CHS>
+				<CHS>你一次只能准备两个光环。在其上方“Shift+左右单击”来将它们指定到某个槽位。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>在同一时间你只能准备两个光环。按"X"或"Y" 按钮来分配已选择的光环至一个槽。</CHS>
+				<CHS>你一次只能准备两个光环。按“X”或者“Y”按钮将选定的光环指定到某个槽位中。</CHS>
 			</descXBox>
 		</tricks_and_auras>
 		<perks>
 			<name>
-				<CHS>特性</CHS>
+				<CHS>专精</CHS>
 			</name>
 			<nameXBox>
-				<CHS>特性</CHS>
+				<CHS>专精</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>满足某些条件可解开特性，例如特定能力等级或技能组合。</CHS>
+				<CHS>专精在玩家符合特定条件时解锁，比如特殊技能或者联合技。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>满足某些条件可解开特性，例如特定能力等级或技能组合。</CHS>
+				<CHS>专精在玩家符合特定条件时解锁，比如特殊技能或者联合技。</CHS>
 			</descXBox>
 		</perks>
 		<alternate_skill_sets>
 			<name>
-				<CHS>交替技能组合</CHS>
+				<CHS>备选技能组</CHS>
 			</name>
 			<nameXBox>
-				<CHS>交替技能组合</CHS>
+				<CHS>备选技能组</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你可以设置替换技能组合。按Tab来切换至替换设置，然后回来。</CHS>
+				<CHS>你可以设置一个备用技能组合。按下Tab来回切换备用技能组合。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你可以设置替换技能组合。按Tab来切换至替换设置，然后回来。</CHS>
+				<CHS>你可以设置一个备用技能组合。按下Tab来回切换备用技能组合。</CHS>
 			</descXBox>
 		</alternate_skill_sets>
 		<skill_hotkeys>
 			<name>
-				<CHS>技能热键</CHS>
+				<CHS>技巧热键</CHS>
 			</name>
 			<nameXBox>
-				<CHS>技能热键</CHS>
+				<CHS>技巧热键</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>将你的技能绑定热键用于更快调出。将光标悬浮在技能选择表中的技能上，然后按“F1-F8”.</CHS>
+				<CHS>把技能绑定在快捷键上来快速使用它们。在技能选择列表中，把鼠标指针悬停在技能上并按下“F1-F8”。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>将你的技能绑定热键用于更快调出。将光标悬浮在技能选择表中的技能上，然后按“F1-F8”.</CHS>
+				<CHS>把技能绑定在快捷键上来快速使用它们。在技能选择列表中，把鼠标指针悬停在技能上并按下“F1-F8”。</CHS>
 			</descXBox>
 		</skill_hotkeys>
 		<mastery_level>
@@ -5882,24 +5879,24 @@
 				<CHS>精通等级</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>除了百分比奖励，精通等级每达到10%获得一个特殊被动技能。</CHS>
+				<CHS>除了百分比加成，专精等级还会在每提升10%的时候为你提供一个特殊的被动技能。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>除了百分比奖励，精通等级每达到10%获得一个特殊被动技能。</CHS>
+				<CHS>除了百分比加成，专精等级还会在每提升10%的时候为你提供一个特殊的被动技能。</CHS>
 			</descXBox>
 		</mastery_level>
 		<expert_skills>
 			<name>
-				<CHS>技能专业和精通</CHS>
+				<CHS>技巧纯熟度</CHS>
 			</name>
 			<nameXBox>
-				<CHS>技能专业和精通</CHS>
+				<CHS>技巧纯熟度</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>等级5时，技能解开可用1点技能点购买的升级。某些技能在10级时解开升级。</CHS>
+				<CHS>在第五个等级，技能会解锁一些可以用1点技能点购买的升级。一些技能会在第10个解锁另一项升级。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>等级5时，技能解开可用1点技能点购买的升级。某些技能在10级时解开升级。</CHS>
+				<CHS>在第五个等级，技能会解锁一些可以用1点技能点购买的升级。一些技能会在第10个解锁另一项升级。</CHS>
 			</descXBox>
 		</expert_skills>
 		<new_magic_item>
@@ -5910,41 +5907,41 @@
 				<CHS>新魔法物品</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你刚发现了一件魔法物品！打开你的物品栏“I”并查看！ </CHS>
+				<CHS>你发现了一个魔法物品！按I键打开你的物品栏来看看吧！</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你刚发现了一件魔法物品！打开你的物品栏“I”并查看！ </CHS>
+				<CHS>你发现了一个魔法物品！按I键打开你的物品栏来看看吧！</CHS>
 			</descXBox>
 		</new_magic_item>
 		<storage>
 			<name>
-				<CHS>仓库</CHS>
+				<CHS>存贮</CHS>
 			</name>
 			<nameXBox>
-				<CHS>仓库</CHS>
+				<CHS>存贮</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>这是你的储存箱。你可以在此储存当前不用却又不想卖掉的物品。</CHS>
+				<CHS>这是你的储物箱。你可以在这里存放暂时不使用也不能卖掉的物品。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>这是你的储存箱。你可以在此储存当前不用却又不想卖掉的物品。</CHS>
+				<CHS>这是你的储物箱。你可以在这里存放暂时不使用也不能卖掉的物品。</CHS>
 			</descXBox>
 		</storage>
 		<reputation>
 			<name>
-				<CHS>声望</CHS>
+				<CHS>名誉</CHS>
 			</name>
 			<nameXBox>
-				<CHS>声望</CHS>
+				<CHS>名誉</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>一个特性可用！单击这儿为你的角色选择特性。</CHS>
+				<CHS>有一个专精可用！点击这里为你的角色选择一个专精。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>技能已经可用！按"退格键"按钮来给你的人物选择技能。</CHS>
+				<CHS>发现一个新的可用专精！按“后退”按钮为你的角色选择专精。</CHS>
 			</descXBox>
 			<descXBoxOne>
-				<CHS>有可用专长！按“查看”按钮选择一项专长。</CHS>
+				<CHS>已解锁新的加成！按下“浏览”键即可为角色选择加成。</CHS>
 			</descXBoxOne>
 		</reputation>
 		<move_attack>
@@ -5955,10 +5952,10 @@
 				<CHS>移动/攻击</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>左键单击移动/攻击敌人。</CHS>
+				<CHS>左击移动/攻击敌人</CHS>
 			</desc>
 			<descXBox>
-				<CHS>使用"左杆"来移动，按"X"按钮来攻击敌人。</CHS>
+				<CHS>使用“左摇杆”移动，并按“X”按钮攻击敌人。</CHS>
 			</descXBox>
 		</move_attack>
 		<healing_damage>
@@ -5969,38 +5966,38 @@
 				<CHS>治疗伤害</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>喝药水 - 当你需要治疗时按“Q”</CHS>
+				<CHS>使用药剂 - 当你需要治疗时，按下“Q”。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>使用选项-当你需要治疗的时候按“方向键左”按钮。</CHS>
+				<CHS>使用药水——当你需要治疗时，按“方向键向左”按钮。</CHS>
 			</descXBox>
 		</healing_damage>
 		<secondary_attack>
 			<name>
-				<CHS>次级攻击</CHS>
+				<CHS>副武器攻击</CHS>
 			</name>
 			<nameXBox>
-				<CHS>次级攻击</CHS>
+				<CHS>副武器攻击</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>你现在拥有次级攻击技能了。右键单击敌人使用。</CHS>
+				<CHS>你现在有了一个次要攻击技能，对着敌人右击来使用它</CHS>
 			</desc>
 			<descXBox>
-				<CHS>你现在已经拥有第二个攻击技能了。使用"A"按钮来使用它。</CHS>
+				<CHS>现在，您有了一个次要攻击技能。按“A”按钮来使用它。</CHS>
 			</descXBox>
 		</secondary_attack>
 		<forge>
 			<name>
-				<CHS>神器仿制</CHS>
+				<CHS>锻炉锻造</CHS>
 			</name>
 			<nameXBox>
-				<CHS>神器仿制</CHS>
+				<CHS>锻炉锻造</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>将物品放在最上面的三个槽内，然后按“仿制”制作一件随机的新物品。要制作出稀有物品，制作材料也必须稀有。 </CHS>
+				<CHS>将物品放在最上面的3个槽位之内，之后按下“锻造”创造新物品。原材料稀有性必须相同。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>将物品放在顶部的三个槽中，按"Y"按钮来制作一个随机物品。源物品必须是同一稀有物品。</CHS>
+				<CHS>将物品放在上方的三个槽位并按“Y”来创造新的随机物品。源物品稀有度必须一致。</CHS>
 			</descXBox>
 		</forge>
 		<quest_reminder>
@@ -6011,80 +6008,80 @@
 				<CHS>任务提示</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>这是你当前任务得到列表。使用地图来找到你通往目标地点的路。</CHS>
+				<CHS>这是你当前的任务的列表。使用地图找到通向当前任务点的路。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>这是你当前任务得到列表。使用地图来找到你通往目标地点的路。</CHS>
+				<CHS>这是你当前的任务的列表。使用地图找到通向当前任务点的路。</CHS>
 			</descXBox>
 		</quest_reminder>
 		<companion_death>
 			<name>
-				<CHS>同伴之死</CHS>
+				<CHS>伙伴死亡</CHS>
 			</name>
 			<nameXBox>
-				<CHS>同伴之死</CHS>
+				<CHS>伙伴死亡</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>当卡特琳娜“死”时，她短时间内以虚弱状态倒下。然而虚弱她的被动技能依旧提供奖励。</CHS>
+				<CHS>当卡特琳娜“死了”，她会在短时间内进入一个虚弱状态。而虚弱状态下的被动技能还能提供加成</CHS>
 			</desc>
 			<descXBox>
-				<CHS>当卡特琳娜“死”时，她短时间内以虚弱状态倒下。然而虚弱她的被动技能依旧提供奖励。</CHS>
+				<CHS>当卡特琳娜“死了”，她会在短时间内进入一个虚弱状态。而虚弱状态下的被动技能还能提供加成</CHS>
 			</descXBox>
 		</companion_death>
 		<drawn_spell>
 			<name>
-				<CHS>新的法术类型：冲压法术</CHS>
+				<CHS>新法术类型：可自定的法术</CHS>
 			</name>
 			<nameXBox>
-				<CHS>新的法术类型：冲压法术</CHS>
+				<CHS>新法术类型：可自定的法术</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>该法术可以让你决定它的形状和方向。请仔细阅读咒语的细节描述。</CHS>
+				<CHS>你可以指定这个法术的形状和方向。请阅读法术描述来获取详细信息。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>该法术可以让你决定它的形状和方向。请仔细阅读咒语的细节描述。</CHS>
+				<CHS>你可以指定这个法术的形状和方向。请阅读法术描述来获取详细信息。</CHS>
 			</descXBox>
 		</drawn_spell>
 		<chargeable_spell>
 			<name>
-				<CHS>新的法术类型：充能法术</CHS>
+				<CHS>新法术类型：可充能法术</CHS>
 			</name>
 			<nameXBox>
-				<CHS>新的法术类型：充能法术</CHS>
+				<CHS>新法术类型：可充能法术</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>该法术超载更好的效果。请仔细阅读咒语的细节描述。</CHS>
+				<CHS>你可以过载该法术来获得更好的效果。请阅读法术描述来获取详细信息。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>该法术超载更好的效果。请仔细阅读咒语的细节描述。</CHS>
+				<CHS>你可以过载该法术来获得更好的效果。请阅读法术描述来获取详细信息。</CHS>
 			</descXBox>
 		</chargeable_spell>
 		<channeled_spell>
 			<name>
-				<CHS>新的法术类型：通道法术</CHS>
+				<CHS>新法术类型：引导的法术</CHS>
 			</name>
 			<nameXBox>
-				<CHS>新的法术类型：通道法术</CHS>
+				<CHS>新法术类型：引导的法术</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>这是一个持续性魔法。请仔细阅读咒语的细节描述。</CHS>
+				<CHS>这是一个需要不断引导的法术。请阅读法术描述来获取详细信息。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>这是一个持续性魔法。请仔细阅读咒语的细节描述。</CHS>
+				<CHS>这是一个需要不断引导的法术。请阅读法术描述来获取详细信息。</CHS>
 			</descXBox>
 		</channeled_spell>
 		<glory>
 			<name>
-				<CHS>荣誉</CHS>
+				<CHS>荣耀</CHS>
 			</name>
 			<nameXBox>
-				<CHS>荣誉</CHS>
+				<CHS>荣耀</CHS>
 			</nameXBox>
 			<desc>
-				<CHS>一旦到达等级上限，你开始获得能分配到荣誉窗的荣誉点数。记住，你账号中的所有人物都可以使用获得的荣誉点数。</CHS>
+				<CHS>一旦你达到了级别上限，你就会获得可以在荣耀窗口分配的荣耀点。请注意，荣耀奖励会对你整个账户中的所有角色都起作用。</CHS>
 			</desc>
 			<descXBox>
-				<CHS>一旦到达等级上限，你开始获得能分配到荣誉窗的荣誉点数。记住，你账号中的所有人物都可以使用获得的荣誉点数。</CHS>
+				<CHS>一旦你达到了级别上限，你就会获得可以在荣耀窗口分配的荣耀点。请注意，荣耀奖励会对你整个账户中的所有角色都起作用。</CHS>
 			</descXBox>
 		</glory>
 	</Tutorial>
@@ -6094,16 +6091,16 @@
 				<CHS>队伍</CHS>
 			</label>
 			<team1>
-				<CHS>蓝</CHS>
+				<CHS>蓝色</CHS>
 			</team1>
 			<team2>
-				<CHS>红</CHS>
+				<CHS>红色</CHS>
 			</team2>
 		</team>
 		<Lobby>
 			<Grid>
 				<Players>
-					<CHS>玩家</CHS>
+					<CHS>玩家数</CHS>
 				</Players>
 				<Level>
 					<CHS>等级</CHS>
@@ -6112,11 +6109,11 @@
 					<CHS>队伍</CHS>
 				</Team>
 				<Latency>
-					<CHS>潜伏</CHS>
+					<CHS>延迟</CHS>
 				</Latency>
 			</Grid>
 			<Ready>
-				<CHS>准备</CHS>
+				<CHS>就绪</CHS>
 			</Ready>
 			<Game_Info>
 				<CHS>游戏模式信息</CHS>
@@ -6139,7 +6136,7 @@
 		</TimeLimit>
 		<ScoreBoard>
 			<title>
-				<CHS>记分板</CHS>
+				<CHS>得分板</CHS>
 			</title>
 			<Player>
 				<CHS>玩家</CHS>
@@ -6151,27 +6148,27 @@
 				<CHS>得分</CHS>
 			</Score>
 			<Latency>
-				<CHS>潜伏</CHS>
+				<CHS>延迟</CHS>
 			</Latency>
 		</ScoreBoard>
 		<GameMode>
 			<coop>
-				<CHS>故事</CHS>
+				<CHS>剧情模式</CHS>
 				<desc>
-					<CHS>你可以在剧情模式里与好友一起通关。</CHS>
+					<CHS>在故事模式中，你可以和朋友们一起体验游戏剧情。</CHS>
 				</desc>
 			</coop>
 			<scenario>
-				<CHS>冒险 </CHS>
+				<CHS>冒险</CHS>
 				<desc>
-					<CHS>在冒险模式中你也可以进行具备30+等级敌人和特殊史诗道具的特殊情节地图。</CHS>
+					<CHS>在冒险模式中你可以玩特别场景地图来面对30+等级的敌人和获得特别的史诗物品。</CHS>
 				</desc>
 			</scenario>
 			<deathmatch>
-				<CHS>死亡模式</CHS>
+				<CHS>死斗</CHS>
 			</deathmatch>
 			<team_deathmatch>
-				<CHS>小队死亡模式</CHS>
+				<CHS>团队死斗</CHS>
 			</team_deathmatch>
 			<ctf>
 				<CHS>夺旗</CHS>
@@ -6180,7 +6177,7 @@
 				<CHS>山丘之王</CHS>
 			</king_of_the_hill>
 			<team_king_of_the_hill>
-				<CHS>山丘之王小队</CHS>
+				<CHS>团队山丘之王</CHS>
 			</team_king_of_the_hill>
 			<moba>
 				<CHS>猎人游戏</CHS>
@@ -6195,47 +6192,47 @@
 				<CHS>触地</CHS>
 			</touchdown>
 			<battle_royale>
-				<CHS>混战</CHS>
+				<CHS>战斗荣耀</CHS>
 				<desc>
-					<CHS>混战是PvP模式，以自由击杀的形式人物间互相对抗，内含得分系统。最强的玩家被指定为所有其他玩家的目标，杀死他能得到额外分数。竞技场也包含系统怪物，守住特殊物品能帮助玩家获得优势。</CHS>
+					<CHS>战斗荣耀是一种可以让玩家相互稀有战斗的对战模式，该模式中有一个评分系统。最强的玩家会被指定成其它玩家的目标，杀掉该玩家会获得额外点数。竞技场上还有着对所有人都是敌对状态的敌人，他们守卫着可以帮助玩家获取优势的特殊物品。</CHS>
 				</desc>
 				<scoreboard>
-					<CHS>混战得分帮助:\n- 玩家击杀: 2分\n- 指定目标击杀: 10分\n- 被怪物击杀: -5分</CHS>
+					<CHS>战斗荣耀评分帮助：\n——击杀玩家：2点\n——击杀指定目标：10点\n-——被怪物击杀：-5点</CHS>
 				</scoreboard>
 				<Target>
 					<CHS>目标</CHS>
 				</Target>
 			</battle_royale>
 			<last_man_standing>
-				<CHS>终极悍将</CHS>
+				<CHS>血战到底</CHS>
 			</last_man_standing>
 			<bowling>
 				<CHS>保龄球</CHS>
 			</bowling>
 			<levelreq>
-				<CHS>要求等级: %d</CHS>
+				<CHS>所需等级: %d</CHS>
 			</levelreq>
 		</GameMode>
 		<BattleRoyale>
 			<HeroKilled>
-				<CHS>击杀玩家: +%d分</CHS>
+				<CHS>击杀的玩家：+%d点</CHS>
 			</HeroKilled>
 			<TargetKilled>
-				<CHS>击杀目标: +%d分</CHS>
+				<CHS>击杀的目标：+%d点</CHS>
 			</TargetKilled>
 			<DeathByNeutral>
-				<CHS>被怪物击杀: %d分</CHS>
+				<CHS>被怪物击杀:%d点</CHS>
 			</DeathByNeutral>
 		</BattleRoyale>
 		<winner>
 			<individual>
-				<CHS>%s赢得了游戏！</CHS>
+				<CHS>%s已赢得了游戏！</CHS>
 			</individual>
 			<team>
-				<CHS>%s队赢得了游戏！</CHS>
+				<CHS>%s队赢了游戏！</CHS>
 			</team>
 			<tie>
-				<CHS>平手</CHS>
+				<CHS>平局</CHS>
 			</tie>
 		</winner>
 	</GameMode>

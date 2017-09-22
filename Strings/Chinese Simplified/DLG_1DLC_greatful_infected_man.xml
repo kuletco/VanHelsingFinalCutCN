@@ -8,22 +8,22 @@
 		<DLG_1DLC_greatful_infected_man>
 			<node1>
 				<Desc>
-					<CHS>噢……你来杀我的。</CHS>
+					<CHS>哦……你是来杀我的。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>为什么你那样说？</CHS>
+					<CHS>你为什么这么说？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>Rustblight让你一窥真相……</CHS>
+					<CHS>锈疫告诉了你一些真相……</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>好吧，治疗后你的情况不会那么严重了，考虑下让我把你治好吧。但你知道吗？拿着吧，我的朋友，不要再说了。</CHS>
+					<CHS>考虑到我刚刚给了你解药，你的情况肯定没有那么严重。但是你知道吗？老老实实拿着，我的朋友，别多问。</CHS>
 				</Desc>
 			</node4>
 		</DLG_1DLC_greatful_infected_man>

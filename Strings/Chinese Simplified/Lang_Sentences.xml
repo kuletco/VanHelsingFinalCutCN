@@ -9,176 +9,176 @@
 			<Bandits>
 				<banter_bridge_reached_and_cleared>
 					<01_Katarina>
-						<CHS>哦，天呐。那可真是…愚蠢啊。</CHS>
+						<CHS>上帝！真是……愚蠢。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>确实令我印象深刻。他们的确有戏剧演出的感觉。</CHS>
+						<CHS>实际上，我很吃惊。他们很有演出戏剧的天赋</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>我们依然可以飞越峡谷。</CHS>
+						<CHS>我们仍然可以飞越峡谷</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>真的吗？</CHS>
+						<CHS>真的？</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>哦，对了。我有时候会忘记你的人性多么健全。</CHS>
+						<CHS>哦，对了！有时我忘记你是多么的有人情味。 </CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>我们得沿着正常道路行走。</CHS>
+						<CHS>我们应该沿着那条大路走</CHS>
 					</06_VH>			
 				</banter_bridge_reached_and_cleared>
 				<banter_bandits_at_bridge>
 					<01_BanditAtBridge1>
-						<CHS>杀了陌生人！</CHS>
+						<CHS>杀死陌生人！</CHS>
 					</01_BanditAtBridge1>
 					<02_BanditAtBridge2>
-						<CHS>不，不，不要又是他！</CHS>
+						<CHS>不，不，不，不会又是他的！</CHS>
 					</02_BanditAtBridge2>
 					<03_BanditAtBridge2>
-						<CHS>他…他有一个幽灵！</CHS>
+						<CHS>他…他有个鬼魂！</CHS>
 					</03_BanditAtBridge2>
 					<04_BanditAtBridge1>
-						<CHS>冲啊！冲啊！</CHS>
+						<CHS>冲锋！冲锋！</CHS>
 					</04_BanditAtBridge1>
 					<05_BanditAtBridge3>
-						<CHS>让他葬身在森林！</CHS>
+						<CHS>把他埋在树林里！</CHS>
 					</05_BanditAtBridge3>
 					<06_BanditAtBridge4>
-						<CHS>我来负责那顶帽子！</CHS>
+						<CHS>我想要那个帽子！</CHS>
 					</06_BanditAtBridge4>
 					<07_BanditAtBridge5>
-						<CHS>我来负责那个幽灵！</CHS>
+						<CHS>我想要那个幽灵！</CHS>
 					</07_BanditAtBridge5>			
 				</banter_bandits_at_bridge>
 			</Bandits>
 			<Domovoi>
 				<banter_domovoi_spotted>
 					<01_Katarina>
-						<CHS>看，是个宅灵！拿着满满一袋的宝藏！</CHS>
+						<CHS>看杜莫伊！满满一袋宝藏！</CHS>
 					</01_Katarina>								
 				</banter_domovoi_spotted>
 				<banter_suicidedomovoi>
 					<01_Katarina>
-						<CHS>他怎么了？</CHS>
+						<CHS>他有什么毛病？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>似乎他见到了一个幽灵。</CHS>
+						<CHS>他看上去就像见了鬼一样</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>这不怪我！是你开始追赶他的！</CHS>
+						<CHS>这个不怪我！是你先追他的！</CHS>
 					</03_Katarina>
 				</banter_suicidedomovoi>
 			</Domovoi>
 			<guard>
 				<banter_guardmumble1>
 					<01_Guard_falu>
-						<CHS>门开了。你还在等什么？</CHS>
+						<CHS>门打开了。你还等什么？</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble1>
 				<banter_guardmumble2>
 					<01_Guard_falu>
-						<CHS>跟上！你在拖慢队伍！</CHS>
+						<CHS>往前走！你掉队了！</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble2>
 				<banter_guardmumble3>
 					<01_Guard_falu>
-						<CHS>我说了…你可以…进入…村庄了！</CHS>
+						<CHS>我是说……那个……你可以……进入……村庄！</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble3>
 				<banter_guardmumble4>
 					<01_Guard_falu>
-						<CHS>是什么挡道了？</CHS>
+						<CHS>前面的阻塞是怎么回事？</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble4>
 				<banter_guardmumble_coward1>
 					<01_Guard_falu>
-						<CHS>到处都是怪物，他们就只给了我一把矛吗？</CHS>
+						<CHS>到处都是怪物却只给我一根长矛？</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward1>
 				<banter_guardmumble_coward2>
 					<01_Guard_falu>
-						<CHS>希望我现在是在酒馆…</CHS>
+						<CHS>现在我希望待在酒馆了……</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward2>
 				<banter_guardmumble_coward3>
 					<01_Guard_falu>
-						<CHS>做出守卫的样子来，他们说了…怪物现在很和平，他们说了…</CHS>
+						<CHS>当守卫吧，他们说……怪物们现在很和平了，他们说……</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward3>
 				<banter_guardmumble_coward4>
 					<01_Guard_falu>
-						<CHS>我快冻死了。我讨厌我的工作。</CHS>
+						<CHS>冷死了。我讨厌我的工作</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward4>
 				<banter_guardmumble_coward5>
 					<01_Guard_falu>
-						<CHS>我真应该与村长的女儿成婚的。</CHS>
+						<CHS>我真该娶市长的女儿</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward5>
 				<banter_guardmumble_coward6>
 					<01_Guard_falu>
-						<CHS>谁…谁在那？！…哦，只是一个影子。</CHS>
+						<CHS>谁……谁在那？！……噢。原来只是个影子</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward6>
 				<banter_guardmumble_coward7>
 					<01_Guard_falu>
-						<CHS>且慢！(暂停)你只是一个影子…对吗？</CHS>
+						<CHS>等等！（停顿）你只是个影子…是吗？</CHS>
 					</01_Guard_falu>
 				</banter_guardmumble_coward7>
 			</guard>
 			<Other>
 				<Start>
 					<01_BanditGreet2>
-						<CHS>他怎么活下来的？</CHS>
+						<CHS>他是怎么活下来的？</CHS>
 					</01_BanditGreet2>
 					<02_BanditGreet1>
-						<CHS>我可不在乎！把他抓起来！</CHS>
+						<CHS>我不管！抓住他！</CHS>
 					</02_BanditGreet1>
 					<03_VH>
-						<CHS>卡特琳娜，你不该来帮我摆脱这个吗？</CHS>
+						<CHS>卡特琳娜，你不应该来帮帮我吗？</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>拜托。他们不过是些衣衫褴褛的歹徒！看见了吗？没那么难的，对吧？</CHS>
+						<CHS>得了。只是些不入流的小混混！看见了吗？很容易的，不是吗？ </CHS>
 					</04_Katarina>		
 					<05_VH>
-						<CHS>这就是他们欢迎人们来这的方式？</CHS>
+						<CHS>这就是他们欢迎他人的方式？</CHS>
 					</05_VH>
 					<06_Katarina>
-						<CHS>是的。为啥？这是一个庄严的老传统了。</CHS>
+						<CHS>是的，怎么呢？这是个古老而又庄严的传统</CHS>
 					</06_Katarina>
 				</Start>
 				<dialogue_letter>
 					<01_VH>
-						<CHS>我怀疑这里有些黑暗势力在活动。</CHS>
+						<CHS>我猜想这附近有某些黑暗势力在作祟</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>当然。我们在博格维亚，记得吗？</CHS>
+						<CHS>当然有。我们可是在博加维亚，知道吗？</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>不…我是说，这有点蹊跷。有人打破了我父亲在怪物与凡人之间立下的协定。</CHS>
+						<CHS>不……我的意思是，这次是不同的。有人违反了我父亲一手促成的怪物和人类之间的合约。</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>让我猜猜…他们要为此付出代价了。</CHS>
+						<CHS>让我猜猜……他们会为此付出代价</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>我想说的是，有人得好好解释一下了。</CHS>
+						<CHS>我得说有人要好好解释一下了</CHS>
 					</05_VH>
 				</dialogue_letter>
 				<banter_niceview>
 					<01_VH>
-						<CHS>这片森林会把我们整个吞下去，只吐出骨头。</CHS>
+						<CHS>这个森林会把我们整个吞掉，只吐出骨头。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>还是没有好客栈的迹象。</CHS>
+						<CHS>并且依然找不到不错的旅馆</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>你为何需要一家客栈？你是个幽灵诶。</CHS>
+						<CHS>你为什么不需要住旅馆？你是个鬼魂</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>那么，余下的夜晚，我该像个在森林中迷失的农民女儿那样，在树林间度过吗？</CHS>
+						<CHS>因此我每天夜晚都得像在林子里迷路的村姑一样到处游荡？</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>我喜欢这个主意。</CHS>
+						<CHS>我喜欢这主意</CHS>
 					</05_VH>
 				</banter_niceview>
 			</Other>
@@ -188,12 +188,12 @@
 			<Alchemist>
 				<BNT_mar_alchemist01>
 					<01_Alchemist_falu>
-						<CHS>哼！</CHS>
+						<CHS>嗯嗯嗯嗯!</CHS>
 					</01_Alchemist_falu>						
 				</BNT_mar_alchemist01>
 				<BNT_mar_alchemist02>
 					<01_Alchemist_falu>
-						<CHS>啊，我的朋友！我的包…在你那吗？</CHS>
+						<CHS>啊，朋友！你有……我的包吗？</CHS>
 					</01_Alchemist_falu>
 					<02_VH>
 						<CHS>还没有。请耐心点。</CHS>
@@ -201,98 +201,98 @@
 				</BNT_mar_alchemist02>
 				<BNT_mar_alchemist03>
 					<01_Alchemist_falu>
-						<CHS>祝你好运，陌生人。你在博格维亚需要运气。</CHS>
+						<CHS>祝你好运，陌生人。在伯格瓦你会需要它的</CHS>
 					</01_Alchemist_falu>									
 				</BNT_mar_alchemist03>
 			</Alchemist>
 			<Foguard>
 				<BNT_foguard02>
 					<01_Guard_falu>
-						<CHS>一切都已准备就绪。请继续前进。</CHS>
+						<CHS>一切都很好。请你走开</CHS>
 					</01_Guard_falu>						
 				</BNT_foguard02>
 				<BNT_foguard03>
 					<01_Guard_falu>
-						<CHS>我在等我的人。晚些再和你谈。</CHS>
+						<CHS>我在等我的兄弟们。稍后再聊</CHS>
 					</01_Guard_falu>						
 				</BNT_foguard03>
 				<BNT_foguard04>
 					<01_Guard_falu>
-						<CHS>过去，我和你一样是个怪物猎人，但我…嗯…什么都没打到。</CHS>
+						<CHS>我以前和你一样也是个怪物猎人，直到……呃……没什么</CHS>
 					</01_Guard_falu>						
 				</BNT_foguard04>
 				<BNT_foguard05>
 					<01_Guard_falu>
-						<CHS>你尝过我们著名的博格维亚松木伏特加了吗？</CHS>
+						<CHS>你尝过我们著名的博加维亚松木伏特加了吗？</CHS>
 					</01_Guard_falu>						
 				</BNT_foguard05>
 				<BNT_foguard06>
 					<01_Guard_falu>
-						<CHS>日安。还有那位美丽的不死女人。</CHS>
+						<CHS>你好。漂亮的不死族女士，你也好</CHS>
 					</01_Guard_falu>						
 				</BNT_foguard06>
 			</Foguard>
 			<Major>
 				<BNT_mar_major01>
 					<01_Major_falu>
-						<CHS>感谢你做的一切，猎人，祝你好运。很少有人敢进入沼泽，敢去墨门的就更少了。</CHS>
+						<CHS>谢谢一切，猎人，祝你好运。没人敢进入这个沼泽，更没有人能到达墨境之门</CHS>
 					</01_Major_falu>						
 				</BNT_mar_major01>
 				<BNT_mar_major02>
 					<01_Major_falu>
-						<CHS>当这一切结束之时，你该再来拜访一下我们的。</CHS>
+						<CHS>当这件事情结束后，你得再来拜访我们</CHS>
 					</01_Major_falu>						
 				</BNT_mar_major02>
 				<BNT_mar_major03>
 					<01_Major_falu>
-						<CHS>希望一切都能重新回到以前的样子。</CHS>
+						<CHS>希望时光能倒流</CHS>
 					</01_Major_falu>						
 				</BNT_mar_major03>
 				<BNT_mar_major04>
 					<01_Major_falu>
-						<CHS>你知道的，曾有一度，你只有在夜晚的时候才会害怕怪物…</CHS>
+						<CHS>你要知道，有段时间你只需要在晚上担心怪物</CHS>
 					</01_Major_falu>						
 				</BNT_mar_major04>
 				<BNT_mar_major05>
 					<01_Major_falu>
-						<CHS>真的非常感谢你能来这里，猎人。</CHS>
+						<CHS>很高兴你在这里，猎人</CHS>
 					</01_Major_falu>						
 				</BNT_mar_major05>
 				<BNT_mar_major06>
 					<01_Major_falu>
-						<CHS>四处看看吧！吸我一口吧！</CHS>
+						<CHS>四处看看！我请你喝酒！</CHS>
 					</01_Major_falu>						
 				</BNT_mar_major06>
 				<BNT_mar_major07>
 					<01_Major_falu>
-						<CHS>这是个不错的小地方，对吗？</CHS>
+						<CHS>挺漂亮的小地方，不是吗？</CHS>
 					</01_Major_falu>
 				</BNT_mar_major07>
 			</Major>
 			<Priest>
 				<BNT_priest01>
 					<01_Village_Priest>
-						<CHS>只有你的信仰才能把自己从怪物那拯救出来！</CHS>
+						<CHS>只有你的信念才能拯救你！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest01>
 				<BNT_priest02>
 					<01_Village_Priest>
-						<CHS>忏悔吧！快要结束了！</CHS>
+						<CHS>忏悔吧！末世尚远！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest02>
 				<BNT_priest03>
 					<01_Village_Priest>
-						<CHS>这片森林是我的神庙。</CHS>
+						<CHS>这个森林就我的庙宇。</CHS>
 					</01_Village_Priest>						
 				</BNT_priest03>
 				<BNT_priest04>
 					<01_Village_Priest>
-						<CHS>我会为你祈祷的。</CHS>
+						<CHS>我会为你祈祷的</CHS>
 					</01_Village_Priest>						
 				</BNT_priest04>
 				<BNT_priest05>
 					<01_Village_Priest>
-						<CHS>科学！闻上去像硫磺！</CHS>
+						<CHS>科学！问起来像硫磺一样！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest05>
 				<BNT_priest06>
@@ -302,127 +302,127 @@
 				</BNT_priest06>
 				<BNT_priest_night01>
 					<01_Village_Priest>
-						<CHS>呸！你的父亲还有那个可怕的协定！</CHS>
+						<CHS>该死！你的父亲和那可怕的契约！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest_night01>
 				<BNT_priest_night02>
 					<01_Village_Priest>
-						<CHS>当你失去信仰之时，看看会发生什么事？</CHS>
+						<CHS>看看失去信念会有什么结果？</CHS>
 					</01_Village_Priest>						
 				</BNT_priest_night02>
 				<BNT_priest_night03>
 					<01_Village_Priest>
-						<CHS>博格维亚人与野兽为友！这是一个警钟！</CHS>
+						<CHS>博加维亚和野兽成了朋友！这是个警示！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest_night03>
 				<BNT_priest_night04>
 					<01_Village_Priest>
-						<CHS>我们来祈祷吧！祈祷！</CHS>
+						<CHS>让我们祈祷吧！祈祷！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest_night04>
 				<BNT_priest_night05>
 					<01_Village_Priest>
-						<CHS>不要害怕邪恶！</CHS>
+						<CHS>不用害怕邪恶！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest_night05>
 				<BNT_priest_night06>
 					<01_Village_Priest>
-						<CHS>打响，打响，打响警钟！</CHS>
+						<CHS>叮叮叮，铃铛叮叮叮！</CHS>
 					</01_Village_Priest>						
 				</BNT_priest_night06>
 			</Priest>
 			<Shopkeeper>
 				<BNT_shopkeeper01>
 					<01_Village_Shopkeeper>
-						<CHS>欢迎回来，陌生人！你有帮我找到任何东西吗？</CHS>
+						<CHS>欢迎回来，陌生人！你有为我带来什么东西吗？</CHS>
 					</01_Village_Shopkeeper>
 					<02_VH>
-						<CHS>我还在找。</CHS>
+						<CHS>我还在找</CHS>
 					</02_VH>
 				</BNT_shopkeeper01>
 				<BNT_shopkeeper02>
 					<01_Village_Shopkeeper>
-						<CHS>你知道吗…你让我想起了一个人。</CHS>
+						<CHS>你要知道……你让我想起了某人</CHS>
 					</01_Village_Shopkeeper>
 					<02_VH>
-						<CHS>我不知道你在说什么。</CHS>
+						<CHS>我不知道你在谈论什么</CHS>
 					</02_VH>									
 				</BNT_shopkeeper02>
 			</Shopkeeper>
 			<Hirdetotabla>
 				<BNT_Hirdetotabla1>
 					<01_VH>
-						<CHS>村长要求宵禁。怪物试图在夜间潜入村庄。</CHS>
+						<CHS>村长已经下令宵禁。怪物试图在晚上偷偷进入村子。</CHS>
 					</01_VH>						
 					<02_Katarina>
-						<CHS>你知道吗，这让我想起了一些儿时的记忆。</CHS>
+						<CHS>你要明白，这给我带来了一些童年美好的记忆</CHS>
 					</02_Katarina>						
 				</BNT_Hirdetotabla1>
 				<BNT_Hirdetotabla2>
 					<01_VH>
-						<CHS>一个男孩和一个女孩迷失在了森林里，汉塞尔以及…</CHS>
+						<CHS>一个男孩儿和一个女孩儿失踪在了森林里，汉塞尔和……</CHS>
 					</01_VH>						
 					<02_Katarina>
-						<CHS>我认为你父亲在一年前就已经谈及过那个了…</CHS>
+						<CHS>我猜你的父亲很早以前就盖着那个</CHS>
 					</02_Katarina>						
 				</BNT_Hirdetotabla2>
 				<BNT_Hirdetotabla3>
 					<01_VH>
-						<CHS>冒险的团队需要一名治疗师…这是什么？！</CHS>
+						<CHS>冒险的队伍需要有一个能提供治疗的人……这是什么？！</CHS>
 					</01_VH>						
 					<02_Katarina>
-						<CHS>我没有任何线索。</CHS>
+						<CHS>我没有线索</CHS>
 					</02_Katarina>						
 				</BNT_Hirdetotabla3>
 				<BNT_Hirdetotabla4>
 					<01_Katarina>
-						<CHS>奖励！被偷的魔戒！来自一套20个中的一个，这是最强大的一个…</CHS>
+						<CHS>奖励！被盗的魔法戒指！一套20枚戒指中的一枚，这枚戒指是最强大的一枚…… </CHS>
 					</01_Katarina>						
 					<02_VH>
-						<CHS>别管它。我可不在乎失去一个小玩意儿。</CHS>
+						<CHS>算了。我可不关心这失落的小玩意儿</CHS>
 					</02_VH>						
 				</BNT_Hirdetotabla4>
 				<BNT_Hirdetotabla5>
 					<01_VH>
-						<CHS>享受伊丽莎白·巴托里回春宫的澡堂吧…我不这么认为。</CHS>
+						<CHS>享受伊丽莎白·巴斯利还童宫的浴室…我可不这么想</CHS>
 					</01_VH>						
 					<02_Katarina>
-						<CHS>这让我想起了你是不眠不休的。那会造成损伤的，记住我的话！</CHS>
+						<CHS>这让我想起来你从不休息，这会造成损害的，记住我的话！</CHS>
 					</02_Katarina>						
 				</BNT_Hirdetotabla5>
 				<BNT_Hirdetotabla6>
 					<01_Katarina>
-						<CHS>出售一顶帽子，一件皮衣和一个鞭子。外观良好，稍旧。</CHS>
+						<CHS>一顶帽子，一件皮大衣和一把鞭子一起甩卖。品相优秀，只有很少的使用痕迹。</CHS>
 					</01_Katarina>						
 					<02_VH>
-						<CHS>我已经有一顶帽子了。但是，鞭子在桥上还是挺有用的。</CHS>
+						<CHS>我已经有了一顶帽子。但是，在桥头处一把鞭子会更有用</CHS>
 					</02_VH>						
 				</BNT_Hirdetotabla6>
 			</Hirdetotabla>
 			<Reszeg>
 				<banter_reszeg1>
 					<01_villager_reszeg>
-						<CHS>我没…没…喝醉。只只是…想休息一下。</CHS>
+						<CHS>我没……没……喝醉。只是……在休息</CHS>
 					</01_villager_reszeg>
 				</banter_reszeg1>
 				<banter_reszeg2>
 					<01_villager_reszeg>
-						<CHS>哦！别再来烦我了！</CHS>
+						<CHS>别再来烦我了！</CHS>
 					</01_villager_reszeg>
 				</banter_reszeg2>
 				<banter_reszeg3>
 					<01_villager_reszeg>
-						<CHS>满是…是…星星啊！</CHS>
+						<CHS>伊萨啊…… 伊萨…… 漫天繁星！</CHS>
 					</01_villager_reszeg>
 				</banter_reszeg3>
 				<banter_reszeg_dragako>
 					<01_villager_reszeg>
-						<CHS>我…我有一颗…漂亮的钻石。我把它给了山羊。山羊…很饿。我…有点…喝醉了。</CHS>
+						<CHS>我……我有个……漂亮的钻石。我把它喂给了山羊。山羊它……饿了。我……有点儿……醉了</CHS>
 					</01_villager_reszeg>
 				</banter_reszeg_dragako>
 				<banter_reszeg_kecske>
 					<01_villager_reszeg>
-						<CHS>山羊离开了。我猜是去了森林。去了河堤。他很口渴。我很口渴！</CHS>
+						<CHS>山羊离开了。我想到森林里去了。去河边，他渴了。其实是我渴了！</CHS>
 					</01_villager_reszeg>
 				</banter_reszeg_kecske>
 			</Reszeg>
@@ -434,77 +434,77 @@
 				</banter_Cow_2Head1>
 				<banter_Cow_2Head2>
 					<01_Cow_2Head>
-						<CHS>哞？</CHS>
+						<CHS>哞！</CHS>
 					</01_Cow_2Head>
 				</banter_Cow_2Head2>
 				<banter_Cow_2Head3>
 					<01_Cow_2Head>
-						<CHS>哞。我说了哞。</CHS>
+						<CHS>哞。我说了哞</CHS>
 					</01_Cow_2Head>
 				</banter_Cow_2Head3>
 				<banter_Cow_2Head4>
 					<01_Cow_2Head>
-						<CHS>嗯…好吧，是的，我还能交谈。那又如何？</CHS>
+						<CHS>嗯……好了，对，我能说话。怎么了？</CHS>
 					</01_Cow_2Head>
 				</banter_Cow_2Head4>
 				<banter_Cow_2Head5>
 					<01_Cow_2Head>
-						<CHS>别管我。</CHS>
+						<CHS>离开我</CHS>
 					</01_Cow_2Head>
 				</banter_Cow_2Head5>
 				<banter_Cow_2Head6>
 					<01_Cow_2Head>
-						<CHS>哞。</CHS>
+						<CHS>哞你</CHS>
 					</01_Cow_2Head>
 				</banter_Cow_2Head6>
 			</Cow_2Head>
 			<Orult>
 				<banter_orult_katt1>
 					<01_Village_orult>
-						<CHS>他们在看着我们！强大的生物从上面控制着我们！</CHS>
+						<CHS>他们在盯着我们！强大的生物在上头控制着我们！</CHS>
 					</01_Village_orult>
 				</banter_orult_katt1>
 				<banter_orult_katt2>
 					<01_Village_orult>
-						<CHS>你看到了吗？有东西在捅我！</CHS>
+						<CHS>你看到没有！？有东西戳了我一下！！</CHS>
 					</01_Village_orult>
 				</banter_orult_katt2>
 				<banter_orult_katt3>
 					<01_Village_orult>
-						<CHS>啊！又来了！好痛！</CHS>
+						<CHS>啊！这又发生了！真疼啊！</CHS>
 					</01_Village_orult>
 				</banter_orult_katt3>
 				<banter_orult_katt4>
 					<01_Village_orult>
-						<CHS>有点痒。</CHS>
+						<CHS>好痒</CHS>
 					</01_Village_orult>
 				</banter_orult_katt4>
 				<banter_orult_katt5>
 					<01_Village_orult>
-						<CHS>又痛了。停下，不管你是什么！</CHS>
+						<CHS>现在又痛起来了。住手，不管你是什么！</CHS>
 					</01_Village_orult>
 				</banter_orult_katt5>
 				<banter_orult_katt6>
 					<01_Village_orult>
-						<CHS>如果我告诉你，我们都不是真的，你该怎么办？</CHS>
+						<CHS>如果我告诉你我们甚至不时真实存在的呢？</CHS>
 					</01_Village_orult>
 				</banter_orult_katt6>
 			</Orult>
 			<Statue_pedestal>
 				<BNT_pedestal00>
 					<01_VH>
-						<CHS>我觉得我们3个都需要…不管这少了什么。</CHS>
+						<CHS>我想我们三个都要……不管这里缺少了什么</CHS>
 					</01_VH>
 				</BNT_pedestal00>
 				<BNT_pedestal01>
 					<01_VH>
-						<CHS>正好！</CHS>
+						<CHS>很合适！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>那你就只需要2个。</CHS>
+						<CHS>你只需要两个。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>2个什么？</CHS>
+						<CHS>两个啥？</CHS>
 					</03_VH>
 					<04_Katarina>
 						<CHS>我怎么知道？</CHS>
@@ -512,67 +512,67 @@
 				</BNT_pedestal01>
 				<BNT_pedestal02>
 					<01_VH>
-						<CHS>我们越来越近了。接近某些东西了。</CHS>
+						<CHS>我们已经离某个东西很近了</CHS>
 					</01_VH>
 				</BNT_pedestal02>	
 				<BNT_pedestal03>
 					<01_VH>
-						<CHS>这是一把钥匙。</CHS>
+						<CHS>这是把钥匙</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>好极了！现在你只需要找到门就好了。</CHS>
+						<CHS>很好！下面你只需要找到门就可以了</CHS>
 					</02_Katarina>
 				</BNT_pedestal03>			
 			</Statue_pedestal>			
 			<Statue_guard>
 				<BNT_statue_guard01>
 					<01_VH>
-						<CHS>这人是谁？</CHS>
+						<CHS>这个男人是谁？</CHS>
 					</01_VH>
 					<02_Village_guard_statue_cr>
-						<CHS>这是公正者鲍里斯拉夫国王的雕像。</CHS>
+						<CHS>这是波利斯拉夫之王，杰斯特的雕像</CHS>
 					</02_Village_guard_statue_cr>
 					<03_Katarina>
-						<CHS>公正者鲍里斯拉夫，如我们所说，就在附近。</CHS>
+						<CHS>公平的波利斯拉夫，正如我们所说</CHS>
 					</03_Katarina>
 					<04_Village_guard_statue_cr>
-						<CHS>他曾是一位伟大的国王。最后一个可以统治博格维亚的凡人…在他消失在墨境之前。</CHS>
+						<CHS>他曾经是一个伟大的王者。最后一个能统治博加维亚的凡人…在他消失在墨境之中之前</CHS>
 					</04_Village_guard_statue_cr>
 					<05_VH>
-						<CHS>那为何在他的脚上有空洞呢？</CHS>
+						<CHS>还有为什么他的脚上都是空洞呢？</CHS>
 					</05_VH>
 					<06_Village_guard_statue_cr>
-						<CHS>我的朋友，那是个真正的谜。</CHS>
+						<CHS>我的朋友，那是真正的神秘</CHS>
 					</06_Village_guard_statue_cr>
 				</BNT_statue_guard01>
 				<BNT_statue_guard02>
 					<01_Village_guard_statue_cr>
-						<CHS>只是再也没有出现像他这样的国王了。没有了，先生。</CHS>
+						<CHS>他们只是不再有像他那样的王者。不，长官</CHS>
 					</01_Village_guard_statue_cr>
 				</BNT_statue_guard02>
 				<BNT_statue_guard03>
 					<01_Village_guard_statue_cr>
-						<CHS>你知道吗，鲍里斯拉夫造了一架飞机？是真的。</CHS>
+						<CHS>你知道波利斯拉夫制造了一个会飞的机器吗？那是真的。</CHS>
 					</01_Village_guard_statue_cr>
 				</BNT_statue_guard03>
 				<BNT_statue_guard04>
 					<01_Village_guard_statue_cr>
-						<CHS>我的保姆告诉过我，鲍里斯拉夫可以打开通往魔法世界的密门。</CHS>
+						<CHS>我的保姆告诉我波利斯拉夫可以打开魔法之地的秘门</CHS>
 					</01_Village_guard_statue_cr>
 				</BNT_statue_guard04>
 				<BNT_statue_guard05>
 					<01_Village_guard_statue_cr>
-						<CHS>你听过鲍里斯拉夫和会说话的狗的故事吗？</CHS>
+						<CHS>你听说过鲍里斯拉夫和会说话的狗的传说吗？</CHS>
 					</01_Village_guard_statue_cr>
 				</BNT_statue_guard05>
 				<BNT_statue_guard06>
 					<01_Village_guard_statue_cr>
-						<CHS>因此，有一天，鲍里斯拉夫乔装打扮，去了市场…不，等一下，你一定听过这个故事了。</CHS>
+						<CHS>有一天，波利斯拉夫乔装打扮来到市场……不，等等，你可能已经听过了。</CHS>
 					</01_Village_guard_statue_cr>
 				</BNT_statue_guard06>
 				<BNT_statue_guard07>
 					<01_Village_guard_statue_cr>
-						<CHS>鲍里斯拉夫一生未婚。你知道的，他热爱博格维亚。</CHS>
+						<CHS>鲍里斯拉夫从没有结过婚。要知道，他已经爱上了博加维亚。</CHS>
 					</01_Village_guard_statue_cr>
 				</BNT_statue_guard07>
 			</Statue_guard>
@@ -582,25 +582,25 @@
 						<CHS>那是什么？</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>你没认出来吗？那是墨境！</CHS>
+						<CHS>你认不出它来？那就是墨水！</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>创造和梦想的黑暗材料？但那只是一段神话。</CHS>
+						<CHS>创造与梦想的暗黑材料？但是那是个迷。</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>博格维亚是墨境从世界的裂缝中渗漏的唯一一个地方。</CHS>
+						<CHS>这世界上有墨汁从裂缝中流出的地方也只有博加维亚了。</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>就是说你可以从那进入墨境喽？</CHS>
+						<CHS>你可以从这进入墨境？</CHS>
 					</05_VH>
 					<06_Katarina>
-						<CHS>是的。然后你可以在这个世界下面或后面行走，并在特定的地方出现。那就是墨境行走。</CHS>
+						<CHS>是的，你能在这个世界的下面，或者后面旅行，并在特定的地方出来。这就是墨境之路</CHS>
 					</06_Katarina>
 					<07_VH>
-						<CHS>哦，你指的是传送。</CHS>
+						<CHS>哦，你是说传送。</CHS>
 					</07_VH>
 					<08_Katarina>
-						<CHS>那真是个陈腐的词。</CHS>
+						<CHS>这把剑真是陈旧</CHS>
 					</08_Katarina>
 				</BNT_VillageWell>							
 			</VillageWell>
@@ -610,339 +610,339 @@
 			<Ghost>
 				<altar_visited>
 					<01_Katarina>
-						<CHS>哦…是一处神圣祭坛！也许我们不该如此靠近的…</CHS>
+						<CHS>哦……圣坛！或许我们不该靠的太近了……</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你无需担心。你和我是相关联的。神圣的地方只会影响游荡的幽灵。</CHS>
+						<CHS>你不用担心，你被束缚在了我身上，圣地只会对孤魂野鬼有影响</CHS>
 					</02_VH>
 				</altar_visited>
 				<Towards_hanged_man_banter>
 					<01_Katarina>
-						<CHS>那么，我们是在把他的死亡方式展现给他看吗？</CHS>
+						<CHS>我们告诉他他是怎么死的？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你有什么疑问吗？</CHS>
+						<CHS>你对此有问题吗？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>不，我只是好奇。我从未见过自己是怎么死的，迫不及待想要看看这个实验如何结束。</CHS>
+						<CHS>，不，我很好奇哦。我一直不知道自己的结局，我想知道这实验将如何结束。</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>那可真冷啊。就算是幽灵也觉得冷。</CHS>
+						<CHS>真冷。鬼魂都觉得冷</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>嗯，如果你容易呕吐，就别这么做。带他去一个神圣的地方，帮他进入有光亮或什么的地方！</CHS>
+						<CHS>如果你很容易生气，就别那么做。带他去一个神圣的地方并且帮助他走向光明！</CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>也许我应该那么做。一个“肉体受损的存在”在那已是绰绰有余。</CHS>
+						<CHS>或许我应该这么做。这里有一个无法合作的人就足够了。</CHS>
 					</06_VH>
 				</Towards_hanged_man_banter>
 				<Ghost_sighted_banter>
 					<01_VH>
-						<CHS>另一个死去的灵魂。</CHS>
+						<CHS>又一个死亡的灵魂</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>别说死去的灵魂。我们不是死去的灵魂。我们是…“肉体上受损”的存在。</CHS>
+						<CHS>不要说死去的灵魂。我们不是死去的灵魂，我们是…‘身体受损’的存在</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我会努力记住的。</CHS>
+						<CHS>我试着记住</CHS>
 					</03_VH>
 				</Ghost_sighted_banter>
 				<BNT_cro_postvengeful>
 					<01_VH>
-						<CHS>那么，复仇的精神就是那样诞生的…通过与笨拙的精神会面。</CHS>
+						<CHS>因此复仇灵魂就是这样产生的。被迟钝的灵魂给气的。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>嗯，这要怪你！</CHS>
+						<CHS>都怪你！</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>是的…我也责怪我自己。</CHS>
+						<CHS>是的……我也要责备自己</CHS>
 					</03_VH>									
 				</BNT_cro_postvengeful>		
 				<Towards_altar_banter>
 					<01_Katarina>
-						<CHS>我们要带他去祭坛吗？</CHS>
+						<CHS>我们要把他带到祭坛吗？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>这个办法好。</CHS>
+						<CHS>不错的主意</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>我可不在乎。我觉得我们应该找出他死去的地方，并指给他看。</CHS>
+						<CHS>我不管。我认为我们应该找到他死在哪儿了并告诉他</CHS>
 					</03_Katarina>									
 					<04_VH>
-						<CHS>希望找到一个灵魂伴侣…？</CHS>
+						<CHS>希望能找到一个灵魂伴侣…？</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>拜托…他有点低于我的身份。虽然，与我当前相比，他很可能是个更好的同伴。</CHS>
+						<CHS>得了……他的身份和我相差太多。尽管他可能会是个好的同伴。</CHS>
 					</05_Katarina>									
 					<06_VH>
-						<CHS>*无法理解的低语*</CHS>
+						<CHS>*低声说着无法理解的话语*</CHS>
 					</06_VH>
 				</Towards_altar_banter>		
 				<hanged_man_visited>
 					<01_Katarina>
-						<CHS>你真应该考虑一下用其中的一个来点亮你的家。</CHS>
+						<CHS>你真应该考虑用这些东西中的一个来照亮你的房间</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>看上去是个村民。可怜的人，被抢劫并绞死了。</CHS>
+						<CHS>似乎是个村民。可怜的家伙被抢劫后吊死</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>这发生了没多久。他的光环依然发出微弱的光芒。</CHS>
+						<CHS>最近刚发生的。他的光辉还是很微弱</CHS>
 					</03_Katarina>									
 				</hanged_man_visited>		
 				<Hanged_man_after_banter>
 					<01_Katarina>
-						<CHS>你不准备埋葬他吗？</CHS>
+						<CHS>你不是要埋了他妈？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>我们没时间。一旦森林安全了，我会告诉村民们他在这的。</CHS>
+						<CHS>我们没有时间了。一旦森林里变得安全之后，我会告诉村民们他在这的</CHS>
 					</02_VH>
 				</Hanged_man_after_banter>				
 				<BNT_cro_ghostaltar>
 					<01_ghost>
-						<CHS>我…懂了…谢谢你…</CHS>
+						<CHS>我……理解……谢谢你……</CHS>
 					</01_ghost>
 					<02_Katarina>
-						<CHS>当我准备好去的时候…你会这样帮助我吗...？你会带我来这里吗…?</CHS>
+						<CHS>当我准备走的时候……你会</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>如果这就是你的愿望。</CHS>
+						<CHS>如果你希望那样的话</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>啊,范海辛!你是爱我的!到这里来...</CHS>
+						<CHS>啊，范海辛！你确实是爱我的！过来吧……</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>你甚至没有尝试过。</CHS>
+						<CHS>你敢给我试试看</CHS>
 					</05_VH>						
 				</BNT_cro_ghostaltar>
 				<BNT_cro_ghosthanged>
 					<01_ghost>
-						<CHS>那是...我吗？</CHS>
+						<CHS>那是……我吗？</CHS>
 					</01_ghost>
 					<02_Katarina>
-						<CHS>是的。你被谋杀了。</CHS>
+						<CHS>是的，你呗谋害了</CHS>
 					</02_Katarina>
 					<03_ghost>
-						<CHS>我被……谋杀了! ?</CHS>
+						<CHS>我被……谋杀了！？</CHS>
 					</03_ghost>
 					<04_Katarina>
-						<CHS>你应该复仇。也许…</CHS>
+						<CHS>你应该遭到别人的复仇的，也许……</CHS>
 					</04_Katarina>
 					<05_ghost>
-						<CHS>我应该…复仇！我一定要亲自复仇！你们都要为此付出代价！！！啊！！！！</CHS>
+						<CHS>我应该……报酬！我必须雪耻！！你们都得付出代价！！！</CHS>
 					</05_ghost>						
 				</BNT_cro_ghosthanged>
 			</Ghost>
 			<Gypsies>
 				<BNT_cro_gypsy01>
 					<01_Gypsy_leader>
-						<CHS>你有这奖章吗，我的猎人朋友？</CHS>
+						<CHS>你拿到战利品了吗，我的猎人朋友？</CHS>
 					</01_Gypsy_leader>
 					<02_VH>
-						<CHS>要有耐心。猎人总是要信守诺言的。</CHS>
+						<CHS>耐心点。一个猎人要说到做到。</CHS>
 					</02_VH>						
 				</BNT_cro_gypsy01>
 				<BNT_cro_Marko_01>
 					<01_Marko>
-						<CHS>什么风把你吹来,神秘的陌生人？</CHS>
+						<CHS>什么把你带到这里来的，神秘的陌生人？</CHS>
 					</01_Marko>
 				</BNT_cro_Marko_01>
 				<BNT_cro_Marko_02>
 					<01_Marko>
-						<CHS>欢迎来到吉普赛王子的旅游商场！</CHS>
+						<CHS>欢迎来到吉普赛王子的旅行商场！</CHS>
 					</01_Marko>
 				</BNT_cro_Marko_02>
 				<BNT_cro_Marko_03>
 					<01_Marko>
-						<CHS>你饿了吗?我们的晚饭有新鲜的热刺猬！</CHS>
+						<CHS>你饿吗？我们今晚吃新鲜的热刺猬！</CHS>
 					</01_Marko>
 				</BNT_cro_Marko_03>
 				<BNT_cro_Marko_04>
 					<01_Marko>
-						<CHS>法老的秘密？迷失坟墓的钥匙？我们都有了！</CHS>
+						<CHS>法老的秘密？通往迷失古墓的钥匙？我们都有！</CHS>
 					</01_Marko>
 				</BNT_cro_Marko_04>
 				<BNT_cro_Marko_05>
 					<01_Marko>
-						<CHS>这是你的钱包吗?嗯,我为你找到了！</CHS>
+						<CHS>这是你的钱包？好吧，我帮你找到了！</CHS>
 					</01_Marko>
 				</BNT_cro_Marko_05>
 				<BNT_cro_Saffi_01>
 					<01_Saffi>
-						<CHS>与我共舞,英俊的陌生人!</CHS>
+						<CHS>来陪我跳舞吧，帅气的陌生人！</CHS>
 					</01_Saffi>
 				</BNT_cro_Saffi_01>
 				<BNT_cro_Saffi_02>
 					<01_Saffi>
-						<CHS>把你的手给我。我将告诉你你的未来……免费告诉你。</CHS>
+						<CHS>把手伸出来。我会预测你的未来…免费的</CHS>
 					</01_Saffi>
 				</BNT_cro_Saffi_02>
 				<BNT_cro_Saffi_03>
 					<01_Saffi>
-						<CHS>你需要什么?爱情药水吗?…不,我不这么认为。</CHS>
+						<CHS>你需要什么？迷魂药？……不，我可不这么想</CHS>
 					</01_Saffi>
 				</BNT_cro_Saffi_03>
 				<BNT_cro_Saffi_04>
 					<01_Saffi>
-						<CHS>我可以把你的敌人变成青蛙。只要...好好地要求我。</CHS>
+						<CHS>我可以把你的敌人变成青蛙。只要求我……让我满意</CHS>
 					</01_Saffi>
 				</BNT_cro_Saffi_04>
 				<BNT_cro_Saffi_05>
 					<01_Saffi>
-						<CHS>靠近一些,陌生人…你是不是很怕我，嗯？</CHS>
+						<CHS>靠近点，陌生人…你不是在害怕我吧？</CHS>
 					</01_Saffi>
 				</BNT_cro_Saffi_05>
 				<BNT_cro_Mihai_01>
 					<01_Mihai>
-						<CHS>相信我…我知道你最喜欢的歌。听!</CHS>
+						<CHS>相信我……我知道你最喜欢的音乐。听！</CHS>
 					</01_Mihai>
 				</BNT_cro_Mihai_01>
 				<BNT_cro_Mihai_02>
 					<01_Mihai>
-						<CHS>你听过这个吗?没有?</CHS>
+						<CHS>你听过这个吗？没有？</CHS>
 					</01_Mihai>
 				</BNT_cro_Mihai_02>
 				<BNT_cro_Mihai_03>
 					<01_Mihai>
-						<CHS>你想听什么?告诉我，我的朋友!</CHS>
+						<CHS>你想要听什么？告诉我就好了，我的朋友！</CHS>
 					</01_Mihai>
 				</BNT_cro_Mihai_03>
 			</Gypsies>
 			<Wishing_well>
 				<Wishing_well_coin_throw>
 					<01_VH>
-						<CHS>这里有一枚古钱，我们来许个愿吧！</CHS>
+						<CHS>来，这儿有一枚古时候的硬币，咱们许个愿吧！</CHS>
 					</01_VH>
 				</Wishing_well_coin_throw>
 				<Wishing_well_coin>
 					<01_VH>
-						<CHS>这不是我所想要的。</CHS>
+						<CHS>我不完全这么想</CHS>
 					</01_VH>
 				</Wishing_well_coin>
 				<Wishing_well_no_coin>
 					<01_Katarina>
-						<CHS>这看起来像一个许愿池。</CHS>
+						<CHS>这看起来像个许愿井</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>嗯…不管用。</CHS>
+						<CHS>唔…它坏了</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>首先你要扔一个非常古老的硬币到水里面。</CHS>
+						<CHS>你先得扔一枚古老的硬币到水里。</CHS>
 					</03_Katarina>					
 				</Wishing_well_no_coin>
 				<Wishing_well_info>
 					<01_Katarina>
-						<CHS>看,是个许愿池!他们把用旧硬币扔到水里。</CHS>
+						<CHS>看，许愿井！他们曾把老式钱币扔进水里</CHS>
 					</01_Katarina>
 				</Wishing_well_info>
 			</Wishing_well>
 			<Hidden_treasure>
 				<Katarina_hidden_treasure>
-					<CHS>不要逗留,直到有人发现它不见了。</CHS>
+					<CHS>在它离开之前，不要傻站在那里</CHS>
 				</Katarina_hidden_treasure>
 				<VH_hidden_treasure>
-					<CHS>在树林里藏宝？非常传统，我喜欢。</CHS>
+					<CHS>森林中隐藏的宝藏？真传统，我喜欢</CHS>
 				</VH_hidden_treasure>
 				<Outlaw_eavesdrop>
-					<CHS>…抢了那个村庄…掠夺…他告诉我…隐藏的宝藏…</CHS>
+					<CHS>……洗劫了那座村落……抢掠……他告诉我……隐藏的宝藏……</CHS>
 				</Outlaw_eavesdrop>
 				<01_Outlaw_1>
-					<CHS>我拿着一把小刀顶着他的喉咙！非常诚实。</CHS>
+					<CHS>因此我割断了他的喉咙！真的。</CHS>
 				</01_Outlaw_1>
 				<02_Outlaw_2>
-					<CHS>什么? !你威胁了老大？</CHS>
+					<CHS>什么？！你恐吓了老板？</CHS>
 				</02_Outlaw_2>
 				<03_Outlaw_1>
-					<CHS>啊!他像鸟一样歌唱。</CHS>
+					<CHS>是的！他的歌声像鸟一样。</CHS>
 				</03_Outlaw_1>
 				<04_Outlaw_2>
-					<CHS>他把我们的宝藏藏在哪里？</CHS>
+					<CHS>他把我们的财宝藏哪去了？</CHS>
 				</04_Outlaw_2>
 				<05_Outlaw_1>
-					<CHS>在森林里。在狼人图腾柱那里。</CHS>
+					<CHS>在森林里。狼人图腾柱旁</CHS>
 				</05_Outlaw_1>
 				<Katarina_finders_keepers>
-					<CHS>哈!太迟了。捡到者得!</CHS>
+					<CHS>哈！太迟了。先到先得！</CHS>
 				</Katarina_finders_keepers>
 			</Hidden_treasure>
 			<Excalibur>
 				<Excalibur_no_oil>
 					<01_Katarina>
-						<CHS>石中剑？怎么听起来这么耳熟?</CHS>
+						<CHS>一把石中剑？这为什么听起来那么耳熟呢？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>我拔不出来。我需要一些武器的油。</CHS>
+						<CHS>拔不出来了。我需要一些武器润滑油</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>要不然你也许不是合适的人。</CHS>
+						<CHS>或者你不是正确的人选。</CHS>
 					</03_Katarina>					
 				</Excalibur_no_oil>
 				<Excalibur_taken>
 					<01_Katarina>
-						<CHS>石头里的宝剑？你怎么把它拔出来？</CHS>
+						<CHS>一把插在石头里的剑？你要怎么弄出来？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你觉不觉得这把剑天生是为我打造的？</CHS>
+						<CHS>这难道没有让你意识到这武器是针对我的吗？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>不！你要使用武器润滑油！范海辛，你这里有我。</CHS>
+						<CHS>不！你用掉了一些武器润滑油！你要知道，范海辛，我本来对你印象蛮好的。</CHS>
 					</03_Katarina>					
 				</Excalibur_taken>
 				<Excalibur_oil>
 					<01_VH>
-						<CHS>我告诉过你，我只需要一些武器油。</CHS>
+						<CHS>我告诉过你我只需要一些武器润滑油</CHS>
 					</01_VH>
 				</Excalibur_oil>
 			</Excalibur>
 			<Other>
 				<Footprints_banter>
 					<01_Katarina>
-						<CHS>我听说在高山上,雪是不会融化的,巨人在那里居住。有时他们会下来到这片森林里打猎。</CHS>
+						<CHS>我听说在高山之上，那冰雪不化之地生活着巨人。他们有时会到这座森林里来狩猎</CHS>
 					</01_Katarina>
 				</Footprints_banter>
 				<BNT_cro_buzamezo>
 					<01_VH>
-						<CHS>我从不喜欢稻草人。</CHS>
+						<CHS>我不喜欢稻草人</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我希望我能对你幼稚的忧虑开一个玩笑，但狼人似乎都同意你的观点。他们如何躲避稻草人的?</CHS>
+						<CHS>希望我可以就你的幼稚担忧开个玩笑，但是狼人们似乎很赞同你。看看他们如何避开稻草人？</CHS>
 					</02_Katarina>
 				</BNT_cro_buzamezo>
 				<gold_coin>
 					<01_VH>
-						<CHS>这看起来不像一个普通的金币。</CHS>
+						<CHS>这看起来不像一般的金币</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>当你需要一些非凡东西的时候，就记住它。</CHS>
+						<CHS>当你特别想要某样东西时候，就在心中不停默念</CHS>
 					</02_Katarina>
 				</gold_coin>
 				<robbed_wagon1>
 					<01_Katarina>
-						<CHS>哦,一个可怕的难题!让我看看…马车被士兵攻击...</CHS>
+						<CHS>哦，谜团！我看看……马车是遭到……士兵的袭击……</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>...还有狼人。</CHS>
+						<CHS>……还有狼人</CHS>
 					</02_VH>
 				</robbed_wagon1>
 				<robbed_wagon2>
 					<01_Katarina>
-						<CHS>不。足印的分布完全错了。他们只是来来往往地冲击。</CHS>
+						<CHS>不。兵力的分布完全错误。他们只是在冲进冲出。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你刚刚是说分布?</CHS>
+						<CHS>你刚才说分配？</CHS>
 					</02_VH>
 				</robbed_wagon2>
 				<robbed_wagon3>
 					<01_Katarina>
-						<CHS>还有这里的痕迹...</CHS>
+						<CHS>而这里的这条轨迹……</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>...更深一点。野兽载着某人...我印象很深。</CHS>
+						<CHS>……更深那野兽在扛着什么人……我很惊讶</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>你本该如此。</CHS>
+						<CHS>正像你应该的那样</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>好的。我们去找狼人巢穴吧。</CHS>
+						<CHS>好的。找狼窝去。</CHS>
 					</04_VH>
 				</robbed_wagon3>
 				<werewolf_lair_found>
@@ -950,24 +950,24 @@
 						<CHS>族群首领肯定藏在这个洞里。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>答应我，你不会从你的独白开始。</CHS>
+						<CHS>别告诉我你又要自言自语了。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我是猎人。我必须在这里留下深刻的印象。</CHS>
+						<CHS>我是个猎人。我必须给这里的人留下印象</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>他们会把你撕碎的。</CHS>
+						<CHS>他们会把你大卸八块的</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>相信我。他们一直在听。</CHS>
+						<CHS>相信我。他们一直在听</CHS>
 					</05_VH>
 				</werewolf_lair_found>
 				<Scarecrow_death>
 					<01_Katarina>
-						<CHS>又少了个需要弥补的童年小创伤，对吧？</CHS>
+						<CHS>又少了个需要处理的童年创伤，是吗？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>对付恶魔最好的办法就是不知不觉地打败他们。</CHS>
+						<CHS>最好对付恶魔的方法是攻其不备。</CHS>
 					</02_VH>
 				</Scarecrow_death>
 			</Other>
@@ -977,42 +977,42 @@
 			<Red_Button>
 				<Red_Button1>
 					<01_Katarina>
-						<CHS>看,是个红色的按钮。</CHS>
+						<CHS>看，一个红色按钮</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>惊人的观察力。</CHS>
+						<CHS>令人惊讶的观察。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>你为什么不按？</CHS>
+						<CHS>你为什么不推它？</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>因为按下去绝对不好。</CHS>
+						<CHS>因为这是个坏主意。</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>但是…我想看看会怎么样!</CHS>
+						<CHS>但是……我想看看它能干什么！</CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>我可不想看。</CHS>
+						<CHS>不</CHS>
 					</06_VH>
 				</Red_Button1>
 				<Red_Button2>
 					<01_Katarina>
-						<CHS>范海辛……?</CHS>
+						<CHS>范海辛…?</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>嗯？</CHS>
+						<CHS>什么？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>你无所畏惧,对吗?</CHS>
+						<CHS>你胆子很大，是吗？</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>只有傻瓜才没有恐惧。</CHS>
+						<CHS>只有傻子才会恐惧。</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>所以…你害怕按下按钮？</CHS>
+						<CHS>那么你还是害怕纽扣……？</CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>*叹气*我们不会按下这按钮的!</CHS>
+						<CHS>*叹气*我们可不会按下按键的！</CHS>
 					</06_VH>
 					<07_Katarina>
 						<CHS>求你了！</CHS>
@@ -1022,45 +1022,45 @@
 			<Wisp>
 				<Pesky_Wisp>
 					<01_Katarina>
-						<CHS>看,是一座博格维亚灯塔 !</CHS>
+						<CHS>看，一个柏格凡痕迹！</CHS>
 					</01_Katarina>
 				</Pesky_Wisp>
 				<Following_the_Wisp>
 					<01_Katarina>
-						<CHS>你确定你想跟着那束光吗？你肯定听过那故事。</CHS>
+						<CHS>你确定要跟随那道光吗？你肯定也听说过哪个传说。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>关于不怕光猎人的故事？</CHS>
+						<CHS>关于不怕光的那位猎人？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>另一个,被杀了，尸体上有一顶帽子，留下了一段美丽幽灵的故事。</CHS>
+						<CHS>另外一个人，被杀死后留下一个美丽的灵魂，束缚在一个带着大帽子的尸体上。</CHS>
 					</03_Katarina>
 				</Following_the_Wisp>
 				<Wisp_Katarina_I_Told_You>
 					<01_Katarina>
-						<CHS>我讨厌说我曾经这样告诉过你。</CHS>
+						<CHS>我讨厌反复告诫你</CHS>
 					</01_Katarina>
 				</Wisp_Katarina_I_Told_You>		
 			</Wisp>
 			<Frog_Statue>
 				<The_Frog_Statue>
 					<01_Katarina>
-						<CHS>真聪明！那么你就可以移动雕像了...嗯...出于某种神秘的原因。</CHS>
+						<CHS>真聪明！那样你就可以以完成神秘的理由….移走那个神像</CHS>
 					</01_Katarina>
 				</The_Frog_Statue>
 				<Big_Frog_Statue>
 					<01_Katarina>
-						<CHS>这座雕像看起来很特别。我敢打赌,他曾经是一个伟大的湖怪国王。</CHS>
+						<CHS>此雕像看起来很特殊。我肯定他过去是个伟大的沃迪亚诺伊君王</CHS>
 					</01_Katarina>
 				</Big_Frog_Statue>		
 			</Frog_Statue>
 			<Spirit>
 				<Spirit_Activate_Runestone>
 					<01_VH>
-						<CHS>嗯,这很奇怪。我从石头里感到一股能量。</CHS>
+						<CHS>哦，那很奇怪。我从那石头那感受到了能量爆发的气息</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>你不要乱动博格维亚里的古代符文石。你一不小心就会召唤什么东西的。</CHS>
+						<CHS>不要在博加维亚玩弄符文，你可能会意外地召唤出什么来</CHS>
 					</02_Katarina>
 				</Spirit_Activate_Runestone>
 				<Spirit_Summon_Spirit>
@@ -1068,121 +1068,121 @@
 						<CHS></CHS>
 					</erdoszellem_felebred>
 					<01_Katarina>
-						<CHS>你听说到了吗？森林灵魂的呼唤！</CHS>
+						<CHS>你听到了吗？那是森林精灵的召唤！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>什么是森林灵魂？</CHS>
+						<CHS>什么森林精神？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>你从石头里召唤出来的那个！我告诉过你!现在你必须把它搞定！</CHS>
+						<CHS>这是你从石头召唤出来的！我告诉过你！现在你必须处理好它。</CHS>
 					</03_Katarina>
 				</Spirit_Summon_Spirit>
 			</Spirit>
 			<Professor_Toad>
 				<BNT_Professor_Toad01>
 					<01_Professor_Toad>
-						<CHS>如果你碰巧发现还有任何古老的湖怪，我会向你购买的。我计划开一个博物馆。</CHS>
+						<CHS>如果你碰巧发现一些沃迪亚诺伊遗骸，我会买下它们。我计划开一家博物馆</CHS>
 					</01_Professor_Toad>
 				</BNT_Professor_Toad01>
 				<BNT_Professor_Toad02>
 					<01_Professor_Toad>
-						<CHS>你真的应该看看我们的古代符文石。它们很精致!</CHS>
+						<CHS>我真应该看看我们古老的符文了，它们别致极了！</CHS>
 					</01_Professor_Toad>
 				</BNT_Professor_Toad02>
 				<BNT_Professor_Toad03>
 					<01_Professor_Toad>
-						<CHS>我听到东南方有狼在嚎叫。我还以为他们不住在这附近。</CHS>
+						<CHS>我听到东南方向有狼叫声。我不认为它们生活在附近</CHS>
 					</01_Professor_Toad>
 				</BNT_Professor_Toad03>
 				<BNT_Professor_Toad04>
 					<01_Professor_Toad>
-						<CHS>如果我听到什么有趣的事情，我一定会让你知道的!</CHS>
+						<CHS>如果我听到什么有趣的事情，一定会让你知道！</CHS>
 					</01_Professor_Toad>
 				</BNT_Professor_Toad04>		
 			</Professor_Toad>
 			<Dreadknecht_Camp>
 				<What_is_this_Camp>
 					<01_Katarina>
-						<CHS>这是什么地方?</CHS>
+						<CHS>这是个什么什么地方？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>这肯定很重要...考虑到那个警卫试图杀死我们。</CHS>
+						<CHS>那一定很重要……考虑到那些守卫要杀死你</CHS>
 					</02_VH>
 				</What_is_this_Camp>
 				<This_is_Dreadknecht_Camp>
 					<01_Katarina>
-						<CHS>一定是铁匠告诉我们的营地了。</CHS>
+						<CHS>这肯定就是铁匠告诉过我的营地。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>是时候去耍耍玩具士兵了!</CHS>
+						<CHS>该玩玩玩具士兵了！</CHS>
 					</02_VH>
 				</This_is_Dreadknecht_Camp>
 			</Dreadknecht_Camp>
 			<Falank>
 				<Falank_info>
 					<01_Katarina>
-						<CHS>哟,一个伟大的暴食者雕像...</CHS>
+						<CHS>哟，超级大胃王啊……</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>暴食者...?</CHS>
+						<CHS>吞噬者…？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>一只湖怪之神。小蛙把骨头扔进它的嘴里来祈求奇迹的发生。愚蠢的动物。</CHS>
+						<CHS>沃迪亚诺伊的神。小青蛙们把骨头扔到它嘴里，祈祷奇迹的发生。真是愚蠢的生物。</CHS>
 					</03_Katarina>
 				</Falank_info>
 				<Falank_no_food>
 					<01_Katarina>
-						<CHS>我以为你肯定会数骨头数到死...</CHS>
+						<CHS>从你的骨头数量来看，我觉得你死定了……</CHS>
 					</01_Katarina>
 				</Falank_no_food>
 			</Falank>
 			<Hunting_Party>
 				<Ancient_wp_reached>
 					<01_Frog_c_boss_nagyerdo>
-						<CHS>所有的犯人都通过了吗？</CHS>
+						<CHS>所有的囚犯都通过去了吗？</CHS>
 					</01_Frog_c_boss_nagyerdo>
 					<02_vrikolak_cutscene>
-						<CHS>是的,学究!我们明天会把他们扔进实验室的。</CHS>
+						<CHS>是的，主人！我们明天就要把他们送到实验室去</CHS>
 					</02_vrikolak_cutscene>
 					<03_Frog_c_boss_nagyerdo>
-						<CHS>今天。暴脾气教授不喜欢等待。</CHS>
+						<CHS>今天。福尔米加提教授不喜欢等人</CHS>
 					</03_Frog_c_boss_nagyerdo>
 					<04_vrikolak_cutscene>
-						<CHS>当...当然。学究!</CHS>
+						<CHS>当……当然，总督！</CHS>
 					</04_vrikolak_cutscene>
 					<05_Frog_c_boss_nagyerdo>
-						<CHS>去吧。</CHS>
+						<CHS>那么走吧。</CHS>
 					</05_Frog_c_boss_nagyerdo>
 				</Ancient_wp_reached>
 				<Ancient_wp_reached2>
 					<01_Frog_c_boss_nagyerdo>
-						<CHS>既然你一直躲着，那你一定觉得这一切很有意思吧。</CHS>
+						<CHS>因为你身处暗影当中，我想你肯定会觉得这些有意思的</CHS>
 					</01_Frog_c_boss_nagyerdo>
 					<02_VH>
-						<CHS>确实。但我仍然有问题。比如，你是谁，你是什么？</CHS>
+						<CHS>确实。但我还是有问题。比如说你到底是什么人</CHS>
 					</02_VH>
 					<03_Frog_c_boss_nagyerdo>
-						<CHS>哦,你再也不需要担心这样的事情了,猎人。</CHS>
+						<CHS>哦，猎人，你不不需要再担心这样的事了。</CHS>
 					</03_Frog_c_boss_nagyerdo>
 					<04_Katarina>
-						<CHS>哦,这会很有趣！</CHS>
+						<CHS>哦，这会很有趣的！</CHS>
 					</04_Katarina>
 					<05_Frog_c_boss_nagyerdo>
-						<CHS>爪牙们，攻击！</CHS>
+						<CHS>魔仆们，进攻！</CHS>
 					</05_Frog_c_boss_nagyerdo>
 				</Ancient_wp_reached2>
 				<Ancient_wp_activated>
 					<01_Katarina>
-						<CHS>这令人厌恶的东西是什么？</CHS>
+						<CHS>这个恶心的东西是什么？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>看起来像是在实验室创造出来的东西！</CHS>
+						<CHS>看上去像是某种实验室的产物</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>所以这肯定是真的。我亲爱的博格维亚成为了一个邪恶的科学家。</CHS>
+						<CHS>或许真的是真的。我亲爱的博加维亚变成了邪恶科学家的乐园。</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>难怪老式的怪物成了稀有品种。</CHS>
+						<CHS>难怪那老式可爱的怪物渐渐灭绝了。</CHS>
 					</04_VH>
 				</Ancient_wp_activated>
 			</Hunting_Party>
@@ -1192,19 +1192,19 @@
 			<Other>
 				<Ch1_DealWithThePriest>
 					<01_VH>
-						<CHS>你做了什么,你个怪物？</CHS>
+						<CHS>你干了什么，怪物？</CHS>
 					</01_VH>
 					<02_Village_Priest_soldier>
-						<CHS>你!你的父亲和那个可怕的协议!!博格维亚人已经放弃了他们的信仰,并且结交了这些野兽!这是一次警钟!</CHS>
+						<CHS>你！你父亲和那份可怕的条约！博加维亚n背弃了他们的信仰，与那些野兽为伍！这为我们敲响了警钟！</CHS>
 					</02_Village_Priest_soldier>
 					<03_VH>
-						<CHS>告诉那些因为你邪恶盟友而死去的人。</CHS>
+						<CHS>告诉死去的人民，是由于你的恶魔盟友造成的。</CHS>
 					</03_VH>
 					<04_Village_Priest_soldier>
-						<CHS>我只是想告诉他们,这些怪物是很危险的!</CHS>
+						<CHS>我只是想告诉他们怪物都是很危险的！</CHS>
 					</04_Village_Priest_soldier>
 					<05_VH>
-						<CHS>我认为你已经完成了。滚开！</CHS>
+						<CHS>我想你已经完成了。走你！</CHS>
 					</05_VH>
 				</Ch1_DealWithThePriest>
 			</Other>
@@ -1214,16 +1214,16 @@
 			<Other>
 				<banter_cave_entrance>
 					<01_Katarina>
-						<CHS>这里曾经是黄铜矿井，带有魔法属性的金属。</CHS>
+						<CHS>他们过去就在这里开采奥里哈鲁根，这种金属有魔法特性。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你看见有矿车了吗？穿过隧道会更容易的。</CHS>
+						<CHS>你看到矿车了吗？那样要穿过这些坑道就简单多了</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>不!你知道,这肯定会升级成矿车追逐的!我们可不想那样,对吗？</CHS>
+						<CHS>不！你知道这总会演变为矿车大追逐的！我们可不想这样，是吗？</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>对，我们不想。</CHS>
+						<CHS>不，我们不会。</CHS>
 					</04_VH>
 				</banter_cave_entrance>
 			</Other>
@@ -1233,68 +1233,68 @@
 			<Other>
 				<banter_worm_boss>
 					<01_VH>
-						<CHS>看看那个！这肯定是另一个从实验室出来的生物。</CHS>
+						<CHS>看！那肯定是另一个来自实验室的怪物</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我以为这只是用来挖隧道的。它应该不邪恶。</CHS>
+						<CHS>我想它只会挖隧道。并不是恶魔</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>太好了!所以它不会把我撕裂的。</CHS>
+						<CHS>很好！这样它就不会把我撕成碎片了</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>我没有这样说。</CHS>
+						<CHS>我没那么说</CHS>
 					</04_Katarina>
 				</banter_worm_boss>
 				<banter_worm_boss_over>
 					<01_VH>
-						<CHS>嗯,这真是难缠。</CHS>
+						<CHS>哦，那是个不好搞定的家伙</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>你父亲会感到自豪的。</CHS>
+						<CHS>你的父亲会为你骄傲的</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我父亲只会埋怨我懒散的战斗姿势。</CHS>
+						<CHS>我父亲只会对我的草率行为做出批评</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>我知道。但我觉得他说得没错。</CHS>
+						<CHS>我知道。但它想要说真话</CHS>
 					</04_Katarina>
 				</banter_worm_boss_over>
 				<banter_worm_cave_exit>
 					<01_Katarina>
-						<CHS>这是出口吗?这到底是什么？</CHS>
+						<CHS>那就是出口？那这是什么？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>一个输送矿物至博格维亚的索道输送机。我们不必走路了。</CHS>
+						<CHS>把矿石运送到博加维亚的索道运输车。看来，我们也不是非得靠步行了</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>现在就高兴了吗?你可以驾驶矿车了。</CHS>
+						<CHS>现在高兴了？你终于能坐上矿车了</CHS>
 					</03_Katarina>
 				</banter_worm_cave_exit>
 			</Other>
 			<Katarina>
 				<Fura_machines>
 					<01_Katarina>
-						<CHS>哦!这些机器是干什么的？我们可以打开它们吗？</CHS>
+						<CHS>嗷！这些机器有什么用？我们能打开它们吗？求你了。</CHS>
 					</01_Katarina>
 				</Fura_machines>
 				<Electric_contact_done>
 					<01_Katarina>
-						<CHS>太壮观了，但完全无用。也把其他机器打开吧!</CHS>
+						<CHS>真是壮观，不过是没用的。把其他机器也打开！</CHS>
 					</01_Katarina>
 				</Electric_contact_done>
 				<Turn_on_central_machine>
 					<01_Katarina>
-						<CHS>去开主机器吧。越来越刺激了！</CHS>
+						<CHS>下一步是主要机器。这会很刺激！</CHS>
 					</01_Katarina>
 				</Turn_on_central_machine>
 				<Monster_paralyzed>
 					<01_Katarina>
-						<CHS>动手 !你还在等什么呢? !它瘫痪了!</CHS>
+						<CHS>打它呀！你还在等什么？！它被瘫痪了！</CHS>
 					</01_Katarina>
 				</Monster_paralyzed>
 				<Activate_the_electric_machines>
 					<01_Katarina>
-						<CHS>这不管用！相信我的直觉,打开那些奇怪的机器!</CHS>
+						<CHS>不管用！相信我的本能，打开那些奇怪的机器！</CHS>
 					</01_Katarina>
 				</Activate_the_electric_machines>
 			</Katarina>
@@ -1304,210 +1304,210 @@
 			<Other>
 				<Find_a_shewer_entrance>
 					<01_VH>
-						<CHS>知道父亲的秘密巢穴在哪吗？</CHS>
+						<CHS>知道我父亲的的秘密巢穴会在哪儿吗？</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我在想!他们已经把这个社区变成了一个工厂！巢穴就在城市之下的古代迷宫中。我们应该前往地下隧道。</CHS>
+						<CHS>我在想！他们把这附近变成了工厂！巢穴实际上在这座城市地下的古代迷宫里。我们得去地下隧道</CHS>
 					</02_Katarina>
 				</Find_a_shewer_entrance>
 				<Energy_Wall_1>
 					<01_Katarina>
-						<CHS>看!又是那奇怪的力场墙。你想让我看它们上面是什么吗？</CHS>
+						<CHS>看！又出现了奇怪的力场墙。需要我去查看他们后面有什么？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>不。我们再找一条路。</CHS>
+						<CHS>不。我们另寻他路。</CHS>
 					</02_VH>
 				</Energy_Wall_1>
 				<New_redbutton_2>
 					<01_Katarina>
-						<CHS>难道那不是另一个红色按钮吗？如果我有身体，我肯定要按下它。</CHS>
+						<CHS>好的，好的，这不就是另一个红色按钮吗？如果我有身体，我一定会毫不犹豫地按下去。</CHS>
 					</01_Katarina>
 				</New_redbutton_2>
 				<This_is_a_trap>
 					<01_Katarina>
-						<CHS>这地方很不对劲，你感觉到了吗？</CHS>
+						<CHS>这地方有些不对劲，你感觉到了没？</CHS>
 					</01_Katarina>
 				</This_is_a_trap>
 				<Mouse_trap>
 					<01_Katarina>
-						<CHS>很好，你直接进入了捕鼠器，想想你父亲知道后的表情吧！</CHS>
+						<CHS>干得漂亮！你径直走向一个老鼠夹。想象一下你父亲知道这件事以后脸上的表情！</CHS>
 					</01_Katarina>
 				</Mouse_trap>
 				<Energy_Wall_2>
 					<01_Katarina>
-						<CHS>我讨厌这些力场墙。</CHS>
+						<CHS>我恨这些力场墙。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>为什么？它们扰乱你幽灵般的身体了吗？</CHS>
+						<CHS>为什么？他们扰乱了你幽灵般的身体？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>它们把我的发型都弄乱了，看看！</CHS>
+						<CHS>他们把我的头发搞得一团糟，你瞧我！</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>不行，我们想想其他办法吧。</CHS>
+						<CHS>我们不能有这个。咱们还是找别的法子吧。</CHS>
 					</04_VH>
 				</Energy_Wall_2>
 				<Look_a_shewer_Entrance>
 					<01_Katarina>
-						<CHS>看!就在那里。是隧道入口!</CHS>
+						<CHS>看！那下面。隧道入口！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>污水隧道。好极了。</CHS>
+						<CHS>下水道。棒极了。</CHS>
 					</02_VH>
 				</Look_a_shewer_Entrance>
 				<Filthy_Helsing>
 					<01_Katarina>
-						<CHS>你在做什么呢？真恶心。至少你父亲还有一些荣誉感。</CHS>
+						<CHS>你在干什么？那真恶心，至少你父亲多少有些尊严</CHS>
 					</01_Katarina>
 				</Filthy_Helsing>
 				<Dreadworks_banter>
 					<01_VH>
-						<CHS>哎呀！看看这个工厂，这…</CHS>
+						<CHS>我的天！看看这些工厂，这简直……</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>太可怕了！</CHS>
+						<CHS>糟糕！</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我非常理解你因为这些变化而产生的混乱心情...</CHS>
+						<CHS>我能够理解你会对这些变化感到难过……</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>你知道这些污秽的空气会把我的衣服怎么样吗？我好伤心啊！</CHS>
+						<CHS>你知道这些腌臜的气体要对我的衣服做什么吗？我心都碎了。</CHS>
 					</04_Katarina>
 				</Dreadworks_banter>
 			</Other>
 			<Domovoi_Baggins>
 				<Domovoi_Baggins_1>
 					<01_Domovoi_Baggins>
-						<CHS>我的… 宝贝… 这是…我们的…宝贝…!</CHS>
+						<CHS>我的……宝贝……这是……我们的……宝贝……！</CHS>
 					</01_Domovoi_Baggins>
 				</Domovoi_Baggins_1>
 				<Domovoi_Baggins_2>
 					<01_Domovoi_Baggins>
-						<CHS>走开！离这个幽灵远点！我们绝不能让他得到这东西，不行！</CHS>
+						<CHS>滚开！离开这个德默沃伊！我们不能让他得到这个，绝不！</CHS>
 					</01_Domovoi_Baggins>
 				</Domovoi_Baggins_2>
 				<Domovoi_Baggins_3>
 					<01_Domovoi_Baggins>
-						<CHS>残忍的人类伤害了我们，我的宝贝，但我们会照顾好自己，我们会的！</CHS>
+						<CHS>残忍的男人伤害了我们，我的珍爱，但我们能照顾好我们自己，我们可以！</CHS>
 					</01_Domovoi_Baggins>
 				</Domovoi_Baggins_3>
 			</Domovoi_Baggins>
 			<Engineer>
 				<Need_some_electric_coil>
 					<01_Engineer>
-						<CHS>啊，太好了！命运派了一位陌生人来给我自由！</CHS>
+						<CHS>啊，太好了！命运之神派了一个神秘的陌生人来让我自由！</CHS>
 					</01_Engineer>
 					<02_Katarina>
-						<CHS>如果“命运”是一个叫弗拉多斯的花花公子吸血鬼的别名的话，那么你是对的。</CHS>
+						<CHS>如果“命运”是另一个名叫瓦兰多斯的衣着华丽吸血鬼，那么你就是对的</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我们需要你修理我们秘密巢穴中的发电机。我们没有现代科学奇才的经验。</CHS>
+						<CHS>我们需要修理秘密洞穴里的发生器。我们对这些现代科学的成果毫无经验</CHS>
 					</03_VH>
 					<04_Engineer>
-						<CHS>那堆古代垃圾？不可能。我们至少需要四个电线圈，而我们一个都没有。</CHS>
+						<CHS>那个古代垃圾？不可能。我们至少需要四个电线圈，并且我们一个都没有</CHS>
 					</04_Engineer>
 					<05_Katarina>
-						<CHS>我们在哪里可以得到这些...电动玩具？</CHS>
+						<CHS>那么我们在哪儿能找到这些……电器玩具呢？</CHS>
 					</05_Katarina>
 					<06_Engineer>
-						<CHS>机器骑士用他们当做能量源，他们仓库有很多线圈，这里肯定也有不少。我要开启电梯，把线圈运送到巢穴里 - 我马上就过去。</CHS>
+						<CHS>机械骑士将它们当做能量之源。你一定要在他们防守严密的库房中找到线圈！我会把电梯打开，把线圈带给你……好吧……我会在巢穴等你。</CHS>
 					</06_Engineer>
 				</Need_some_electric_coil>
 				<I_need_four_coil>
 					<01_Engineer>
-						<CHS>我看到了你的进步，很好，我们还需要更多的进步！</CHS>
+						<CHS>我看见你在不断近不，这很好。不过还没完，我们的目标是他们全部。</CHS>
 					</01_Engineer>
 				</I_need_four_coil>
 			</Engineer>
 			<Vlados>
 				<First_Meet_Vlados>
 					<01_Vlados>
-						<CHS>范海辛先生,我说的对吗?</CHS>
+						<CHS>范海辛，我想？</CHS>
 					</01_Vlados>
 					<02_VH>
-						<CHS>吸血鬼?真的吗?</CHS>
+						<CHS>一只吸血鬼？真的吗？</CHS>
 					</02_VH>
 					<03_Vlados>
-						<CHS>啧啧啧啧!那是没有理由的,先生。我也没有评论你父亲的缺席，对吗？我会写信给他的。</CHS>
+						<CHS>啧啧！那是没必要的，先生。我没有对你父亲的缺席说什么，不是吗？我们给他送了信</CHS>
 					</03_Vlados>
 					<04_Katarina>
-						<CHS>你让自己变成了一个更年轻的范海辛。在薄荷条件下，只会有一点小损失。</CHS>
+						<CHS>你得到了一个更年轻的范海辛，几乎是崭新的，只是有一点磨损</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>虽然你的信没什么神秘，我想，你需要我打败一些疯狂的科学家。</CHS>
+						<CHS>尽管你的用语非常诡异，但是我还是猜出来你应该是需要我去打败一些疯狂的科学家</CHS>
 					</05_VH>
 					<06_Vlados>
-						<CHS>就一个,我的朋友。我恐怕暴脾气教授杀死了其他人。但我向你保证,他非常疯狂。</CHS>
+						<CHS>只有一个了，我的朋友。恐怕福尔米加提博士把其它人都杀了。但我告诉你，他疯得很厉害</CHS>
 					</06_Vlados>
 					<07_VH>
-						<CHS>你打算如何消灭他？</CHS>
+						<CHS>你打算怎么消灭他？</CHS>
 					</07_VH>
 					<08_Vlados>
-						<CHS>一步一个脚印,我亲爱的朋友。首先,看看你的周围。</CHS>
+						<CHS>一步步来，我亲爱的朋友。首先四处看看。</CHS>
 					</08_Vlados>
 				</First_Meet_Vlados>
 				<Vlados_banters1>
 					<01_Vlados>
-						<CHS>我是弗拉多斯伯爵…对你的到来表示热烈欢迎！</CHS>
+						<CHS>我是维拉多斯伯爵……欢迎光临！</CHS>
 					</01_Vlados>
 				</Vlados_banters1>
 				<Vlados_banters2>
 					<01_Vlados>
-						<CHS>难道你不觉得，噼噼啪啪的污水管道十分迷人吗？…没错，我是一位诗人，你眼力真好！</CHS>
+						<CHS>你难道不觉得污水管道中那些“啪嗒，啪嗒”的声响，既简洁又令人沉醉吗？……没错我是个诗人，你观察的真细致。</CHS>
 					</01_Vlados>
 				</Vlados_banters2>
 				<Vlados_banters3>
 					<01_Vlados>
-						<CHS>我为什么来这里？因为这些人需要一位英雄！所以在找到英雄前，这里由我负责。</CHS>
+						<CHS>我为什么在这儿？这些人需要一个英雄！……所以，在我们找到一个英雄之前，我先顶一会儿。</CHS>
 					</01_Vlados>
 				</Vlados_banters3>
 				<Vlados_banters4>
 					<01_Vlados>
-						<CHS>这地方真迷人，对吧？</CHS>
+						<CHS>这地方太迷人了，难道不是吗？</CHS>
 					</01_Vlados>
 				</Vlados_banters4>
 			</Vlados>
 			<Saffi_in_lair>
 				<Saffi_and_Gaspar>
 					<01_Katarina>
-						<CHS>看!我认识他们!</CHS>
+						<CHS>看！我认识他们！</CHS>
 					</01_Katarina>
 					<02_Saffi_in_lair>
-						<CHS>救命！救救我们,猎人!</CHS>
+						<CHS>救命！救救我们，猎人！</CHS>
 					</02_Saffi_in_lair>
 					<03_VH>
-						<CHS>你在这里做什么?</CHS>
+						<CHS>你在这里做什么？</CHS>
 					</03_VH>
 					<04_Saffi_in_lair>
-						<CHS>士兵机器攻击了我们的营地。他们杀了我们的朋友，把我们拖到这座城市。我们逃脱了,但他们正在追我们。我们需要藏起来！</CHS>
+						<CHS>机器士兵攻击我们营地。他们杀了我们的朋友和把我们拖到了城市。我们逃了出来，但是他们在追踪我们。我们要藏起来！</CHS>
 					</04_Saffi_in_lair>
 					<05_Katarina>
-						<CHS>真糟糕!你知道的,我们也有一段可怕的旅程。臭洞穴中的可怕战斗，生锈桶中的空中乘骑...</CHS>
+						<CHS>真可怕！你知道吗，我们也经历了一次可怕的行程。在一个臭烘烘的洞穴里发生了疯狂的战斗，坐在一个生锈的铁桶里飞越天空…</CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>卡特琳娜！我父亲的秘密巢穴一定就在这附近了。去地下隧道找找看。我们马上就过来。</CHS>
+						<CHS>卡特琳娜！我父亲的秘密巢穴一定是被关闭了。快去地下隧道找到这地方，我们随后就到。</CHS>
 					</06_VH>
 					<07_Saffi_in_lair>
-						<CHS>你真是太好了。但是…你怎么办，帅哥？你在这外面安全吗？</CHS>
+						<CHS>你真是友好。但是…你怎么样，帅气？你在这里会安全吗？</CHS>
 					</07_Saffi_in_lair>
 					<08_VH>
-						<CHS>你不必为我担心,我的夫人。我为战斗而生。</CHS>
+						<CHS>你不用担心我，夫人，我是为战斗而生的</CHS>
 					</08_VH>
 					<09_Katarina>
-						<CHS>阻止这个，拜托了，不然我会惊醒玩具士兵的。</CHS>
+						<CHS>住手，求你了不然我会亲自向警卫报告的。</CHS>
 					</09_Katarina>
 				</Saffi_and_Gaspar>
 			</Saffi_in_lair>
 			<Matthias>
 				<Shopkeeper_cutscene>
 					<01_Matthias>
-						<CHS>你不会活捉我的！反抗势力万岁！</CHS>
+						<CHS>你不能把我活着带走！ 抵抗派万岁！</CHS>
 					</01_Matthias>
 					<02_Dreadknecht1>
-						<CHS>投降,不听话的公民!</CHS>
+						<CHS>投降吧，反叛的平民们！</CHS>
 					</02_Dreadknecht1>
 					<03_Dreadknecht2>
-						<CHS>带领我们…去见你的...领袖！</CHS>
+						<CHS>带我们……去见你的……首领！</CHS>
 					</03_Dreadknecht2>
 				</Shopkeeper_cutscene>
 			</Matthias>
@@ -1517,39 +1517,39 @@
 			<Katarina>	
 				<This_is_wrong_place>
 					<01_Katarina>
-						<CHS>我觉得我们已经离开博格维亚了。</CHS>
+						<CHS>我感觉我们已经不在博加维亚了。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>大门有点不对劲。墨境变得越来越不安。你感觉到了吗？</CHS>
+						<CHS>这大门有些不对劲，墨境正在变得越来越不平静，你感觉到了吗？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>这是在暗示我说…“哦，不！我们永远都被困在这了”吗？！</CHS>
+						<CHS>那我是不是要说……“哦不！我们要永远被困在这地方了！”</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>还没有。一定有路出去。</CHS>
+						<CHS>言之尚早，一定有办法离开这里。</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>没错，是范海辛的座右铭。</CHS>
+						<CHS>好吧，来自范海辛的官方提示。</CHS>
 					</05_Katarina>
 				</This_is_wrong_place>
 				<BNT_Blood_rabbit_cutscene>
 					<01_Katarina>
-						<CHS>一场可怕的大屠杀！是谁干的？</CHS>
+						<CHS>一场可怕的大屠杀！会是谁干的？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>就在眼前。</CHS>
+						<CHS>近在眼前。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>在兔子后面？</CHS>
+						<CHS>在兔子后面吗？</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>就是兔子干的。</CHS>
+						<CHS>是一只兔子。</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>别耍宝了。</CHS>
+						<CHS>别搞笑了。</CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>我倒是想啊。</CHS>
+						<CHS>我绝不会梦到这个。</CHS>
 					</06_VH>
 				</BNT_Blood_rabbit_cutscene>
 			</Katarina>
@@ -1559,108 +1559,108 @@
 			<Saffi_in_lair>
 				<Lazy_monster_hunter>
 					<01_Saffi_in_lair>
-						<CHS>钱呢，帅哥？认了吧，猎人，大家都不容易。</CHS>
+						<CHS>那些骨头哪儿去了，帅哥？承认吧，猎人，这没那么简单</CHS>
 					</01_Saffi_in_lair>
 				</Lazy_monster_hunter>
 				<Saffi_stock_line1>
 					<01_Saffi_in_lair>
-						<CHS>我只是喜欢这个大城市而已！</CHS>
+						<CHS>我只是喜欢大城市！</CHS>
 					</01_Saffi_in_lair>
 				</Saffi_stock_line1>
 				<Saffi_stock_line2>
 					<01_Saffi_in_lair>
-						<CHS>如此多的伤心之人，卖掉了如此多的药水。</CHS>
+						<CHS>断肠人太多，卖出的药更多。</CHS>
 					</01_Saffi_in_lair>
 				</Saffi_stock_line2>
 				<Saffi_stock_line3>
 					<01_Saffi_in_lair>
-						<CHS>这一切结束之后，我想开家属于自己的店。</CHS>
+						<CHS>等这一切结束，我想开家属于自己的店。</CHS>
 					</01_Saffi_in_lair>
 				</Saffi_stock_line3>
 				<Saffi_stock_line4>
 					<01_Saffi_in_lair>
-						<CHS>再走近点，帅哥。</CHS>
+						<CHS>靠近些，小白脸。</CHS>
 					</01_Saffi_in_lair>
 				</Saffi_stock_line4>
 				<Saffi_stock_line5>
 					<01_Saffi_in_lair>
-						<CHS>哦，你看上去很疲倦的样子。</CHS>
+						<CHS>哦，看起来你很疲惫。</CHS>
 					</01_Saffi_in_lair>
 				</Saffi_stock_line5>
 				<Saffi_stock_line6>
 					<01_Saffi_in_lair>
-						<CHS>有时候，我会很想念营火和音乐。</CHS>
+						<CHS>有时候我真想念温暖的营火和悠扬的音乐。</CHS>
 					</01_Saffi_in_lair>
 				</Saffi_stock_line6>				
 			</Saffi_in_lair>
 			<Gaspar_in_Lair>
 				<Gaspar_stock_line1>
 					<01_Gaspar_in_Lair>
-						<CHS>真希望我能探索一下这些隧道！</CHS>
+						<CHS>我真想进这些隧道探索一番！</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line1>						
 				<Gaspar_stock_line2>
 					<01_Gaspar_in_Lair>
-						<CHS>我敢打赌这个迷宫里到处都是秘密宝藏。</CHS>
+						<CHS>我打赌这迷宫里一定满是神秘的宝藏！</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line2>			
 				<Gaspar_stock_line3>
 					<01_Gaspar_in_Lair>
-						<CHS>我的旅游商场又多了那么多新来的怪物！</CHS>
+						<CHS>我的旅行商场又能添些新品了！</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line3>			
 				<Gaspar_stock_line4>
 					<01_Gaspar_in_Lair>
-						<CHS>你知道吗，我非常想念到处奔走的日子。</CHS>
+						<CHS>我怀念在旅途上的时光，你知道的。</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line4>			
 				<Gaspar_stock_line5>
 					<01_Gaspar_in_Lair>
-						<CHS>我想念风和太阳！我想念自由！</CHS>
+						<CHS>我怀念微风习习，怀念烈日炎炎！我怀念自由！</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line5>			
 				<Gaspar_stock_line6>
 					<01_Gaspar_in_Lair>
-						<CHS>我将收集奇怪的机器，那就是我的未来。</CHS>
+						<CHS>我会收集这些奇怪的机械，这才是未来。</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line6>			
 				<Gaspar_stock_line7>
 					<01_Gaspar_in_Lair>
-						<CHS>想赚点钱吗？我想到了一个伟大的赚钱小计。</CHS>
+						<CHS>你想要赚些钱吗？我可想出了一些生财之道。</CHS>
 					</01_Gaspar_in_Lair>
 				</Gaspar_stock_line7>
 			</Gaspar_in_Lair>						
 			<Matthias>				
 				<Matthias_stock_line1>
 					<01_Matthias>
-						<CHS>哈！是时候给他们点教训了！</CHS>
+						<CHS>哈！是时候给他们上一课了！</CHS>
 					</01_Matthias>
 				</Matthias_stock_line1>
 				<Matthias_stock_line2>
 					<01_Matthias>
-						<CHS>这让我想起了自己在军队的日子。</CHS>
+						<CHS>这让我回想起在军队的岁月。</CHS>
 					</01_Matthias>
 				</Matthias_stock_line2>
 				<Matthias_stock_line3>
 					<01_Matthias>
-						<CHS>我有东西让你看看！</CHS>
+						<CHS>我或许有些东西可以给你！</CHS>
 					</01_Matthias>
 				</Matthias_stock_line3>							
 			</Matthias>			
 			<Arkady>				
 				<Arkady_stock_line1>
 					<01_Arkady>
-						<CHS>不要被我的样子吓到。</CHS>
+						<CHS>不要对我的意外出现感到惊慌失措。</CHS>
 					</01_Arkady>
 				</Arkady_stock_line1>
 				<Arkady_stock_line2>
 					<01_Arkady>
-						<CHS>我不过是在满足要求，你懂的。</CHS>
+						<CHS>我只是在满足需求，你知道的。</CHS>
 					</01_Arkady>
 				</Arkady_stock_line2>
 				<Arkady_stock_line3>
 					<01_Arkady>
-						<CHS>有什么需要吗？尽管来问我。</CHS>
+						<CHS>你需要什么吗，尽管告诉我。</CHS>
 					</01_Arkady>
 				</Arkady_stock_line3>
 				<Arkady_stock_line4>
@@ -1672,83 +1672,83 @@
 			<Todor_Schimko>				
 				<Todor_stock_line1>
 					<01_Todor_Schimko>
-						<CHS>是时候好好利用一下科学了。</CHS>
+						<CHS>这是一个为正义使用科学的好时机。</CHS>
 					</01_Todor_Schimko>
 				</Todor_stock_line1>
 				<Todor_stock_line2>
 					<01_Todor_Schimko>
-						<CHS>电力将是未来的发展趋势，你明白吗。</CHS>
+						<CHS>电力才是通向未来之路，你知道吗。</CHS>
 					</01_Todor_Schimko>
 				</Todor_stock_line2>
 				<Todor_stock_line3>
 					<01_Todor_Schimko>
-						<CHS>我设计出了新样品。但还没完全纯熟。</CHS>
+						<CHS>我在工作的时候鼓捣了一些新设计，不过它们还没完工。</CHS>
 					</01_Todor_Schimko>
 				</Todor_stock_line3>															
 			</Todor_Schimko>			
 			<Dr_Dampf>				
 				<Dr_Dampf_stock_line1>
 					<01_Dr_Dampf>
-						<CHS>每个伟大的发明背后都有一个被拆毁的实验室。</CHS>
+						<CHS>每一个伟大的发明背后都是一座一塌糊涂的实验室。</CHS>
 					</01_Dr_Dampf>
 				</Dr_Dampf_stock_line1>
 				<Dr_Dampf_stock_line2>
 					<01_Dr_Dampf>
-						<CHS>钝齿，闪电和蒸汽！我能制造出来！</CHS>
+						<CHS>螺丝雷电还有蒸汽！我能造出来！</CHS>
 					</01_Dr_Dampf>
 				</Dr_Dampf_stock_line2>
 				<Dr_Dampf_stock_line3>
 					<01_Dr_Dampf>
-						<CHS>*咯咯的笑声*没错！这次有用了！</CHS>
+						<CHS>*咯啦咯啦*太好了！这次一定会管用的！</CHS>
 					</01_Dr_Dampf>
 				</Dr_Dampf_stock_line3>
 				<Dr_Dampf_stock_line4>
 					<01_Dr_Dampf>
-						<CHS>会让他们得到教训的！</CHS>
+						<CHS>让他们好好领教领教！</CHS>
 					</01_Dr_Dampf>
 				</Dr_Dampf_stock_line4>															
 			</Dr_Dampf>			
 			<Engineer>				
 				<Engineer_stock_line1>
 					<01_Engineer>
-						<CHS>…如果我们把阀门装入发电机，那会怎么样呢…</CHS>
+						<CHS>……那如果我们给发电机加上个阀门……</CHS>
 					</01_Engineer>
 				</Engineer_stock_line1>
 				<Engineer_stock_line2>
 					<01_Engineer>
-						<CHS>…因此，杠杆会进入那个插槽，然后…就会运转了。</CHS>
+						<CHS>……然后杆子插进了槽里，然后……这或许管用。</CHS>
 					</01_Engineer>
 				</Engineer_stock_line2>
 				<Engineer_stock_line3>
 					<01_Engineer>
-						<CHS>你能闻到油和油脂的味道吗？妙吧？</CHS>
+						<CHS>你闻到那股混杂着油和油脂的味道了吗？这难道不美妙吗？</CHS>
 					</01_Engineer>
 				</Engineer_stock_line3>
 				<Engineer_stock_line4>
 					<01_Engineer>
-						<CHS>带把锤子和扳手给我，我就能修理一切东西了！</CHS>
+						<CHS>给我个锤子和扳手，我能修好一切！</CHS>
 					</01_Engineer>
 				</Engineer_stock_line4>															
 			</Engineer>			
 			<Rebel_soldier>				
 				<Rebel_stock_line1>
 					<01_Rebel_soldier>
-						<CHS>反抗势力万岁！</CHS>
+						<CHS>上帝万岁！</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line1>
 				<Rebel_stock_line2>
 					<01_Rebel_soldier>
-						<CHS>打倒科学！</CHS>
+						<CHS>干的太漂亮了！</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line2>
 				<Rebel_stock_line3>
 					<01_Rebel_soldier>
-						<CHS>为了博格维亚！</CHS>
+						<CHS>为了波加维亚！</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line3>
 				<Rebel_stock_line4>
 					<01_Rebel_soldier>
-						<CHS>我在等待你下命令，先生。</CHS>
+						<CHS>正恭候您的命令，先生。</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line4>
 				<Rebel_stock_line5>
@@ -1758,126 +1758,126 @@
 				</Rebel_stock_line5>
 				<Rebel_stock_line6>
 					<01_Rebel_soldier>
-						<CHS>一切都已准备就绪。</CHS>
+						<CHS>一切正常。</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line6>
 				<Rebel_stock_line7>
 					<01_Rebel_soldier>
-						<CHS>我从未想过，自己会和一名吸血鬼一起战斗。现代啊！</CHS>
+						<CHS>我从没想过我会和一个吸血鬼并肩作战。这时代就是开放！</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line7>
 				<Rebel_stock_line8>
 					<01_Rebel_soldier>
-						<CHS>一切都静悄悄的。</CHS>
+						<CHS>一切变得很安静。</CHS>
 					</01_Rebel_soldier>
 				</Rebel_stock_line8>																			
 			</Rebel_soldier>						
 			<Katarina>	
 				<BNT_Lair_protection_Failed>
 					<01_VH>
-						<CHS>是时候撤往那个巢穴了。</CHS>
+						<CHS>是时候向巢穴撤退了。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>什么？！我甚至都不知道在我们的词典里还有“撤退”这个词。</CHS>
+						<CHS>什么？我都不知道你的词典里居然还有“撤退”这个词。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我看到奴仆们正涌向巢穴。布雷达一定在那。我们在这纯属浪费时间！</CHS>
+						<CHS>我看见一大群魔仆在向巢穴汇聚，布瑞达一定在那儿，我们在这继续待下去就是浪费时间了！</CHS>
 					</03_VH>
 				</BNT_Lair_protection_Failed>
 				<BNT_Lair_protection_Done>
 					<01_Katarina>
-						<CHS>他们就称这个为袭击？简直像吃馅饼易如反掌。</CHS>
+						<CHS>他们把这叫做“袭击”？这和吃块饼干一样不用费什么劲。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>卡特琳娜，你不吃馅饼，我觉得不怎么好。布雷达在哪？</CHS>
+						<CHS>卡特琳娜，你根本不喜欢吃饼干，而且我觉得这情况不太妙。布瑞达在哪儿？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>在博格维亚，反派们喜欢频繁地使用他们那些狡猾的计划…</CHS>
+						<CHS>博加维亚的小人总是绞尽脑汁地实施他们的奸计。</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>我就知道！他们就是这样悄悄从我们背后溜进巢穴的！</CHS>
+						<CHS>我就知道！所以他们才会背着我们潜进巢穴！</CHS>
 					</04_VH>
 				</BNT_Lair_protection_Done>
 				<Breda_is_here>
 					<01_Katarina>
-						<CHS>知道自己猜对了的感觉真棒啊！布雷达在这！</CHS>
+						<CHS>我爱死我的英明神武了！布瑞达在这里！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>看看这个生物！是新品种。所以，猎杀怪物的第一条规则：小心靠近！</CHS>
+						<CHS>瞧瞧这个玩意儿！这可是个新家伙，好吧，让我们依照怪物狩猎守则第一条行事：小心为上！</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>猎杀怪物还有规则的？你可从没告诉过我。</CHS>
+						<CHS>还有关于怪物狩猎的守则？你可从来没有告诉过我。</CHS>
 					</03_Katarina>
 				</Breda_is_here>
 				<Lair_carpets>
 					<01_Katarina>
-						<CHS>你懂的，我一直在思考秘密巢穴的事情。</CHS>
+						<CHS>你知道，我正在思考有关秘密巢穴的事情。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>那是个完美的藏身之处。</CHS>
+						<CHS>这将会是个完美的藏身之处。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>我只是在想，铺些柔软的地毯会为这个地方增色不少。</CHS>
+						<CHS>我只是在想，一些精美的地毯或许会使这地方锦上添花。</CHS>
 					</03_Katarina>
 				</Lair_carpets>
 				<Sewers_banter1>
 					<01_VH>
-						<CHS>隧道。下水道。我们来了。</CHS>
+						<CHS>隧道，污水，我们来了。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>家，温馨的家。</CHS>
+						<CHS>回家了，甜蜜的家乡。</CHS>
 					</02_Katarina>
 				</Sewers_banter1>
 				<Sewers_banter2>
 					<01_Katarina>
-						<CHS>这个迷宫是一些上古邪神们的秘密地下神殿。</CHS>
+						<CHS>这些迷宫曾是某些古代邪神的秘密地下庙宇。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>它依然保留了自身的一些魔力。</CHS>
+						<CHS>直到现在还残存着一些魔力</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>我曾偷偷溜进去过，并围着那些黑曜石祭坛翩翩起舞。</CHS>
+						<CHS>我曾经偷偷摸摸到过这儿，还在黑曜石祭坛边跳过舞。</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>在你是个幽灵的时候吗？</CHS>
+						<CHS>成了一个幽灵了吗？</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>不，还要早。那时，我是个桀骜不驯的女孩，结交了一些坏朋友。那段日子真是美好啊！</CHS>
+						<CHS>不，那是在这之前，我还是个跟错了组织的疯丫头。不过挺美好的。</CHS>
 					</05_Katarina>
 				</Sewers_banter2>				
 			</Katarina>
 			<VH>
 				<Breda_is_dead>
 					<01_VH>
-						<CHS>当我认为自己已经看遍了这个镇上的一切之后，我不得不打败那个机械小神。</CHS>
+						<CHS>当我以为我看透了这个城镇给我的所有风景，我还得跟一个呆板的小土地神打一架。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我真为这只可怜的生物悲哀啊，但这样的战斗过后，就荡然无存了。</CHS>
+						<CHS>我很同情这个可怜的家伙，当然并不是因为经历了一场像这样的战斗才会这么说。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我们好好看看，没有了将军的帮助，这位博士还能做什么。</CHS>
+						<CHS>让我们见识见识教授在没有将军的帮助下能干些什么吧。</CHS>
 					</03_VH>
 				</Breda_is_dead>
 				<Alchemist_banter>
 					<01_VH>
-						<CHS>你看上去很面熟。</CHS>
+						<CHS>你看起来挺面熟。</CHS>
 					</01_VH>
 					<02_Alchemist_Lair>
-						<CHS>啊！一定是面具的缘故。科学家不同，实验室发生的事故却一样。</CHS>
+						<CHS>哈！这一定是掩饰！不同的科学家，同样的实验室事故。</CHS>
 					</02_Alchemist_Lair>
 				</Alchemist_banter>				
 				<Chapter2_end>
 					<01_Katarina>
-						<CHS>我们打败了博士的机械将军并毁灭了一支军队。接下来你有什么计划？</CHS>
+						<CHS>我们已经打败了教授的机械将军并摧毁了一支军队，所以你对这一天剩下的时光有什么计划吗？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>趁他们还在舔舐伤口之时，你得作出反击。</CHS>
+						<CHS>我们要趁他们还在休养生息的时候杀他们个措手不及。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>终于！复仇和混乱！现在，这和我过去所了解的博格维亚可就像多了。</CHS>
+						<CHS>终于！复仇和破坏！现在这儿才像是我认识的博加维亚。</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>暴脾气就藏在旧城某处酝酿着阴谋。这次，我们去拜访他吧。</CHS>
+						<CHS>福尔米加提藏在了古镇继续着他的阴谋，这回我们给他来个突然造访。</CHS>
 					</04_VH>					
 				</Chapter2_end>
 			</VH>
@@ -1887,12 +1887,12 @@
 			<Katarina>
 				<Lair_witch_1>
 					<01_Katarina>
-						<CHS>一个奇怪的鼠骨。很好。不过,有人可以在秘密巢穴使用它。他们都看起来有点绝望。</CHS>
+						<CHS>一根奇怪的老鼠骨头。高级了。无论如何，在秘密巢穴里面肯定有人会用到它的。他们看起来有点绝望。</CHS>
 					</01_Katarina>
 				</Lair_witch_1>
 				<Lair_witch_2>
 					<01_Katarina>
-						<CHS>我开始厌烦这肮脏的工作了。让我们回到巢穴,问问萨菲我们能做什么。</CHS>
+						<CHS>我对这肮脏的工作感到厌倦了。我们回巢穴问问萨菲能用它们做什么</CHS>
 					</01_Katarina>
 				</Lair_witch_2>
 				<Angry_monsters>
@@ -1900,78 +1900,78 @@
 						<CHS></CHS>
 					</orjonges>
 					<01_Katarina>
-						<CHS>从我们炸飞排泄渠的噪音来判断。</CHS>
+						<CHS>从噪音来看我们已经炸掉了那些流出来的玩意儿。</CHS>
 					</01_Katarina>
 				</Angry_monsters>
 				<Fishing_bait>
 					<01_Katarina>
-						<CHS>似乎是个不错的诱饵。我们去钓鱼吧，好吗？</CHS>
+						<CHS>看起来像是不错的诱饵。我们去钓鱼吧，怎么样？</CHS>
 					</01_Katarina>
 				</Fishing_bait>
 				<Fish_food>
 					<01_Katarina>
-						<CHS>那真是条外表阴险的鱼。</CHS>
+						<CHS>这条鱼真难看。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>奇怪…我突然觉得我应该…把它*喂*给你吃…你想吃吗？</CHS>
+						<CHS>陌生人……不知道为什么我觉得我应该……*喂食*这个给你……你想要吗？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>*喘气*什么？！即使我想，谁知道我会有什么反应呢？？我会变成一只…一只蜘蛛或者一个…带牙的木箱！如果你想做实验，给那只骨瘦如柴的猫吃吧！</CHS>
+						<CHS>*喘气*什么？！就算是我干的，谁知道他们会怎么对我？？我可以变成一个……一个蜘蛛或者是……一个有牙齿的木头箱子！如果你想做实验，找那只瘦骨嶙峋的猫去！</CHS>
 					</03_Katarina>
 				</Fish_food>
 				<Poison_in_air>
 					<01_VH>
-						<CHS>那是什么…什么味道？烧到…我的肺了！</CHS>
+						<CHS>这……是……这是什么鬼味道？我的肺……都快炸了！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>瓦斯，我说得对吗?</CHS>
+						<CHS>我想，是毒气？</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>可能会影响我的思想!</CHS>
+						<CHS>它应该会影响我的心智！</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>嗯,这东西还是实验性的,不是吗?</CHS>
+						<CHS>哦，这个玩意仍然可以一试，不是吗？</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>真是....(咳嗽)...宽慰！</CHS>
+						<CHS>多么…（咳）…令人安心！</CHS>
 					</05_VH>
 				</Poison_in_air>
 				<Working_list_1>
 					<01_VH>
-						<CHS>嗯…这看上去像是操纵者的一张科学工作记录表。</CHS>
+						<CHS>嗯……这看起来像是给那些智囊们查看的科学工作表。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>真的吗？上面写了什么？</CHS>
+						<CHS>是吗，上面说什么？</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>“魔法守恒定律 - 证明为误”</CHS>
+						<CHS>“驳——魔法守恒定理”</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>呃，真无聊。别看了。</CHS>
+						<CHS>呃，没劲，别念了。</CHS>
 					</04_Katarina>					
 				</Working_list_1>
 				<Working_list_2>
 					<01_VH>
-						<CHS>“比格斯-哈森粒子的存在 - 已证实”</CHS>
+						<CHS>“证实——比格斯-霍曾粒子的存在”</CHS>
 					</01_VH>										
 				</Working_list_2>
 				<Working_list_3>
 					<01_VH>
-						<CHS>“二元现实理论 - 已证实”</CHS>
+						<CHS>“证实——二进制现实理论”</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>真真真无聊！</CHS>
+						<CHS>乡巴佬！</CHS>
 					</02_Katarina>										
 				</Working_list_3>
 				<Working_list_4>					
 					<01_Katarina>
-						<CHS>单子上还有什么？上面有什么有趣的项目吗？</CHS>
+						<CHS>单子上还有别的吗？难道他们就没有点有趣的项目吗？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>这上面说…“生命，宇宙和一切的答案”。这个用记号标出了。但只有一个数字。</CHS>
+						<CHS>这个说到……“人生，宇宙和万物的答案”。这个被勾掉了，只有几个数字。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>什么数字？</CHS>
+						<CHS>号码是多少？</CHS>						
 					</03_Katarina>
 					<04_VH>
 						<CHS>42</CHS>
@@ -1979,121 +1979,121 @@
 				</Working_list_4>				
 				<Working_list_5>
 					<01_VH>
-						<CHS>“对女性大脑运作方式作出的分析”。从这些注释上看，他们尝试了现代科学和奥术知识，但依然没能解决这个问题。</CHS>
+						<CHS>“女性大脑的运作分析”，根据笔记记载，他们尝试了现代科学和古代传说，依然没办法找到问题的答案。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>他们应该先去问问真正的女人。我们的神秘连操纵者也解答不了。</CHS>
+						<CHS>他们应该先询问了一个真正的女人。我们可是天才们都难以解答的谜团。</CHS>
 					</02_Katarina>										
 				</Working_list_5>				
 				<Go_back_to_Lair>
 					<01_Katarina>
-						<CHS>我认为事情已经完成了。该回巢穴了。</CHS>
+						<CHS>我想我们已经完成了。该返回巢穴了</CHS>
 					</01_Katarina>
 				</Go_back_to_Lair>
 				<Werewolf_hunters>
 					<01_Katarina>
-						<CHS>他们在这里！他们杀死了那只可怜的野兽！</CHS>
+						<CHS>就是他们！就是他们杀了这可怜的野兽！</CHS>
 					</01_Katarina>
 				</Werewolf_hunters>
 				<Borgovian_nights>				
 					<01_Katarina>
-						<CHS>我非常失望。我的那些黑暗而暴风雨肆虐的博格维亚之夜呢？还有那些白天。</CHS>
+						<CHS>我太失望了。我那云霾漫天的博加维亚日夜呢？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>四处看看。机器在冒烟，污染天空…难怪气候变得如此糟糕。</CHS>
+						<CHS>看看周围吧，机械不停地吐着浓烟，弥漫上天空……所以天气才这么糟糕。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>但那真的很愚蠢。不，我觉得那些科学家从暴风雨中偷走了闪电，用来建造那个闪光的机器。</CHS>
+						<CHS>但这也太愚蠢了。不，我觉得这些闪亮亮的机械是科学家们从云层中偷来的闪电做成的。</CHS>						
 					</03_Katarina>
 					<04_VH>
-						<CHS>仔细一想，那听上去科学多了。</CHS>
+						<CHS>再一想，这似乎科学多了。</CHS>
 					</04_VH>										
 				</Borgovian_nights>
 				<Katarina_past>				
 					<01_VH>
-						<CHS>回到你长大的地方，感觉如何？</CHS>
+						<CHS>回到你长大的地方你觉得如何？</CHS>
 					</01_VH>
 					<02_Katarina>
 						<CHS>你现在是在侮辱我吗？</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我又说什么了？</CHS>
+						<CHS>这次我该说什么？</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>这是最堕落的街坊！我住在旧城的一个宫殿里！</CHS>
+						<CHS>这一定是世界上最堕落的邻居了！我住在古镇的宫殿里！</CHS>						
 					</04_Katarina>
 					<05_VH>
-						<CHS>我们就当这次的对话没有发生过吧。</CHS>
+						<CHS>我们就当这次对话从来不曾发生。</CHS>
 					</05_VH>										
 				</Katarina_past>
 			</Katarina>
 			<Beggar>
 				<Greatful_beggar>
 					<01_Beggar>
-						<CHS>好啊，陌生人！</CHS>
+						<CHS>你好啊，陌生人！</CHS>
 					</01_Beggar>
 				</Greatful_beggar>
 				<Greatful_beggar1>
 					<01_Beggar>
-						<CHS>再接再厉，猎人！</CHS>
+						<CHS>保持下去，猎人！</CHS>
 					</01_Beggar>
 				</Greatful_beggar1>
 				<Greatful_beggar2>
 					<01_Beggar>
-						<CHS>祝你好运！</CHS>
+						<CHS>祝你走运！</CHS>
 					</01_Beggar>
 				</Greatful_beggar2>
 				<Greatful_beggar3>
 					<01_Beggar>
-						<CHS>什么？我只是在等一位朋友！</CHS>
+						<CHS>什么？我只是在等一个朋友！</CHS>
 					</01_Beggar>
 				</Greatful_beggar3>
 				<Greatful_beggar4>
 					<01_Beggar>
-						<CHS>忙绿的一天，哈？</CHS>
+						<CHS>忙碌的一天，对吧？</CHS>
 					</01_Beggar>
 				</Greatful_beggar4>
 				<Greatful_beggar5>
 					<01_Beggar>
-						<CHS>我很好，我很好。多谢关心。</CHS>
+						<CHS>我没事，我没事，多谢关心。</CHS>
 					</01_Beggar>
 				</Greatful_beggar5>
 				<Greatful_beggar6>
 					<01_Beggar>
-						<CHS>我…我觉得自己准备好开始新生活了。</CHS>
+						<CHS>我……我想我准备好迎接新生活了。</CHS>
 					</01_Beggar>
 				</Greatful_beggar6>
 			</Beggar>
 			<varoslako_1>
 				<I_am_thirsty>
 					<01_varoslako_1>
-						<CHS>我们需要水!你能帮助我们吗?</CHS>
+						<CHS>我们要水！请你帮帮我们，好吗？</CHS>
 					</01_varoslako_1>
 				</I_am_thirsty>
 			</varoslako_1>
 			<varoslako_2>
 				<Kill_the_dark_Alchemist>
 					<01_varoslako_2>
-						<CHS>哦不!你必须杀死大炼金术士!</CHS>
+						<CHS>哦，不！你必须杀死大炼金术师!</CHS>
 					</01_varoslako_2>
 				</Kill_the_dark_Alchemist>
 				<Kill_the_city_monsters>
 					<01_varoslako_2>
-						<CHS>祝成功!</CHS>
+						<CHS>狩猎愉快！</CHS>
 					</01_varoslako_2>
 				</Kill_the_city_monsters>
 			</varoslako_2>
 			<Alchemist_Lair>
 				<Werewolf_is_gone>
 					<01_Alchemist_Lair>
-						<CHS>它在午夜时分出来袭击的！太晚了，我的朋友，那个狼人已经离开博格维亚了。悲惨啊，真是悲惨啊。</CHS>
+						<CHS>他们在午夜展开的袭击！太迟了，我的朋友，狼人已经离开博加维亚了，难受，太难受了。</CHS>
 					</01_Alchemist_Lair>
 				</Werewolf_is_gone>
 			</Alchemist_Lair>
 			<Csempesz>
 				<Werewolf_not_here>
 					<01_Csempesz>
-						<CHS>帮不到你,先生。狼人不在这里。</CHS>
+						<CHS>帮不了你，先生。狼人不在这。</CHS>
 					</01_Csempesz>
 				</Werewolf_not_here>
 			</Csempesz>
@@ -2103,61 +2103,61 @@
 			<Katarina>
 				<Bridge_controller_machine>
 					<01_Katarina>
-						<CHS>桥梁起来了。我能感到那与看不见的墙相同奇怪的能量。你看到那台机器了吗?肯定是用来操作桥的。</CHS>
+						<CHS>桥就在前头。我从他们身上感到一股跟在无形墙里一样的奇怪能量。你看到那个机器了吗？那肯定是操控桥梁用的。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>但我们要怎么摧毁那么大的玩意？</CHS>
+						<CHS>但是我们怎么才能摧毁那么大的东西？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>可以设想一下，如果我没有从猎人那里听到的话会怎么样。如果你问我,我们必须首先找到控件。</CHS>
+						<CHS>我们暂时假装没有听到猎人的声音。如果你问我的意见，我们得先找到控制器</CHS>
 					</03_Katarina>
 				</Bridge_controller_machine>
 				<Bridge_Overcharge_Regulator>
 					<01_Katarina>
-						<CHS>这肯定就是运行桥梁电流的控件。</CHS>
+						<CHS>这一定在控制着运作桥梁的电力使之不会溢出。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>一位幽灵女士怎么会突然之间变成了现代机械的专家？</CHS>
+						<CHS>幽灵小姐怎么会突然变成现代力学的专家呢？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>哦，我很抱歉！那我应该回巢穴去完成我的刺绣吗？</CHS>
+						<CHS>哦，对不起！我是不是该回到巢穴完成我的女红？</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>好吧！我会把数值调到最大，这样，这个东西都会爆炸。</CHS>
+						<CHS>好的！我会把这玩意开到最大，然后整个都会炸掉。</CHS>
 					</04_VH>
 				</Bridge_Overcharge_Regulator>
 			</Katarina>
 			<Suttogo_alchemist>
 				<Kihallgatott_csevej>
 					<01_Suttogo_alchemist>
-						<CHS>没用的蠢材！我的精华货物呢？</CHS>
+						<CHS>没用的蠢货！我原先的货哪儿去了？</CHS>
 					</01_Suttogo_alchemist>
 					<02_Suttogo_apprentice>
-						<CHS>抱-抱歉，主人，我别无选择！一队士兵从旁边经过，我不得不把它藏在了大厦附近的大门边。</CHS>
+						<CHS>对……对不起主人！我也是被逼无奈啊！一群士兵打这儿过，我只好把它藏到附近公寓的门里。</CHS>
 					</02_Suttogo_apprentice>
 					<03_Suttogo_alchemist>
-						<CHS>啊！我一定要事事亲力亲为吗！？*叹气声*好吧。冷静…是的。拿上它…好的。现在，滚出我的视线！！！</CHS>
+						<CHS>呃！非得我亲自完成所有事吗？*看*好吧。我要心平气和……是的，都弄一块……好，现在都给我滚远点！</CHS>
 					</03_Suttogo_alchemist>
 				</Kihallgatott_csevej>
 			</Suttogo_alchemist>
 			<Beggar_king>
 				<Beggar_king_cutscene>
 					<01_Beggar_king>
-						<CHS>靠近一点啊，你们这些傀儡！过来抓我啊！</CHS>
+						<CHS>在靠近点呀，你这傀儡！有能耐来抓我啊！</CHS>
 					</01_Beggar_king>
 					<02_Vampire_Hunter>
-						<CHS>你是个被通缉的人，无论生死。你死了更好，你个肮脏的乞丐。</CHS>
+						<CHS>你可是个被通缉的人，生死皆可。但我觉得你死了我会轻松些，你这肮脏的乞丐！</CHS>
 					</02_Vampire_Hunter>
 					<03_Beggar_king>
-						<CHS>看！你后面有个猎人！</CHS>
+						<CHS>看！你背后有个猎人！</CHS>
 					</03_Beggar_king>
 					<04_Vampire_Hunter>
-						<CHS>呵呵呵…老掉牙的把戏！你把我当什么了？</CHS>
+						<CHS>呵呵呵……尽是些书中的老把戏，你把我当什么了？</CHS>
 					</04_Vampire_Hunter>
 				</Beggar_king_cutscene>
 				<Next_time_hunter>
 					<01_Beggar_king>
-						<CHS>你在这真好，猎人。下次再见。</CHS>
+						<CHS>很高兴你能来这里，猎人，后会有期。</CHS>
 					</01_Beggar_king>
 				</Next_time_hunter>
 			</Beggar_king>
@@ -2167,56 +2167,56 @@
 			<Katarina>
 				<Research_lab>
 					<01_Katarina>
-						<CHS>这个研究设备让我异常不安。</CHS>
+						<CHS>这些研究设施让我感到些许不安。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>为什么？你曾在这样的废弃之地出没过。</CHS>
+						<CHS>为什么？过去你不总爱在这种被遗弃的地方游荡吗？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>哦，随时都会给我个破碎的宫殿。但废弃的实验室真冷…到处都是痛苦。</CHS>
+						<CHS>哦，给我一个别的乱七八糟的地方都行，但别是个被遗弃的实验室啊，这地方又冷……还满是伤痛。</CHS>
 					</03_Katarina>
 				</Research_lab>
 				<Dreadknecht_statues>
 					<01_Katarina>
-						<CHS>为什么他们不动呢？他们只是供巨人玩耍的玩具兵吗？</CHS>
+						<CHS>他们怎么不动？难道他们只是为了对抗巨人的玩具兵吗？</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>也可能是我们非常了解的同一个杀人机器…但他们需要电力。</CHS>
+						<CHS>或者是我们了如指掌的其他杀人机器……不过他们想要电动的。</CHS>
 					</02_VH>
 				</Dreadknecht_statues>
 				<More_inactive_soldier>
 					<01_Katarina>
-						<CHS>哦，这些东西看上去功能很强大，除了他们不会动以外。我可不喜欢。</CHS>
+						<CHS>哦，这些玩意儿看起来功能多样，只可惜不能动，我不喜欢。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>这可提醒我了…如果你找到一个红色的按钮，我可不会按下去。我发誓。</CHS>
+						<CHS>这提醒了我……如果你找到个红色按钮，我绝对不会动它一下，我发誓。</CHS>
 					</02_VH>
 				</More_inactive_soldier>
 				<Inactive_controller>
 					<01_Katarina>
-						<CHS>另一个古怪的装置？它有什么作用？真可惜，它看上去也是死的，就像士兵机器一样。</CHS>
+						<CHS>又一条预言忠告？说了些什么？只可惜这玩意死了，和那些机械士兵一样。</CHS>
 					</01_Katarina>
 				</Inactive_controller>
 				<Destroyed_controller>
 					<01_Katarina>
-						<CHS>停下！不要去碰那个开关。机器已经坏了。</CHS>
+						<CHS>停下！别碰这些开关，这机械早就坏了！</CHS>
 					</01_Katarina>
 				</Destroyed_controller>
 				<Main_controller>
 					<01_Katarina>
-						<CHS>看看这个！我敢打赌这是实验室的总开关。而总开关其实是另一个“红色按钮"，你觉得呢？</CHS>
+						<CHS>瞧这个！我打赌这就是实验室的主开关，而这就是另一种“红色按钮”。真的，你不这么觉得吗？</CHS>
 					</01_Katarina>
 				</Main_controller>
 				<Energy_is_active>
 					<01_Katarina>
-						<CHS>干得好，猎人。你是一位名副其实的机械奇才！现在，整个实验室能充分发挥作用了…</CHS>
+						<CHS>干得好，猎人，你可真是个机械天才！现在，整个实验室的功能都恢复了……</CHS>
 					</01_Katarina>
 				</Energy_is_active>
 			</Katarina>
 			<VH>
 				<Inactive_Inkgate>
 					<01_VH>
-						<CHS>墨门关上了。不知道你可以从哪打开这些传送门呢？</CHS>
+						<CHS>这个墨境之门已经关上了。我在想，你是如何打开这些入口的？</CHS>
 					</01_VH>
 				</Inactive_Inkgate>
 			</VH>
@@ -2226,118 +2226,118 @@
 			<Katarina>
 				<Lair_witch_3>
 					<01_Katarina>
-						<CHS>你带上这发臭的丑陋野草做什么？哦，等下…你在为那个吉普赛女孩摘花？</CHS>
+						<CHS>你跟这株又丑又矮的野草过不去干嘛？哦，等等……难不成你在为那个吉普赛女孩摘花？</CHS>
 					</01_Katarina>
 				</Lair_witch_3>
 				<third_swamp_flower>
 					<01_Katarina>
-						<CHS>在哪？快出来，怪物！</CHS>
+						<CHS>哪儿去了？现身吧，怪物！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你在说什么呢？什么怪物？</CHS>
+						<CHS>你再说什么？什么怪物？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>怪物控制了你的思想，让你去摘那些花！</CHS>
+						<CHS>就是控制你的思维让你摘花的生物！</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>为什么？为什么人就不能单纯地欣赏自然呢？</CHS>
+						<CHS>为什么？难道一个人连单纯的钦佩自然都不行吗？</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>因为那个人就是你吗？</CHS>
+						<CHS>一个像你这样的人？</CHS>
 					</05_Katarina>
 				</third_swamp_flower>
 				<fifth_swamp_flower>
 					<01_Katarina>
-						<CHS>你又这么做了！又摘了一朵花！</CHS>
+						<CHS>你又来了！又是一朵花！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>卡特琳娜，不要再来烦我了。我很好，没什么毛病。</CHS>
+						<CHS>卡特琳娜，别烦我了，我没什么不对劲。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>那样的想法也许会让人更加不安。</CHS>
+						<CHS>这想法或许更让人不安。</CHS>
 					</03_Katarina>
 				</fifth_swamp_flower>
 				<sixth_swamp_flower>
 					<01_Katarina>
-						<CHS>承认吧！你在采集花束，要去送给那位漂亮的沙菲。</CHS>
+						<CHS>承认吧！你是在为美女萨菲收集花束。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>所以？她在制作药水。这些奇怪的花会是些有用的配料。</CHS>
+						<CHS>然后呢？她制作药水，这些奇怪的花可能会派上用场。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>你总有自己的理由。</CHS>
+						<CHS>你理由可真多。</CHS>
 					</03_Katarina>
 				</sixth_swamp_flower>
 				<Lair_witch_4>
 					<01_Katarina>
-						<CHS>够了！你已经采集了一整束臭烘烘的花了。把它拿给沙菲吧。</CHS>
+						<CHS>别废话了！拿好这整束丑花，把它给萨菲。</CHS>
 					</01_Katarina>
 				</Lair_witch_4>
 				<The_domovoj_corpse>
 					<01_Katarina>
-						<CHS>等下！这个幽灵很眼熟，似乎常来蛇女通道。</CHS>
+						<CHS>等等！从戈尔贡路看这德默沃伊有些熟悉啊。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>我不知道…对我来说，这些小鬼长得没什么不同。当然，他看上去似乎吓得要死。</CHS>
+						<CHS>我不清楚……这些小家伙对我来说看起来都一样。他看起来一定很怕死。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>我不知道你在说什么。</CHS>
+						<CHS>我不知道你在谈论什么</CHS>
 					</03_Katarina>
 				</The_domovoj_corpse>
 			</Katarina>
 			<VH>
 				<second_swamp_flower>
 					<01_VH>
-						<CHS>他们说了，做一名猎人吧。他们说了，杀了那些怪物。但没人提过花！</CHS>
+						<CHS>他们告诉我怎么当猎人，怎么杀死怪物，却从没有人告诉过我关于花的任何事情。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我无法告诉你，我是有多么喜欢这一切。</CHS>
+						<CHS>我都说不出来我有多么喜欢这个。</CHS>
 					</02_Katarina>
 				</second_swamp_flower>
 				<fourth_swamp_flower>
 					<01_VH>
-						<CHS>这可真是可怕。告诉我：为啥我要采花？</CHS>
+						<CHS>这太糟糕了、告诉我：为什么我在摘花？</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>因为你依然无法拒绝一个漂亮女孩的要求。</CHS>
+						<CHS>因为你一直没说不能成为一个漂亮女孩。</CHS>
 					</02_Katarina>
 				</fourth_swamp_flower>
 				<seventh_swamp_flower>
 					<01_Katarina>
-						<CHS>你可真安静啊。</CHS>
+						<CHS>你实在太安静了。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>我正设法把这些花想成是怪物的战利品。</CHS>
+						<CHS>我一直在努力把花想象成怪物身上的战利品。</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>起作用了吗？</CHS>
+						<CHS>那有用吗？</CHS>
 					</03_Katarina>
 					<04_VH>
-						<CHS>不幸的是，一定也没有。</CHS>
+						<CHS>可惜不止一点点。</CHS>
 					</04_VH>
 				</seventh_swamp_flower>
 				<Lair_is_under_attack>
 					<01_Electriferous_Behemoth>
-						<CHS>呃哦！你被耍了，猎人！强大的布雷达会照着你的最痛处狠狠地打下去！</CHS>
+						<CHS>莱尔!你太蠢了，猎人！布瑞达一定会将你置之死地的！</CHS>
 					</01_Electriferous_Behemoth>
 					<02_VH>
-						<CHS>是为了剥夺我追捕他的乐趣吗？</CHS>
+						<CHS>通过否认我狩猎他的乐趣？</CHS>
 					</02_VH>
 					<03_Electriferous_Behemoth>
-						<CHS>*暗笑*你的秘密巢穴可真不错啊。如果发生了点什么事，可真是相当遗憾啊！哈哈哈…</CHS>
+						<CHS>*偷笑*你有一个如此隐秘的巢穴，如果它有什么不测绝对是个笑话！哈哈哈哈……</CHS>
 					</03_Electriferous_Behemoth>
 					<04_VH>
-						<CHS>啊！一个狡猾的计划！我们的对手变得越来越有创造力了。</CHS>
+						<CHS>哈！好一个狡猾的计谋！我们的敌人越来越有想象力了。</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>那么，这只是一个诱饵吗？我们应该在布雷达到达之前回到巢穴去。</CHS>
+						<CHS>所以这是个圈套？我们要在布瑞达抵达之前回到巢穴。</CHS>
 					</05_Katarina>
 				</Lair_is_under_attack>
 			</VH>
 			<wounded_soldier>
 				<Too_late_just_go>
 					<01_wounded_soldier>
-						<CHS>太迟了…你…帮不了…我。走吧!</CHS>
+						<CHS>太迟了…你帮不了…我。走吧！</CHS>
 					</01_wounded_soldier>
 				</Too_late_just_go>
 			</wounded_soldier>
@@ -2345,15 +2345,15 @@
 			<Weapon_smuggler>
 				<Shipment_under_attack>
 					<01_Weapon_smuggler>
-						<CHS>我们的敌人知道运输的事！保卫武器!</CHS>
+						<CHS>我们的敌人知道了这批货！守护武器！</CHS>
 					</01_Weapon_smuggler>
 					<02_Katarina>
-						<CHS>为什么我一点都不惊讶？</CHS>
+						<CHS>为什么我一点都不吃惊？</CHS>
 					</02_Katarina>
 				</Shipment_under_attack>
 				<Weapon_shipment_unloading>
 					<01_Weapon_smuggler>
-						<CHS>我们正在卸货。可能需要一段时间。</CHS>
+						<CHS>我们正在卸货。这会花一点时间</CHS>
 					</01_Weapon_smuggler>
 				</Weapon_shipment_unloading>
 				<Weapon_smuggler_stock_line1>
@@ -2363,27 +2363,27 @@
 				</Weapon_smuggler_stock_line1>
 				<Weapon_smuggler_stock_line2>
 					<01_Weapon_smuggler>
-						<CHS>再次检查一下怎么样？</CHS>
+						<CHS>什么是另一个检查？</CHS>
 					</01_Weapon_smuggler>
 				</Weapon_smuggler_stock_line2>
 				<Weapon_smuggler_stock_line3>
 					<01_Weapon_smuggler>
-						<CHS>我不过是站在这欣赏景色。</CHS>
+						<CHS>我只是站在这里，享受风景。</CHS>
 					</01_Weapon_smuggler>
 				</Weapon_smuggler_stock_line3>
 				<Weapon_smuggler_stock_line4>
 					<01_Weapon_smuggler>
-						<CHS>天气不错，对吗？</CHS>
+						<CHS>天气不错，不是吗？</CHS>
 					</01_Weapon_smuggler>
 				</Weapon_smuggler_stock_line4>
 				<Weapon_smuggler_stock_line5>
 					<01_Weapon_smuggler>
-						<CHS>那是个秘密的手势语吗？不是？呃…我弄错了。</CHS>
+						<CHS>这是个神秘的手势吗？不是？呃……我的错。</CHS>
 					</01_Weapon_smuggler>
 				</Weapon_smuggler_stock_line5>
 				<Weapon_smuggler_stock_line6>
 					<01_Weapon_smuggler>
-						<CHS>你肯定是把我和别人混淆了。</CHS>
+						<CHS>你一定把我当成了其他人</CHS>
 					</01_Weapon_smuggler>
 				</Weapon_smuggler_stock_line6>
 			</Weapon_smuggler>
@@ -2391,41 +2391,41 @@
 			<Rebel_1>
 				<Orichalcum_shipment>
 					<01_Katarina>
-						<CHS>看呐，一个反抗势力的战士！他正在极力忍耐战斗的欲望。</CHS>
+						<CHS>看，一个反对派战士！他迫切地渴望战斗！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>什么风把你吹来了，我的朋友？</CHS>
+						<CHS>哪阵风把你吹来了，我的朋友？</CHS>
 					</02_VH>
 					<03_Rebel_1>
-						<CHS>我有重要的消息要告诉弗拉多斯伯爵。工业港口又来了两船黄铜货物。如果这些板条箱到了博士手中，他就能造出更多末日机器人了。我们得夺得那些货物！</CHS>
+						<CHS>我有些给维拉多斯伯爵的新消息。至少有两批矿物抵达了工业港。如果教授拿到了货，他就能造出更多的Doomsday Automatons，我们必须截下货物。</CHS>
 					</03_Rebel_1>
 					<04_VH>
-						<CHS>反抗势力的战士们正设法冲破暴脾气设在旧城的最后防线。我怀疑弗拉多斯将派出一整支军队。我来处理这一切。</CHS>
+						<CHS>反对派试图突破福尔米加提在古镇的最后防线，我敢打赌瓦兰多斯会派军队过来，我来搞定这个。</CHS>
 					</04_VH>
 					<05_Katarina>
-						<CHS>是的！又是著名的范海辛法则！一名猎人加上一个幽灵等于…一支军队。</CHS>
+						<CHS>是的！又是范海辛的名理论！一个猎人加上一个幽灵等于……一个部队！</CHS>
 					</05_Katarina>
 				</Orichalcum_shipment>
 				<Not_enough_soldier>
 					<01_Rebel_1>
-						<CHS>我们的人不够，无法夺得那些货物！</CHS>
+						<CHS>我们没有足够的人手来截下货物。</CHS>
 					</01_Rebel_1>
 				</Not_enough_soldier>
 			</Rebel_1>
 			<Inventor>
 				<No_more_help>
 					<01_Inventor>
-						<CHS>我帮不上更多的忙了。</CHS>
+						<CHS>我不能再帮你了。</CHS>
 					</01_Inventor>
 				</No_more_help>
 				<No_more_help_2>
 					<01_Inventor>
-						<CHS>恐怕我能做的就那么多了。</CHS>
+						<CHS>恐怕这就是所有我能帮上的了。</CHS>
 					</01_Inventor>
 				</No_more_help_2>
 				<No_more_help_3>
 					<01_Inventor>
-						<CHS>真希望我能帮你更多，但我不行。</CHS>
+						<CHS>我真希望我能帮上更多忙，可惜我不能。</CHS>
 					</01_Inventor>
 				</No_more_help_3>
 			</Inventor>
@@ -2435,63 +2435,63 @@
 			<Rebel_npc_1>	
 				<Getting_blamed>
 					<01_Rebel_npc_1>
-						<CHS>你！你杀死了我的朋友们，猎人！</CHS>
+						<CHS>你！你杀了我朋友，猎人！</CHS>
 					</01_Rebel_npc_1>
 				</Getting_blamed>
 				<Please_rescue_the_rebels>
 					<01_Rebel_npc_1>
-						<CHS>拜托，快一点！我朋友们的情况相当危险。</CHS>
+						<CHS>求求你，快点！我朋友正在死亡边缘徘徊！</CHS>
 					</01_Rebel_npc_1>
 				</Please_rescue_the_rebels>
 			</Rebel_npc_1>
 			<Katarina>	
 				<Closed_street_1>
 					<01_Katarina>
-						<CHS>力场墙？真聪明，但也很麻烦。我们应该能找到其他的路。</CHS>
+						<CHS>力场墙？聪明，但是让人讨厌。我们要另找法子了。</CHS>
 					</01_Katarina>
 				</Closed_street_1>
 				<Closed_street_4>
 					<01_Katarina>
-						<CHS>我受够这些愚蠢的力场墙了！我们永远都到不了暴脾气那。我们得另外找条路。</CHS>
+						<CHS>我受够这些愚蠢的力场墙了！在这样下去就到不了福尔米加提了！我们得另找法子！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>我真的不喜欢寻求帮助，但我建议去和我们的工程师朋友谈谈。</CHS>
+						<CHS>我真的不喜欢寻求帮助，但我还是觉得该和我们的工程师朋友谈谈。</CHS>
 					</02_VH>
 				</Closed_street_4>
 				<Lamp_post>
 					<01_VH>
-						<CHS>这是什么？博士正往墨境中安装电力？</CHS>
+						<CHS>这是什么？教授在往墨境里安装电力系统？</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>还是这是一个神奇的地标。如果你通过了这个岗哨，你也许就能在远处的阴霾中找到奇怪的冒险。</CHS>
+						<CHS>或者这是个魔法地标。如果你通过这个店，你会在迷雾中经历奇怪的冒险。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>哦，现在不行。我在博格维亚已经有足够的冒险要处理了。</CHS>
+						<CHS>哦，不是现在，我在博加维亚已经有足够的不可思议的冒险要处理了。</CHS>
 					</03_VH>
 				</Lamp_post>
 			</Katarina>
 			<VH>
 				<Closed_street_2>
 					<01_VH>
-						<CHS>嗯。这条街也关闭了。暴脾气一定非常害怕我们。</CHS>
+						<CHS>嗯……这条街也关了。福尔米加提一定是真害怕我们了。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>或者他需要时间准备一些脏东西。哦,等一下,是同一件事情,不是吗?</CHS>
+						<CHS>或者他需要时间去准备一些见不得人的东西。哦等等，这是同一件事，不是吗？</CHS>
 					</02_Katarina>
 				</Closed_street_2>
 				<Closed_street_3>
 					<01_VH>
-						<CHS>我无法相信这个!教授及力场墙那怎么了?</CHS>
+						<CHS>我简直不敢相信！和教授还有力场墙在一块的是什么？</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我们无法那么一下就将它们摧毁消灭。</CHS>
+						<CHS>而且眼前没有哪个开关可以毁掉让它们消失。</CHS>
 					</02_Katarina>
 				</Closed_street_3>
 			</VH>
 			<Borislav_statue>	
 				<Another_statue>
 					<01_Katarina>
-						<CHS>看,又是一个雕像。就像麦柯维纳的那个一样。脚上到处都是空洞。</CHS>
+						<CHS>看，另一座雕像，和马克夫纳那一座几乎一样。都有空洞在脚上和身上。</CHS>
 					</01_Katarina>
 					<02_VH>
 						<CHS>我们来看看。</CHS>
@@ -2499,12 +2499,12 @@
 				</Another_statue>
 				<BNT_pedestal04>
 					<01_VH>
-						<CHS>好吧,一个。</CHS>
+						<CHS>很好，那是单个的。</CHS>
 					</01_VH>
 				</BNT_pedestal04>
 				<BNT_pedestal05>
 					<01_VH>
-						<CHS>还有一个。</CHS>
+						<CHS>还需要一个。</CHS>
 					</01_VH>
 					<02_Katarina>
 						<CHS>谁知道还有多少雕像……</CHS>
@@ -2512,54 +2512,54 @@
 				</BNT_pedestal05>
 				<BNT_pedestal06>
 					<01_Katarina>
-						<CHS>看,有一扇墨境大门打开了!我们去看看是通向哪里的!</CHS>
+						<CHS>看，一个墨境之门打开了！看看它会领我们去哪儿。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>你猜怎么着?我同意。我很好奇想看看这一切到底是什么情况。</CHS>
+						<CHS>猜猜怎么着？我同意，我只是对整件事情太好奇了。</CHS>
 					</02_VH>
 				</BNT_pedestal06>
 				<Borislav_statue_cutscene>
 					<01_VH>
-						<CHS>又是个雕像?一定是在开玩笑吧。</CHS>
+						<CHS>另一座雕像？这一定是个笑话。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>不,看……我认为这是鲍里斯拉夫国王的遗产!留给像他那样的勇者的。就如传说的那样。</CHS>
+						<CHS>不，听着……我觉得这是波利斯拉夫国王的宝藏！留在这里的等待另一个和他一样的英雄到来，就和传说一样！</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>什么传说?你之前可没提到*传说*啊…</CHS>
+						<CHS>什么传说？你从没提到过*那个*</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>谁会认为那传说是真的?</CHS>
+						<CHS>谁会想到这是真的？</CHS>
 					</04_Katarina>
 					<05_VH>
-						<CHS>你应该是有头脑的。预言和传说很多时候是真的。</CHS>
+						<CHS>你应该更了解才对。寓言和传说总是对的。</CHS>
 					</05_VH>
 				</Borislav_statue_cutscene>
 				<Statue_knockback>
 					<01_Katarina>
-						<CHS>噢,我忘了。传说讲的是关于魔法结界的事情。</CHS>
+						<CHS>哦，我差点忘了，传说提到过一个魔法守卫。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>嗯……有没有说怎么样让我们通过?</CHS>
+						<CHS>嗯……它说了怎么才能通过吗？</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>我不记得了。但我确实感觉到类似之外的魔法。也许那里就有答案。</CHS>
+						<CHS>我不清楚，不过我感到远处有类似的魔力，或许答案就在那里。</CHS>
 					</03_Katarina>
 				</Statue_knockback>
 				<Nomore_knockback>
 					<01_Katarina>
-						<CHS>就是这样!我无法再感觉到结界了。我们把这些财宝带走吧……我的意思是,这些遗产归我们了。</CHS>
+						<CHS>就是这样！我已经感觉不到守卫了。让我们拿走这些宝……我是说，领走这些遗产。</CHS>
 					</01_Katarina>
 				</Nomore_knockback>
 				<Borislav_treasure_cutscene>
 					<01_Treasurehunter_Boss>
-						<CHS>最后,鲍里斯拉夫的力量归我了!世界很快就要臣服在我的脚下了!哈哈哈哈!!!</CHS>
+						<CHS>终于！波利斯拉夫的力量是我的了！这个世界很快就要在我的统治之下了！哈哈哈哈……</CHS>
 					</01_Treasurehunter_Boss>
 					<02_Katarina>
-						<CHS>这就是那个博格维亚混蛋!真是个耻辱，我们要解决掉他。</CHS>
+						<CHS>这已经成为波利斯拉夫的小人了！我们必须结果了这个让我们羞耻的家伙。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我从来没有想到我竟然同意了。</CHS>
+						<CHS>你绝对想不到我同意了。</CHS>
 					</03_VH>
 				</Borislav_treasure_cutscene>
 			</Borislav_statue>
@@ -2569,186 +2569,186 @@
 			<Hirdetotabla>	
 				<Noticeboard_banter_1>
 					<01_VH>
-						<CHS>警告,公民!实验士兵机器逃跑了!如果你看到了最新的魔枢6个机器人,要不惜一切代价避开它们并联系你的当地警察。</CHS>
+						<CHS>警告，市民！实验士兵机械失去控制了！你过你看到了最新的银河六全自动机，请不惜一切代价避开它们并联系警察。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>你可以追捕它们。</CHS>
+						<CHS>你可以把它们猎杀的。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>不。我可管不了。</CHS>
+						<CHS>不，不是我的公寓。</CHS>
 					</03_VH>
 				</Noticeboard_banter_1>
 				<Noticeboard_banter_2>
 					<01_VH>
-						<CHS>由于污水系统中存在大量的有毒物质,我们强烈禁止在隧道内部处理任何不想要的宠物。</CHS>
+						<CHS>由于大量有毒物质存在于污水系统中，我们严厉禁止隧道中进行任何不必要的宠物买卖。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>嗯。那是什么原因?</CHS>
+						<CHS>嗯……原因是什么？</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_2>
 				<Noticeboard_banter_3>
 					<01_VH>
-						<CHS>污水隧道17号因为害虫防治而关闭。有报道指出该下水道有巨型鳄鱼。</CHS>
+						<CHS>17号下水道因防治病虫害而关停。大鳄鱼现场报道。 </CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>嗯,情况可能更糟。至少它们不是海龟。</CHS>
+						<CHS>好吧，还有可能更糟糕，至少他们不是乌龟。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_3>
 				<Noticeboard_banter_4>
 					<01_Katarina>
-						<CHS>发布宵禁令。违反者会被监禁。</CHS>
+						<CHS>宵禁令。违反者将受到监禁。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>要不拿来做实验。要注意那些不显眼的细节。</CHS>
+						<CHS>或用于实验。请阅读细则。</CHS>
 					</02_VH>
 				</Noticeboard_banter_4>
 				<Noticeboard_banter_5>
 					<01_VH>
-						<CHS>“科学需要你!科学部的志愿者,赚一些钱,试验过后就可以享受我们的美味糕点了。”</CHS>
+						<CHS>“科学需要你！志愿者们在科学部赚些小钱，还能在实验后吃上美味的蛋糕。”</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>下面有一张字迹潦草的纸条。</CHS>
+						<CHS>这上面有份潦草的笔记。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>“蛋糕是一个谎言”,和五个感叹号?</CHS>
+						<CHS>“蛋糕是谎言”，还有五个惊叹号？</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>我不知道这是什么意思。</CHS>
+						<CHS>我在想那是什么意思。</CHS>
 					</04_Katarina>
 				</Noticeboard_banter_5>
 				<Noticeboard_banter_6>
 					<01_VH>
-						<CHS>从达芬奇餐厅订餐!我们的送餐员会将滚烫的,新鲜的菜送到你家门口!</CHS>
+						<CHS>从达芬奇意大利餐厅订餐！我们的外送小哥将会带着新鲜的热气腾腾的美味出现在你家门口！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>主意真不错。但要记住我的话,这永远是无法流行起来的。</CHS>
+						<CHS>这是个好点子。但记住我的话，这永远都不够。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_6>
 				<Noticeboard_banter_7>
 					<01_VH>
-						<CHS>经验丰富的术士要加入我们寻鬼者的专业团队。我们使用科学的方法和设备。在博格维亚酒店联系温克曼博士。</CHS>
+						<CHS>我们的职业捉鬼队需要专业神秘人士的加入。我们使用科学的方法和设备。请到博加维亚旅店联系温克曼教授。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我希望我能和那些家伙说几句话。</CHS>
+						<CHS>我希望我可以对这些伙伴们说两句。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_7>
 				<Noticeboard_banter_8>
 					<01_VH>
-						<CHS>博格维亚大科学展览会在机器宫殿开始了!展现的是机器人新样本,机器巨人!</CHS>
+						<CHS>博加维亚超豪华科学博览会在机械皇城开幕！看看自动机械界的新成员，机械巨像！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>啊,听起来真有趣。我想去看看。</CHS>
+						<CHS>哈，听起来不错，我愿意瞧瞧。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>我相信我们会有机会的。</CHS>
+						<CHS>我确定我们会有这个机会的。</CHS>
 					</03_VH>
 				</Noticeboard_banter_8>
 				<Noticeboard_banter_9>
 					<01_VH>
-						<CHS>急需下水道工作人员?真无聊。</CHS>
+						<CHS>下水工马上就需要？无聊。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>等等,还没完。“要求:体格健硕,无所畏惧。特长是免疫毒素。”</CHS>
+						<CHS>等等，后面还有。“要求，强健的体魄，无谓的特质，免疫毒素者为佳。”</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>再想了一下,我应该让他们去做我在隧道里做的那些苦活。</CHS>
+						<CHS>仔细一想，我应该为接下来在隧道中的艰难作业给它们充好电。</CHS>
 					</03_VH>
 				</Noticeboard_banter_9>
 				<Noticeboard_banter_10>
 					<01_VH>
-						<CHS>在我们的照相馆里照张照片!</CHS>
+						<CHS>来我们的肖像工作室，拥有你的个人照片！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>又是一个发明,歧视不死之人。想想吸血鬼。或者我。我看起来总是那么模糊。</CHS>
+						<CHS>另一项发明歧视不死族。想想吸血鬼，或者我，我总是看起来很模糊。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_10>
 				<Noticeboard_banter_11>
 					<01_Katarina>
-						<CHS>“七大奇迹的狂欢节来到了博格维亚人这里!来瞧瞧最难以置信的生物以及惊人表演。“听起来太有趣了。</CHS>
+						<CHS>“七大奇迹嘉年华已经来到了博加维亚！快来看看最不可思议的生物和最令人惊奇的表演。”听起来真想去。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>我有点怀疑。会有小丑出现。我讨厌小丑。</CHS>
+						<CHS>我打赌，那儿一定会人山人海。我讨厌人多的地方。</CHS>
 					</02_VH>
 				</Noticeboard_banter_11>
 				<Noticeboard_banter_12>
 					<01_Katarina>
-						<CHS>这个看起来是手工印的。</CHS>
+						<CHS>这个看起来是手工印刷的。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>吸血鬼贵族资产阶级万岁!将科学打倒!</CHS>
+						<CHS>吸血鬼中产阶级贵族万岁！打倒Scientocracy！</CHS>
 					</02_VH>
 					<03_Katarina>
-						<CHS>在我还是一位年轻的鬼时，这些人在哪啊，平民们总是想烧毁掉高贵不死之人的宫殿?</CHS>
+						<CHS>当我还是个年轻的幽灵，百姓打算烧掉这些高贵不死族的宫殿时，这些人在哪里？</CHS>
 					</03_Katarina>
 				</Noticeboard_banter_12>
 				<Noticeboard_banter_13>
 					<01_Katarina>
-						<CHS>啊!博格维亚人秘密社会一年一度的舞会!音乐和舞蹈!我们真的应该去看看。</CHS>
+						<CHS>哈！博加维亚秘密社团的年度舞会！音乐和舞蹈！我们真的应该去。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>对不起,但我不知道任何的秘密握手。</CHS>
+						<CHS>对不起，但我不知道任何秘密握手。</CHS>
 					</02_VH>
 				</Noticeboard_banter_13>
 				<Noticeboard_banter_14>
 					<01_VH>
-						<CHS>困了吗?试试可可煤汽水。含有焦油、糖、土地咖啡豆以及一种秘方!</CHS>
+						<CHS>没精神？试试炭烧可可和碳酸饮料吧。由焦油，糖，磨碎的咖啡豆，还有独家秘密配方制作而成！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>听起来有点可怕啊。为什么会有人敢喝呢?</CHS>
+						<CHS>这听起来真恶心，怎么会有人要喝这种东西。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>它有一个秘方。是大写字母写的。肯定很好。</CHS>
+						<CHS>这玩意有秘密成分，在那些大写的字母里。必然是极好的。</CHS>
 					</03_VH>
 				</Noticeboard_banter_14>
 				<Noticeboard_banter_15>
 					<01_Katarina>
-						<CHS>忘记那些过时的火柴吧，使用暴脾气的专利含磷火焰器。再也不用湿柴了!</CHS>
+						<CHS>使用福尔米加提专利含磷点火器，忘掉过时的火柴，告别害怕潮湿的过去！</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>但我身上有大量的焚烧痕迹。</CHS>
+						<CHS>但我身上有很多烧伤痕。</CHS>
 					</02_VH>
 				</Noticeboard_banter_15>
 				<Noticeboard_banter_16>
 					<01_VH>
-						<CHS>用暴脾气的电火花喷射器来取悦你的客人!</CHS>
+						<CHS>用福尔米加提电动火花喷射器来讨好你的客人们！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>定义“取悦”。</CHS>
+						<CHS>定义一下“消遣”这个词。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_16>
 				<Noticeboard_banter_17>
 					<01_VH>
-						<CHS>冯·斯特姆留声机为你的餐厅带来了一场大型演奏。</CHS>
+						<CHS>冯·斯特姆留声机，将乐队带回您家！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>但要怎么做?留声机是什么?</CHS>
+						<CHS>可要怎么做呢？顺便问一下，留声机是什么？</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>难倒我了。也许是用不着音乐家的一个装置?</CHS>
+						<CHS>这可难住我了。或许是可以把音乐家压缩的设备。</CHS>
 					</03_VH>
 				</Noticeboard_banter_17>
 				<Noticeboard_banter_18>
 					<01_VH>
-						<CHS>你的水管有问题?西格诺里马里奥和路易吉会来救你的!</CHS>
+						<CHS>管道出问题？西格诺·马里奥兄弟解你燃眉之急！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>我不想提这件事的,不过你知道,那些巢穴中的古老下水道是一种耻辱。</CHS>
+						<CHS>我本来不想提这件事，但你知道吗，巢穴里那些古老的水渠简直就是耻辱。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_18>
 				<Noticeboard_banter_19>
 					<01_Katarina>
-						<CHS>害怕窃贼?试试我们新改进的守卫动物,可以确保你的睡眠不被打扰。</CHS>
+						<CHS>害怕窃贼侵扰？试试我们新加强型卫队宠物，保你高枕无忧。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>这感觉可能会是个不错的点子。</CHS>
+						<CHS>在这种时候似乎是个不错的主意。</CHS>
 					</02_VH>
 				</Noticeboard_banter_19>
 				<Noticeboard_banter_20>
 					<01_VH>
-						<CHS>好奇书柜专卖!阿卜杜勒阿尔哈兹莱德先生的稀有巨著!</CHS>
+						<CHS>叶奥德的好奇图书专柜！阿卜杜勒·奥哈兹尔德先生稀有传世佳作！</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>没有退款保证。</CHS>
+						<CHS>而且没有退款担保。</CHS>
 					</02_Katarina>
 				</Noticeboard_banter_20>
 			</Hirdetotabla>
@@ -2758,112 +2758,112 @@
 			<Fulmigati>	
 				<The_Final_battle>
 					<01_Fulmigati>
-						<CHS>我们终于到了!祝贺你,范海辛先生!你成功的将我们的游戏进行到了最后。</CHS>
+						<CHS>万众期待的时刻已经到来！恭喜，范海辛先生，你已经在游戏中站到了最后！</CHS>
 					</01_Fulmigati>
 					<02_VH>
-						<CHS>你认为这只是游戏吗?</CHS>
+						<CHS>你认为这还是个游戏？</CHS>
 					</02_VH>
 					<03_Fulmigati>
-						<CHS>当然,是书中最古老的一个!英雄和坏蛋!</CHS>
+						<CHS>当然是了，书中记载最久远的那种！英雄和小人！</CHS>
 					</03_Fulmigati>
 					<04_Katarina>
-						<CHS>什么?他显然是疯了。</CHS>
+						<CHS>什么？这家伙绝对疯了。</CHS>
 					</04_Katarina>
 					<05_Fulmigati>
-						<CHS>只能有一个!</CHS>
+						<CHS>只能有一个！</CHS>
 					</05_Fulmigati>
 					<06_Katarina>
-						<CHS>拜托了,在我们被淹没于陈词滥调之前让他停下来。</CHS>
+						<CHS>来吧，在我们被陈词滥调淹没前阻止他！</CHS>
 					</06_Katarina>
 					<07_VH>
-						<CHS>乐意奉陪。</CHS>
+						<CHS>很荣幸</CHS>
 					</07_VH>
 				</The_Final_battle>
 				<Fulmigati_banter_1>
 					<01_Fulmigati>
-						<CHS>他们没有叫过我疯子!从来没有过!但我会让他们所有人知道的!我会要他们见识到的!</CHS>
+						<CHS>他们从不叫我疯子！从不！但我会让他们明白的！我会的！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_1>
 				<Fulmigati_banter_2>
 					<01_Fulmigati>
-						<CHS>我不想再让你开口说话了,范海辛先生。我想让你去死!</CHS>
+						<CHS>我不想和你多谈了，范海辛先生，我要你死！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_2>
 				<Fulmigati_banter_3>
 					<01_Fulmigati>
-						<CHS>你低估了科学的力量!</CHS>
+						<CHS>你太小瞧科学的力量了！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_3>
 				<Fulmigati_banter_4>
 					<01_Fulmigati>
-						<CHS>曾经在苍白的月光下与巨型机器共舞?</CHS>
+						<CHS>曾经和一个巨大的机器人在苍白的月光下跳舞？</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_4>
 				<Fulmigati_banter_5>
 					<01_Fulmigati>
-						<CHS>你无法伤到巨型机器人中的人,不是吗?</CHS>
+						<CHS>你不会攻击一个藏在巨大机器人里的人，对吗？</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_5>
 				<Fulmigati_banter_6>
 					<01_Fulmigati>
-						<CHS>我和你,范海辛!我们之间的问题!也是最后的问题!</CHS>
+						<CHS>你和我，范海辛！还有我们的问题！最后的问题！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_6>
 				<Fulmigati_banter_7>
 					<01_Fulmigati>
-						<CHS>我的计划是…将朴素从高贵中去掉!</CHS>
+						<CHS>我的计划是……优雅中的绝对简洁！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_7>				
 				<Fulmigati_banter_9>
 					<01_Fulmigati>
-						<CHS>这…就是...科学!!!</CHS>
+						<CHS>这是…是…一种科学！！！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_9>
 				<Fulmigati_banter_10>
 					<01_Fulmigati>
-						<CHS>你觉得这个实验怎么样,范海辛先生?</CHS>
+						<CHS>你觉得这个实验怎么样，范海辛先生？</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_10>
 				<Fulmigati_banter_11>
 					<01_Fulmigati>
-						<CHS>我喜欢看着将你油炸，范海辛先生。</CHS>
+						<CHS>我会很享受看你变成炸薯条的，范海辛先生。</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_11>
 				<Fulmigati_banter_12>
 					<01_Fulmigati>
-						<CHS>当博格维亚化为灰烬时,我允许你…退休了?</CHS>
+						<CHS>当博加维亚变成灰烬，你将会得到我的……退休许可？</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_12>
 				<Fulmigati_banter_13>
 					<01_Fulmigati>
-						<CHS>当测试结束时,你就可以成为…一名前任猎人了!</CHS>
+						<CHS>当测试结束，你将成为……一名曾经的猎人！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_banter_13>
 				<Fulmigati_wounded_1>
 					<01_Fulmigati>
-						<CHS>我要融化了!我要融化了!</CHS>
+						<CHS>我在融化！我在融化！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_wounded_1>
 				<Fulmigati_wounded_2>
 					<01_Fulmigati>
-						<CHS>不要这么做!加入我,我们可以一起统治博格维亚!</CHS>
+						<CHS>别这样！加入我，我们可以一起统治博加维亚！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_wounded_2>
 				<Fulmigati_wounded_3>
 					<01_Fulmigati>
-						<CHS>你无法抢劫一个拥有杀手机器人的老人,不是吗?</CHS>
+						<CHS>你不会抢劫一个垂死挣扎的老人，对吗？</CHS>
 					</01_Fulmigati>
 				</Fulmigati_wounded_3>
 				<Fulmigati_wounded_4>
 					<01_Fulmigati>
-						<CHS>不!不不不!不不不不不!</CHS>
+						<CHS>不！不！不……！</CHS>
 					</01_Fulmigati>
 				</Fulmigati_wounded_4>
 			</Fulmigati>
 			<Van_Helsing>
 				<Building_will_collapse>
 					<01_VH>
-							<CHS>这低沉的声音是什么……？哦，看在那份上……这些疯狂的科学家和他们那另人厌烦的袭击！卡特琳娜，走！暴脾气一定是触发了某种自我毁灭程序。这栋建筑要倒塌了！</CHS>
+							<CHS>这隆隆巨响是怎么回事儿……？ 哦，我的天呐……！这群疯子科学家和他们肮脏的发明！ 卡特琳娜，快出去！弗米伽提的死一定是激活了某种自毁程式，这栋楼快塌了！</CHS>
 					</01_VH>
 				</Building_will_collapse>
 			</Van_Helsing>
@@ -2873,102 +2873,102 @@
 			<Katarina>
 				<GoShopping1>
 					<01_Katarina>
-						<CHS>我不会走的。只是开玩笑,我会做的。</CHS>
+						<CHS>我不走。只是开个玩笑，我来搞定</CHS>
 					</01_Katarina>
 				</GoShopping1>
 				<GoShopping2>
 					<01_Katarina>
-						<CHS>但是我将失去所有的乐趣!</CHS>
+						<CHS>但我会失去各种乐趣的！</CHS>
 					</01_Katarina>
 				</GoShopping2>
 				<GoShopping3>
 					<01_Katarina>
-						<CHS>我会回来的!</CHS>
+						<CHS>我会回来的！</CHS>
 					</01_Katarina>
 				</GoShopping3>
 				<GoShopping4>
 					<01_Katarina>
-						<CHS>我也可以买一些糖果吗?</CHS>
+						<CHS>我能再买些糖么？</CHS>
 					</01_Katarina>
 				</GoShopping4>
 				<GoShopping5>
 					<01_Katarina>
-						<CHS>你因为你的钱相信我吗...？</CHS>
+						<CHS>你信任我用你的钱吗……？</CHS>
 					</01_Katarina>
 				</GoShopping5>
 				<GoShopping6>
 					<01_Katarina>
-						<CHS>在我离开时，千万别被杀了。</CHS>
+						<CHS>如果我死了以后千万不要被他们杀了。</CHS>
 					</01_Katarina>
 				</GoShopping6>
 				<GoShopping7>
 					<01_Katarina>
-						<CHS>哈哈哈!你永远不会看到这些东西了!</CHS>
+						<CHS>哈哈哈！你再也见不到这些东西了！</CHS>
 					</01_Katarina>
 				</GoShopping7>
 				<GoShopping8>
 					<01_Katarina>
-						<CHS>试图摆脱我?难道你不知道这是徒劳的吗?</CHS>
+						<CHS>试图去除我？你不知道这是无用功吗？</CHS>
 					</01_Katarina>
 				</GoShopping8>
 				<GoShopping9>
 					<01_Katarina>
-						<CHS>奴隶司机!下次你去，我什么也不做。</CHS>
+						<CHS>奴隶主！下次你上，我在旁边看着。</CHS>
 					</01_Katarina>
 				</GoShopping9>
 				<BackFromShopping1>
 					<01_Katarina>
-						<CHS>我回来了。想我了吗？</CHS>
+						<CHS>我回来了。想我吗？</CHS>
 					</01_Katarina>
 				</BackFromShopping1>
 				<BackFromShopping2>
 					<01_Katarina>
-						<CHS>亲爱的,我回来了!</CHS>
+						<CHS>宝贝，我回家了！</CHS>
 					</01_Katarina>
 				</BackFromShopping2>
 				<BackFromShopping3>
 					<01_Katarina>
-						<CHS>我回来的路上遭到了抢劫。所有的钱都没了。*咯咯地笑*</CHS>
+						<CHS>我在回来的路上被抢劫了。所有的钱都没了。*咯咯地笑*</CHS>
 					</01_Katarina>
 				</BackFromShopping3>
 				<BackFromShopping4>
 					<01_Katarina>
-						<CHS>我给自己买了一双新鞋。我希望你不介意。</CHS>
+						<CHS>我给自己买了双新鞋。希望你不要介意</CHS>
 					</01_Katarina>
 				</BackFromShopping4>
 				<BackFromShopping5>
 					<01_Katarina>
-						<CHS>你见过一个戴一个可笑帽子的陌生人吗？</CHS>
+						<CHS>你见到过一个戴着可笑帽子的陌生人吗？</CHS>
 					</01_Katarina>
 				</BackFromShopping5>
 				<BackFromShopping6>
 					<01_Katarina>
-						<CHS>嘿!我是一个被恶人困住的公主。如果你放了我...哦…是你。</CHS>
+						<CHS>嘿！我是个王子，被一个邪恶的男人困在了这里。如果你解救我…噢…是你啊</CHS>
 					</01_Katarina>
 				</BackFromShopping6>
 				<BackFromShopping7>
 					<01_Katarina>
-						<CHS>专递！</CHS>
+						<CHS>特别递送！</CHS>
 					</01_Katarina>
 				</BackFromShopping7>
 				<BackFromShopping8>
 					<01_Katarina>
-						<CHS>这是你的金币。我已经拿走了我的20%。哈哈哈,你看!</CHS>
+						<CHS>钱给你。我已经拿了我的20%了。哈哈哈，看看你那表情！</CHS>
 					</01_Katarina>
 				</BackFromShopping8>
 				<BackFromShopping9>
 					<01_Katarina>
-						<CHS>如果你再放我一次，我就自由了！哦我希望……</CHS>
+						<CHS>如果你再次把我打发走，我就自由了！哦，我希望……</CHS>
 					</01_Katarina>
 				</BackFromShopping9>
 				<WolfDenSigils1>
 					<01_Katarina>
-						<CHS>你还在等什么呢?我要摧毁魔符还是什么？</CHS>
+						<CHS>你还在等什么？我应该毁掉这些魔符还是怎么样？</CHS>
 					</01_Katarina>
 				</WolfDenSigils1>
 				<WolfDenSigils2>
 					<01_Katarina>
-						<CHS>没忘了什么东西吧?比如摧毁这些魔符？</CHS>
+						<CHS>你没忘什么东西吗？比如说毁掉那些魔符？</CHS>
 					</01_Katarina>
 				</WolfDenSigils2>
 			</Katarina>
@@ -2980,28 +2980,28 @@
 					<CHS>开火！</CHS>
 				</02_Olomkatona>
 				<03_Olomkatona>
-					<CHS>为了进步和科学!</CHS>
+					<CHS>为了科学发展！</CHS>
 				</03_Olomkatona>
 				<04_Olomkatona>
-					<CHS>停!</CHS>
+					<CHS>停下！</CHS>
 				</04_Olomkatona>
 				<05_Olomkatona>
-					<CHS>停!检测到可疑的公民!</CHS>
+					<CHS>停下！发现可疑市民！</CHS>
 				</05_Olomkatona>
 				<06_Olomkatona>
-					<CHS>请证明你的身份！</CHS>
+					<CHS>表明你的身份！</CHS>
 				</06_Olomkatona>
 				<07_Olomkatona>
-					<CHS>开始行动！</CHS>
+					<CHS>出发！</CHS>
 				</07_Olomkatona>
 				<08_Olomkatona>
-					<CHS>停！</CHS>
+					<CHS>住手！</CHS>
 				</08_Olomkatona>
 				<09_Olomkatona>
 					<CHS>投降！</CHS>
 				</09_Olomkatona>
 				<10_Olomkatona>
-					<CHS>停止你的敌对行为。</CHS>
+					<CHS>终止你敌人的行动。</CHS>
 				</10_Olomkatona>
 			</Olomkatona>
 		</General>

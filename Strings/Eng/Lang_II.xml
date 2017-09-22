@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -908,7 +907,7 @@
 					<name>
 						<eng>Reset Perks</eng>
 					</name>
-				</reset_perks>				
+				</reset_perks>
 				<Godlike_Forge>
 					<name>
 						<eng>Meta Forge</eng>

@@ -8,47 +8,47 @@
 		<DLG_MQ12_Wave_starter2>
 			<node1>
 				<Desc>
-					<CHS>Are the troops ready to move out?</CHS>
+					<CHS>部队已经准备好行动了么？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>I still have to give out orders to some of the captains.</CHS>
+					<CHS>我仍然需要对某些队长下达命令。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>Absolutely.  They are all ready.</CHS>
+					<CHS>当然。他们已经准备好了。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>Do you want me to take over?</CHS>
+					<CHS>你想让我接管么？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>Much appreciated, but I can manage that much.</CHS>
+					<CHS>非常感激，但是我能够管理好这么多的。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>谢谢你。将前线的士兵调回来。我会在他们进攻就前往前线并等着他们。</CHS>
+					<CHS>谢谢你。将士兵们从第一道防线撤回来。在他们进攻前我会去前线等着的。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>那你呢？你准备好打一架了吗？</CHS>
+					<CHS>你呢？你准备好战斗了么？</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>我会再进行一轮来确保一切保持正常。</CHS>
+					<CHS>我会再走一遍流程来确保所有事情都井然有序。</CHS>
 				</Desc>
 			</node8>
 			<node9>
 				<Desc>
-					<CHS>我一直在为战斗做准备，指挥官。将前线的士兵调回来。我会在他们进攻就前往前线并等着他们。</CHS>
+					<CHS>我总是准备好了战斗，指挥官。将士兵们从第一道防线撤回来。在他们进攻之前我会去前线等着的。</CHS>
 				</Desc>
 			</node9>
 		</DLG_MQ12_Wave_starter2>

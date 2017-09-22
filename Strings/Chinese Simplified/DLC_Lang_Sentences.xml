@@ -9,75 +9,75 @@
 			<Priest>
 				<I_need_the_mystic_gem>
 					<01_Priest>
-						<CHS>我们没有时间可以浪费了！我的村民迅速放弃了信仰。我需要那种祝福？让遗物有向他们显示光明！</CHS>
+						<CHS>我已经没有时间去浪费了！我的村民们正飞快地抛弃他们的信仰。我要用那受到“神佑”的遗物来带给他们光明！</CHS>
 					</01_Priest>
 				</I_need_the_mystic_gem>
 			</Priest>
 			<Katarina>
 				<Katarinas_sin>
 					<01_VH>
-						<CHS>我知道只有宝石才能让你吐露，但是既然我在这，你有兴趣跟我谈谈你的……过去吗？</CHS>
+						<CHS>我知道是那块宝石让你放下戒心的，但你不觉得你应该跟我谈谈你的...过去吗，我听着呢。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>现在你是干什么的？一个牧师？我们永远不该再碰这种宝石。</CHS>
+						<CHS>现在你算是什么，祭祀吗？我们再也不应该去碰那种宝石了。</CHS>
 					</02_Katarina>								
 				</Katarinas_sin>
 			</Katarina>
 			<guard>
 				<Be_careful_hunter>
 					<01_Guard_falu>
-						<CHS>当心，猎人！老战场是很危险的地方，即使是你这样的人也不列外。</CHS>
+						<CHS>小心点，赏金猎人！就算对你这种人来说那片古战场也依然很危险。</CHS>
 					</01_Guard_falu>
 				</Be_careful_hunter>
 			</guard>
 			<Pale_gentleman>
 				<Do_your_job>
 					<01_Pale_gentleman>
-						<CHS>我快没有耐心了，猎人。去做你承诺过的事吧，我会很感激的。</CHS>
+						<CHS>赏金猎人，我现在已经不急了！去做你所承诺的事情吧，我会感激你的。</CHS>
 					</01_Pale_gentleman>
 				</Do_your_job>
 				<This_is_mine_sewer1>
 					<01_Pale_gentleman>
-						<CHS>现在这已经属于我的领地了，猎人。立刻离开。</CHS>
+						<CHS>现在这已经是我的领地了，赏金猎人。马上滚。</CHS>
 					</01_Pale_gentleman>
 				</This_is_mine_sewer1>
 				<This_is_mine_sewer2>
 					<01_Pale_gentleman>
-						<CHS>你有看见那个标志吗？猎人禁止入内。</CHS>
+						<CHS>你没看到那个标志吗？赏金猎人不得入内。</CHS>
 					</01_Pale_gentleman>
 				</This_is_mine_sewer2>
 				<This_is_mine_sewer3>
 					<01_Pale_gentleman>
-						<CHS>这个秘密巢穴太小了，我们进不去。</CHS>
+						<CHS>这块藏身地点对我们来说太小了吧，赏金猎人。</CHS>
 					</01_Pale_gentleman>
 				</This_is_mine_sewer3>
 				<This_is_mine_sewer4>
 					<01_Pale_gentleman>
-						<CHS>你得到了能为我工作的机会。请你，马上离开。</CHS>
+						<CHS>你曾经可以选择为我效力。请赶紧走吧。</CHS>
 					</01_Pale_gentleman>
 				</This_is_mine_sewer4>
 			</Pale_gentleman>
 			<Rebel_soldier>
 				<I_dont_go_with_you1>
 					<01_Rebel_soldier>
-						<CHS>我很高兴能加入你，但是我的膝盖里装了奇怪的电动弹射装置。</CHS>
+						<CHS>我也愿意加入你，但是我现在膝盖中了个带电的箭。</CHS>
 					</01_Rebel_soldier>
 				</I_dont_go_with_you1>
 				<I_dont_go_with_you2>
 					<01_Rebel_soldier>
-						<CHS>早上好!我是说，祝你狩猎愉快，先生！</CHS>
+						<CHS>狩猎愉快！没错，狩猎愉快，长官！</CHS>
 					</01_Rebel_soldier>
 				</I_dont_go_with_you2>
 				<I_dont_go_with_you3>
 					<01_Rebel_soldier>
-						<CHS>别担心，先生，我会保证这个重要战略地点的安全。</CHS>
+						<CHS>别担心，长官，我会守住这个军事要点的。</CHS>
 					</01_Rebel_soldier>
 				</I_dont_go_with_you3>
 			</Rebel_soldier>
 			<Pale_gentleman_2>
 				<Do_your_job_2>
 					<01_Pale_gentleman_2>
-						<CHS>快点，猎人！仪式可不能迟到。</CHS>
+						<CHS>快点，赏金猎人！那个仪式，要迟到啦。</CHS>
 					</01_Pale_gentleman_2>
 				</Do_your_job_2>
 			</Pale_gentleman_2>

@@ -8,36 +8,36 @@
 	<Quests>
 		<Ch1_GoToTheCity>
 			<Name>
-				<CHS>蛇女通道</CHS>
+				<CHS>戈尔贡路</CHS>
 			</Name>
 			<desc>
-				<CHS>去往博格维亚城的最简单路径就是穿过跨越鸿沟的古老桥梁。我们快到了。</CHS>
+				<CHS>去博格瓦市最简单的方法就是穿过那座横贯大峡谷的桥。已经快到了。</CHS>
 			</desc>
 			<main>
-				<CHS>过桥！</CHS>
+				<CHS>快过桥！</CHS>
 			</main>
 			<find_village>
-				<CHS>找到一个村庄！</CHS>
+				<CHS>快找村子！</CHS>
 			</find_village>
 			<talk_to_guard>
-				<CHS>和守卫队长交谈！</CHS>
+				<CHS>去找守卫队长谈话！</CHS>
 			</talk_to_guard>
 			<Completed>
-				<CHS>我到达了前往博格维亚城路上的第一个村庄。</CHS>
+				<CHS>我在去博格瓦市的途中到了第一个村子。</CHS>
 			</Completed>
 		</Ch1_GoToTheCity>
 		<Ch1_FindAVillage>
 			<Name>
-				<CHS>找到一个村庄</CHS>
+				<CHS>找到村子</CHS>
 			</Name>
 			<desc>
-				<CHS>桥塌了，所以我们必须找其他路前往博格维亚。卡特琳娜女士建议我们应该走那条可能通往一座村庄的山路。</CHS>
+				<CHS>桥已经塌了，只能另外找路去博格瓦了。卡特琳娜小姐提议我们应该顺着山路走也许能通往村子。</CHS>
 			</desc>
 			<main>
-				<CHS>找到一个村庄！</CHS>
+				<CHS>快找村子！</CHS>
 			</main>
 			<talk_to_guard>
-				<CHS>和守卫队长交谈！</CHS>
+				<CHS>与守卫队长谈话！</CHS>
 			</talk_to_guard>
 		</Ch1_FindAVillage>
 		<Ch1_FindTheMajor>
@@ -45,102 +45,102 @@
 				<CHS>村长</CHS>
 			</Name>
 			<desc>
-				<CHS>村长没有回到村里。他肯定在森林中迷路了。</CHS>
+				<CHS>村长还没回村。一定是在树林里迷路了。</CHS>
 			</desc>
 			<main>
-				<CHS>在森林中找到被困马车。</CHS>
+				<CHS>寻找被困在树林中的马车。</CHS>
 			</main>
 			<wolf_den>
-				<CHS>找到狼穴！</CHS>
+				<CHS>寻找狼穴！</CHS>
 			</wolf_den>
 			<enter_wolfden>
 				<CHS>进入狼穴！</CHS>
 			</enter_wolfden>
 			<destroy_sigil>
-				<CHS>摧毁魔符！([sigil_count]/5)</CHS>
+				<CHS>摧毁咒印！ ([sigil_count]/5)</CHS>
 			</destroy_sigil>
 			<go_back>
-				<CHS>返回村庄与村长交谈！</CHS>
+				<CHS>返回村子找村长谈话！</CHS>
 			</go_back>
 			<kill_wolf>
-				<CHS>打败Vrikolak领袖！</CHS>
+				<CHS>打倒维克拉克头领！</CHS>
 			</kill_wolf>
 			<talk_mayor>
-				<CHS>与村长交谈！</CHS>
+				<CHS>找村长谈话！</CHS>
 			</talk_mayor>
 			<Completed>
-				<CHS>我在狼穴找到并救出村长。</CHS>
+				<CHS>我在狼穴里找到了村长并他救了出来。</CHS>
 			</Completed>
 		</Ch1_FindTheMajor>
 		<Ch1_SpeakWithTheGypsies>
 			<Name>
-				<CHS>吉普赛人诅咒</CHS>
+				<CHS>吉普赛诅咒</CHS>
 			</Name>
 			<desc>
-				<CHS>流浪的吉普赛人给村庄的炼金术士下了诅咒。我需要他的服务，所以我必须先和旅行者交谈。</CHS>
+				<CHS>云游四方的吉普赛人对村里的炼金术师下了诅咒。我需要他的帮助，所以我得先找这些旅行者谈谈。</CHS>
 			</desc>
 			<main>
-				<CHS>与吉普赛人交谈！</CHS>
+				<CHS>和吉普赛人交谈！</CHS>
 			</main>
 			<kill_the_beast>
-				<CHS>追捕危险的雪毛皮！</CHS>
+				<CHS>杀死危险的雪皮怪!</CHS>
 			</kill_the_beast>
 			<go_back>
-				<CHS>回到吉普赛人营地！</CHS>
+				<CHS>返回吉普赛营地！</CHS>
 			</go_back>
 			<talk_alchemist>
-				<CHS>与炼金术士交谈！</CHS>
+				<CHS>与炼金术师交谈！</CHS>
 			</talk_alchemist>
 			<Completed>
-				<CHS>我消除了村庄炼金术士身上的诅咒。</CHS>
+				<CHS>我解除了施加在炼金术师身上的诅咒。</CHS>
 			</Completed>
 		</Ch1_SpeakWithTheGypsies>
 		<Ch1_InkInTheWell>
 			<Name>
-				<CHS>墨境的旅程。</CHS>
+				<CHS>去往墨境</CHS>
 			</Name>
 			<desc>
-				<CHS>井是现实中的鸿沟，它通往在我们世界之外旋转的墨境。墨境潮汐夺去了炼金术士的背包，需要把它找回来。</CHS>
+				<CHS>这口井实际上是一个裂缝，通向偏离于人世的墨境。一股墨潮隧道夺走了炼金术师的包，把它取回来。</CHS>
 			</desc>
 			<main>
-				<CHS>从墨境拿回背包！</CHS>
+				<CHS>从墨境取回包！</CHS>
 			</main>
 			<go_back>
-				<CHS>回去找炼金术士！</CHS>
+				<CHS>返回炼金术师处！</CHS>
 			</go_back>
 			<Completed>
-				<CHS>我从墨境取回炼金术士的背包！</CHS>
+				<CHS>我从墨境取回了炼金术师的包。</CHS>
 			</Completed>		
 		</Ch1_InkInTheWell>
 		<Ch1_Battlefield>
 			<Name>
-				<CHS>打捞任务</CHS>
+				<CHS>回收任务</CHS>
 			</Name>
 			<desc>
-				<CHS>村庄店主出大价钱购买打捞上来的旧猎人机器零件。</CHS>
+				<CHS>村里的店老板愿意花大价钱购买从旧的hunter-machine上拆下来的部件。</CHS>
 			</desc>
 			<main>
-				<CHS>收集生锈炸弹！([Item:Rusty_bomb]/5)</CHS>
+				<CHS>收集锈迹斑斑的炸弹！([Item:Rusty_bomb]/5)</CHS>
 			</main>
 			<go_back>
-				<CHS>返回店主那儿！</CHS>
+				<CHS>返回店老板处！</CHS>
 			</go_back>
 			<Completed>
-				<CHS>我收集了所有打捞上来的零件给村庄店主。</CHS>
+				<CHS>我为店老板收齐了所有的部件。</CHS>
 			</Completed>		
 		</Ch1_Battlefield>
 		<Ch1_Scarecrow>
 			<Name>
-				<CHS>稻草人。</CHS>
+				<CHS>稻草人</CHS>
 			</Name>
 			<desc>
-				<CHS>我在死亡树林找到了一个不吉利的稻草人。它变成了一个叫做无翼弥赛亚的魔物，它把我抓到他的墨境领域。</CHS>
+				<CHS>我在死亡森林里找到一个不祥的稻草人。结果我被一个叫做无翼耶稣的恶心家伙拖到了他的墨境深渊。</CHS>
 			</desc>			
 			<main>
-				<CHS>击败稻草人！</CHS>
+				<CHS>打倒稻草人！</CHS>
 			</main>
 			<Completed>
-				<CHS>我发现了不是很强力的稻草人，就算它变身也没能吓到我。我击败了它然后故事就结束了。</CHS>
+				<CHS>我找到了一个不怎么样的稻草人，结果上来说，这东西还不足以让我怕的逃走。我干掉了它，然后就没有然后了。</CHS>
 			</Completed>
 		</Ch1_Scarecrow>
 		<Ch1_Bodyguarding>
@@ -148,62 +148,62 @@
 				<CHS>商人</CHS>
 			</Name>
 			<desc>
-				<CHS>一个孤单的商人想逃离这片森林。他要去吉普赛人营地，付钱给他们来确保他安全通过。</CHS>
+				<CHS>一个商人想要逃离这片森林。他要到吉普赛的营地去，花钱祈愿保平安。</CHS>
 			</desc>
 			<main>
-				<CHS>护送商人到达吉普赛营地！</CHS>
+				<CHS>保护商人前往吉普赛营地！</CHS>
 			</main>
 			<Completed>
-				<CHS>我护送孤单的商人到达吉普赛营地。</CHS>
+				<CHS>我护送商人去了吉普赛营地。</CHS>
 			</Completed>	
 		</Ch1_Bodyguarding>
 		<Ch1_RusalkaAmbush>
 			<Name>
-				<CHS>水泽仙女的伏击</CHS>
+				<CHS>水泽仙女的袭击</CHS>
 			</Name>
 			<desc>
-				<CHS>水泽仙女回到了森林中并时不时攻击村庄。</CHS>
+				<CHS>水泽仙女回到了树林里，并不间断的骚扰村子的安宁。</CHS>
 			</desc>
 			<main>
-				<CHS>保护村庄！</CHS>
+				<CHS>保护村子！</CHS>
 			</main>
 			<go_back>
-				<CHS>和村长交谈！</CHS>
+				<CHS>找村长谈话！</CHS>
 			</go_back>
 			<protect_shop>
 				<CHS>保护商店！</CHS>
 			</protect_shop>
 			<protect_church>
-				<CHS>保护村庄教堂！</CHS>
+				<CHS>保护村里的教堂！</CHS>
 			</protect_church>
 			<protect_statue>
-				<CHS>保护巨大雕像！</CHS>
+				<CHS>保护大雕像！</CHS>
 			</protect_statue>
 			<protect_gate1>
-				<CHS>阻止水泽仙女摧毁北门！</CHS>
+				<CHS>阻止水泽仙女破坏被北边的门！</CHS>
 			</protect_gate1>
 			<protect_gate2>
-				<CHS>阻止水泽仙女摧毁西门！</CHS>
+				<CHS>阻止水泽仙女破坏被西边的门！</CHS>
 			</protect_gate2>
 			<protect_gate3>
-				<CHS>阻止水泽仙女摧毁南门！</CHS>
+				<CHS>阻止水泽仙女破坏被南边的门！</CHS>
 			</protect_gate3>
 			<Completed>
-				<CHS>我击退了水泽仙女的伏击。</CHS>
+				<CHS>我击退了袭击村子的水泽仙女。</CHS>
 			</Completed>			
 		</Ch1_RusalkaAmbush>
 		<Ch1_Spirit_of_the_Forest>
 			<Name>
-				<CHS>森林之灵</CHS>
+				<CHS>森林之意</CHS>
 			</Name>
 			<desc>
-				<CHS>看来触碰了太多那些符文石，我释放了一些恶毒的东西。我还是解决掉他们好了。</CHS>
+				<CHS>看来我触摸了太多的符文石导致释放出了某种邪恶的东西。我最好把它搞定。</CHS>
 			</desc>
 			<main>
-				<CHS>杀死森林之灵！</CHS>
+				<CHS>杀死森林之意！</CHS>
 			</main>
 			<Completed>
-				<CHS>我摧毁了邪恶的森林之灵。</CHS>
+				<CHS>我毁灭了邪恶的森林之意。</CHS>
 			</Completed>	
 		</Ch1_Spirit_of_the_Forest>
 		<Ch1_Frog_Statue>
@@ -211,98 +211,98 @@
 				<CHS>青蛙雕像</CHS>
 			</Name>
 			<desc>
-				<CHS>选择的青蛙雕像变成一座神秘的沃迪亚诺伊建筑物的一部分。更重要的是，他们召唤了一个邪恶沃迪亚诺伊二人组。我最好还是解决掉他们。</CHS>
+				<CHS>旋转的青蛙雕塑是神秘的沃迪亚诺伊建筑的一部分。更重要的是，它们召唤出了邪恶的沃迪亚诺伊二人组。我不能放任这些东西徘徊于世。</CHS>
 			</desc>
 			<main>
-				<CHS>杀死沃迪亚诺伊二人组。</CHS>
+				<CHS>杀死沃迪亚诺伊二人组！</CHS>
 			</main>
 			<Completed>
-				<CHS>我解决了旋转青蛙雕像的秘密并杀死了邪恶沃迪亚诺伊二人组。</CHS>
+				<CHS>我解开了旋转青蛙雕塑的谜题并且杀死了邪恶的沃迪亚诺伊二人组。</CHS>
 			</Completed>			
 		</Ch1_Frog_Statue>
 		<Ch1_Kill_the_Hunting_Party>
 			<Name>
-				<CHS>上古墨境之门</CHS>
+				<CHS>古老的墨境之门</CHS>
 			</Name>
 			<desc>
-				<CHS>村长说道有一个墨境之门将沼泽与旧矿山连接在一起。一旦我发现它就离博格维亚更近一步了。</CHS>
+				<CHS>村长提到一个连接沼泽与旧矿洞的墨境之门。只要我找到它，就离博格瓦更近了一步。</CHS>
 			</desc>
 			<main>
-				<CHS>找到通往矿山的墨境之门。</CHS>
+				<CHS>寻找连接矿洞的墨境之门！</CHS>
 			</main>
 			<kill_party>
-				<CHS>杀死看门人！</CHS>
+				<CHS>杀死门卫！</CHS>
 			</kill_party>
 			<travel>
-				<CHS>进入通往矿山的墨境之门！</CHS>
+				<CHS>进入连接矿洞的墨境之门！</CHS>
 			</travel>
 			<Completed>
-				<CHS>我进入了通往矿山的墨境之门。</CHS>
+				<CHS>我进入了连接矿洞的墨境之门。</CHS>
 			</Completed>		
 		</Ch1_Kill_the_Hunting_Party>
 		<Ch1_Dreadknecht_Camp>
 			<Name>
-				<CHS>铁匠的请求</CHS>
+				<CHS>铁匠的委托</CHS>
 			</Name>
 			<Desc>
-				<CHS>铁匠要我调查在绞架沼泽中的一个恐怖克内希特营地。显然那里有个有一个由奇怪物质驱动的机器，这种物质能用作铸造强力的武器。</CHS>
+				<CHS>铁匠委托我调查位于绞刑沼泽的一个戴德克内希特营地。很显然那里有一部机器，给那机器供给能源的奇怪物质能够用来打造强力的武器。</CHS>
 			</Desc>
 			<main>
-				<CHS>获得一个电精华！</CHS>
+				<CHS>获得一个电能精华！</CHS>
 			</main>
 			<go_back>
-				<CHS>返回铁匠那儿！</CHS>
+				<CHS>返回铁匠处！</CHS>
 			</go_back>
 			<Completed>
-				<CHS>我把电精华交给铁匠。</CHS>
+				<CHS>我把电能精华交给了铁匠。</CHS>
 			</Completed>		
 		</Ch1_Dreadknecht_Camp>
 		<Ch1_Deal_with_the_Priest>
 			<Name>
-				<CHS>牧师的背叛</CHS>
+				<CHS>神父的背叛</CHS>
 			</Name>
 			<Desc>
-				<CHS>原来牧师才是水泽仙女攻击村庄的幕后主使。我必须对抗他，并在必要时候干掉他。</CHS>
+				<CHS>神父才是水泽仙女攻击村子背后的主谋者。我必须与他当面对峙，有必要的话就打死他。</CHS>
 			</Desc>
 			<main>
-				<CHS>对抗牧师！</CHS>
+				<CHS>与神父见面！</CHS>
 			</main>
 			<follow>
-				<CHS>跟随牧师前往蛇女通道！</CHS>
+				<CHS>跟踪神父前往蛇妖山道！</CHS>
 			</follow>
 			<kill_the_priest>
-				<CHS>干掉牧师！</CHS>
+				<CHS>彻底抹除掉神父的存在！</CHS>
 			</kill_the_priest>
 			<Completed>
-				<CHS>我干掉了水泽仙女袭击村庄的幕后黑手。</CHS>
+				<CHS>我干掉了策划水泽仙女袭击村子事件的神父。</CHS>
 			</Completed>
 		</Ch1_Deal_with_the_Priest>
 		<Ch1_Living_Ghost>
 			<Name>
-				<CHS>活鬼</CHS>
+				<CHS>游走亡魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>我发现一个迷失灵魂在死亡树林游荡。我想到一个可以让他解脱的方法。</CHS>
+				<CHS>我在死亡森林找到一个徘徊的亡魂。我有办法能够解除他的痛苦让他升天。</CHS>
 			</Desc>
 			<main>
-				<CHS>帮助鬼魂解脱。</CHS>
+				<CHS>超度这个亡魂</CHS>
 			</main>
 			<Completed>
-				<CHS>我让鬼魂得到了解脱。</CHS>
+				<CHS>我让那个亡魂升天了。</CHS>
 			</Completed>		
 		</Ch1_Living_Ghost>
 		<Ch1_TravelToBorgova>
 			<Name>
-				<CHS>通过通道。</CHS>
+				<CHS>穿过隧道</CHS>
 			</Name>
 			<desc>
-				<CHS>我必须一路杀过旧矿山到达山的另一面。</CHS>
+				<CHS>我必须想个办法穿过就矿洞渠道山的那一侧。</CHS>
 			</desc>
 			<main>
-				<CHS>穿过通道到达博格维亚！</CHS>
+				<CHS>穿过隧道到达博格瓦！</CHS>
 			</main>
 			<Completed>
-				<CHS>我已经穿过旧通道到达博格维亚。</CHS>
+				<CHS>我穿过隧道来到了博格瓦。</CHS>
 			</Completed>		
 		</Ch1_TravelToBorgova>
 		<Ch1_KillTheCaveBoss>
@@ -310,103 +310,103 @@
 				<CHS>钻虫</CHS>
 			</Name>
 			<desc>
-				<CHS>在旧矿山中的牵引站是一个巨大，机械钻虫的老窝。毫无疑问这个诡异博格维亚科学的又一项成就。我别无选择只能杀出一条血路。</CHS>
+				<CHS>旧矿洞的托运站成了一只巨大无比的机械钻虫的巢穴。一定又是鬼畜博加维亚科学的另一个产物。我只能强行通过了。</CHS>
 			</desc>
 			<main>
-				<CHS>击败钻虫！</CHS>
+				<CHS>打败钻虫！</CHS>
 			</main>
 			<Completed>
-				<CHS>我摧毁了旧矿山中的钻虫。</CHS>
+				<CHS>我虐杀了在旧矿洞里的钻虫。</CHS>
 			</Completed>
 		</Ch1_KillTheCaveBoss>
 		<Ch2_Find_the_Lair>
 			<Name>
-				<CHS>找到藏身处</CHS>
+				<CHS>寻找躲藏屋</CHS>
 			</Name>
 			<desc>
-				<CHS>我的父亲曾经在这个附近有个地下秘密基地。我必须找到下水道入口。</CHS>
+				<CHS>我的父亲曾经在地下这附近有个秘密的躲藏屋。我得找个入口进去。</CHS>
 			</desc>
 			<main>
-				<CHS>找到秘密基地的入口</CHS>
+				<CHS>寻找秘密藏身所的入口</CHS>
 			</main>
 			<Completed>
-				<CHS>我找到了进入秘密基地的入口。</CHS>
+				<CHS>我找到了秘密藏身所的入口。</CHS>
 			</Completed>
 		</Ch2_Find_the_Lair>
 		<Ch2_New_Assignment1>
 			<Name>
-				<CHS>新的任务</CHS>
+				<CHS>新任务</CHS>
 			</Name>
 			<main>
-				<CHS>跟巢穴内的弗拉多斯伯爵谈谈</CHS>
+				<CHS>与弗拉德斯伯爵交谈</CHS>
 			</main>
 		</Ch2_New_Assignment1>
 		<Ch2_Start_the_Lair_Generator>
 			<Name>
-				<CHS>打开发电机</CHS>
+				<CHS>启动发生器</CHS>
 			</Name>
 			<desc>
-				<CHS>现在我知道我为什么在博格维亚了，我必须妥善利用我父亲的藏身处。它有很多有用的装置，但是他们没有这个所谓的发电机它就不能工作，然而它已经坏了。我要找人来修。</CHS>
+				<CHS>现在我终于知道来博格瓦的原因了，我得好好利用父亲的藏匿处。这里有许多有用的设备，但没有电子发生器的话根本无法使用，而且发生器还是坏的。我需要找人来修一下。</CHS>
 			</desc>
 			<main>
-				<CHS>找到工程师</CHS>
+				<CHS>寻找工程师</CHS>
 			</main>
 			<collect>
-				<CHS>收集4种线圈([Item:Electric_Coil]/4)</CHS>
+				<CHS>收集4个电子线圈([Item:Electric_Coil]/4)</CHS>
 			</collect>
 			<return>
-				<CHS>返回在藏身处的工程师处</CHS>
+				<CHS>回到藏身所找工程师</CHS>
 			</return>
 			<Completed>
-				<CHS>我把线圈交给工程师。</CHS>
+				<CHS>我把所有电子线圈都交给了工程师。</CHS>
 			</Completed>
 		</Ch2_Start_the_Lair_Generator>
 		<Ch2_Lost_in_the_Ink>
 			<Name>
-				<CHS>迷失在墨境中</CHS>
+				<CHS>迷失在墨境</CHS>
 			</Name>
 			<desc>
-				<CHS>看来通过墨境有时会有意想不到的结果。我们最近的旅程让我们迷路并进入了墨境的一个未知位置。我们最好还是想办法离开这里。</CHS>
+				<CHS>似乎来回穿梭现实与墨境有时候也会出意外。这一次的穿行就把我们传送到了一个未知的地点。得想办法离开这里。</CHS>
 			</desc>
 			<main>
-				<CHS>找路出去。</CHS>
+				<CHS>寻找出路</CHS>
 			</main>
 			<Completed>
-				<CHS>我找到了出去的路。</CHS>
+				<CHS>我找到了离开这个未知墨境的路。</CHS>
 			</Completed>
 		</Ch2_Lost_in_the_Ink>
 		<Ch2_Enemy_in_tunnels>
 			<Name>
-				<CHS>通道中的敌人</CHS>
+				<CHS>隧道里的敌人</CHS>
 			</Name>
 			<desc>
-				<CHS>我们现在可以通过在通道中放置陷阱来提升我们藏身处的防御。然而，我必须先清除通道中那些怪物，那样工程师才能安全工作。</CHS>
+				<CHS>现在可以通过在隧道里设置陷阱来增加藏身所的防御。我得先把隧道里的怪物清干净，这样工程师小哥才能安心工作。</CHS>
 			</desc>
 			<main>
-				<CHS>清除藏身处附近通道中的怪物</CHS>
+				<CHS>清理藏身所周边的隧道</CHS>
 			</main>
 			<return>
-				<CHS>回去找工程师</CHS>
+				<CHS>返回工程师处</CHS>
 			</return>
 			<Completed>
-				<CHS>我清除藏身处附近通道中的怪物</CHS>
+				<CHS>我清理藏了身点周边的隧道。</CHS>
 			</Completed>
 		</Ch2_Enemy_in_tunnels>
 		<Ch2_Destroy_the_gas_Machine>
 			<Name>
-				<CHS>毒气喷射器</CHS>
+				<CHS>毒气发生装置</CHS>
 			</Name>
 			<desc>
-				<CHS>暴脾气教授创造了一个可以让整个城市覆盖毒气的装置，思维改变毒气！如此邪恶的装置必须摧毁。</CHS>
+				<CHS>福尔玛加教授造出了一种能够释放出覆盖整个城市的毒气的装置！这样恶毒的东西决不能存在于世。</CHS>
 			</desc>
 			<main>
-				<CHS>毒气喷射器</CHS>
+				<CHS>破坏毒气发生装置</CHS>
 			</main>
 			<return>
-				<CHS>回去找弗拉多斯伯爵</CHS>
+				<CHS>返回弗拉德斯伯爵处</CHS>
 			</return>
 			<Completed>
-				<CHS>我摧毁了暴脾气的邪恶毒气喷射装置。</CHS>
+				<CHS>我催了福尔玛加邪恶的毒气发生装置。</CHS>
 			</Completed>
 		</Ch2_Destroy_the_gas_Machine>
 		<Ch2_Witch_Ritual>
@@ -414,122 +414,122 @@
 				<CHS>仪式</CHS>
 			</Name>
 			<desc>
-				<CHS>萨菲需要一些老鼠骨头来进行一些晦涩的仪式来帮助反抗军。由于大多数城市的害虫已经变成了贪婪的吃人怪物，她需要我来完成这个任务。</CHS>
+				<CHS>萨菲需要一些老鼠骨头来完成某个神秘的仪式以帮助抵抗组织。现在城里大部分的害虫都变成了吃人的怪物，所以她需要我来帮她这个忙。</CHS>
 			</desc>
 			<main>
-				<CHS>收集5个老鼠骨头([Item:Rat_bone]/5)</CHS>
+				<CHS>收集5根老鼠骨头 ([Item:Rat_bone]/5)</CHS>
 			</main>
 			<speak_witch>
-				<CHS>和萨菲交谈</CHS>
+				<CHS>与萨菲交谈</CHS>
 			</speak_witch>
 			<return>
-				<CHS>回到萨菲处</CHS>
+				<CHS>返回萨菲处</CHS>
 			</return>
 			<Completed>
-				<CHS>我将鼠骨交给萨菲。</CHS>
+				<CHS>我把老鼠骨头交给了萨菲。</CHS>
 			</Completed>
 		</Ch2_Witch_Ritual>
 		<Ch2_Water_Maffia>
 			<Name>
-				<CHS>净水</CHS>
+				<CHS>干净的水</CHS>
 			</Name>
 			<Desc>
-				<CHS>一帮比一般聪明的沃迪亚诺伊已经独占了贫民窟中唯一的净水供应。我必须解决饮水问题。</CHS>
+				<CHS>一帮比较聪明的沃迪亚诺伊霸占了贫民窟的清洁水源。我要不惜一切手段夺回水箱。</CHS>
 			</Desc>
 			<main>
-				<CHS>阻止沃迪亚诺伊团伙！</CHS>
+				<CHS>阻止沃迪亚诺伊帮！</CHS>
 			</main>
 			<return>
-				<CHS>回到口渴的居民处</CHS>
+				<CHS>返回口渴的市民处</CHS>
 			</return>
 			<Completed>
-				<CHS>我阻止了沃迪亚诺伊团伙并解决了饮水问题。</CHS>
+				<CHS>我阻止了沃迪亚诺伊帮的人并夺回了清洁水源。</CHS>
 			</Completed>		
 		</Ch2_Water_Maffia>
 		<Ch2_The_Dark_Alchemist>
 			<Name>
-				<CHS>黑暗炼金术士</CHS>
+				<CHS>黑暗炼金术师</CHS>
 			</Name>
 			<Desc>
-				<CHS>一个邪恶的炼金术士，他是苍白绅士的一员用液化的燃素进行试验并把危险的废水溅到街道上。我必须引他出来并干掉他。炸毁流出物应该有效。</CHS>
+				<CHS>一个卑鄙的炼金术师，沧桑男用液化燃素进行试验并把危险的废料排放到街上。我必须把他引出来当面谈谈。把外流炸个稀巴烂应该能把他引出来。</CHS>
 			</Desc>
 			<main>
-				<CHS>找一些爆炸物</CHS>
+				<CHS>寻找炸药</CHS>
 			</main>
 			<destroy>
-				<CHS>摧毁流出物</CHS>
+				<CHS>摧毁外流</CHS>
 			</destroy>
 			<kill>
-				<CHS>杀死黑暗炼金术士</CHS>
+				<CHS>杀死黑暗炼金术师</CHS>
 			</kill>
 			<return>
-				<CHS>和兹德拉夫科 梅迪乌交谈</CHS>
+				<CHS>与扎夫科·迷笛交谈</CHS>
 			</return>
 			<Completed>
-				<CHS>我引出并杀死了黑暗炼金术士。</CHS>
+				<CHS>我会把黑暗炼金术师引出来然后杀掉。</CHS>
 			</Completed>
 		</Ch2_The_Dark_Alchemist>
 		<Ch2_Monster_Hunting>
 			<Name>
-				<CHS>游荡的怪物</CHS>
+				<CHS>徘徊的怪物</CHS>
 			</Name>
 			<Desc>
-				<CHS>一些黑暗炼金术士粗心大意创造的魔物还散布在贫民窟。我自愿接受这个任务。</CHS>
+				<CHS>黑暗炼金术师所创造出的一些讨人厌的怪物还在贫民窟周围游走。我很愿意免费帮他们杀干净。</CHS>
 			</Desc>
 			<main>
-				<CHS>杀死游荡的怪物</CHS>
+				<CHS>杀光恶心的怪物</CHS>
 			</main>
 			<return>
-				<CHS>回到兹德拉夫科 梅迪乌处</CHS>
+				<CHS>返回扎夫科·迷笛处</CHS>
 			</return>
 			<Completed>
-				<CHS>我杀死了游荡在卢克利的怪物。</CHS>
+				<CHS>我杀光了贫民窟周围的怪物。</CHS>
 			</Completed>
 		</Ch2_Monster_Hunting>
 		<Ch2_Kill_the_Beast_Part1>
 			<Name>
-				<CHS>卑鄙的行为</CHS>
+				<CHS>卑鄙的契约</CHS>
 			</Name>
 			<Desc>
-				<CHS>暴脾气现在计划使用供水系统在城市中散布他的思维控制药物。我必须从他的部队中杀出一条血路并杀死暴脾气的将领-一个名叫布瑞达的生物-来阻止攻击。</CHS>
+				<CHS>弗米伽提正在盘算利用供水系统来在城市里传播思维控制的药。我必须一路杀出去干掉他手下的将军——一只叫做布雷达的生物——以阻止这次他们的进攻。</CHS>
 			</Desc>
 			<main>
-				<CHS>到达污水处理厂。</CHS>
+				<CHS>前往污水处理厂</CHS>
 			</main>
 			<destroy_the_bridge>
-				<CHS>摧毁桥梁控制机械</CHS>
+				<CHS>摧毁架桥的控制机关</CHS>
 			</destroy_the_bridge>
 			<Eliminate_outposts>
-				<CHS>摧毁所有敌军守卫的站点([outpost_eliminated]/6)</CHS>
+				<CHS>摧毁所有敌人据点([outpost_eliminated]/6)</CHS>
 			</Eliminate_outposts>
 			<docks>
-				<CHS>到达供水系统</CHS>
+				<CHS>找到供水系统</CHS>
 			</docks>			
 			<Completed>
-				<CHS>我从敌人中杀出一条血路：现在我只要找到暴脾气的将领。</CHS>
+				<CHS>我一路杀将过来：现在只需要找到弗米伽提的将军。</CHS>
 			</Completed>
 		</Ch2_Kill_the_Beast_Part1>
 		<Ch2_Kill_the_Beast_Part2>
 			<Name>
-				<CHS>暴脾气的将领</CHS>
+				<CHS>弗米伽提的将军</CHS>
 			</Name>
 			<Desc>
-				<CHS>这是一场艰苦的战斗，但是现在我必须面对暴脾气的神秘将领来终止疯狂科学家的进一步计划。</CHS>
+				<CHS>真是一场而战，但现在我只要再干掉弗米伽提的神秘将军就能阻止这个疯狂科学家的野心。</CHS>
 			</Desc>
 			<main>
-				<CHS>到达供水系统</CHS>
+				<CHS>找到供水系统</CHS>
 			</main>
 			<find_beast>
-				<CHS>找到布瑞达</CHS>
+				<CHS>找到布雷达</CHS>
 			</find_beast>
 			<kill_breda>
-				<CHS>杀死布瑞达</CHS>
+				<CHS>杀死布雷达</CHS>
 			</kill_breda>
 			<return>
-				<CHS>回去找瓦尔德斯！</CHS>
+				<CHS>返回弗拉德斯处</CHS>
 			</return>
 			<Completed>
-				<CHS>我杀死了暴脾气的将领并阻止了其对城市的进攻。</CHS>
+				<CHS>我杀死了弗米伽提的将军阻止了他们对城市的进攻。</CHS>
 			</Completed>
 		</Ch2_Kill_the_Beast_Part2>
 		<Ch2_The_Assistant>
@@ -537,27 +537,27 @@
 				<CHS>助手</CHS>
 			</Name>
 			<Desc>
-				<CHS>一名博格维亚科学家的前助手藏在污水处理厂附近的某个地方。他携带的计划和文件对我们来说很有用。我必须找到他。</CHS>
+				<CHS>一个博加维亚科学家的前助手被关在污水处理厂的某处。他手中的计划书和文件也许对我们非常有用。我要去找他。</CHS>
 			</Desc>
 			<main>
-				<CHS>从助手那得到一份发电机计划</CHS>
+				<CHS>从助手手中获得发生器计划书</CHS>
 			</main>
 			<Completed>
-				<CHS>我从在污水处理厂的助手那得到一份发电机计划。</CHS>
+				<CHS>我从助手那里得到了发生器的计划书。</CHS>
 			</Completed>
 		</Ch2_The_Assistant>
 		<Ch2_The_hidden_Treasure>
 			<Name>
-				<CHS>隐藏的财富</CHS>
+				<CHS>隐藏的宝藏</CHS>
 			</Name>
 			<Desc>
-				<CHS>我还从助手那购买了一张地图，这张地图上标出了一些在工业港某处的隐藏宝物的地点。这应该不难找。</CHS>
+				<CHS>我从助手手中买来一份工业港的藏宝图。应该不会太难找。</CHS>
 			</Desc>
 			<main>
-				<CHS>找到隐藏的宝物箱</CHS>
+				<CHS>找到隐藏的宝藏</CHS>
 			</main>
 			<Completed>
-				<CHS>我在工业港找到了隐藏宝藏。</CHS>
+				<CHS>我找到了工业港的隐藏宝藏</CHS>
 			</Completed>
 		</Ch2_The_hidden_Treasure>
 		<Ch2_The_Beggar_King>
@@ -565,10 +565,10 @@
 				<CHS>乞丐王</CHS>
 			</Name>
 			<Desc>
-				<CHS>我发现博格维亚的乞丐有个老大而且他需要帮助。我答应进入墨境并帮助他。</CHS>
+				<CHS>我发现博格瓦的乞丐居然有个老大，而且他现在有危险。我已经答应乞丐们进入墨境把他救回来。</CHS>
 			</Desc>
 			<main>
-				<CHS>救出乞丐王</CHS>
+				<CHS>拯救乞丐王</CHS>
 			</main>
 			<Completed>
 				<CHS>我救出了乞丐王。</CHS>
@@ -579,110 +579,110 @@
 				<CHS>沼泽百合</CHS>
 			</Name>
 			<Desc>
-				<CHS>我同意给萨菲的仪式收集一些沼泽百合。这听起来是我这一生最艰难的挑战。</CHS>
+				<CHS>我答应萨菲替她找仪式用的沼泽百合。这似乎会是我这辈子最大的挑战。</CHS>
 			</Desc>
 			<main>
-				<CHS>收集8个沼泽百合([Item:Swamp_flower]/8)</CHS>
+				<CHS>收集8朵沼泽花([Item:Swamp_flower]/8)</CHS>
 			</main>
 			<talk>
-				<CHS>和萨菲交谈</CHS>
+				<CHS>与萨菲交谈</CHS>
 			</talk>
 			<return>
-				<CHS>回到萨菲处</CHS>
+				<CHS>返回萨菲处</CHS>
 			</return>
 			<Completed>
-				<CHS>我将沼泽百合交给萨菲。</CHS>
+				<CHS>我把沼泽百合都交给了萨菲。</CHS>
 			</Completed>
 		</Ch2_Swamp_Flowers>
 		<Ch2_The_weapon_shipment>
 			<Name>
-				<CHS>武器运输</CHS>
+				<CHS>运送武器</CHS>
 			</Name>
 			<Desc>
-				<CHS>反抗军试图走私武器补给到城市中，但是等候运输的士兵被杀了。我必须到达灯塔并亲自给船打信号。</CHS>
+				<CHS>抵抗组织试图走私 一批武器装备进城，但却有重兵把守，最后一批货被截了。我得到灯塔去给船只发信号。</CHS>
 			</Desc>
 			<main>
-				<CHS>在灯塔给走私者打信号</CHS>
+				<CHS>用灯塔的灯给走私者们发信号</CHS>
 			</main>
 			<Secure>
-				<CHS>保护武器运输</CHS>
+				<CHS>确保武器的运输</CHS>
 			</Secure>
 			<Speak>
-				<CHS>与武器走私者交谈。</CHS>
+				<CHS>与武器走私者交谈</CHS>
 			</Speak>
 			<Completed>
-				<CHS>我联系了走私者并保护了武器运输。</CHS>
+				<CHS>我与走私者取得了联系并确保了武器的运输。</CHS>
 			</Completed>
 		</Ch2_The_weapon_shipment>
 		<Ch2_Protect_The_Lair>
 			<Name>
-				<CHS>保护藏身处</CHS>
+				<CHS>保护藏身所</CHS>
 			</Name>
 			<Desc>
-				<CHS>布瑞达已计策击败了我们！他的部队正准备进攻藏身处，我们必须准备不惜一切代价进行防御。</CHS>
+				<CHS>布雷达阴了我们！他的大军就要朝藏身所攻来了，我们要不惜一切代价守住这里。</CHS>
 			</Desc>
 			<main>
-				<CHS>击退入侵者( [wave_count] waves remaining )</CHS>
+				<CHS>打退进攻者( 剩余[wave_count]波  )</CHS>
 			</main>
 			<Completed>
-				<CHS>我保护了藏身处并击退了入侵者。</CHS>
+				<CHS>我把所有进攻者都赶跑了保护了藏身所。</CHS>
 			</Completed>		
 		</Ch2_Protect_The_Lair>
 		<Ch2_TD_elso>
 			<Name>
-				<CHS>保护藏身处</CHS>
+				<CHS>保护藏身所</CHS>
 			</Name>
 			<Desc>
-				<CHS>发电机的激活在下水道居民中引起了注意。幸好我能用陷阱阻止他们。</CHS>
+				<CHS>产生器的启动引起了一些下水道生物的注意。还好我用陷阱制服了它们。</CHS>
 			</Desc>
 			<main>
-				<CHS>防御藏身处哨站！</CHS>
+				<CHS>防御藏身所据点！</CHS>
 			</main>
 			<report>
-				<CHS>和工程师交谈</CHS>
+				<CHS>与工程师交谈</CHS>
 			</report>
 			<Completed>
-				<CHS>我用致命的陷阱保卫了藏身处。</CHS>
+				<CHS>我用死亡陷阱保护住了藏身所。</CHS>
 			</Completed>		
 		</Ch2_TD_elso>
 		<Ch3_Fulmigatis_headquarter>
 			<Name>
-				<CHS>废弃的街道</CHS>
+				<CHS>遗弃的街道</CHS>
 			</Name>
 			<Desc>
-				<CHS>暴脾气在进行他计划的最后一步：制成“末日机器人”。我必须在他完成之前到达他的总部，机械宫殿，但是我必须先想办法通过被占领的老镇。</CHS>
+				<CHS>弗米伽提已经进入了他计划的最终阶段：“末日机器人”的完成。我必须在他完成之前赶到他的大本营，机器宫殿去，但我得先想办法突破被敌人占领的老镇。</CHS>
 			</Desc>
 			<main>
-				<CHS>一路杀出老镇</CHS>
+				<CHS>杀出旧城区</CHS>
 			</main>
 			<Talk_1>
-				<CHS>和工程师聊聊能量屏障的事。</CHS>
+				<CHS>告诉工程师关于能量障壁的事。</CHS>
 			</Talk_1>
 			<Completed>
-				<CHS>我进入现在被暴脾气追随者和魔物控制的老镇，却只发现这个老区中心周围有力场墙。我必须想办法进去。</CHS>
+				<CHS>我进入了老镇，这里由弗米伽提的追随者和他创造的怪物控制着，但发现旧城的中心部有一股能量墙围着。我得想办法过去。</CHS>
 			</Completed>
 		</Ch3_Fulmigatis_headquarter>	
 		<Ch3_The_inventor>	
 			<Name>
-				<CHS>发明家</CHS>
+				<CHS>发明者</CHS>
 			</Name>
 			<Desc>
-				<CHS>暴脾气的藏匿处，机械宫殿有能量屏障保护。我必须找到这个奇妙新科技的发明家并说服他帮助我关掉屏障。</CHS>
+				<CHS>弗米伽提的老窝，机械宫殿被能量障壁所保护着。我必须找到这牛逼的高新科技的发明者然后说服他关掉这障壁。</CHS>
 			</Desc>
 			<main>
-				<CHS>询问发明家关于屏障的事</CHS>
+				<CHS>拷问能量障壁的发明者</CHS>
 			</main>
 			<destroy>
-				<CHS>摧毁士兵把守的发明家</CHS>
+				<CHS>打死士兵并守卫发明者</CHS>
 			</destroy>
 			<Speak_again>
-				<CHS>再次和特尔萨交谈</CHS>
+				<CHS>再与特斯拉交谈</CHS>
 			</Speak_again>
 			<Use>
-				<CHS>进入特尔萨为你开启的墨境传送门。</CHS>
+				<CHS>进入特斯拉开启的墨境入口。</CHS>
 			</Use>
 			<Completed>
-				<CHS>我找到了能量屏障的发明者特尔萨，但是我们需要一个新计划来代替摧毁力场墙这个计划。所以他给我开了一个墨境传送门来到达屏障后面。</CHS>
+				<CHS>我找到了特斯拉，能量障壁的发明者，但不能破坏能量墙所以只能另作新打算。他为我开启了穿过能量障壁的墨境入口。</CHS>
 			</Completed>
 		</Ch3_The_inventor>	
 		<Ch3_Palace_of_Machines>	
@@ -690,19 +690,19 @@
 				<CHS>机械宫殿</CHS>
 			</Name>
 			<Desc>
-				<CHS>暴脾气教授已经躲进了原先的博物馆并投身于诡异科学的奇迹中。我必须在一切太晚之前想办法干掉这个疯子。</CHS>
+				<CHS>弗米伽提教授就盘踞在曾经的博物馆里。我必须在一切为时过晚之前想法进去和他做个了断。</CHS>
 			</Desc>	
 			<main>
-				<CHS>找到通往机械宫殿的路</CHS>
+				<CHS>设法进入机械宫殿</CHS>
 			</main>
 			<Find>
-				<CHS>找到机械宫殿的入口</CHS>
+				<CHS>寻找进入宫殿的入口</CHS>
 			</Find>
 			<Enter>
 				<CHS>进入机械宫殿！</CHS>
 			</Enter>
 			<Completed>
-				<CHS>我成功滑进一个墨境之门来到达暴脾气防御的后面并找到了机械宫殿的入口。</CHS>
+				<CHS>我设法利用墨境之门绕过了弗米伽提的防御系统，并且找到了进入机械宫殿的入口。</CHS>
 			</Completed>		
 		</Ch3_Palace_of_Machines>
 		<Ch3_The_lightning_collectors>
@@ -710,147 +710,147 @@
 				<CHS>闪电陷阱</CHS>
 			</Name>
 			<Desc>
-				<CHS>尼古拉 特尔萨意想不到再次出现并建议我摧毁闪电收集装置，然后在博格维亚屋顶处打上了点标记出这些装置。我决定听从他的已经并因此削弱了暴脾气的部队。</CHS>
+				<CHS>尼古拉·特斯拉意外的出现并建议我摧毁位于博格瓦屋顶的闪电收集器。我决定采用他的提议，并以此削弱弗米伽提的力量。</CHS>
 			</Desc>
 			<main>
 				<CHS>摧毁闪电陷阱</CHS>
 			</main>			
 			<Completed>
-				<CHS>我摧毁了在博格维亚屋顶处的闪电陷阱。</CHS>
+				<CHS>我摧毁了位于博格瓦屋顶的闪电陷阱。</CHS>
 			</Completed>
 		</Ch3_The_lightning_collectors>
 		<Ch3_The_hunted_werewolf>
 			<Name>
-				<CHS>狼人在奔袭</CHS>
+				<CHS>狼人跑掉啦</CHS>
 			</Name>
 			<Desc>
-				<CHS>一只带电的狼人貌似逃离了它的创造者。丹普博士要我抓住它那样他就能进一步研究这个种类了。</CHS>
+				<CHS>其中一只电狼人似乎从它们的创造者手中逃脱了。丹普博士想让我把它抓回来好做进一步的研究。</CHS>
 			</Desc>
 			<main>
-				<CHS>找到狼人</CHS>
+				<CHS>寻找狼人</CHS>
 			</main>
 			<Find_notes>
-				<CHS>找到说明</CHS>
+				<CHS>寻找笔记</CHS>
 			</Find_notes>
 			<Kill>
 				<CHS>杀死狼人猎人</CHS>
 			</Kill>			
 			<return>
-				<CHS>回去找丹普博士</CHS>
+				<CHS>返回丹普博士处</CHS>
 			</return>
 			<Completed>
-				<CHS>我把带电狼人的有价值信息交给了丹普博士。</CHS>
+				<CHS>我把关于电狼人的重要信息交给了丹普博士。</CHS>
 			</Completed>
 		</Ch3_The_hunted_werewolf>
 		<Ch3_The_rebels>
 			<Name>
-				<CHS>被包围的反抗军战士</CHS>
+				<CHS>被围困的抵抗组织士兵</CHS>
 			</Name>
 			<Desc>
-				<CHS>一些反抗军战士被困在了岛上的城堡中。他们被敌人包围需要骑兵前去营救。</CHS>
+				<CHS>一些抵抗组织士兵被困在岛上的一个城堡内。他们被敌人包围，需要援军救助。</CHS>
 			</Desc>
 			<main>
-				<CHS>救出反抗军战士</CHS>
+				<CHS>救助抵抗组织士兵</CHS>
 			</main>
 			<Completed>
-				<CHS>我救出了被困在了岛上城堡中的反抗军战士。</CHS>
+				<CHS>我救了被困在岛上城堡里的反抗阻止的士兵。</CHS>
 			</Completed>
 		</Ch3_The_rebels>
 		<ch3_quest_of_rebel>
 			<main>
-				<CHS>和反抗军战士交谈！</CHS>
+				<CHS>与反抗军士兵交谈！</CHS>
 			</main>
 		</ch3_quest_of_rebel>
 		<Ch3_The_Orichalcum_shipment>
 			<Name>
-				<CHS>黄铜运输</CHS>
+				<CHS>运送奥里哈鲁根</CHS>
 			</Name>
 			<Desc>
-				<CHS>暴脾气准备接收两船新黄铜来制造更多士兵。我自愿前去阻止矿石到达目的地。</CHS>
+				<CHS>弗米伽提是时候要收取两批新的奥里哈鲁根来制造更多的士兵。我自愿站出来阻止矿石被运到他手上。</CHS>
 			</Desc>
 			<main>
-				<CHS>劫持黄铜运输船</CHS>
+				<CHS>截获奥里哈鲁根</CHS>
 			</main>
 			<return>
-				<CHS>把黄铜带回藏身处</CHS>
+				<CHS>把矿石运到藏身所</CHS>
 			</return>
 				<Completed>
-				<CHS>我获得了黄铜运输船并运送回藏身处。</CHS>
+				<CHS>我截下了奥里哈鲁根并把它们送到了我的藏身所。</CHS>
 			</Completed>		
 		</Ch3_The_Orichalcum_shipment>
 		<Ch3_The_Ink_is_coming>
 			<Name>
-				<CHS>墨境来了</CHS>
+				<CHS>墨境临近</CHS>
 			</Name>
 			<Desc>
-				<CHS>显然，一个墨境潮汐把一大群怪物带进了通道中。他们在朝藏身处进发，我必须再次阻止他们。</CHS>
+				<CHS>一股墨潮隧道释放了一群怪物到隧道中。它们正在朝我们过来，我必须再一次防卫藏身所。</CHS>
 			</Desc>
 			<main>
-				<CHS>再次防守藏身处</CHS>
+				<CHS>再一次……防卫藏身所</CHS>
 			</main>
 			<report>
-				<CHS>和加斯帕交谈</CHS>
+				<CHS>与加斯帕交谈</CHS>
 			</report>			
 			<Completed>
-				<CHS>我再次守卫了藏身处。</CHS>
+				<CHS>我又一次从墨潮隧道释放出的怪物手中保卫了藏身所。</CHS>
 			</Completed>
 		</Ch3_The_Ink_is_coming>
 		<Ch3_Kill_Fulmigati>
 			<Name>
-				<CHS>暴脾气</CHS>
+				<CHS>弗米伽提自身</CHS>
 			</Name>
 			<Desc>
-				<CHS>最终我们找到了恶人。是时候做我该做的事情了。</CHS>
+				<CHS>终于见到坏人的本尊了。该是时候惩恶扬善了。</CHS>
 			</Desc>
 			<main>
-				<CHS>摧毁末日机器人。</CHS>
+				<CHS>摧毁末日机器人</CHS>
 			</main>			
 			<Completed>
-				<CHS>我击败了暴脾气教授和末日机器人。</CHS>
+				<CHS>我打倒了弗米伽提和他的末日机器人。</CHS>
 			</Completed>		
 		</Ch3_Kill_Fulmigati>		
 	</Quests>
 	<Bossfight>
 		<Werewolf_lair>
 			<title>
-				<CHS>Vrikolak领袖</CHS>
+				<CHS>维克拉克领导者</CHS>
 			</title>
 			<kill_wolf>
-				<CHS>打败Vrikolak领袖！</CHS>
+				<CHS>打倒维克拉克头领！</CHS>
 			</kill_wolf>
 			<destroy_sigil>
-				<CHS>摧毁魔符！([sigil_count]/5)</CHS>
+				<CHS>摧毁咒印！ ([sigil_count]/5)</CHS>
 			</destroy_sigil>
 		</Werewolf_lair>
 		<Rusalka_ambush>
 			<Title>
-				<CHS>水泽仙女的伏击</CHS>
+				<CHS>水泽仙女的袭击</CHS>
 			</Title>
 			<protect_shop>
 				<CHS>保护商店！</CHS>
 			</protect_shop>
 			<protect_church>
-				<CHS>保护村庄教堂！</CHS>
+				<CHS>保护村里的教堂！</CHS>
 			</protect_church>
 			<protect_statue>
-				<CHS>保护巨大雕像！</CHS>
+				<CHS>保护大雕像！</CHS>
 			</protect_statue>
 			<protect_gate1>
-				<CHS>阻止水泽仙女摧毁北门！</CHS>
+				<CHS>阻止水泽仙女破坏被北边的门！</CHS>
 			</protect_gate1>
 			<protect_gate2>
-				<CHS>阻止水泽仙女摧毁西门！</CHS>
+				<CHS>阻止水泽仙女破坏被西边的门！</CHS>
 			</protect_gate2>
 			<protect_gate3>
-				<CHS>阻止水泽仙女摧毁南门！</CHS>
+				<CHS>阻止水泽仙女破坏被南边的门！</CHS>
 			</protect_gate3>
 		</Rusalka_ambush>
 		<Scarecrow>
 			<Title>
-				<CHS>稻草人。</CHS>
+				<CHS>稻草人</CHS>
 			</Title>
 			<main>
-				<CHS>击败稻草人！</CHS>
+				<CHS>打倒稻草人！</CHS>
 			</main>
 		</Scarecrow>
 		<CaveBoss>
@@ -858,139 +858,139 @@
 				<CHS>钻虫</CHS>
 			</Title>
 			<kill_kukac>
-				<CHS>击败钻虫！</CHS>
+				<CHS>打倒钻虫！</CHS>
 			</kill_kukac>
 		</CaveBoss>
 		<FinalBoss>
 			<kill_fulmigati>
-				<CHS>摧毁末日机器人。</CHS>
+				<CHS>摧毁末日机器人</CHS>
 			</kill_fulmigati>
 		</FinalBoss>
 	</Bossfight>
 	<hiddencontent>
 		<easteregg_hc_done>
-			<CHS>你找到了马科瓦纳村的彩蛋。</CHS>
+			<CHS>你在马克夫纳村找到了复活节蛋。</CHS>
 		</easteregg_hc_done>
 		<cow2head_hc_done>
-			<CHS>你和马科瓦纳村中的双头进行交谈。</CHS>
+			<CHS>你和马克夫纳村的双头牛进行了谈话。</CHS>
 		</cow2head_hc_done>	
 		<StatueKey>
-			<CHS>你在鲍里斯拉夫的雕像处找到了神秘钥匙。</CHS>
+			<CHS>你在波利斯拉夫找到了雕像的神秘钥匙。</CHS>
 		</StatueKey>	
 		<living_ghost_completed>
-			<CHS>你在死亡树林放逐了吊死鬼的灵魂。</CHS>
+			<CHS>你超度了在死亡森林的亡魂。</CHS>
 		</living_ghost_completed>	
 		<ancient_coin_got>
-			<CHS>你在死亡树林找到了上古硬币。</CHS>
+			<CHS>你在死亡森林找到了一枚古代硬币。</CHS>
 		</ancient_coin_got>	
 		<Hidden_treasure_done1>
-			<CHS>你在死亡树林找到了所有的隐藏宝藏。</CHS>
+			<CHS>你找到了死亡森林的强盗的宝藏。</CHS>
 		</Hidden_treasure_done1>	
 		<weaponoil_hc_done>
-			<CHS>你在死亡树林找到了武器油。</CHS>
+			<CHS>你在死亡森林找到了武器油料。</CHS>
 		</weaponoil_hc_done>	
 		<namelesswisp_hc_done>
-			<CHS>你在死亡树林给与了无名精灵权利。</CHS>
+			<CHS>你赐予了死亡森林的丝缕权利。</CHS>
 		</namelesswisp_hc_done>	
 		<excalibur_hc_done>
-			<CHS>你在死亡树林中拔出了亚瑟王神剑。</CHS>
+			<CHS>你拔出了死亡森林中的石中剑。</CHS>
 		</excalibur_hc_done>	
 		<red_button>
-			<CHS>你在绞架沼泽按下了大红按钮。</CHS>
+			<CHS>你按下了绞刑沼泽的大大的红按钮。</CHS>
 		</red_button>	
 		<followisp_hc_done>
-			<CHS>你跟随小精灵穿过绞架沼泽。</CHS>
+			<CHS>你跟随丝缕穿过了绞刑沼泽。</CHS>
 		</followisp_hc_done>	
 		<Knowledge_of_the_dead_kecske>
-			<CHS>你在绞架沼泽找到了流浪山羊的尸体。</CHS>
+			<CHS>你在绞刑沼泽发现了迷失的山羊的残骸。</CHS>
 		</Knowledge_of_the_dead_kecske>	
 		<vrikolakgift_hc_done>
-			<CHS>你在绞架沼泽找到了狼人灵魂石。</CHS>
+			<CHS>你在绞刑沼泽发现了狼人灵魂石。</CHS>
 		</vrikolakgift_hc_done>	
 		<erdoszelleme_hc_done>
-			<CHS>你在绞架沼泽击败了疯狂的森林之灵。</CHS>
+			<CHS>你打败了绞刑沼泽的暴怒森林精灵。</CHS>
 		</erdoszelleme_hc_done>	
 		<Frog_statue_start>
-			<CHS>你在绞架沼泽解开了旋转Vodyanoi雕像的谜语。</CHS>
+			<CHS>你解开了侥幸沼泽的旋转沃迪亚诺伊雕像之谜。</CHS>
 		</Frog_statue_start>
 		<ink_machine_controller_broken>
-			<CHS>你已经打破了在废弃研究所的神秘控制板。</CHS>
+			<CHS>你打破了遗弃的研究站内的神秘控制板。</CHS>
 		</ink_machine_controller_broken>	
 		<5thelement_hc_done>
-			<CHS>你在恐怖作品中找到了第五元素。</CHS>
+			<CHS>你找到了恐惧之作的第五元素。</CHS>
 		</5thelement_hc_done>	
 		<bunnyslayer_hc_done>
-			<CHS>你已找到兔子杀手。</CHS>
+			<CHS>你找到了戮兔者并杀死了兔兔。</CHS>
 		</bunnyslayer_hc_done>	
 		<borislavsceptre_hc_done>
-			<CHS>你在雕像的墨境领域找到了鲍里斯拉夫的权杖。</CHS>
+			<CHS>你在雕像的墨境深渊中找到了博斯拉夫的权杖。</CHS>
 		</borislavsceptre_hc_done>	
 		<bootfishing_hc_done>
-			<CHS>你在贫民窟的捕鱼点钓到了破损的靴子。</CHS>
+			<CHS>你在贫民窟的钓鱼点抓到了破碎的靴子。</CHS>
 		</bootfishing_hc_done>	
 		<darkohat_hc_done>
-			<CHS>你在贫民窟找到了达尔科的帽子。</CHS>
+			<CHS>你在贫民窟找到了达科的帽子</CHS>
 		</darkohat_hc_done>	
 		<mutantfish_hc_done>
-			<CHS>你在贫民窟的捕鱼点钓到了变异的鱼。</CHS>
+			<CHS>你在贫民窟的钓鱼点抓到了变异鱼。</CHS>
 		</mutantfish_hc_done>	
 		<catfeeding_hc_done>
-			<CHS>你在贫民窟用变异的鱼喂猫。。</CHS>
+			<CHS>你把变异鱼拿去喂猫了。</CHS>
 		</catfeeding_hc_done>	
 		<superliver_hc_done>
-			<CHS>你在贫民窟找到了发光的鼠肝。</CHS>
+			<CHS>你在贫民窟找到了发光的老鼠。</CHS>
 		</superliver_hc_done>	
 		<zorrohat_hc_done>
-			<CHS>你在污水处理厂找到了佐罗的帽子。</CHS>
+			<CHS>你在污水处理厂找到了佐罗。</CHS>
 		</zorrohat_hc_done>
 		<Save_Beggar_King_begin>
-			<CHS>你找到了乞丐王藏身处的入口。</CHS>
+			<CHS>你找到了通往乞丐王的藏匿处的入口。</CHS>
 		</Save_Beggar_King_begin>
 		<Essence_loot_megvan>
-			<CHS>你偷听了炼金术士并在污水处理厂找到了宝藏。</CHS>
+			<CHS>你偷听到炼金术师的话并找到了藏在污水处理厂的宝物。</CHS>
 		</Essence_loot_megvan>
 		<domovoysword_hc_done>
-			<CHS>你在工业港找到了幽灵的剑。</CHS>
+			<CHS>你在工业港找到了家神的宝剑。</CHS>
 		</domovoysword_hc_done>
 		<Hidden_treasure_quest_begin>
-			<CHS>你购买了藏宝图并在墨境找到了隐藏岛屿。</CHS>
+			<CHS>你购买了地图并找到了藏在墨境中的岛屿。</CHS>
 		</Hidden_treasure_quest_begin>
 		<theonering_hc_done>
-			<CHS>你在工业港找到了一个魔法指环。</CHS>
+			<CHS>你在工业港找到一枚“魔法戒指”。</CHS>
 		</theonering_hc_done>
 		<galaxyguide_hc_done>
-			<CHS>你在老镇上找到了“精灵猎人进入墨境的指南。”</CHS>
+			<CHS>你在老镇上找到了精灵猎人的指南。</CHS>
 		</galaxyguide_hc_done>
 		<Secret_sewer_gate>
-			<CHS>你在秘密实验室找到了隐藏的墨境入口。</CHS>
+			<CHS>你找到了秘密实验室内的隐藏墨境入口。</CHS>
 		</Secret_sewer_gate>
 		<oldtownadverts_hc_done>
-			<CHS>你在老镇上找到了所有的广告栏。</CHS>
+			<CHS>你找到了老镇的所有广告塔防。</CHS>
 		</oldtownadverts_hc_done>
 		<oldtownloot_hc_done>
-			<CHS>你在老镇上找到了所有的隐藏宝藏。</CHS>
+			<CHS>你找到了老镇的隐藏宝藏。</CHS>
 		</oldtownloot_hc_done>
 		<allthejunk_hc_done>
-			<CHS>你在老镇上找到了所有的破烂靴。</CHS>
+			<CHS>你找到了老镇上所有的破碎的鞋子。</CHS>
 		</allthejunk_hc_done>
 		<rottenfish_hc_done>
-			<CHS>你在老镇的摊位上找到了所有的变种鱼。</CHS>
+			<CHS>你找到了所有老镇有售的变异鱼。</CHS>
 		</rottenfish_hc_done>
 		<Attack_together>
-			<CHS>你在老镇上找到了所有的广告栏。</CHS>
+			<CHS>你与老镇的Werevolves结为义兄弟。</CHS>
 		</Attack_together>
 		<kemenysepro_hc_done>
-			<CHS>你被在山墙处的烟灰侯爵的仆从打败了。</CHS>
+			<CHS>你已成功在加贝尔斯击败了烟熏马奎斯的手下。</CHS>
 		</kemenysepro_hc_done>
 	</hiddencontent>	
 	<Scripting>
 		<Rusalka_ambush>
 			<destroy_sigil>
-				<CHS>摧毁魔符</CHS>
+				<CHS>摧毁咒印</CHS>
 			</destroy_sigil>
 		</Rusalka_ambush>
 		<Fishing>
-			<CHS>不合算</CHS>
+			<CHS>不值得</CHS>
 		</Fishing>
 	</Scripting>
 </Root>

@@ -8,22 +8,22 @@
 		<DLG_mar_priestfollow>
 			<node1>
 				<Desc>
-					<CHS>你也在找祭司吗？</CHS>
+					<CHS>你们也在找神父吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>是的。他在哪儿?</CHS>
+					<CHS>我就是。他在哪里？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>他不久前离开了。人们说他往蛇女通道的方向走了。我不知道他为什么要去那……</CHS>
+					<CHS>他一会儿之前就离开了。人们说他去蛇妖山道了。我不知道他为什么会去那里……</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>谢谢。我不会再让你远离你的祷告者了。</CHS>
+					<CHS>谢谢。我不会再阻止你祈祷了。</CHS>
 				</Desc>
 			</node4>
 		</DLG_mar_priestfollow>

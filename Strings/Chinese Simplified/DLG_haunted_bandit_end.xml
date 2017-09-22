@@ -8,12 +8,12 @@
 		<DLG_haunted_bandit_end>
 			<node1>
 				<Desc>
-					<CHS>怪物消失了！谢谢你，请收下这个作为谢礼。</CHS>
+					<CHS>怪兽不在了！麻烦你了，请收下这些。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>明天漂亮的抢劫一场吧！</CHS>
+					<CHS>明天抢个痛快！</CHS>
 				</Desc>
 			</node2>
 		</DLG_haunted_bandit_end>

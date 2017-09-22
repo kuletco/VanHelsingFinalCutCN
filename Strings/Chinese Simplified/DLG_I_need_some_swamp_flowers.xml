@@ -8,42 +8,42 @@
 		<DLG_I_need_some_swamp_flowers>
 			<node1>
 				<Desc>
-					<CHS>我要准备酿制一份魔法药剂，还需要一点珍稀沼泽百合花。你乐意帮我找八朵花来么？</CHS>
+					<CHS>我要准备一种魔法药剂，但是我需要一些珍稀的沼泽百合花来酿造。你能大发善心帮我带八朵花过来吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>这可不是我的日常工种……不过貌似很重要的样子。</CHS>
+					<CHS>这不是我的风格… 但是听起来很重要的样子。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>你想让我像一个乡下女孩一样给你采花？不可能。</CHS>
+					<CHS>你想让我和一个乡下女孩一样去采花？没门。</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>你改主意了么？</CHS>
+					<CHS>你改变主意了吗？</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>这感觉还是我生涯中最有挑战性的任务呢。好吧，我会去的……去给你摘几朵花来。</CHS>
+					<CHS>这就像我人生中最具挑战性的任务一样。但是好吧，我会出去的…… 然后给你采些花回来。</CHS>
 				</Desc>
 			</node5>
 			<node6>
 				<Desc>
-					<CHS>抱歉。去找别的猎人吧。</CHS>
+					<CHS>对不起，你再找一个猎手吧。</CHS>
 				</Desc>
 			</node6>
 			<node7>
 				<Desc>
-					<CHS>哦，哦，要不是博格维亚最帅的猎人的话！</CHS>
+					<CHS>好吧好吧，如果这不是整个博格瓦最英俊潇洒的猎手的话！</CHS>
 				</Desc>
 			</node7>
 			<node8>
 				<Desc>
-					<CHS>哦，她有阴谋。请听我说。</CHS>
+					<CHS>哦，她在计划些什么。记住我的话。</CHS>
 				</Desc>
 			</node8>
 		</DLG_I_need_some_swamp_flowers>

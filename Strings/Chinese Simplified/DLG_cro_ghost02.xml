@@ -8,17 +8,17 @@
 		<DLG_cro_ghost02>
 			<node1>
 				<Desc>
-					<CHS>我在哪儿？如果我迟到，Marina会杀了我的。</CHS>
+					<CHS>我在哪里？如果迟到了的话，会被杀掉的。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>*把那个幽灵丢在一边*</CHS>
+					<CHS>*撇下魂灵一人*</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>让他跟着我们，我知道怎样帮他。</CHS>
+					<CHS>让他跟着我们。我知道该怎么帮他了。</CHS>
 				</Desc>
 			</node3>
 		</DLG_cro_ghost02>

@@ -7,43 +7,43 @@
 	<Skills>
 		<Common>			
 			<manacostpersecond>
-				<CHS>每秒法力消耗</CHS>
+				<CHS>每秒消耗法力</CHS>
 			</manacostpersecond>		
 		</Common>		
 		<Obstacles>
 			<SummonerSigil_Hollow>
 				<Name>
-					<CHS>召唤魔符</CHS>
+					<CHS>召唤咒印</CHS>
 				</Name>
 			</SummonerSigil_Hollow>
 			<boostersigil_hollow>
 				<Name>
-					<CHS>黑暗魔符</CHS>
+					<CHS>黑暗咒印</CHS>
 				</Name>
 			</boostersigil_hollow>
 			<harmfulsigil_hollow>
 				<Name>
-					<CHS>伤害魔印</CHS>
+					<CHS>有害魔符</CHS>
 				</Name>
 			</harmfulsigil_hollow>			
 			<Finalboss_Summon_Undead_Totem>
 				<Name>
-					<CHS>亡灵图腾</CHS>
+					<CHS>亡者图腾</CHS>
 				</Name>
 			</Finalboss_Summon_Undead_Totem>
 			<Finalboss_Drain_Life_Totem>
 				<Name>
-					<CHS>汲取图腾</CHS>
+					<CHS>枯竭图腾</CHS>
 				</Name>
 			</Finalboss_Drain_Life_Totem>
 			<Finalboss_Damage_slow_Totem>
 				<Name>
-					<CHS>缓慢痛苦图腾</CHS>
+					<CHS>折磨图腾</CHS>
 				</Name>
 			</Finalboss_Damage_slow_Totem>
 			<Finalboss_Invulnerability_Totem>
 				<Name>
-					<CHS>无敌图腾</CHS>
+					<CHS>不屈图腾</CHS>
 				</Name>
 			</Finalboss_Invulnerability_Totem>
 			<mega_magic_missile>
@@ -67,33 +67,33 @@
 				<CHS>燃素喷射</CHS>
 			</Name>
 			<Desc>
-				<CHS>持续对1米宽，11米长的范围内进行攻击，造成火焰伤害。</CHS>
+				<CHS>持续对1米宽，11米长的范围内造成火焰伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 火焰伤害（%weapondamage_ 武器伤害）每秒</CHS>
+				<CHS>每秒造成%attack_的火焰伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>不稳定混合</CHS>
+					<CHS>不稳定的混合</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害，+%manabonus_ 法力消耗</CHS>
+					<CHS>每消耗 +%manabonus_ 法力额外增加+%damagebonus_ 伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>凝固汽油混合</CHS>
+					<CHS>汽油混合物</CHS>
 				</Name>
 				<Desc>
-					<CHS>被引燃的目标每秒受到 %dot_ 原始伤害，持续5秒</CHS>
+					<CHS>被点燃的目标5秒内额外承受伤害，数值为原伤害的 %dot_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>迷惑火焰</CHS>
+					<CHS>迷惘烈焰</CHS>
 				</Name>
 				<Desc>
-					<CHS>被火焰击中的目标减速30%，持续 %durationbonus_ 秒（每次技能激活生效一次）</CHS>
+					<CHS>被烈焰击中的敌人减速30%，持续 %durationbonus_ 秒（每次作用于一个敌人）</CHS>
 				</Desc>
 			</Powerup2>			
 		</ImprovedFlamethrower>
@@ -102,49 +102,49 @@
 				<CHS>压力调节</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manabonus_ 的法力消耗</CHS>
+				<CHS>减少 %manabonus_ 魔法消耗</CHS>
 			</Desc>
 		</ImprovedFlamethrower_ManaCost>
 		<ImprovedFlamethrower_chargeDamage>
 			<Name>
-				<CHS>累积灼烧</CHS>
+				<CHS>层叠烙印</CHS>
 			</Name>
 			<Desc>
-				<CHS>技能持续不断被使用时，每秒增加 %damagebonuspersec_ 伤害</CHS>
+				<CHS>持续使用技能时增加 %damagebonuspersec_ 秒伤</CHS>
 			</Desc>			
 		</ImprovedFlamethrower_chargeDamage>
 		<ImprovedFlamethrower_desperateBurn>
 			<Name>
-				<CHS>绝望灼烧</CHS>
+				<CHS>绝望烙印</CHS>
 			</Name>
 			<Desc>
-				<CHS>当你的生命值低于25%时，增加 %desperateburn_ 伤害。</CHS>
+				<CHS>生命值低于25%时增加 %desperateburn_ 伤害</CHS>
 			</Desc>			
 		</ImprovedFlamethrower_desperateBurn>
 		<ImprovedFlamethrower_resistReduction>
 			<Name>
-				<CHS>热震</CHS>
+				<CHS>热力冲击</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标永久失去每秒产生的伤害抗性的 %resistreduction_（包括免疫生物）。</CHS>
+				<CHS>目标每秒永久性损失 %resistreduction_ 伤害抗性。 (免疫生物也受影响。)</CHS>
 			</Desc>			
 		</ImprovedFlamethrower_resistReduction>
 		<ImprovedRocketSwarm>
 			<Name>
-				<CHS>火箭弹幕</CHS>
+				<CHS>火箭轰击</CHS>
 			</Name>
 			<Desc>
-				<CHS>对目标发射10枚火箭弹，对2米范围内的敌人造成伤害。所列伤害是单枚火箭弹造成的伤害（而且从不落空）。</CHS>
+				<CHS>朝目标发射10枚火箭，对2米内的敌人造成伤害。所列出的伤害是指每一枚火箭的伤害（且不会击偏）。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每发子弹造成 %attack_ 的物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>每发火箭造成%attack_ 物理伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>扩展群</CHS>
+					<CHS>扩展蜂群</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %aoerocketcount_ 的子弹数</CHS>
+					<CHS>增加 %aoerocketcount_火箭数量</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -152,15 +152,15 @@
 					<CHS>优化爆炸模式</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围扩大 %blastradiusbonus_ 米</CHS>
+					<CHS>作用范围增加 %blastradiusbonus_ 米</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>震荡弹</CHS>
+					<CHS>冲击弹头</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup2>			
 		</ImprovedRocketSwarm>		
@@ -169,49 +169,49 @@
 				<CHS>燃素火箭燃料</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间 %cooldown_ 秒</CHS>
+				<CHS>冷却时间减少 %cooldown_ 秒</CHS>
 			</Desc>			
 		</ImprovedRocketSwarm_Cooldown>
 		<ImprovedRocketSwarm_Knockdown>
 			<Name>
-				<CHS>扫荡爆炸</CHS>
+				<CHS>扫荡冲击</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标有 %knockbackchance_ 的几率被打败。</CHS>
+				<CHS>有 %knockbackchance_% 几率击倒目标。</CHS>
 			</Desc>						
 		</ImprovedRocketSwarm_Knockdown>
 		<ImprovedRocketSwarm_RocketSpeed>
 			<Name>
-				<CHS>强化火箭弹翅翼</CHS>
+				<CHS>改良箭身</CHS>
 			</Name>
 			<Desc>
-				<CHS>子弹飞行速度增快 %rocketspeed_%</CHS>
+				<CHS>增加 %rocketspeed_% 火箭速度</CHS>
 			</Desc>			
 		</ImprovedRocketSwarm_RocketSpeed>
 		<ImprovedRocketSwarm_MultiTarget>
 			<Name>
-				<CHS>大黄蜂飞弹</CHS>
+				<CHS>大黄蜂式火箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>发射额外的 %aoerocketcount_ 子弹，能够在 %aoeradius_ 米的更大目标范围内攻击多个敌人。</CHS>
+				<CHS>额外发射 %aoerocketcount_ 发火箭，攻击%aoeradius_ 米范围内的敌人</CHS>
 			</Desc>		
 		</ImprovedRocketSwarm_MultiTarget>
 		<Bombardment>
 			<Name>
-				<CHS>集束炸弹</CHS>
+				<CHS>分裂炸弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>向空中投掷一枚手雷，对半径10秒内释放一组炸弹。每枚炸弹对2米内的敌人造成物理和火焰伤害。轰炸持续4秒。</CHS>
+				<CHS>向空中投掷一颗手榴弹，在10米范围内释放一簇小型炸弹。每颗炸弹可对2米范围内的敌人造成物理和火焰伤害。炸弹轰击持续4秒。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理/火焰伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_ 点物理/火焰伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>高爆炸弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -219,24 +219,24 @@
 					<CHS>燃烧弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>被引燃的目标受到 %dot_ 原始伤害，持续5秒</CHS>
+					<CHS>使目标被点燃，5秒内承受额外伤害，其数值为原伤害的 %dot_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>震荡炸弹</CHS>
+					<CHS>震爆炸弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标有 %knockbackchance_% 几率被击倒</CHS>
+					<CHS>使目标有 %knockbackchance_% 几率被击倒</CHS>
 				</Desc>
 			</Powerup2>			
 		</Bombardment>		
 		<Bombardment_ManaCost>
 			<Name>
-				<CHS>效益设计</CHS>
+				<CHS>高效设计</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manabonus_% 法力消耗</CHS>
+				<CHS>减少 %manacost_% 魔法消耗</CHS>
 			</Desc>					
 		</Bombardment_ManaCost>
 		<Bombardment_Cooldown>
@@ -244,15 +244,15 @@
 				<CHS>爆炸训练</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间 %cooldown_ 秒</CHS>
+				<CHS>冷却时间减少 %cooldown_ 秒</CHS>
 			</Desc>						
 		</Bombardment_Cooldown>
 		<Bombardment_BombCount>
 			<Name>
-				<CHS>持续轰炸</CHS>
+				<CHS>持续轰击</CHS>
 			</Name>
 			<Desc>
-				<CHS>炮击持续时间延长 %bombcount_ 秒</CHS>
+				<CHS>轰击时间延长 %bombcount_ 秒</CHS>
 			</Desc>						
 		</Bombardment_BombCount>
 		<Bombardment_BlastRadius>
@@ -260,72 +260,72 @@
 				<CHS>精炼炸药</CHS>
 			</Name>
 			<Desc>
-				<CHS>炸弹的爆破半径增加 %blastradius_ 米</CHS>
+				<CHS>爆照范围增加 %blastradius_ 米</CHS>
 			</Desc>						
 		</Bombardment_BlastRadius>
 		<Fusillade>
 			<Name>
-				<CHS>弹幕喷射</CHS>
+				<CHS>猛射</CHS>
 			</Name>
 			<Desc>
-				<CHS>发射一阵投弹，对前方50度范围内的所有敌人造成伤害。伤害每2米逐渐降低，14米后伤害降低至0。</CHS>
+				<CHS>向前方50度弧形范围内的敌人发射弹幕。2米外范围的伤害会逐渐降低，到14米处伤害为0。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>2 米时，%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>2米内造成 %attack_ 点物理伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>重磅弹幕</CHS>
+					<CHS>重火力</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>Tommyknocker 弹药筒</CHS>
+					<CHS>Tommyknocker Cartridge</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>开放式爆炸</CHS>
+					<CHS>无阻冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>伤害弧度增加 %arcangle_ 度</CHS>
+					<CHS>伤害范围增加 %arcangle_ 度</CHS>
 				</Desc>
 			</Powerup2>			
 		</Fusillade>
 		<Fusillade_criticalDamage>
 			<Name>
-				<CHS>尖刺冰雹</CHS>
+				<CHS>尖刺弹雨</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加暴击伤害（即使超过最大限度）</CHS>
+				<CHS>增加暴击伤害（无视最大上限）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%criticaldamage_ 暴击</CHS>
+				<CHS>增加+%criticaldamage_ 暴击伤害</CHS>
 			</effect0>			
 		</Fusillade_criticalDamage>
 		<Fusillade_damageLossStart>
 			<Name>
-				<CHS>重磅投弹</CHS>
+				<CHS>重型弹药</CHS>
 			</Name>
 			<Desc>
-				<CHS>伤害减弱范围提升（最大范围同时得到提升）。</CHS>
+				<CHS>改善伤害衰减范围，同时提高有效攻击距离。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>伤害于 %damagelossstart_ 米后开始减弱</CHS>
+				<CHS>伤害从 %damagelossstart_ 米处开始衰减</CHS>
 			</effect0>
 		</Fusillade_damageLossStart>
 		<Fusillade_knockback>
 			<Name>
-				<CHS>翻滚弹药</CHS>
+				<CHS>旋转子弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标有可能被击倒。</CHS>
+				<CHS>目标有一定几率被击倒</CHS>
 			</Desc>
 			<effect0>
 				<CHS>%knockbackchance_% 击倒几率</CHS>
@@ -333,104 +333,104 @@
 		</Fusillade_knockback>
 		<Fusillade_criticalChance>
 			<Name>
-				<CHS>撕裂弹药</CHS>
+				<CHS>撕裂子弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加暴击几率（即使超过最大限度）</CHS>
+				<CHS>增加暴击几率（无视最大上限）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%criticalchance_ 暴击几率</CHS>
+				<CHS>增加+%criticalchance_ 暴击几率</CHS>
 			</effect0>			
 		</Fusillade_criticalChance>
 		<ImprovedFrostMineCluster>
 			<Name>
-				<CHS>冰霜地雷阵</CHS>
+				<CHS>霜雷阵</CHS>
 			</Name>
 			<Desc>
-				<CHS>放置1枚含有5颗冰冻地雷的保卫戒指，一旦触发，对2米内敌人造成冰霜伤害。冰冻敌人1秒钟时间，然后减速30%，时间持续3秒以上。放置新的地雷会破坏已存在的阵列。</CHS>
+				<CHS>在环状范围内放置5枚寒霜地雷，被触发时对2米内的敌人造成冰冻伤害。敌人将被冻结1秒，并在接下来的3秒内被减速30%。新布置的地雷将取代原有的地雷。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 冰系伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_冰冻伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>			
 			<effect1>
-				<CHS>目标被减速 %slow_%</CHS>
+				<CHS>目标减速 %slow_%</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>冰霜枯萎地雷</CHS>
+					<CHS>霜疫雷阵</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>冰冻电击地雷</CHS>
+					<CHS>霜雷冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被额外冰冻 %freezeduration_ 秒</CHS>
+					<CHS>目标额外冻结 %freezeduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>三羟甲基丙烷地雷</CHS>
+					<CHS>生化地雷</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标获得 %physicalvulnerability_ 物理易伤，持续5秒</CHS>
+					<CHS>目标5秒内额外承受 %physicalvulnerability_ 物理伤害</CHS>
 				</Desc>
 			</Powerup2>			
 		</ImprovedFrostMineCluster>
 		<ImprovedFrostMineCluster_mineCount>
 			<Name>
-				<CHS>延展地雷阵</CHS>
+				<CHS>大型雷阵</CHS>
 			</Name>
 			<Desc>
-				<CHS>使用额外的 %minecount_ 地雷。</CHS>
+				<CHS>额外布置%minecount_ 地雷。</CHS>
 			</Desc>						
 		</ImprovedFrostMineCluster_mineCount>
 		<ImprovedFrostMineCluster_slow>
 			<Name>
-				<CHS>冰霜填充</CHS>
+				<CHS>霜冻凝胶</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %slowbonus_% 的减速效果</CHS>
+				<CHS>增加 %slowbonus_% 减速效果。</CHS>
 			</Desc>						
 		</ImprovedFrostMineCluster_slow>
 		<ImprovedFrostMineCluster_manaCost>
 			<Name>
-				<CHS>地雷装配工具箱</CHS>
+				<CHS>地雷装配工具</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manabonus_% 法力消耗</CHS>
+				<CHS>减少 %manacost_% 魔法消耗</CHS>
 			</Desc>			
 		</ImprovedFrostMineCluster_manaCost>
 		<ImprovedFrostMineCluster_slowDuration>
 			<Name>
-				<CHS>三羟甲基丙烷添加剂</CHS>
+				<CHS>Hypernitrate Additive</CHS>
 			</Name>
 			<Desc>
-				<CHS>减速效应持续时间延长 %slowduration_ 秒</CHS>
+				<CHS>减速效果延长 %slowduration_ 秒</CHS>
 			</Desc>						
 		</ImprovedFrostMineCluster_slowDuration>
 		<ImprovedNoxiousMine>
 			<Name>
-				<CHS>毒素地雷</CHS>
+				<CHS>毒性地雷</CHS>
 			</Name>
 			<Desc>
-				<CHS>发射一个2秒延迟之后自动爆炸的地雷，一旦触发，对1.5米以内的敌人造成毒素伤害，时间持续5秒。目标还会遭受25%的易伤，时间持续10秒。最多允许使用3枚地雷，第四枚地雷会破坏第一个。）</CHS>
+				<CHS>发射一枚地雷，被触发时将对1.5米内的目标造成毒性伤害，持续5秒。目标还将获得持续10秒的25%易伤。地雷需要2秒的准备时间。(一次只能存在3枚地雷。 )</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 初始毒素伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_ 点初始毒素伤害（%weapondamage_ 武器伤害）</CHS>
 			</effect0>
 			<effect1>
-				<CHS>%cloudattack_ 毒素伤害（%cloudweapondamage_ 武器伤害）每秒</CHS>
+				<CHS>每秒额外%cloudattack_ 点毒素伤害 (%cloudweapondamage_ 武器伤害)</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>实验神经毒素</CHS>
+					<CHS>不稳毒素</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -438,160 +438,160 @@
 					<CHS>痉挛毒素</CHS>
 				</Name>
 				<Desc>
-					<CHS>使目标减速 %slow_%，持续10秒</CHS>
+					<CHS>目标减速 %slow_% ，持续10秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>超高压筒</CHS>
+					<CHS>高压毒气</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围扩大 %blastradius 米</CHS>
+					<CHS>影响范围扩大 %blastradius_ 米</CHS>
 				</Desc>
 			</Powerup2>			
 		</ImprovedNoxiousMine>
 		<ImprovedNoxiousMine_ArmTime>
 			<Name>
-				<CHS>化学引物</CHS>
+				<CHS>化学诱剂</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低地雷待爆时间。</CHS>
+				<CHS>减少地雷的自动装配时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%armtime_ 秒待爆时间</CHS>
+				<CHS>%armtime_ 秒装配时间</CHS>
 			</effect0>			
 		</ImprovedNoxiousMine_ArmTime>
 		<ImprovedNoxiousMine_Vulnerability>
 			<Name>
-				<CHS>化学燃烧</CHS>
+				<CHS>化学灼烧</CHS>
 			</Name>
 			<Desc>
-				<CHS>强化易伤效果。</CHS>
+				<CHS>提升易伤效果。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%vulnerability_ 易伤</CHS>
+				<CHS>额外承受的伤害增加 +%vulnerability_</CHS>
 			</effect0>
 		</ImprovedNoxiousMine_Vulnerability>
 		<ImprovedNoxiousMine_mineCount>
 			<Name>
-				<CHS>强化集束</CHS>
+				<CHS>扩容装置</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加地雷的最大数量。</CHS>
+				<CHS>增加地雷数量。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%minecount_ 地雷可使用</CHS>
+				<CHS>+%minecount_ 地雷上限</CHS>
 			</effect0>			
 		</ImprovedNoxiousMine_mineCount>
 		<ImprovedNoxiousMine_cooldown>
 			<Name>
-				<CHS>自动装配</CHS>
+				<CHS>高效自动装配</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间。</CHS>
+				<CHS>减少冷却时间。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>冷却时间降低 %cooldown_ 秒。</CHS>
+				<CHS>冷却时间减少%cooldown_秒</CHS>
 			</effect0>
 		</ImprovedNoxiousMine_cooldown>		
 		<ImprovedIncendiaryMine>
 			<Name>
-				<CHS>哈迪斯地雷</CHS>
+				<CHS>幽冥地雷</CHS>
 			</Name>
 			<Desc>
-				<CHS>发射一个2秒延迟之后自动爆炸的地雷，一旦触发，对3米以内的敌人造成火焰伤害，时间持续5秒。目标已被点燃。最多允许使用3枚地雷，第四枚地雷会破坏第一个。）</CHS>
+				<CHS>发射一枚地雷，被触发时将对3米内的目标造成火焰伤害，持续5秒。目标将被点燃。地雷需要2秒的准备时间。(一次只能存在3枚地雷。 )</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 火焰伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_火焰伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>%cloudattack_ 火焰伤害（%cloudweapondamage_ 武器伤害）每秒</CHS>
+				<CHS>每秒 %dotattack_ 点火焰伤害 (%dotweapondamage_ 武器伤害)</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>白磷炸弹</CHS>
+					<CHS>白磷充能</CHS>
 				</Name>
 				<Desc>
-					<CHS>灼烧目标 +%dotduration_ 秒</CHS>
+					<CHS>目标额外燃烧 +%dotduration_  秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>过载地雷</CHS>
+					<CHS>过度充能</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围扩大 %blastradius_ 米</CHS>
+					<CHS>影响范围扩大 %blastradius_ 米</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>地狱爆炸地雷</CHS>
+					<CHS>地狱爆裂</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>多构造腰带</CHS>
+					<CHS>多重构造</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间降低 %cooldown_ 秒。</CHS>
+					<CHS>冷却时间减少%cooldown_秒</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>强化集束</CHS>
+					<CHS>扩容装置</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%minecount_ 可以使用地雷</CHS>
+					<CHS>+%minecount_ 地雷上限</CHS>
 				</Desc>
 			</Master>
 		</ImprovedIncendiaryMine>
 		<improvedSluggishTime>
 			<Name>
-				<CHS>时间滞缓</CHS>
+				<CHS>时间停滞</CHS>
 			</Name>
 			<Desc>
-				<CHS>将时间切为两端，而自身却不受影响。在持续时间被同时增加伤害。</CHS>
+				<CHS>将时间流动速度减慢一半，而你仍可正常行动。同时在效果持续期间提升你的伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>增加伤害 %damage_</CHS>
+				<CHS>伤害提升 %damage_</CHS>
 			</effect0>
 			<buff__Burnout>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__Burnout>
 			<buff__Boost>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__Boost>
 			<Powerup0>
 				<Name>
-					<CHS>延长迟缓时间</CHS>
+					<CHS>时空延缓</CHS>
 				</Name>
 				<Desc>
-					<CHS>持续时间延长 %duration_ 秒</CHS>
+					<CHS>持续时间增加 %duration_ 秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>回复护罩</CHS>
+					<CHS>再生护罩</CHS>
 				</Name>
 				<Desc>
-					<CHS>每秒治疗 %heal_ 最大生命值</CHS>
+					<CHS>每秒恢复最大生命值的 %heal_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>极度精准</CHS>
+					<CHS>高密精度</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加暴击几率 %critchance_（即使超过最大限度）</CHS>
+					<CHS>提升 %critchance_ 暴击率（无视最大上限）</CHS>
 				</Desc>
 			</Powerup2>			
 		</improvedSluggishTime>
 		<improvedSluggishTime_cooldown>
 			<Name>
-				<CHS>重复核心扇</CHS>
+				<CHS>循环核心</CHS>
 			</Name>
 			<Desc>
 				<CHS>%cooldown_ 秒冷却时间</CHS>
@@ -599,7 +599,7 @@
 		</improvedSluggishTime_cooldown>
 		<improvedSluggishTime_damage>
 			<Name>
-				<CHS>辅助瞄准陀螺仪</CHS>
+				<CHS>辅助瞄准仪</CHS>
 			</Name>
 			<Desc>
 				<CHS>增加 %damageboost_ 伤害</CHS>
@@ -607,103 +607,103 @@
 		</improvedSluggishTime_damage>
 		<improvedSluggishTime_magicFind>
 			<Name>
-				<CHS>不确定物质转化</CHS>
+				<CHS>不稳因素转化器</CHS>
 			</Name>
 			<Desc>
-				<CHS>当技能被激活时，增加 %magicfind_ 魔法物品的掉落几率</CHS>
+				<CHS>技能激活时，找到魔法物品的几率增加 %magicfind_ </CHS>
 			</Desc>						
 		</improvedSluggishTime_magicFind>
 		<improvedSluggishTime_mana>
 			<Name>
-				<CHS>时间扩散收集者</CHS>
+				<CHS>Chronodiffusion Collector</CHS>
 			</Name>
 			<Desc>
-				<CHS>每秒恢复 %mana_的最大法力</CHS>
+				<CHS>每秒回复 %mana_ 最大魔法值</CHS>
 			</Desc>						
 		</improvedSluggishTime_mana>
 		<chronoLock>
 			<Name>
-				<CHS>时间滞缓</CHS>
+				<CHS>时间停滞</CHS>
 			</Name>
 			<Desc>
-				<CHS>将时间切为两端，而自身却不受影响。在持续时间被同时增加伤害。</CHS>
+				<CHS>将时间流动速度减慢一半，而你仍可正常行动。同时在效果持续期间提升你的伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>增加伤害 %damage_</CHS>
+				<CHS>伤害提升 %damage_</CHS>
 			</effect0>
 			<buff__Fear>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__Fear>
 			<buff__ArcaneHealing>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__ArcaneHealing>
 			<Powerup0>
 				<Name>
-					<CHS>延长迟缓时间</CHS>
+					<CHS>时空延缓</CHS>
 				</Name>
 				<Desc>
-					<CHS>持续时间延长%durationbonus_秒</CHS>
+					<CHS>持续时间延长 %durationbonus_ 秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>回复护罩</CHS>
+					<CHS>再生护罩</CHS>
 				</Name>
 				<Desc>
-					<CHS>每秒治疗%heal_最大生命值</CHS>
+					<CHS>每秒恢复最大生命值的 %heal_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>极度精准</CHS>
+					<CHS>高密精度</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加暴击几率%critchance_ （即使超过最大限度）</CHS>
+					<CHS>提升 %critchance_ 暴击率（无视最大上限）</CHS>
 				</Desc>
 			</Powerup2>			
 		</chronoLock>
 		<chronoLock_cooldown>
 			<Name>
-				<CHS>收集思想</CHS>
+				<CHS>Collected Mind</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间。</CHS>
+				<CHS>减少冷却时间。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+				<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 			</effect0>			
 		</chronoLock_cooldown>
 		<chronoLock_damage>
 			<Name>
-				<CHS>严格的精准度</CHS>
+				<CHS>极度精确</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加伤害</CHS>
+				<CHS>提升伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_ 伤害</CHS>
+				<CHS>增加%damagebonus_的伤害</CHS>
 			</effect0>			
 		</chronoLock_damage>
 		<chronoLock_magicfind>
 			<Name>
-				<CHS>命运转折</CHS>
+				<CHS>曲折的命运</CHS>
 			</Name>
 			<Desc>
-				<CHS>当此技能激活时，增加掉落魔法物品的几率。</CHS>
+				<CHS>激活技能时可提升魔法物品掉落几率</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%magicfind_ 掉落的魔法物品</CHS>
+				<CHS>提升%magicfind_ 魔法物品几率</CHS>
 			</effect0>			
 		</chronoLock_magicfind>
 		<chronoLock_mana>
 			<Name>
-				<CHS>长期消耗</CHS>
+				<CHS>持续消耗</CHS>
 			</Name>
 			<Desc>
-				<CHS>回复部分法力。</CHS>
+				<CHS>恢复部分法力值。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒回复%mana_法力</CHS>
+				<CHS>每秒恢复%mana_ 点法力值</CHS>
 			</effect0>			
 		</chronoLock_mana>
 		<interceptiveForcefield>
@@ -711,75 +711,75 @@
 				<CHS>升级力场</CHS>
 			</Name>
 			<Desc>
-				<CHS>升级你的保卫能量泡沫的伤害吸收性能</CHS>
+				<CHS>增加护盾能吸收的伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>盾牌拥有+%shieldmaxhp_生命值</CHS>
+				<CHS>+ %shieldmaxhp_ 护盾值</CHS>
 			</effect0>
 			<Expert>
 				<Name>
 					<CHS>辅助电池</CHS>
 				</Name>
 				<Desc>
-					<CHS>法力恢复拖延%chargedelay_秒。每秒恢复+%shieldcharge_的盾牌能量</CHS>
+					<CHS>%chargedelay_ 充能延迟。 +%shieldcharge_ 每秒充能</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>非逻辑感应核心</CHS>
+					<CHS>异化传感核心</CHS>
 				</Name>
 				<Desc>
-					<CHS>%rechargechance_ 几率立即充能</CHS>
+					<CHS>有 %rechargechance_ 几率立即重新充能</CHS>
 				</Desc>
 			</Master>			
 		</interceptiveForcefield>
 		<block>
 			<Name>
-				<CHS>盾牌格挡</CHS>
+				<CHS>护盾格挡</CHS>
 			</Name>
 			<Desc>
-				<CHS>以180度的弧度提升你面前的盾牌格挡伤害。格挡时，你无法攻击或前进。每一次攻击都能根据伤害格挡增加你的反击值。一旦停止格挡，在下一轮攻击中，你造成的伤害将会根据你的反击值提升。注意区域攻击不能格挡。</CHS>
+				<CHS>举起护盾，招架正前方180度范围内的所有伤害。护盾持续期间将无法移动或攻击。每次攻击都将增加复仇值，取决于伤害的大小。取消护盾后，下一击的伤害将增强，取决于复仇值的多少。范围伤害无法招架。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每点反击值，获得%blockpointsmul4damagebonus_伤害加成</CHS>
+				<CHS>每有一点复仇值额外增加 %blockpointsmul4damagebonus_ 伤害</CHS>
 			</effect0>
 			<miniShieldBlock>
-				<CHS>%s:+%.3g%% 反击值（+%.3g%% 每级）</CHS>
+				<CHS>%s:+%.3g%% 复仇值 (+%.3g%% 每等级)</CHS>
 			</miniShieldBlock>
 			<buff__Painlessness>
-				<CHS>%s:+%.3g%% 反击值（+%.3g%% 每级）</CHS>
+				<CHS>%s:+%.3g%% 复仇值 (+%.3g%% 每等级)</CHS>
 			</buff__Painlessness>
 			<Powerup0>
 				<Name>
-					<CHS>盾爆</CHS>
+					<CHS>护盾冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>攻击者有 %stunchance_ 的几率被眩晕2秒</CHS>
+					<CHS>敌人有 %stunchance_ 几率被晕眩2秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>反射之盾</CHS>
+					<CHS>反射型护盾</CHS>
 				</Name>
 				<Desc>
-					<CHS>反击值填充速度加快%blockpoints_</CHS>
+					<CHS>复仇值额外增加 %blockpoints_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>盾之恩赐</CHS>
+					<CHS>护盾恩泽</CHS>
 				</Name>
 				<Desc>
-					<CHS>每一次攻击都能在你进行格挡的 %healdurationlimit_ 秒内恢复你%heal_ 的做大生命值。</CHS>
+					<CHS>在招架的前  %healdurationlimit_ 秒内，每次攻击将回复 %heal_ 最大生命值</CHS>
 				</Desc>
 			</Powerup2>
 		</block>
 		<block_blockPoolMax>
 			<Name>
-				<CHS>秘法反击</CHS>
+				<CHS>神秘复仇</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%blockpoolmax_%的最大反击值</CHS>
+				<CHS>复仇值上限增加 %blockpoolmax_%</CHS>
 			</Desc>			
 		</block_blockPoolMax>
 		<block_slowDecrease>
@@ -787,15 +787,15 @@
 				<CHS>盾墙</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次格挡攻击都有%ragechance_几率产生怒气值</CHS>
+				<CHS>每招架一击都有 %ragechance_ 几率获得狂怒值</CHS>
 			</Desc>			
 		</block_slowDecrease>
 		<block_blockPoints>
 			<Name>
-				<CHS>偏转专精</CHS>
+				<CHS>格挡精通</CHS>
 			</Name>
 			<Desc>
-				<CHS>格挡增加反击值，增速%blockpoints_</CHS>
+				<CHS>复仇值蓄积速度增快 %blockpoints_ </CHS>
 			</Desc>			
 		</block_blockPoints>
 		<block_undepleteChance>
@@ -803,58 +803,58 @@
 				<CHS>坚定防御</CHS>
 			</Name>
 			<Desc>
-				<CHS>你有%undepletechance_的几率在进行攻击时不耗尽反击值</CHS>
+				<CHS>有 %undepletechance_ 几率不消耗复仇值</CHS>
 			</Desc>			
 		</block_undepleteChance>
 		<gigaBash>
 			<Name>
-				<CHS>强力一击</CHS>
+				<CHS>粉碎打击</CHS>
 			</Name>
 			<Desc>
-				<CHS>猛击单个目标，造成巨大的近战伤害。如果持续攻击相同目标，随后每次攻击额外造成20%伤害，最高达到100%。</CHS>
+				<CHS>向单个目标施以强大的近战打击。如果你对同一目标多次使用该技能，则随后的每次攻击都和额外增加20%伤害，最高增加100%。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_物理伤害（武器伤害的%weapondamage_）</CHS>
+				<CHS>%attack_ 物理伤害 (%weapondamage_ 武器攻击)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>粉碎一击</CHS>
+					<CHS>碾压打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>劈头一击</CHS>
+					<CHS>碎颅打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被眩晕 %stunduration_ 秒</CHS>
+					<CHS>令目标晕 %stunduration_ 眩秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>开膛突击</CHS>
+					<CHS>开膛打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到%vulnerability_易伤，持续5秒。</CHS>
+					<CHS>目标5秒内获得 %vulnerability_ 易伤效果</CHS>
 				</Desc>
 			</Powerup2>			
 		</gigaBash>
 		<gigaBash_powerupCost>
 			<Name>
-				<CHS>风之怒</CHS>
+				<CHS>愤怒意志</CHS>
 			</Name>
 			<Desc>
-				<CHS>激活强化消耗 %powerupcost_怒气</CHS>
+				<CHS>启动强化将减少 %powerupcost_ 狂怒值消耗</CHS>
 			</Desc>					
 		</gigaBash_powerupCost>
 		<gigaBash_heal>
 			<Name>
-				<CHS>吸血猛击</CHS>
+				<CHS>浴血猛击</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一击都能恢复 %heal_的最大生命值</CHS>
+				<CHS>每击回复 %heal_ 最大生命值</CHS>
 			</Desc>						
 		</gigaBash_heal>
 		<gigaBash_ragePerKill>
@@ -862,7 +862,7 @@
 				<CHS>狂怒猛击</CHS>
 			</Name>
 			<Desc>
-				<CHS>技能产生额外的%rageperkill_怒气。</CHS>
+				<CHS>击杀额外增加 %rageperkill_ 狂怒值</CHS>
 			</Desc>						
 		</gigaBash_ragePerKill>
 		<gigaBash_massSlow>
@@ -870,7 +870,7 @@
 				<CHS>无情猛击</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标已被%massslow_减速，时间持续5秒。随着多次攻击，持续时间延长。</CHS>
+				<CHS>目标减速 %massslow_ ，持续5秒。效果可叠加。</CHS>
 			</Desc>			
 		</gigaBash_massSlow>
 		<megaViper>
@@ -878,50 +878,50 @@
 				<CHS>毒蛇跳跃</CHS>
 			</Name>
 			<Desc>
-				<CHS>向前闪现至多10米，并攻击单个目标。如果伤害超过目标当前生命值60%，则其立即被击杀。</CHS>
+				<CHS>向前突进10米并攻击单个目标。如果造成的伤害超过目标当前生命值的60%，即可秒杀该敌人。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_物理伤害（武器伤害的%weapondamage_）</CHS>
+				<CHS>%attack_ 物理伤害 (%weapondamage_ 武器攻击)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>强力突刺</CHS>
+					<CHS>强力突进</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>梦之毒液</CHS>
+					<CHS>昏睡毒液</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标无法施放法术，持续%nocastduration_秒</CHS>
+					<CHS>使目标 %nocastduration_ 秒内无法施法</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>死亡微风</CHS>
+					<CHS>死亡气息</CHS>
 				</Name>
 				<Desc>
-					<CHS>攻击拥有2米伤害半径，造成%areadamage_伤害</CHS>
+					<CHS>攻击可对2米范围内的敌人造成 %areadamage_ 点伤害</CHS>
 				</Desc>
 			</Powerup2>			
 		</megaViper>
 		<megaViper_killHPLimit>
 			<Name>
-				<CHS>旋转之刃</CHS>
+				<CHS>扭曲剑刃</CHS>
 			</Name>
 			<Desc>
-				<CHS>%actualhppercentdamagedealt_ 降低瞬间击杀技能的生命值界限</CHS>
+				<CHS>秒杀的生命上限降低 %actualhppercentdamagedealt_</CHS>
 			</Desc>			
 		</megaViper_killHPLimit>
 		<megaViper_castDistance>
 			<Name>
-				<CHS>暗影步</CHS>
+				<CHS>暗影诡步</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %castdistance_ 米的最大眨眼范围</CHS>
+				<CHS>增加闪烁范围 %castdistance_ 米</CHS>
 			</Desc>			
 		</megaViper_castDistance>
 		<megaViper_knockdown>
@@ -929,41 +929,41 @@
 				<CHS>灵魂重击</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标已被打倒，前提是你从 %minknockdowndist_ 米以外进行攻击（有些敌人可能对此免疫）。</CHS>
+				<CHS>如果你从 %minknockdowndist_ 米之外攻击，目标将被击倒。 (某些敌人对此免疫)。</CHS>
 			</Desc>			
 		</megaViper_knockdown>
 		<megaViper_manaCost>
 			<Name>
-				<CHS>战斗恍惚</CHS>
+				<CHS>专注战斗</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manacost_ 的法力消耗</CHS>
+				<CHS>减少 %manacost_ 魔法消耗</CHS>
 			</Desc>
 		</megaViper_manaCost>
 		<megaWhirlwind>
 			<Name>
-				<CHS>飓风突袭</CHS>
+				<CHS>飓风打击</CHS>
 			</Name>
 			<Desc>
-				<CHS>你在向光标前进时旋转，对道路上2米以内的敌人造成伤害。造成的伤害增加20%，法力消耗每秒也增加。伤害输出取决于你的攻击速度。</CHS>
+				<CHS>你高速旋转，向鼠标所指位置前进，对路径两米以内的敌人造成伤害。伤害与魔法消耗每秒增加20%。总伤害取决于攻击速度。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害（%weapondamage_ 武器伤害）每秒</CHS>
+				<CHS>每秒 %attack_ 点物理伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>旋风突袭</CHS>
+					<CHS>旋风打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>破坏之路</CHS>
+					<CHS>毁灭之径</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围扩大 %range_ 米</CHS>
+					<CHS>伤害范围提升 %range_ 米</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -971,29 +971,29 @@
 					<CHS>精华飓风</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次攻击填充 %manaperhit_ 法力</CHS>
+					<CHS>每次攻击恢复 %manaperhit_ 点法力</CHS>
 				</Desc>
 			</Powerup2>			
 		</megaWhirlwind>
 		<megaWhirlwind_manaCost>
 			<Name>
-				<CHS>轻易风暴</CHS>
+				<CHS>无情风暴</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manacost_ 的法力消耗</CHS>
+				<CHS>魔法消耗降低至 %manacost_</CHS>
 			</Desc>
 			</megaWhirlwind_manaCost>
 		<megaWhirlwind_hpPerHit>
 			<Name>
-				<CHS>残杀恩惠</CHS>
+				<CHS>杀戮恩惠</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一击能回复 %hpperhit_ 最大生命值</CHS>
+				<CHS>每击回复 %hpperhit_ 最大生命值</CHS>
 			</Desc>			
 		</megaWhirlwind_hpPerHit>
 		<megaWhirlwind_speed>
 			<Name>
-				<CHS>飓风冲刺</CHS>
+				<CHS>飓风突袭</CHS>
 			</Name>
 			<Desc>
 				<CHS>增加 %slowdecrease_ 移动速度</CHS>
@@ -1001,115 +1001,115 @@
 		</megaWhirlwind_speed>
 		<megaWhirlwind_defense>
 			<Name>
-				<CHS>利刃光环</CHS>
+				<CHS>剑刃光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>当技能被激活时，增加 %defense_ 防御。</CHS>
+				<CHS>技能激活时，增加 %defense_ 防御。</CHS>
 			</Desc>			
 		</megaWhirlwind_defense>
 		<Smite>
 			<Name>
-				<CHS>重击</CHS>
+				<CHS>迅袭</CHS>
 			</Name>
 			<Desc>
-				<CHS>你融入墨境，并以盲速向前爆发突进。路径上的敌人受到电击伤害，并被击倒（强大的敌人可能免疫击倒）。</CHS>
+				<CHS>你淡入墨境之中，然后瞬间向前突进。路径上的敌人会受到电击伤害并被击倒。（强力怪物可能会免疫击倒。）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>间不容息地移动鼠标光标（障碍物会拦下你）</CHS>
+				<CHS>快速移动鼠标（障碍物会挡住你）</CHS>
 			</effect0>
 			<effect1>
-				<CHS>敌人受到 %attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>使敌人承受 %attack_ 点物理伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>恐怖之触</CHS>
+					<CHS>苍白之触</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>墨境爆炸</CHS>
+					<CHS>墨境冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>在路径末端发生爆炸，对3米范围内的敌人造成 %aoedamagepercent_ 原始伤害</CHS>
+					<CHS>在突进结束时发生爆炸，对3米内敌人造成原伤害的 %aoedamagepercent_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>精神震击</CHS>
+					<CHS>精神震慑</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
-			</Powerup2>
+			</Powerup2>			
 			<Expert>
 				<Name>
-					<CHS>协调之魂</CHS>
+					<CHS>灵魂调和</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间缩短 %cooldowndecrease_ 秒。</CHS>
+					<CHS>冷却时间减少%cooldowndecrease_秒。</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>寒冷光环</CHS>
+					<CHS>冷冻光环</CHS>
 				</Name>
 				<Desc>
-					<CHS>伤害路径宽度增加 %widthbonus_ 米。</CHS>
+					<CHS>路径宽度+ +%widthbonus_ 米。</CHS>
 				</Desc>
 			</Master>
 		</Smite>
 		<tuskeCleave>
 			<Name>
-				<CHS>尖刺突击</CHS>
+				<CHS>尖刺打击</CHS>
 			</Name>
 			<Desc>
-				<CHS>你身前的地上冒出一片锋利的尖刺，对120度，5米范围内的敌人造成伤害。</CHS>
+				<CHS>在地上施放一片尖利的钉刺，对面前5米内、120度的敌人造成伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_物理伤害（武器伤害的%weapondamage_）</CHS>
+				<CHS>%attack_ 物理伤害 (%weapondamage_ 武器攻击)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>倒钩尖刺</CHS>
+					<CHS>锋利钉刺</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>尖锐突刺</CHS>
+					<CHS>突刺</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %criticaldamage_ 暴击伤害</CHS>
+					<CHS>暴击伤害增加 %criticaldamage_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>流血</CHS>
+					<CHS>血流不止</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标的物理抗性降低 %physicalresist_，持续3秒</CHS>
+					<CHS>目标3秒内减少 %physicalresist_ 物理伤害抗性</CHS>
 				</Desc>
 			</Powerup2>			
 		</tuskeCleave>
 		<tuskeCleave_damageSpecial>
 			<Name>
-				<CHS>力量灾祸尖刺</CHS>
+				<CHS>灾祸之刺</CHS>
 			</Name>
 			<Desc>
-				<CHS>精英、勇士和 Boss 敌人造成 %damagespecial_ 的更多伤害</CHS>
+				<CHS>精英，冠军和Boss将受到 %damagespecial_ 额外伤害</CHS>
 			</Desc>			
 		</tuskeCleave_damageSpecial>
 		<tuskeCleave_range>
 			<Name>
-				<CHS>尖刺阵</CHS>
+				<CHS>尖刺遍野</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %range_ 米作用范围</CHS>
+				<CHS>范围增加 %range_ 米</CHS>
 			</Desc>
 		</tuskeCleave_range>
 		<tuskeCleave_blockPoolCost>
@@ -1117,7 +1117,7 @@
 				<CHS>共鸣尖刺</CHS>
 			</Name>
 			<Desc>
-				<CHS>使用该技能进行攻击能够剩余 %depletedecrease_ 反击值，而不是全部消耗完毕</CHS>
+				<CHS>使用此技能将保留 %depletedecrease_ 复仇值</CHS>
 			</Desc>			
 		</tuskeCleave_blockPoolCost>
 		<tuskeCleave_massSlow>
@@ -1125,7 +1125,7 @@
 				<CHS>尖刺陷阱</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标减速 %massslow_，持续5秒。</CHS>
+				<CHS>目标减速 %massslow_ 持续5秒。</CHS>
 			</Desc>			
 		</tuskeCleave_massSlow>
 		<Megafrostring>
@@ -1133,58 +1133,58 @@
 				<CHS>冰霜之球</CHS>
 			</Name>
 			<Desc>
-				<CHS>创造一个半径3米的冰霜保护球，持续造成冰系伤害。同时目标的移动速度也会被减缓。</CHS>
+				<CHS>创造一个作用范围为3米的保护性冰霜法球，持续对敌人造成冰冻伤害，被击中的敌人也会承受减速效果。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 冰系伤害（%weapondamage_ 武器伤害）每秒</CHS>
+				<CHS>每秒 %attack_ 冰冻伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>降低敌人攻击速度 %chill_</CHS>
+				<CHS>受敌人攻击时减速%chill_ </CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>寒冷之噬</CHS>
+					<CHS>冰寒之噬</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>寒冰光环</CHS>
+					<CHS>冰冻光环</CHS>
 				</Name>
 				<Desc>
-					<CHS>冻结目标 %freezeduration_ 秒（每次激活生效一次）</CHS>
+					<CHS>使目标冻结 %freezeduration_  秒（每次激活作用一个敌人）</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>无情的暴风雪</CHS>
+					<CHS>无情风暴</CHS>
 				</Name>
 				<Desc>
-					<CHS>持续时间延长 %durationbonus_ 秒</CHS>
+					<CHS>持续时间增加 %durationbonus_ 秒</CHS>
 				</Desc>
 			</Powerup2>			
 		</Megafrostring>
 		<Megafrostring_range>
 			<Name>
-				<CHS>寒冷穹顶</CHS>
+				<CHS>寒冷之穹</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %radiusbonus_ 米作用范围</CHS>
+				<CHS>范围增加 %radiusbonus_ 米</CHS>
 			</Desc>
 		</Megafrostring_range>
 		<Megafrostring_slow>
 			<Name>
-				<CHS>冰冻之爪</CHS>
+				<CHS>寒冬之握</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %chillbonus_ 减速效果</CHS>
+				<CHS>减速效果增加 %chillbonus_</CHS>
 			</Desc>
 		</Megafrostring_slow>
 		<Megafrostring_duration>
 			<Name>
-				<CHS>永恒暴雪</CHS>
+				<CHS>无尽风雪</CHS>
 			</Name>
 			<Desc>
 				<CHS>持续时间延长 %durationbonus_ 秒</CHS>
@@ -1192,62 +1192,62 @@
 		</Megafrostring_duration>
 		<Megafrostring_vulnerability>
 			<Name>
-				<CHS>冰冻血液</CHS>
+				<CHS>冻血</CHS>
 			</Name>
 			<Desc>
-				<CHS>处于作用范围内的目标受到 %vulnerability_ 冰冻易伤伤害。</CHS>
+				<CHS>范围内的目标获得 %vulnerability_ 冰冻易伤。</CHS>
 			</Desc>						
 		</Megafrostring_vulnerability>		
 		<battleCry>
 			<Name>
-				<CHS>战嚎</CHS>
+				<CHS>战吼</CHS>
 			</Name>
 			<Desc>
-				<CHS>战嚎短时间内增加你的伤害和移动速度。8米范围的友方受到50%增益效果。</CHS>
+				<CHS>在短时间内提高你的伤害和移动速度。8米范围内的队友获得50%的效果。</CHS>
 				<debuffdesc>
-						<CHS>战嚎：增加伤害和移动速度。</CHS>
+						<CHS>战吼：提高伤害和移动速度。</CHS>
 				</debuffdesc>
 			</Desc>
 			<effect0>
-				<CHS>获得 %postcalcfurydamagebonus_ 伤害加成</CHS>
+				<CHS>额外获得 %postcalcfurydamagebonus_ 伤害</CHS>
 			</effect0>
 			<effect1>
-				<CHS>获得 %speed_ 移动速度加成</CHS>
+				<CHS>额外获得 %speed_移动速度</CHS>
 			</effect1>
 			<taunt>
-				<CHS>%s:+%.3g%% 加成（+%.3g%% 每级）</CHS>
+				<CHS>%s: +%.3g%% to bonuses (+%.3g%% per level)</CHS>
 			</taunt>
 			<buff__ChainSnare>
-				<CHS>%s:+%.3g%% 加成（+%.3g%% 每级）</CHS>
+				<CHS>%s: +%.3g%% to bonuses (+%.3g%% per level)</CHS>
 			</buff__ChainSnare>
 			<Powerup0>
 				<Name>
-					<CHS>复苏呐喊</CHS>
+					<CHS>复兴怒吼</CHS>
 				</Name>
 				<Desc>
-					<CHS>每秒回复 %hpregen_ 最大生命值</CHS>
+					<CHS>你同时可每秒恢复最大生命值的 %hpregen_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>守护呐喊</CHS>
+					<CHS>守护怒吼</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%defense_ 防御</CHS>
+					<CHS>你获得+%defense_ 防御力提升</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>恐惧呐喊</CHS>
+					<CHS>扰敌怒吼</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围的所有敌人被恐惧充斥并逃跑，持续 %fearduration_ 秒（强大的敌人可能免疫此效果）</CHS>
+					<CHS>所有效果范围内的敌人恐惧并逃跑，持续 %fearduration_ 秒（强力敌人可能对此免疫）</CHS>
 				</Desc>
 			</Powerup2>			
 		</battleCry>
 		<battleCry_duration>
 			<Name>
-				<CHS>回音呐喊</CHS>
+				<CHS>回响怒吼</CHS>
 			</Name>
 			<Desc>
 				<CHS>持续时间延长 %duration_ 秒</CHS>
@@ -1255,26 +1255,26 @@
 		</battleCry_duration>
 		<battleCry_range>
 			<Name>
-				<CHS>雷鸣呐喊</CHS>
+				<CHS>雷霆怒吼</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %range_ 米作用范围</CHS>
+				<CHS>范围增加 %range_ 米</CHS>
 			</Desc>			
 		</battleCry_range>
 		<battleCry_damageReduction>
 			<Name>
-				<CHS>蹒跚呐喊</CHS>
+				<CHS>惊涛怒吼</CHS>
 			</Name>
 			<Desc>
-				<CHS>作用范围内的敌人造成伤害降低 %damagereduction_。</CHS>
+				<CHS>范围内敌人造成的伤害减少 %damagereduction_ 。</CHS>
 			</Desc>			
 		</battleCry_damageReduction>
 		<battleCry_damageBonus>
 			<Name>
-				<CHS>愉悦呐喊</CHS>
+				<CHS>鼓舞士气</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %damagebonus_ 伤害</CHS>
+				<CHS>增加伤害%damagebonus_</CHS>
 			</Desc>						
 		</battleCry_damageBonus>				
 		<protectiveAura>
@@ -1282,20 +1282,20 @@
 				<CHS>警戒光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>你和10米以内的所有盟友获得防御和抗性加成（从你的数据中计算）。</CHS>
+				<CHS>你与10米内的同伴获得防御和抗性加成(取决于你的属性)。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>获得%defense_防御加成</CHS>
+				<CHS>额外获得 %defense_ 防御加成</CHS>
 			</effect0>
 			<effect1>
-				<CHS>全抗性获得 %fullresistance_ 加成</CHS>
+				<CHS>额外获得 %fullresistance_ 所有抗性加成</CHS>
 			</effect1>
 			<Expert>
 				<Name>
-					<CHS>加速光环</CHS>
+					<CHS>急速光环</CHS>
 				</Name>
 				<Desc>
-					<CHS>你和所有位于效果区域内的盟友获得 %speed_ 移动速度加成。</CHS>
+					<CHS>你与同伴获得 %speed_ 移动速度加成。</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -1303,27 +1303,27 @@
 					<CHS>幸运光环</CHS>
 				</Name>
 				<Desc>
-					<CHS>你和所有位于作用范围内的盟友获得 %magicfind_ 掉落魔法物品加成。</CHS>
+					<CHS>你与同伴找到魔法物品的几率增加 %magicfind_ 。</CHS>
 				</Desc>
 			</Master>
 		</protectiveAura>
 		<protectiveAura_range>
 			<Name>
-				<CHS>扩大光环</CHS>
+				<CHS>扩增光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>扩大效果范围。</CHS>
+				<CHS>提升伤害范围。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>效果范围扩大 %range_ 米</CHS>
+				<CHS>伤害范围提升 %range_ 米</CHS>
 			</effect0>			
 		</protectiveAura_range>
 		<protectiveAura_sacrifice>
 			<Name>
-				<CHS>牺牲光环</CHS>
+				<CHS>献祭光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>效果范围内，盟友受到的部分伤害将转移到你身上。</CHS>
+				<CHS>队友承受都一部分伤害转移到你身上。</CHS>
 			</Desc>
 			<effect0>
 				<CHS>%damagetransfer_ 伤害转移到你身上</CHS>
@@ -1331,13 +1331,13 @@
 		</protectiveAura_sacrifice>
 		<protectiveAura_speed>
 			<Name>
-				<CHS>加速光环</CHS>
+				<CHS>急速光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>你和效果范围内的盟友获得移动速度加成。</CHS>
+				<CHS>你和效果范围内的队友获得移动速度加成</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%speed_ 移动速度</CHS>
+				<CHS>获得 +%speed_ 移动速度</CHS>
 			</effect0>
 		</protectiveAura_speed>
 		<protectiveAura_magicFind>
@@ -1345,120 +1345,120 @@
 				<CHS>幸运光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>你和效果范围内的盟友获得寻找魔法物品加成。</CHS>
+				<CHS>你和效果范围内的队友获得魔法物品掉落几率加成。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%magicfind_ 魔法物品掉落</CHS>
+				<CHS>获得+%magicfind_ 魔法物品掉落</CHS>
 			</effect0>
 		</protectiveAura_magicFind>
 		<brutalMagicMissile>
 			<Name>
-				<CHS>箭矢流</CHS>
+				<CHS>能量箭流</CHS>
 			</Name>
 			<Desc>
-				<CHS>当技能激活后，每3秒发射一道能量箭矢。箭矢会攻击最近的敌人，除非你有指定的目标。当技能关闭时，每秒恢复一道能量箭矢，最多3道。</CHS>
+				<CHS>激活技能时会以每三秒一次的速率发射纯粹的能量之箭。如果没有直接指定目标则箭会自动攻击离你最近的目标。技能不处于激活状态时每秒会产生一支额外的能量箭，最多存放3支。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每个电矢造成 %attack_ 闪电伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>每发造成 %attack_电系伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>原始之力</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>精华箭矢</CHS>
+					<CHS>精华之箭</CHS>
 				</Name>
 				<Desc>
-					<CHS>每道闪电撞击后回复 %manaperhit_ 最大法力值</CHS>
+					<CHS>每支箭击中可恢复你最的法力值的 %manaperhit_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>麻痹箭矢</CHS>
+					<CHS>麻痹之箭</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被电击，持续 %stunduration_ 秒</CHS>
+					<CHS>被击中的敌人麻痹 %shockduration_  秒</CHS>
 				</Desc>
 			</Powerup2>			
 		</brutalMagicMissile>
 		<brutalMagicMissile_boltCount>
 			<Name>
-				<CHS>集群箭矢</CHS>
+				<CHS>漫天飞箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %boltcountbonus_ 额外能量矢的最大数量</CHS>
+				<CHS>能量箭最大数量增加 %boltcountbonus_</CHS>
 			</Desc>					
 		</brutalMagicMissile_boltCount>
 		<brutalMagicMissile_blast>
 			<Name>
-				<CHS>火花爆炸</CHS>
+				<CHS>星火冲击</CHS>
 			</Name>
 			<Desc>
-				<CHS>能量矢在2米内造成 %blastdamage_ 范围伤害</CHS>
+				<CHS>能量箭对两米范围内施加 %blastdamage_ 溅射伤害</CHS>
 			</Desc>						
 		</brutalMagicMissile_blast>
 		<brutalMagicMissile_slow>
 			<Name>
-				<CHS>衰弱箭矢</CHS>
+				<CHS>衰弱之箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>能量矢降低目标移动速度 %slow_%，时间持续2秒。</CHS>
+				<CHS>能量箭将减速目标 %slow_% ，持续2秒。</CHS>
 			</Desc>					
 		</brutalMagicMissile_slow>
 		<brutalMagicMissile_criticalChance>
 			<Name>
-				<CHS>超动力箭矢</CHS>
+				<CHS>超荷之箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %critchance_% 暴击几率（可能超过最大极限值）</CHS>
+				<CHS>暴击率增加 %critchance_%(可超过暴击上限)</CHS>
 			</Desc>						
 		</brutalMagicMissile_criticalChance>
 		<gianthidra>
 			<Name>
-				<CHS>火蛇</CHS>
+				<CHS>炽焰之蛇</CHS>
 			</Name>
 			<Desc>
-				<CHS>召唤一只无敌的三头火焰蛇。攻击单个目标，造成火焰伤害。此生物无法阻挡移动。</CHS>
+				<CHS>召唤一只不会受到伤害的火焰多头蛇，对单个目标进行攻击，造成火焰伤害。多头蛇不会阻挡移动。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每个人造成 %hidraattack_ 的伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>每个头造成 %hidraattack_ 伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>法力维持：每激活多头蛇 %manareserve_ 最大法力</CHS>
+				<CHS>法力占用：每只多头蛇占用法力最大值的 %manareserve_ </CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>火焰唾液</CHS>
+					<CHS>吐焰</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被烧着，每秒造成 %dot_ 伤害，持续5秒</CHS>
+					<CHS>目标被点燃，每秒受到 %dot_ 伤害，持续5秒。</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>燃烧液滴</CHS>
+					<CHS>炽焰飞溅</CHS>
 				</Name>
 				<Desc>
-					<CHS>九头蛇攻击对2米范围内的目标造成 %aoedamage_ 伤害</CHS>
+					<CHS>多头蛇对两米内的敌人造成 %aoedamage_ 溅射伤害</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>滚烫毒液</CHS>
+					<CHS>灼热毒素</CHS>
 				</Name>
 				<Desc>
-					<CHS>当火焰九头蛇存在时，目标受到 %firevulnerability_ 火焰易伤。效果可以叠加。</CHS>
+					<CHS>只要火焰多头蛇存在，敌人将获得 %firevulnerability_ 火焰易伤。此效果可叠加。</CHS>
 				</Desc>
 			</Powerup2>			
 		</gianthidra>
 		<GiantHidra_duration>
 			<Name>
-				<CHS>召唤助手</CHS>
+				<CHS>召唤援助</CHS>
 			</Name>
 			<Desc>
 				<CHS>持续时间延长 %durationbonus_ 秒</CHS>
@@ -1466,10 +1466,10 @@
 		</GiantHidra_duration>
 		<GiantHidra_respawn>
 			<Name>
-				<CHS>自发幻影</CHS>
+				<CHS>自然幻影</CHS>
 			</Name>
 			<Desc>
-				<CHS>九头蛇有 %respawnchance_ 几率在消失之后立即重生</CHS>
+				<CHS>多头蛇有 %respawnchance_ 几率会立即重生</CHS>
 			</Desc>					
 		</GiantHidra_respawn>
 		<GiantHidra_cooldown>
@@ -1477,7 +1477,7 @@
 				<CHS>召唤天赋</CHS>
 			</Name>
 			<Desc>
-				<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>						
 		</GiantHidra_cooldown>
 		<GiantHidra_upkeep>
@@ -1485,39 +1485,39 @@
 				<CHS>灵魂亲和</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %upkeepdecrease_ 技能维修费</CHS>
+				<CHS>减少 %upkeepdecrease_ 法力占用</CHS>
 			</Desc>						
 		</GiantHidra_upkeep>		
 		<megapillar>
 			<Name>
-				<CHS>冰霜之柱</CHS>
+				<CHS>寒霜之柱</CHS>
 			</Name>
 			<Desc>
-				<CHS>制造一根3米宽，滚动的冰霜之柱攻击最近的敌人，造成持续冰系伤害。</CHS>
+				<CHS>施放一个3米宽的冰柱，攻击力你最近的敌人，持续造成冰冻伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒造成 %attack_ 伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_ 秒伤 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>作用范围内所有目标减速 %chill_ </CHS>
+				<CHS>在受影响区域内受到%chill_ 的减速</CHS>
 			</effect1>
 			<effect2>
-				<CHS>法力维持：%manareserve_ 最大法力</CHS>
+				<CHS>法力占用：占用法力最大值的 %manareserve_ </CHS>
 			</effect2>
 			<Powerup0>
 				<Name>
-					<CHS>刺骨寒冷</CHS>
+					<CHS>刺骨之寒</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>冰霜之轴</CHS>
+					<CHS>寒霜缠绕</CHS>
 				</Name>
 				<Desc>
-					<CHS>冻结目标 %freezeduration_ 秒</CHS>
+					<CHS>使目标冻结 %freezeduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -1525,29 +1525,29 @@
 					<CHS>寒冬之柱</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %radiusbonus_ 米的作用范围</CHS>
+					<CHS>范围增加 %radiusbonus_ 米</CHS>
 				</Desc>
 			</Powerup2>		
 		</megapillar>
 		<Megapillar_speed>
 			<Name>
-				<CHS>迅捷之柱</CHS>
+				<CHS>迅捷冰柱</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加纵队 %speedbonus_ 移动速度</CHS>
+				<CHS>速度增加 %speedbonus_</CHS>
 			</Desc>						
 		</Megapillar_speed>
 		<Megapillar_upkeep>
 			<Name>
-				<CHS>冰霜魔法天资</CHS>
+				<CHS>冰咒天资</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %upkeepdecrease_ 维修费</CHS>
+				<CHS>降低 %upkeepdecrease_ 法力占用</CHS>
 			</Desc>						
 		</Megapillar_upkeep>
 		<Megapillar_duration>
 			<Name>
-				<CHS>坚固之柱</CHS>
+				<CHS>稳固冰柱</CHS>
 			</Name>
 			<Desc>
 				<CHS>持续时间延长 %durationbonus_ 秒</CHS>
@@ -1555,61 +1555,61 @@
 		</Megapillar_duration>
 		<Megapillar_cooldown>
 			<Name>
-				<CHS>寒冷专精</CHS>
+				<CHS>冰寒精通</CHS>
 			</Name>
 			<Desc>
-				<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>						
 		</Megapillar_cooldown>		
 		<gigatuzfal>
 			<Name>
-				<CHS>燃烧屏障</CHS>
+				<CHS>烈焰屏障</CHS>
 			</Name>
 			<Desc>
-				<CHS>制造2米厚的火焰墙吸附在地上。形状或长度不固定，但是火焰墙越长，消耗的法力越多（基础法力消耗为20，每额外增加1米消耗加倍）。敌人离开效果区域将被灼烧5秒，每秒受到50%原始伤害。被火焰墙击杀的敌人将生成次级火焰蛇（不超过6头）。</CHS>
+				<CHS>在地上释放一道厚度为2米的烈火之墙。火墙没有形状或长度限制，但随着长度增加，法力值消耗也会增加。（基础消耗为20点，每增加一米消耗翻倍。）从效果范围离开的敌人5秒内承受火焰伤害，数值为原伤害的50%。火墙杀死敌人后会创造出小型多头蛇（最多6只）。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 火焰伤害（%weapondamage_ 武器伤害）每秒</CHS>
+				<CHS>每秒造成%attack_ 点火焰伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>九头蛇每次攻击造成 %attack_ 火焰伤害（%hidraweapondamage_ 武器伤害）</CHS>
+				<CHS>%hidraattack_ 火焰伤害每击 (%hidraweapondamage_ 武器伤害) </CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>地狱火屏障</CHS>
+					<CHS>冥火屏障</CHS>
 				</Name>
 				<Desc>
-					<CHS>火焰伤害增加 %damagebonus_</CHS>
+					<CHS>火焰伤害提升 %damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>地狱重生</CHS>
+					<CHS>地狱爪牙</CHS>
 				</Name>
 				<Desc>
-					<CHS>多头蛇伤害增加 %hidradamagebonus_</CHS>
+					<CHS>多头蛇伤害 %hidradamagebonus_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>希腊之火</CHS>
+					<CHS>炽燃剂</CHS>
 				</Name>
 				<Desc>
-					<CHS>点燃的敌人的燃烧时间延长 %burningdurationbonus_ 秒</CHS>
+					<CHS>点燃持续时间延长 %burningdurationbonus_ 秒</CHS>
 				</Desc>
 			</Powerup2>			
 		</gigatuzfal>
 		<GigaTuzfal_hidracount>
 			<Name>
-				<CHS>炽烈食物</CHS>
+				<CHS>噬焰</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %hidracountbonus_ 小型火焰九头蛇的最大数量</CHS>
+				<CHS>小型火焰多头蛇上限增加 %hidracountbonus_</CHS>
 			</Desc>						
 		</GigaTuzfal_hidracount>
 		<GigaTuzfal_duration>
 			<Name>
-				<CHS>永恒火焰</CHS>
+				<CHS>永恒烈焰</CHS>
 			</Name>
 			<Desc>
 				<CHS>持续时间延长 %durationbonus_ 秒</CHS>
@@ -1617,18 +1617,18 @@
 		</GigaTuzfal_duration>
 		<GigaTuzfal_dotdamage>
 			<Name>
-				<CHS>焦化之火</CHS>
+				<CHS>焦土烈焰</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %burningdamagebonus_ 燃烧伤害</CHS>
+				<CHS>燃烧伤害增加 %burningdamagebonus_</CHS>
 			</Desc>						
 		</GigaTuzfal_dotdamage>
 		<GigaTuzfal_mana>
 			<Name>
-				<CHS>火焰恩惠</CHS>
+				<CHS>火焰恩泽</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manacostdecrease_ 法力消耗</CHS>
+				<CHS>减少 %manacostdecrease_ 魔法消耗</CHS>
 			</Desc>						
 		</GigaTuzfal_mana>		
 		<ultrajegfal>
@@ -1636,38 +1636,38 @@
 				<CHS>冰霜屏障</CHS>
 			</Name>
 			<Desc>
-				<CHS>制造2米厚的冰墙吸附在地上。形状或长度不固定，但是冰墙越长，消耗的法力越多（基础法力消耗为20，每额外增加1米消耗加倍）。通过冰墙的敌人受到冰系伤害，并被冰冻3秒。抵抗此效果的敌人被减速50%，持续3秒。10秒之内，目标不会再受到其他冰墙的影响。</CHS>
+				<CHS>释放一道厚度为两米的冰霜之墙。冰墙的形状和长度没有限制，但随着其长度增加，法力值消耗也增加。（基础消耗的20点，每增加1米消耗翻倍。）经过冰墙的敌人会被冻结3秒。免疫冻结效果的敌人则减速50%，持续3秒。同一敌人10秒内不会再次受到其他冰霜屏障的效果影响。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 冰霜伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_ 冰系伤害 (武器伤害的%weapondamage_)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>灵魂冷冽</CHS>
+					<CHS>灵魂颤栗</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>冰霜雕像</CHS>
+					<CHS>冰塑</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标冰冻时间延长 %freezedurationbonus_ 秒</CHS>
+					<CHS>冰冻时间延长 %freezedurationbonus_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>冰噬毒液</CHS>
+					<CHS>寒霜毒素</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到 %vulnerability_ 冰系和物理伤害易伤，持续5秒</CHS>
+					<CHS>受冰霜屏障影响的敌人在5秒内受到%vulnerability_ vulnerability的冰冻伤害和物理伤害</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>永恒寒冷</CHS>
+					<CHS>不朽之寒</CHS>
 				</Name>
 				<Desc>
 					<CHS>持续时间延长 %durationbonus_ 秒</CHS>
@@ -1675,146 +1675,146 @@
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>寒冷震击</CHS>
+					<CHS>寒气冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果结束后，冰冻目标，移动速度降低 %postfreezeslow_ ，持续3秒</CHS>
+					<CHS>被冰冻的敌人解冻后被减速 %postfreezeslow_ ，持续3秒</CHS>
 				</Desc>
 			</Master>
 		</ultrajegfal>
 		<UltraJegfal_duration>
 			<Name>
-				<CHS>永恒寒冷</CHS>
+				<CHS>不朽之寒</CHS>
 			</Name>
 			<Desc>
 				<CHS>增加持续时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%durationbonus_ 秒持续时间</CHS>
+				<CHS>增加%durationbonus_ 秒持续时间</CHS>
 			</effect0>			
 		</UltraJegfal_duration>
 		<UltraJegfal_damage>
 			<Name>
-				<CHS>凛冬之触</CHS>
+				<CHS>寒冬之触</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加伤害</CHS>
+				<CHS>提升伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_ 伤害</CHS>
+				<CHS>增加%damagebonus_的伤害</CHS>
 			</effect0>			
 		</UltraJegfal_damage>
 		<UltraJegfal_slow>
 			<Name>
-				<CHS>寒冷震击</CHS>
+				<CHS>寒气冲击</CHS>
 			</Name>
 			<Desc>
-				<CHS>冰冻的敌人在效果结束后被减速3秒</CHS>
+				<CHS>被冻结的目标在冻结效果结束后减速3秒。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%postfreezeslow_ 冰冻后减速</CHS>
+				<CHS>解冻后减速%postfreezeslow_ </CHS>
 			</effect0>			
 		</UltraJegfal_slow>
 		<UltraJegfal_mana>
 			<Name>
-				<CHS>寒冷专精</CHS>
+				<CHS>冰寒精通</CHS>
 			</Name>
 			<Desc>
 				<CHS>降低法力消耗</CHS>
 			</Desc>
 			<effect0>
-				<CHS>-%mana_ 法力消耗</CHS>
+				<CHS>减少%mana_ 法力消耗</CHS>
 			</effect0>			
 		</UltraJegfal_mana>		
 		<uberinknova>
 			<Name>
-				<CHS>末日风暴</CHS>
+				<CHS>灾厄风暴</CHS>
 			</Name>
 			<Desc>
-				<CHS>在你周围制造超脱尘世的爆炸，对6米范围内的敌人造成秘法伤害。随后10颗墨镜流星从天而降撞击同一区域，每颗对2米范围内的敌人造成物理伤害。最后，每颗流星衍生2-3头幽冥猎犬攻击敌人呢，持续6秒。</CHS>
+				<CHS>在你身边施放一个来自异世的巨爆，于6米范围内造成奥术伤害。然后天空向同一区域坠下10个墨境陨石，每颗陨石可在2米范围内造成物理伤害。最后，每个陨石会产生2到3只幽冥猎犬进行攻击，持续6秒。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>爆炸：%attack_ 秘法伤害（%weapondamage_ 武器伤害）。</CHS>
+				<CHS>爆炸： %attack_ 奥术伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>流星：每颗流星造成 %attack_ 物理伤害（%meteorweapondamage_ 武器伤害）</CHS>
+				<CHS>流星雨: 每颗流星造成%meteorattack_ 物理伤害 (%meteorweapondamage_ 武器伤害) </CHS>
 			</effect1>
 			<effect2>
-				<CHS>幽冥猎犬伤害 %dogattack_ 每一击造成的物理伤害</CHS>
+				<CHS>幽冥猎犬: 每击造成%dogattack_ 物理伤害</CHS>
 			</effect2>
 			<Powerup0>
 				<Name>
-					<CHS>秘法破坏</CHS>
+					<CHS>神秘废墟</CHS>
 				</Name>
 				<Desc>
-					<CHS>爆炸伤害增加 %damagebonus_</CHS>
+					<CHS>爆炸伤害+ %damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>残忍魔鬼</CHS>
+					<CHS>残暴魔鬼</CHS>
 				</Name>
 				<Desc>
-					<CHS>幽冥猎犬伤害增加 %dogdamagebonus_</CHS>
+					<CHS>幽冥猎犬的伤害增加 %dogdamagebonus_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>深度撞击</CHS>
+					<CHS>深层影响</CHS>
 				</Name>
 				<Desc>
-					<CHS>流星效果区域增加 %meteorradiusbonus_ 米</CHS>
+					<CHS>流星雨的范围增加 %meteorradiusbonus_ 米</CHS>
 				</Desc>
 			</Powerup2>			
 		</uberinknova>
 		<Uberinknova_range>
 			<Name>
-				<CHS>破坏之球</CHS>
+				<CHS>绝望领域</CHS>
 			</Name>
 			<Desc>
-				<CHS>爆炸作用范围增加 %blastradiusbonus_ 米</CHS>
+				<CHS>爆炸范围增加 %blastradiusbonus_ 米</CHS>
 			</Desc>						
 		</Uberinknova_range>
 		<Uberinknova_lifetime>
 			<Name>
-				<CHS>坚韧恶魔</CHS>
+				<CHS>顽强魔鬼</CHS>
 			</Name>
 			<Desc>
-				<CHS>%lifetime_ 秒后，幽冥猎犬瞬间消失</CHS>
+				<CHS>幽冥猎犬的持续时间延长 %lifetime_ 秒</CHS>
 			</Desc>						
 		</Uberinknova_lifetime>
 		<Uberinknova_count>
 			<Name>
-				<CHS>破坏之雨</CHS>
+				<CHS>绝望之雨</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %meteorcountbonus_ 的流星数</CHS>
+				<CHS>流星雨数量增加 %meteorcountbonus_</CHS>
 			</Desc>						
 		</Uberinknova_count>
 		<Uberinknova_kutyastrength>
 			<Name>
-				<CHS>顽强恶魔</CHS>
+				<CHS>狡猾魔鬼</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加幽冥猎犬 %doghpbonus_ 生命值以及 %dogdamagebonus_ 伤害</CHS>
+				<CHS>幽冥猎犬的生命值增加 %doghpbonus_ ，伤害增加 %dogdamagebonus_</CHS>
 			</Desc>						
 		</Uberinknova_kutyastrength>			
 		<Superlightning>
 			<Name>
-				<CHS>雷暴</CHS>
+				<CHS>雷爆</CHS>
 			</Name>
 			<Desc>
-				<CHS>一道闪电攻击目标，对半径2米内的敌人造成闪电伤害。法术可以充能来扩大效果范围（持续按住鼠标键），最大可达到5米（每秒1米）。充能时无法移动。</CHS>
+				<CHS>对目标发射一道闪电，对目标造成一个范围为2米的范围闪电伤害。可以通过蓄力来提升攻击范围至5米（按住鼠标，每秒增加1米范围）。在蓄力时无法移动。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 闪电伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>造成%attack_点闪电伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>破坏闪电</CHS>
+					<CHS>毁灭闪电</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -1822,38 +1822,38 @@
 					<CHS>电击麻痹</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被电击，持续 %stunduration_ 秒</CHS>
+					<CHS>目标被击晕 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>闪电妖术</CHS>
+					<CHS>闪电咒</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到 %vulnerability_ 闪电和物理伤害易伤，持续5秒</CHS>
+					<CHS>对目标施加 %vulnerability_ ，削弱其对闪电和物理伤害的防御力，持续5秒</CHS>
 				</Desc>
 			</Powerup2>			
 		</Superlightning>
 		<Superlightning_kill>
 			<Name>
-				<CHS>死亡闪电</CHS>
+				<CHS>致命闪电</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标有一定几率被一击必杀</CHS>
+				<CHS>有几率秒杀目标</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%kill_ 一击必杀几率</CHS>
+				<CHS>%kill_ 几率秒杀</CHS>
 			</effect0>			
 		</Superlightning_kill>
 		<Superlightning_chargespeed>
 			<Name>
-				<CHS>加速末日</CHS>
+				<CHS>加速灭亡</CHS>
 			</Name>
 			<Desc>
-				<CHS>加快法术充能速度</CHS>
+				<CHS>增加施法速度</CHS>
 			</Desc>
 			<effect0>
-				<CHS>法术充能加快 %chargespeed_ </CHS>
+				<CHS>施法速度+ %chargespeed_ </CHS>
 			</effect0>			
 		</Superlightning_chargespeed>
 		<Superlightning_mana>
@@ -1864,56 +1864,56 @@
 				<CHS>降低法力消耗</CHS>
 			</Desc>
 			<effect0>
-				<CHS>-%mana_ 法力消耗</CHS>
+				<CHS>减少%mana_ 法力消耗</CHS>
 			</effect0>			
 		</Superlightning_mana>
 		<Superlightning_damage>
 			<Name>
-				<CHS>破坏爆炸</CHS>
+				<CHS>毁灭炸裂</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加伤害</CHS>
+				<CHS>提升伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_ 伤害</CHS>
+				<CHS>增加%damagebonus_的伤害</CHS>
 			</effect0>			
 		</Superlightning_damage>			
 		<fedaksariteleport>
 			<Name>
-				<CHS>墨境跳跃</CHS>
+				<CHS>水墨飞跃</CHS>
 			</Name>
 			<Desc>
-				<CHS>你可以施展墨镜跳跃，立即跳跃至指定位置。可以频繁使用，但每次跳跃预留部分法力值。</CHS>
+				<CHS>你可以通过水墨飞跃来立即到达某个地点，水墨飞跃可以频繁使用，但是需要消耗魔力。</CHS>
 				<debuffdesc>
-						<CHS>墨境跳跃维持：最大法力降低。</CHS>
+						<CHS>水墨飞跃加持，最大法力值增加。</CHS>
 				</debuffdesc>
 			</Desc>
 			<effect0>
-				<CHS>传送到光标</CHS>
+				<CHS>瞬移到鼠标处</CHS>
 			</effect0>
 			<effect1>
-				<CHS>法力维持：%manareserve_ 最大法力每次跳跃，持续 %manatime_ 秒</CHS>
+				<CHS>法力值加持：每施展一次水墨飞跃，增加 %manareserve_ 最大魔力值，持续 %manatime_ 秒</CHS>
 			</effect1>
 			<Mirror>
-				<CHS>%s:+%.3g%% 保养时间（+%.3g%% 每级）</CHS>
+				<CHS>%s: %.3g%% 占用时间 (%.3g%% 每等级)</CHS>
 			</Mirror>
 			<painlessness>
-				<CHS>%s:+%.3g%% 保养时间（+%.3g%% 每级）</CHS>
+				<CHS>%s: %.3g%% 占用时间 (%.3g%% 每等级)</CHS>
 			</painlessness>
 			<Powerup0>
 				<Name>
-					<CHS>墨涟漪</CHS>
+					<CHS>墨境涟漪</CHS>
 				</Name>
 				<Desc>
-					<CHS>当你使用墨境跳跃时你会对3米内的敌人造成 %leaveblastattack_ 伤害（%leaveblastweapondamage_ 武器伤害）</CHS>
+					<CHS>使用墨境跳跃时，对3米内的敌人造成 %leaveblastattack_ 伤害 (%leaveblastweapondamage_ 武器伤害) </CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>墨涌</CHS>
+					<CHS>墨境波浪</CHS>
 				</Name>
 				<Desc>
-					<CHS>到达地点后，你会对3米内的敌人造成 %arriveblastattack_ 伤害（%arriveblastweapondamage_ 武器伤害）</CHS>
+					<CHS>对落地点3米内的敌人造成 %arriveblastattack_ 伤害 (%arriveblastweapondamage_ 武器伤害)</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -1921,32 +1921,32 @@
 					<CHS>灵魂共鸣</CHS>
 				</Name>
 				<Desc>
-					<CHS>当你使用墨境跳跃时，%mirrorcount_ 的镜像会产生，与你对抗20秒。镜像拥有你的50%的生命值，造成的伤害相当于你的武器伤害的80%</CHS>
+					<CHS>使用墨境跳跃时在原地留下 %mirrorcount_ 镜像持续作战20秒。 镜像拥有 50% 生命值，造成 80% 武器伤害</CHS>
 				</Desc>
 			</Powerup2>			
 		</fedaksariteleport>
 		<FedaksariTeleport_mana>
 			<Name>
-				<CHS>无忧之魂</CHS>
+				<CHS>解脱之魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manadecrease_ 法力保养</CHS>
+				<CHS>法力占用减少 %manadecrease_</CHS>
 			</Desc>						
 		</FedaksariTeleport_mana>
 		<FedaksariTeleport_manatime>
 			<Name>
-				<CHS>无拘之魂</CHS>
+				<CHS>自由之魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>保养时间缩短 %manatimedecrease_ 秒</CHS>
+				<CHS>占用时间减少 %manatimedecrease_ 秒</CHS>
 			</Desc>						
 		</FedaksariTeleport_manatime>
 		<FedaksariTeleport_rage>
 			<Name>
-				<CHS>放纵之魂</CHS>
+				<CHS>洒脱之魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一次跳跃产生 %rage_ 怒气</CHS>
+				<CHS>每次跳跃获得 %rage_ 狂怒值</CHS>
 			</Desc>						
 		</FedaksariTeleport_rage>
 		<FedaksariTeleport_heal>
@@ -1954,21 +1954,21 @@
 				<CHS>不屈之魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一次跳跃都能恢复 %heal_ 的最大生命值。</CHS>
+				<CHS>每次跳跃回复 %heal_ 最大生命值。</CHS>
 			</Desc>						
 		</FedaksariTeleport_heal>				
 		<UberElementalResist>
 			<Name>
-				<CHS>元素之盾</CHS>
+				<CHS>元素盾牌</CHS>
 			</Name>
 			<Desc>
-				<CHS>你获得大量的元素抗性加成，并且有一定几率在受到攻击时，在你周围生成无敌气泡。气泡保护你免受所有伤害，持续2秒。</CHS>
+				<CHS>你对元素的防御力大大增强，同时在你受到伤害时，有几率在周身生成一道无敌泡泡，无敌泡泡可以在2秒内保证你不受到任何伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%resist_ 元素抗性加成</CHS>
+				<CHS>%resist_ 额外元素防御力</CHS>
 			</effect0>
 			<effect1>
-				<CHS>%invulchance_ 几率生成无敌气泡</CHS>
+				<CHS>%invulchance_ 概率生成无敌泡泡</CHS>
 			</effect1>						
 		</UberElementalResist>
 		<UberElementalResist_fire>
@@ -1976,7 +1976,7 @@
 				<CHS>火焰印记</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加所有火焰类型的伤害</CHS>
+				<CHS>增加所有火焰伤害</CHS>
 			</Desc>
 			<effect0>
 				<CHS>+%fire_ 火焰伤害</CHS>
@@ -1987,50 +1987,50 @@
 				<CHS>风暴印记</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加所有闪电类型的伤害</CHS>
+				<CHS>增加所有闪电伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%trapdamage_闪电伤害</CHS>
+				<CHS>+%lightning_ 闪电伤害</CHS>
 			</effect0>			
 		</UberElementalResist_lightning>
 		<UberElementalResist_ice>
 			<Name>
-				<CHS>冬季印记</CHS>
+				<CHS>凛冬印记</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加所有冰冻类型的伤害</CHS>
+				<CHS>增加所有寒冰伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%ice_冰霜伤害</CHS>
+				<CHS>+%ice_ 寒冰伤害</CHS>
 			</effect0>			
 		</UberElementalResist_ice>
 		<UberElementalResist_duration>
 			<Name>
-				<CHS>不朽印记</CHS>
+				<CHS>永生印记</CHS>
 			</Name>
 			<Desc>
 				<CHS>增加无敌的持续时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%duration_ 秒持续时间。</CHS>
+				<CHS>持续时间增加 %duration_ 秒</CHS>
 			</effect0>			
 		</UberElementalResist_duration>		
 		<Marker>
 			<Name>
-				<CHS>转换射线</CHS>
+				<CHS>元素射线</CHS>
 			</Name>
 			<Desc>
-				<CHS>按住鼠标键不放，能量射线向指定目标发射。射线可以产生连续不断的火焰、冰系和闪电伤害。当射线被激活时，你的机械盟友更乐意袭击同一个目标。射线无法被障碍物格挡。</CHS>
+				<CHS>释放一道射线，持续伤害指定目标。射线同时造成火焰，冰冻和闪电伤害。机械盟友优先攻击指定目标。射线无法被招架或阻挡。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 火焰/冰冻/闪电伤害（%weapondamage_ 武器伤害）每秒</CHS>
+				<CHS>%attack_ 火焰/寒冰/闪电伤害 (%weapondamage_武器攻击力)/秒</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>过热</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -2038,23 +2038,23 @@
 					<CHS>射线脉冲</CHS>
 				</Name>
 				<Desc>
-					<CHS>射线激活时目标减速%slow_ </CHS>
+					<CHS>射线可以减缓目标的 %slow_ 速度</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>强化射线</CHS>
+					<CHS>削弱射线</CHS>
 				</Name>
 				<Desc>
-					<CHS>射线激活时目标受到%slow_易伤效果</CHS>
+					<CHS>射线可以对目标附加 %vulnerability_ 效果</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>多点射线</CHS>
+					<CHS>扫射射线</CHS>
 				</Name>
 				<Desc>
-					<CHS>被射线触碰到的敌人（非指定目标）也会受到 %aoe_伤害</CHS>
+					<CHS>路径上的敌人也会受到 %aoe_ 伤害</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -2062,41 +2062,41 @@
 					<CHS>堕落射线</CHS>
 				</Name>
 				<Desc>
-					<CHS>当射线被激活时,目标受到%vulnerability_的易伤伤害</CHS>
+					<CHS>被射线持续击中的敌人获得 %vulnerability_ 易伤</CHS>
 				</Desc>
 			</Master>					
 		</Marker>
 		<Marker_aoe>
 			<Name>
-				<CHS>多点射线</CHS>
+				<CHS>扫射射线</CHS>
 			</Name>
 			<Desc>
-				<CHS>接触到射线的敌人（除了指定目标以外）也承受伤害</CHS>
+				<CHS>被射线触碰到的敌人（除了目标）也会受到伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>对次要目标造成%aoe_ 伤害</CHS>
+				<CHS>对次级敌人造成%aoe_ 伤害</CHS>
 			</effect0>			
 		</Marker_aoe>
 		<Marker_heal>
 			<Name>
-				<CHS>生物反馈射线</CHS>
+				<CHS>吸血射线</CHS>
 			</Name>
 			<Desc>
-				<CHS>这种射线恢复你的一些生命值</CHS>
+				<CHS>射线可以恢复你的部分生命值</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒恢复最大生命值的%heal_ </CHS>
+				<CHS>恢复%heal_ 最大生命值/秒</CHS>
 			</effect0>			
 		</Marker_heal>
 		<Marker_rage>
 			<Name>
-				<CHS>激怒射线</CHS>
+				<CHS>狂怒射线</CHS>
 			</Name>
 			<Desc>
-				<CHS>这种射线产生怒气</CHS>
+				<CHS>射线可以增加怒气</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒%rage_怒气</CHS>
+				<CHS>%rage_ 怒气/秒</CHS>
 			</effect0>			
 		</Marker_rage>
 		<Marker_vulnerability>
@@ -2104,69 +2104,69 @@
 				<CHS>堕落射线</CHS>
 			</Name>
 			<Desc>
-				<CHS>射线激活时目标受到易伤效果</CHS>
+				<CHS>射线可以给目标施加脆弱</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%vulnerability_ 易伤</CHS>
+				<CHS>%vulnerability_ 易伤效果</CHS>
 			</effect0>			
 		</Marker_vulnerability>		
 		<advancedbulletbarrage>
 			<Name>
-				<CHS>铅弹风暴</CHS>
+				<CHS>子弹风暴</CHS>
 			</Name>
 			<Desc>
-				<CHS>以30度的弧度、14米的射程，你以惊人的速度发射连续不断的子弹。每6颗子弹会爆炸，对2米以内的敌人造成伤害。</CHS>
+				<CHS>你持续发射弹幕，对30度角，14米范围内敌人狂轰滥炸。每第六波弹幕将会爆炸，对2米内的敌人造成溅射伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每次射击造成%attack_ 物理伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>%attack_ 物理伤害(%weapondamage_ 武器攻击力)/发</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>毁灭者弹幕</CHS>
+					<CHS>破灭弹幕</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>迷惑弹幕</CHS>
+					<CHS>迷乱弹幕</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标有 %stunchance_ 的几率被晕住2秒。</CHS>
+					<CHS>有 %stunchance_ 的概率眩晕目标2秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>势不可挡弹幕</CHS>
+					<CHS>穿刺弹幕</CHS>
 				</Name>
 				<Desc>
-					<CHS>子弹有%passthrough_的几率穿透目标击中更多敌人</CHS>
+					<CHS>子弹有 %passthrough_ 概率穿透敌人以对更多敌人造成伤害</CHS>
 				</Desc>
 			</Powerup2>			
 		</advancedbulletbarrage>
 		<AdvancedBulletBarrage_range>
 			<Name>
-				<CHS>弹道适配器</CHS>
+				<CHS>弹道专家</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%range_米的最大射程</CHS>
+				<CHS>最大射程增加 %range_ 米</CHS>
 			</Desc>						
 		</AdvancedBulletBarrage_range>
 		<AdvancedBulletBarrage_explosion>
 			<Name>
-				<CHS>修正输送带</CHS>
+				<CHS>改进弹药</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %explosion_ 爆炸弹药数量</CHS>
+				<CHS>爆炸的弹幕数增加 %explosion_</CHS>
 			</Desc>						
 		</AdvancedBulletBarrage_explosion>
 		<AdvancedBulletBarrage_damage>
 			<Name>
-				<CHS>高爆炸药</CHS>
+				<CHS>高爆弹药</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %masterydamagebonus_ 爆炸弹药伤害</CHS>
+				<CHS>增加爆炸伤害 %masterydamagebonus_</CHS>
 			</Desc>					
 		</AdvancedBulletBarrage_damage>
 		<AdvancedBulletBarrage_mana>
@@ -2174,104 +2174,104 @@
 				<CHS>重新接线</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %mana_ 法力消耗</CHS>
+				<CHS>减少 %mana_ 魔法消耗</CHS>
 			</Desc>						
 		</AdvancedBulletBarrage_mana>		
 		<gunplatformboost>
 			<Name>
-				<CHS>平台超载</CHS>
+				<CHS>超载</CHS>
 			</Name>
 			<Desc>
-				<CHS>枪械平台技能冷却时间缩短10秒。</CHS>
+				<CHS>10秒内，你的枪轮技能冷却时间减少。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>冷却时间缩短 %skillcooldown_</CHS>
+				<CHS>冷却减少 %skillcooldown_</CHS>
 			</effect0>			
 			<buff__Overdrive>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__Overdrive>
 			<buff__SpringHeeledJump>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__SpringHeeledJump>
 			<Powerup0>
 				<Name>
-					<CHS>能量提升</CHS>
+					<CHS>能量暴走</CHS>
 				</Name>
 				<Desc>
-					<CHS>%damage_ 枪械平台伤害</CHS>
+					<CHS>%damage_ 枪轮伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>快速补丁程序</CHS>
+					<CHS>快速回复</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%heal_枪械平台生命值</CHS>
+					<CHS>+%heal_ 枪轮生命值</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>护甲钢板极化</CHS>
+					<CHS>护甲偏振</CHS>
 				</Name>
 				<Desc>
-					<CHS>你的枪械平台获得%damagereduce_伤害减免</CHS>
+					<CHS>枪轮所受伤害减少 %damagereduce_ </CHS>
 				</Desc>
 			</Powerup2>			
 		</gunplatformboost>
 		<GunplatformBoost_duration>
 			<Name>
-				<CHS>超载协议</CHS>
+				<CHS>超载程序</CHS>
 			</Name>
 			<Desc>
-				<CHS>持续时间延长%duration_</CHS>
+				<CHS>持续时间延长 %duration_</CHS>
 			</Desc>					
 		</GunplatformBoost_duration>
 		<GunplatformBoost_damage>
 			<Name>
-				<CHS>优化攻击模式</CHS>
+				<CHS>最优攻击方式</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%damage_的枪械平台伤害</CHS>
+				<CHS>枪轮伤害增加 %damage_</CHS>
 			</Desc>					
 		</GunplatformBoost_damage>
 		<GunplatformBoost_regen>
 			<Name>
-				<CHS>修复武器自动化</CHS>
+				<CHS>修理臂自动化</CHS>
 			</Name>
 			<Desc>
-				<CHS>枪械平台每秒修复%regen_ 最大生命值</CHS>
+				<CHS>枪轮每秒回复自身最大生命值的 %regen_ /秒</CHS>
 			</Desc>						
 		</GunplatformBoost_regen>
 		<GunplatformBoost_cooldown>
 			<Name>
-				<CHS>超载优化</CHS>
+				<CHS>超载最大化</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldown_秒</CHS>
+				<CHS>冷却时间减少 %cooldown_ 秒</CHS>
 			</Desc>						
 		</GunplatformBoost_cooldown>		
 		<geppokrobbantas>
 			<Name>
-				<CHS>解体机器人爆炸</CHS>
+				<CHS>肢解者爆炸</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的解体机器人、袭击机械体和口袋机械体爆炸，对2米范围内的敌人造成物理伤害。同时留下一颗延迟2秒爆炸的地雷，一旦触发就会爆炸。地雷造成原始爆炸50%的伤害。</CHS>
+				<CHS>你的肢解者机器人，突击和袖珍机器人会爆炸，对两米内的敌人造成物理伤害。同时留下一枚地雷，地雷造成50%伤害，需要2秒准备。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>爆炸：每个解体机器人造成%attack_ 物理伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>爆炸：%attack_ 物理伤害 (%weapondamage_ 武器攻击力)/肢解者机器人</CHS>
 			</effect0>
 			<Marker>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</Marker>
 			<buff__Repair>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</buff__Repair>
 			<Powerup0>
 				<Name>
-					<CHS>钝齿弹片</CHS>
+					<CHS>钝弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>爆炸伤害增加%damagebonus_</CHS>
+					<CHS>爆炸伤害+ %damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -2279,91 +2279,91 @@
 					<CHS>冰冻爆炸</CHS>
 				</Name>
 				<Desc>
-					<CHS>被地雷困住的目标眩晕%freeze_秒</CHS>
+					<CHS>地雷能击晕敌人 %freeze_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>冷冻蒸气</CHS>
+					<CHS>零度蒸汽</CHS>
 				</Name>
 				<Desc>
-					<CHS>地雷爆炸后留下持续%slow_秒的蒸气，降低敌人50%的速度。</CHS>
+					<CHS>地雷爆炸后在原地留下一团蒸汽，可以减缓敌人50%速度，蒸汽存在 %slow_ 秒。</CHS>
 				</Desc>
 			</Powerup2>			
 		</geppokrobbantas>		
 		<GeppokRobbantas_radius>
 			<Name>
-				<CHS>提高爆炸压力</CHS>
+				<CHS>改进爆炸压缩</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%radius_米的效果区域</CHS>
+				<CHS>爆炸范围增加 %radius_ 米</CHS>
 			</Desc>						
 		</GeppokRobbantas_radius>
 		<GeppokRobbantas_rage>
 			<Name>
-				<CHS>分子激怒</CHS>
+				<CHS>分子暴怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>由爆炸造成的死亡能提供%rage_ 的额外怒气</CHS>
+				<CHS>爆炸击杀获得额外 %rage_ 狂怒值</CHS>
 			</Desc>					
 		</GeppokRobbantas_rage>
 		<GeppokRobbantas_knockback>
 			<Name>
-				<CHS>冲击波发射器</CHS>
+				<CHS>震荡波</CHS>
 			</Name>
 			<Desc>
-				<CHS>爆炸范围内的敌人有 %knockback_ 几率被打败</CHS>
+				<CHS>有 %knockback_ 几率击倒爆炸范围内的敌人。</CHS>
 			</Desc>					
 		</GeppokRobbantas_knockback>
 		<GeppokRobbantas_mana>
 			<Name>
-				<CHS>人体工学雷管</CHS>
+				<CHS>工程雷管</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %mana_ 法力消耗</CHS>
+				<CHS>减少 %mana_ 魔法消耗</CHS>
 			</Desc>						
 		</GeppokRobbantas_mana>		
 		<geppokidezes>
 			<Name>
-				<CHS>解体机器人包裹</CHS>
+				<CHS>肢解者小队</CHS>
 			</Name>
 			<Desc>
-				<CHS>创建4名由损毁刀刃装备的盟友，他们会一直为你战斗，直到被摧毁为止。</CHS>
+				<CHS>制造四台装备有剑刃的机器盟友为你作战直至被毁。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>机械盟友伤害：%geppokdamage_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>机械族友军伤害：%geppokdamage_物理伤害 (%weapondamage_武器伤害)</CHS>
 			</effect0>
 			<effect1>
 				<CHS>生命值：%hp_</CHS>
 			</effect1>
 			<ZapperbeastDistributor>
-				<CHS>%s:+%.3g%% 解体机器人伤害（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 肢解机器人伤害 (+%.3g%% 每等级)</CHS>
 			</ZapperbeastDistributor>
 			<buff__AssaultMechanoid>
-				<CHS>%s:+%.3g%% 解体机器人伤害（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 肢解机器人伤害 (+%.3g%% 每等级)</CHS>
 			</buff__AssaultMechanoid>
 			<Powerup0>
 				<Name>
-					<CHS>工程师愤怒</CHS>
+					<CHS>构造狂怒</CHS>
 				</Name>
 				<Desc>
-					<CHS>再建造出%count_个机械盟友</CHS>
+					<CHS>多制造%count_ 个机械族友军</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>创造性重组</CHS>
+					<CHS>创意重组</CHS>
 				</Name>
 				<Desc>
-					<CHS>当一个机械盟友被摧毁有%resurrect_几率立即建造出新的</CHS>
+					<CHS>当机械族友军被摧毁时，有 %resurrect_ 的概率立即重生出一个新的机械族友军</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>赶牛鞭附带</CHS>
+					<CHS>眩晕附件</CHS>
 				</Name>
 				<Desc>
-					<CHS>机械盟友每次攻击时有%stun_ 几率眩晕敌人</CHS>
+					<CHS>机械族友军在攻击时有 %stun_ 概率击晕敌人</CHS>
 				</Desc>
 			</Powerup2>			
 		</geppokidezes>
@@ -2372,61 +2372,61 @@
 				<CHS>高级建造材料</CHS>
 			</Name>
 			<Desc>
-				<CHS>机械盟友拥有%hpbonus_ 的额外生命值</CHS>
+				<CHS>机器盟友获得 %hpbonus_ 额外生命值</CHS>
 			</Desc>						
 		</GeppokIdezes_hp>
 		<GeppokIdezes_damage>
 			<Name>
-				<CHS>增强武器库</CHS>
+				<CHS>强化武器库</CHS>
 			</Name>
 			<Desc>
-				<CHS>机械盟友能造成%damage_的额外伤害</CHS>
+				<CHS>机器盟友造成 %damage_ 额外伤害</CHS>
 			</Desc>						
 		</GeppokIdezes_damage>
 		<GeppokIdezes_speed>
 			<Name>
-				<CHS>高级致动器</CHS>
+				<CHS>高级制动器</CHS>
 			</Name>
 			<Desc>
-				<CHS>机械盟友移动速度快%speed_</CHS>
+				<CHS>机器盟友移速增加%speed_ </CHS>
 			</Desc>						
 		</GeppokIdezes_speed>
 		<GeppokIdezes_cooldown>
 			<Name>
-				<CHS>汇编操作知识</CHS>
+				<CHS>组合运作专精</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldown_秒</CHS>
+				<CHS>冷却时间减少 %cooldown_ 秒</CHS>
 			</Desc>					
 		</GeppokIdezes_cooldown>		
 		<ornithopteridezes>
 			<Name>
-				<CHS>扑翼机巡逻</CHS>
+				<CHS>扑翼式飞机巡航</CHS>
 			</Name>
 			<Desc>
-				<CHS>创建2架扑翼机，他们会为你抗争，直到他们被毁。他们使用机械枪对付远距离目标，使用喷火器对付近距离敌人。</CHS>
+				<CHS>制造2台飞行兵为你作战直至被毁。它们装备有机枪和火焰喷射器。</CHS>
 			</Desc>
 			<effect0>
 				<CHS>生命值：%hp_</CHS>
 			</effect0>
 			<effect1>
-				<CHS>喷火器伤害：%flamethrowerattack_ 火焰伤害（%flamethrowerdamage_ 的火焰伤害）</CHS>
+				<CHS>火焰喷射器伤害: %flamethrowerattack_ 火焰伤害 (%flamethrowerdamage_ 武器伤害)</CHS>
 			</effect1>
 			<effect2>
-				<CHS>枪支伤害：%shootattack_ 物理伤害（%shootdamage_ 的武器伤害）</CHS>
+				<CHS>枪械伤害: %shootattack_ 物理伤害 (%shootdamage_ 武器伤害)</CHS>
 			</effect2>
 			<MechanicalAide>
-				<CHS>%s:+%.3g%% 扑翼机伤害（+%.3g%% 每级）</CHS>
+				<CHS>%s: +%.3g%%飞行兵伤害（+%.3g%%每级）</CHS>
 			</MechanicalAide>
 			<buff__CannonOrnithopter>
-				<CHS>%s:+%.3g%% 扑翼机伤害（+%.3g%% 每级）</CHS>
+				<CHS>%s: +%.3g%%飞行兵伤害（+%.3g%%每级）</CHS>
 			</buff__CannonOrnithopter>			
 			<Powerup0>
 				<Name>
-					<CHS>火力控制系统</CHS>
+					<CHS>火焰控制系统</CHS>
 				</Name>
 				<Desc>
-					<CHS>扑翼机武器造成额外%damagebonus_伤害</CHS>
+					<CHS>扑翼式飞机的武器伤害+ %damagebonus_ </CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -2434,15 +2434,15 @@
 					<CHS>爆炸弹药</CHS>
 				</Name>
 				<Desc>
-					<CHS>将扑翼机的攻击转向区域伤害，造成%explosivedamage_ 的原始伤害</CHS>
+					<CHS>使飞行兵造成范围伤害，伤害值为原伤害的 %explosivedamage_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>敏感性标识</CHS>
+					<CHS>高敏辨识器</CHS>
 				</Name>
 				<Desc>
-					<CHS>扑翼机目标受到5秒的%vulnerability_易伤效果（无法叠加）</CHS>
+					<CHS>扑翼式飞机可以对目标附加5秒的 %vulnerability_ 脆弱（不可叠加）</CHS>
 				</Desc>
 			</Powerup2>			
 		</ornithopteridezes>
@@ -2451,64 +2451,64 @@
 				<CHS>耐用机身</CHS>
 			</Name>
 			<Desc>
-				<CHS>扑翼机拥有%hpbonus_的额外生命值</CHS>
+				<CHS>飞行兵增加 %hpbonus_ 额外生命值</CHS>
 			</Desc>						
 		</OrnithopterIdezes_hp>
 		<OrnithopterIdezes_ignite>
 			<Name>
-				<CHS>凝胶燃烧罐</CHS>
+				<CHS>固态燃料桶</CHS>
 			</Name>
 			<Desc>
-				<CHS>喷火器点燃敌人，每秒造成%ignite_的原始伤害，时间持续5秒</CHS>
+				<CHS>火焰喷射器将点燃敌人，每秒造成 %ignite_ 初始伤害，持续5秒</CHS>
 			</Desc>					
 		</OrnithopterIdezes_ignite>
 		<OrnithopterIdezes_countchance>
 			<Name>
-				<CHS>投机型自动汇编器</CHS>
+				<CHS>机会主义者</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次激活可能召唤一架额外的扑翼机</CHS>
+				<CHS>每次启动有几率多召唤出一架扑翼式飞机</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%countchance_几率召唤一架额外扑翼机</CHS>
+				<CHS>%countchance_ 概率多召唤出一架扑翼式飞机</CHS>
 			</effect0>			
 		</OrnithopterIdezes_countchance>
 		<OrnithopterIdezes_cooldown>
 			<Name>
-				<CHS>汇编操作知识</CHS>
+				<CHS>组合运作专精</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间</CHS>
+				<CHS>减少冷却时间。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>冷却时间降低%cooldown_ 秒。</CHS>
+				<CHS>冷却时间减少%cooldown_秒</CHS>
 			</effect0>			
 		</OrnithopterIdezes_cooldown>		
 		<frostraysentry>
 			<Name>
-				<CHS>冷冻助手</CHS>
+				<CHS>冷冻僚机</CHS>
 			</Name>
 			<Desc>
-				<CHS>创建一个固定的炮塔，利用冰冻射线攻击敌人。射线伤害每秒增加50%（极限值为200%），能够影响每一个触碰到的东西。你只能激活3座炮塔。如果你创建了更多的炮塔，第一个炮塔会立即被摧毁。、</CHS>
+				<CHS>制造一座无法移动的炮塔，以冰冻射线攻击敌人。被持续攻击的目标所受伤害每秒增加50% (最大增加200%)。最多同时拥有3座炮塔。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%shoot_冰系伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>%shoot_ 寒冰伤害 (%weapondamage_ 武器攻击力)</CHS>
 			</effect0>
 			<effect1>
 				<CHS>生命值：%hp_</CHS>
 			</effect1>
 			<buff__ExplosiveAides>
-				<CHS>%s:+%.3g%% 炮塔伤害值（+%.3g%% 每级）</CHS>
+				<CHS>%s: +%.3g%% 炮塔伤害（+%.3g%% 每级）</CHS>
 			</buff__ExplosiveAides>
 			<RepairDrone>
-				<CHS>%s:+%.3g%% 炮塔生命值（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 炮塔生命值 (+%.3g%% 每等级)</CHS>
 			</RepairDrone>
 			<Powerup0>
 				<Name>
-					<CHS>超冷射线</CHS>
+					<CHS>急冻射线</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -2516,108 +2516,108 @@
 					<CHS>冻结脉冲</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被冻结%freeze_ 秒（每个生物一次）</CHS>
+					<CHS>冻结目标 %freeze_ 秒（单个目标） </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>迷惑射线</CHS>
+					<CHS>干扰射线</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到这种射线会遭受%vulnerability_易伤效果</CHS>
+					<CHS>射线可以对目标附加 %vulnerability_ 效果</CHS>
 				</Desc>
 			</Powerup2>			
 		</frostraysentry>
 		<FrostRaySentry_charge>
 			<Name>
-				<CHS>低温最大化</CHS>
+				<CHS>绝对零度</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%charge_的最大充能伤害</CHS>
+				<CHS>充能伤害增加 %charge_</CHS>
 			</Desc>						
 		</FrostRaySentry_charge>
 		<FrostRaySentry_slow>
 			<Name>
-				<CHS>进场和退场感应器</CHS>
+				<CHS>干扰器</CHS>
 			</Name>
 			<Desc>
-				<CHS>处在射线下面时，目标减速%charge_</CHS>
+				<CHS>被射线击中的敌人减速 %slow_ </CHS>
 			</Desc>						
 		</FrostRaySentry_slow>
 		<FrostRaySentry_range>
 			<Name>
-				<CHS>传感器阵列增强器</CHS>
+				<CHS>感测器阵列强化</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%range_米的哨兵最大射击范围</CHS>
+				<CHS>增加炮塔的最大射程 %range_ 米</CHS>
 			</Desc>						
 		</FrostRaySentry_range>
 		<FrostRaySentry_cooldown>
 			<Name>
-				<CHS>冷冻技术专长</CHS>
+				<CHS>冷却专家</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldown_秒</CHS>
+				<CHS>冷却时间减少 %cooldown_ 秒</CHS>
 			</Desc>						
 		</FrostRaySentry_cooldown>			
 		<katyusatower>
 			<Name>
-				<CHS>毁灭者哨兵</CHS>
+				<CHS>毁灭哨兵</CHS>
 			</Name>
 			<Desc>
-				<CHS>创建一个固定的炮塔，能够向14米以内的敌人发射一连串的子弹。每个子弹群包含可以击中同一目标的两枚子弹，对2米以内的范围造成伤害。</CHS>
+				<CHS>制造一座无法移动的炮塔，以集束火箭攻击14米内的敌人。每束火箭中有两发能对2米内的敌人造成溅射伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%shoot_物理伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>%shoot_ 物理伤害（%weapondamage_ 武器攻击力）</CHS>
 			</effect0>
 			<effect1>
 				<CHS>生命值：%hp_</CHS>
 			</effect1>
 			<buff__Deployturret>
-				<CHS>%s:+%.3g%% 哨兵伤害（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 炮塔伤害 (+%.3g%% 每等级)</CHS>
 			</buff__Deployturret>
 			<buff__DeployPhlogistonturret>
-				<CHS>%s:+%.3g%% 哨兵伤害（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 炮塔伤害 (+%.3g%% 每等级)</CHS>
 			</buff__DeployPhlogistonturret>			
 			<Powerup0>
 				<Name>
-					<CHS>重型弹头</CHS>
+					<CHS>重量级弹头</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加 %damagebonus_ 伤害。</CHS>
+					<CHS>伤害提高%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>火箭混乱</CHS>
+					<CHS>火箭伤害</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标晕眩%stun_秒（一次一名生物）</CHS>
+					<CHS>目标被击晕 %stun_ 秒 (单个生物)</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>扩展火箭蔓延</CHS>
+					<CHS>火箭弹距离增大</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围增加%radius_米</CHS>
+					<CHS>火箭弹的攻击范围增加 %radius_ 米</CHS>
 				</Desc>
 			</Powerup2>			
 		</katyusatower>
 		<KatyusaTower_rocket>
 			<Name>
-				<CHS>火箭群</CHS>
+				<CHS>火箭蜂群</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%rocket_的子弹数</CHS>
+				<CHS>火箭数量增加 %rocket_</CHS>
 			</Desc>						
 		</KatyusaTower_rocket>
 		<KatyusaTower_knockback>
 			<Name>
-				<CHS>高速冲击波</CHS>
+				<CHS>高速震荡波</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标拥有%knockback_ 的几率被击打他们的子弹打倒</CHS>
+				<CHS>每发火箭都有 %knockback_ 几率击倒目标</CHS>
 			</Desc>						
 		</KatyusaTower_knockback>
 		<KatyusaTower_range>
@@ -2625,114 +2625,114 @@
 				<CHS>三角陀螺仪</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%range_米的炮塔的最大射击范围</CHS>
+				<CHS>增加炮塔的最大射程 %range_ 米</CHS>
 			</Desc>						
 		</KatyusaTower_range>
 		<KatyusaTower_cooldown>
 			<Name>
-				<CHS>静态工程熟练</CHS>
+				<CHS>经典工程学</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldown_秒</CHS>
+				<CHS>冷却时间减少 %cooldown_ 秒</CHS>
 			</Desc>						
 		</KatyusaTower_cooldown>		
 		<NagygepPassive>
 			<Name>
-				<CHS>升级枪械平台</CHS>
+				<CHS>升级枪轮</CHS>
 			</Name>
 			<Desc>
-				<CHS>升级枪械平台的战斗力，增加其生命值和伤害值。平台还装备着升级加农炮。</CHS>
+				<CHS>提升枪轮的强度，增加它的生命值与伤害。并加装火炮。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>平台生命值增加%platformhpbonus_</CHS>
+				<CHS>枪轮生命值增加 %platformhpbonus_</CHS>
 			</effect0>	
 			<effect1>
-				<CHS>平台伤害值增加 %platformdamagebonus_</CHS>
+				<CHS>枪轮伤害增加 %platformdamagebonus_</CHS>
 			</effect1>	
 			<Expert>
 				<Name>
-					<CHS>黄蜂弹道发射器</CHS>
+					<CHS>大黄蜂导弹发射器</CHS>
 				</Name>
 				<Desc>
-					<CHS>装备一个每20秒发射%rocket_导弹的发射器。导弹可以袭击多个目标，每一击能造成武器伤害的250%伤害。</CHS>
+					<CHS>装备导弹发射器，每20秒发射 %rocket_ 飞弹。飞弹能对范围内目标造成250%武器伤害。</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>热量射线炮台</CHS>
+					<CHS>热能射线炮台</CHS>
 				</Name>
 				<Desc>
-					<CHS>装备一把能够连续不断地袭击单一目标的热射线枪。射线的伤害（%ray_ 的武器伤害）每秒增加50%，直到它击中同一目标。</CHS>
+					<CHS>装备热能射线枪，能持续攻击单个目标。被射线持续攻击的目标所受伤害每秒增加 (%ray_ of 武器伤害) 每秒 50%。</CHS>
 				</Desc>
 			</Master>
 			<melee_attack>
 				<Name>
-					<CHS>刀刃伤害值</CHS>
+					<CHS>剑刃伤害</CHS>
 				</Name>				
 			</melee_attack>
 			<gepagyu_shoot>
 				<Name>
-					<CHS>机械枪伤害值</CHS>
+					<CHS>机枪伤害</CHS>
 				</Name>				
 			</gepagyu_shoot>
 		</NagygepPassive>
 		<NagygepPassive_ray_shoot>
 			<Name>
-				<CHS>热射线枪伤害值</CHS>
+				<CHS>热能射线伤害</CHS>
 			</Name>
 		</NagygepPassive_ray_shoot>
 		<NagygepPassive_rocket_shoot>
 			<Name>
-				<CHS>导弹伤害值</CHS>
+				<CHS>飞弹伤害</CHS>
 			</Name>
 		</NagygepPassive_rocket_shoot>
 		<NagygepPassive_agyu_shoot>
 			<Name>
-				<CHS>加农炮伤害值</CHS>
+				<CHS>火炮伤害</CHS>
 			</Name>
 		</NagygepPassive_agyu_shoot>
 		<NagygepPassive_melee_attack>
 			<Name>
-				<CHS>格斗伤害值</CHS>
+				<CHS>近战伤害</CHS>
 			</Name>
 		</NagygepPassive_melee_attack>
 		<NagygepPassive_gepagyu_shoot>
 			<Name>
-				<CHS>迷你枪伤害值</CHS>
+				<CHS>迷你机枪伤害</CHS>
 			</Name>
 		</NagygepPassive_gepagyu_shoot>
 		<delayedFagyTerjedes>
 			<Name>
-				<CHS>暗影震动</CHS>
+				<CHS>暗影震荡</CHS>
 			</Name>
 			<Desc>
-				<CHS>你进入斗篷状态，当你再次出现时，震荡波会在4米范围内产生冰系伤害，冰冻目标3秒钟时间</CHS>
+				<CHS>你进入伪装模式，当你再度现身时，发震荡波，对4米内的敌人造成冰冻伤害，冻结敌人3秒</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%shoot_冰霜伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>%dftattack_ 寒冰伤害 (%dftweapondamage_ 武器攻击力)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>维度爆炸</CHS>
+					<CHS>次元爆炸</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>维度电击</CHS>
+					<CHS>次元震荡</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标冰冻时间延长%freezedurationbonus_秒</CHS>
+					<CHS>冰冻时间延长 %freezedurationbonus_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>暗影之触</CHS>
+					<CHS>暗影触碰</CHS>
 				</Name>
 				<Desc>
-					<CHS>为目标施加 %markcount_ 个暗影印记</CHS>
+					<CHS>目标获得 %markcount_ 暗影标记</CHS>
 				</Desc>
 			</Powerup2>			
 		</delayedFagyTerjedes>
@@ -2741,31 +2741,31 @@
 				<CHS>暗影穹顶</CHS>
 			</Name>
 			<Desc>
-				<CHS>效果区域增加%blastradiusbonus_米</CHS>
+				<CHS>范围增加 %blastradiusbonus_ 米</CHS>
 			</Desc>			
 		</delayedFagyTerjedes_blastRadius>
 		<delayedFagyTerjedes_slowDuration>
 			<Name>
-				<CHS>精神束缚</CHS>
+				<CHS>灵魂枷锁</CHS>
 			</Name>
 			<Desc>
-				<CHS>冰冻效果消退后，目标减速50%，时间持续%slowduration_秒</CHS>
+				<CHS>冰冻效果消失后，目标被减速 50%，持续%slowduration_ 秒</CHS>
 			</Desc>			
 		</delayedFagyTerjedes_slowDuration>
 		<delayedFagyTerjedes_damage>
 			<Name>
-				<CHS>灵魂崩溃</CHS>
+				<CHS>灵魂爆裂</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%damagebonus_的伤害</CHS>
+				<CHS>增加伤害%damagebonus_</CHS>
 			</Desc>			
 		</delayedFagyTerjedes_damage>
 		<delayedFagyTerjedes_cooldown>
 			<Name>
-				<CHS>暗影行走</CHS>
+				<CHS>暗影潜行</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldowndecrease_秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>			
 		</delayedFagyTerjedes_cooldown>
 		<shadowMaster>
@@ -2773,28 +2773,28 @@
 				<CHS>幻影姿态</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加伏击加成和持续时间。</CHS>
+				<CHS>增加伏击加成和持续时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_ 埋伏伤害加成</CHS>
+				<CHS> +%damagebonus_ 伏击伤害加成</CHS>
 			</effect0>
 			<effect1>
-				<CHS>+%durationbonus_ 秒的埋伏持续时间</CHS>
+				<CHS> +%durationbonus_ 伏击持续时间</CHS>
 			</effect1>
 			<Expert>
 				<Name>
-					<CHS>幻影冲刺</CHS>
+					<CHS>幻影突袭</CHS>
 				</Name>
 				<Desc>
-					<CHS>当埋伏加成持续%speed_时，你的移动速度增加</CHS>
+					<CHS>伏击状态下，移动速度增加 %speed_</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>幻影攻击</CHS>
+					<CHS>幻影之击</CHS>
 				</Name>
 				<Desc>
-					<CHS>进一步增加%moredamagebonus_的埋伏加成</CHS>
+					<CHS>进一步提升伏击伤害 %moredamagebonus_</CHS>
 				</Desc>
 			</Master>
 		</shadowMaster>
@@ -2803,10 +2803,10 @@
 				<CHS>黑暗斗篷</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加隐形持续时间</CHS>
+				<CHS>增加潜行的持续时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%duration_秒隐形时间</CHS>
+				<CHS>+%duration_ 秒潜行时间</CHS>
 			</effect0>
 		</shadowMaster_duration>
 		<shadowMaster_hpRegen>
@@ -2814,10 +2814,10 @@
 				<CHS>黑暗之心</CHS>
 			</Name>
 			<Desc>
-				<CHS>隐形的每一秒都会为你恢复一些生命值。</CHS>
+				<CHS>潜行状态下，每秒都会恢复部分生命值。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>隐形每秒恢复最大生命值的%hpregen_</CHS>
+				<CHS>潜行状态下每秒恢复最大生命值的 %hpregen_</CHS>
 			</effect0>
 		</shadowMaster_hpRegen>
 		<shadowMaster_manaRegen>
@@ -2825,39 +2825,39 @@
 				<CHS>黑暗精华</CHS>
 			</Name>
 			<Desc>
-				<CHS>隐形的每一秒都会为你恢复一些法力。</CHS>
+				<CHS>潜行状态下，每秒都会恢复部分魔力值。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>隐形每秒恢复最大法力值的%manaregen_ </CHS>
+				<CHS>潜行状态下每秒恢复最大魔力值的%manaregen_</CHS>
 			</effect0>
 		</shadowMaster_manaRegen>
 		<shadowMaster_speed>
 			<Name>
-				<CHS>幻影冲刺</CHS>
+				<CHS>幻影突袭</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加你隐形时的移动速度</CHS>
+				<CHS>增加潜行状态下的移动速度</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%speed_隐形时的移动速度</CHS>
+				<CHS>潜行状态下的移动速度+%speed_</CHS>
 			</effect0>
 		</shadowMaster_speed>
 		<shadowComboStrike>
 			<Name>
-				<CHS>暗影旋斩</CHS>
+				<CHS>暗影风暴</CHS>
 			</Name>
 			<Desc>
-				<CHS>你攻击目标3次，给目标施加3个暗影印记。</CHS>
+				<CHS>连续攻击目标三次，并附加3个暗影标记</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每一击造成%attack_的物理伤害（%weapondamage_ 的武器伤害）</CHS>
+				<CHS>%attack_ 每击造成物理伤害 (%weapondamage_ 武器伤害) </CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>暗影毁伤</CHS>
+					<CHS>暗影毁灭</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -2865,166 +2865,166 @@
 					<CHS>暗影猛击</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>暗影旋风</CHS>
+					<CHS>暗影风车</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次攻击时为距离原始目标%markradius_米以内的敌人施加1个暗影印记。</CHS>
+					<CHS>在目标周身 %markradius_ 米范围内的敌人每受到一次攻击都会被附加1个暗影标记</CHS>
 				</Desc>
 			</Powerup2>			
 		</shadowComboStrike>
 		<shadowComboStrike_attackRate>
 			<Name>
-				<CHS>幻影打击</CHS>
+				<CHS>幻影攻击</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%attackratebonus_的攻击速度</CHS>
+				<CHS>攻击速度增加 %attackratebonus_</CHS>
 			</Desc>			
 		</shadowComboStrike_attackRate>
 		<shadowComboStrike_additionalMarkChance>
 			<Name>
-				<CHS>诅咒打击</CHS>
+				<CHS>暗咒攻击</CHS>
 			</Name>
 			<Desc>
-				<CHS>攻击有%additionalmarkchance_的几率为目标施加1个额外的暗影印记。</CHS>
+				<CHS>每击有 %additionalmarkchance_ 几率额外施加一个暗影标记。</CHS>
 			</Desc>			
 		</shadowComboStrike_additionalMarkChance>
 		<shadowComboStrike_powerupCost>
 			<Name>
-				<CHS>无影愤怒</CHS>
+				<CHS>无影暴怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>强化消耗%powerupcostdecrease_怒气</CHS>
+				<CHS>强化技能消耗的狂怒值降低 %powerupcostdecrease_</CHS>
 			</Desc>			
 		</shadowComboStrike_powerupCost>
 		<shadowComboStrike_rageChance>
 			<Name>
-				<CHS>幽灵怒气</CHS>
+				<CHS>幽灵狂怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次攻击都有%ragechance_几率产生额外的怒气值</CHS>
+				<CHS>每击有 %ragechance_ 几率获得额外的狂怒值</CHS>
 			</Desc>			
 		</shadowComboStrike_rageChance>
 		<shadowHydraStrike>
 			<Name>
-				<CHS>闪现突袭</CHS>
+				<CHS>电光火石</CHS>
 			</Name>
 			<Desc>
-				<CHS>你最多可以攻击5米范围内的6名敌人，以瞬间速度在他们之间跳跃。为所有目标施加1个暗影印记。</CHS>
+				<CHS>同时攻击5米以内的6个敌人，以光速穿梭其间。每个目标获得一个暗影标记。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_物理伤害（武器伤害%weapondamage_）</CHS>
+				<CHS>%attack_物理伤害(%weapondamage_武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>强势突击</CHS>
+					<CHS>猛袭</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>诅咒旋风</CHS>
+					<CHS>咒术风车</CHS>
 				</Name>
 				<Desc>
-					<CHS>为目标施加 +%markcountbonus_ 个暗影印记</CHS>
+					<CHS>目标被多附加%markcountbonus_个暗影标记</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>萎靡突袭</CHS>
+					<CHS>强压袭击</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标减速%chill_，时间持续5秒</CHS>
+					<CHS>目标减速 %chill_ ，持续5秒。</CHS>
 				</Desc>
 			</Powerup2>			
 		</shadowHydraStrike>
 		<shadowHydraStrike_strikeCount>
 			<Name>
-				<CHS>闪现链</CHS>
+				<CHS>电光火石锁链</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加%strikecountbonus_的最大子弹数</CHS>
+				<CHS>最大目标数增加 %strikecountbonus_</CHS>
 			</Desc>			
 		</shadowHydraStrike_strikeCount>
 		<shadowHydraStrike_searchRadius>
 			<Name>
-				<CHS>无限突袭</CHS>
+				<CHS>无限猛击</CHS>
 			</Name>
 			<Desc>
-				<CHS>效果区域增加 %searchradiusbonus_ 米</CHS>
+				<CHS>范围增加 %searchradiusbonus_ 米</CHS>
 			</Desc>			
 		</shadowHydraStrike_searchRadius>
 		<shadowHydraStrike_criticalChance>
 			<Name>
-				<CHS>穿心打击</CHS>
+				<CHS>觅心猛击</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一次攻击能增加%critchance_ %的暴击命中几率，直到攻击序列结束。（可能会超过最大极限值）</CHS>
+				<CHS>释放结束前的每击增加 %critchance_ % 暴击率。 (可超过上限)</CHS>
 			</Desc>			
 		</shadowHydraStrike_criticalChance>
 		<shadowHydraStrike_damageReduction>
 			<Name>
-				<CHS>黑暗势力光环</CHS>
+				<CHS>黑暗原力光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>赠与攻击序列持续时间 %damagereduction_ 的伤害减免。</CHS>
+				<CHS>在技能释放期间获得 %damagereduction_ 伤害减免。</CHS>
 			</Desc>			
 		</shadowHydraStrike_damageReduction>
 		<shadowAssassinStrike>
 			<Name>
-				<CHS>缚灵打击</CHS>
+				<CHS>暴怒击打</CHS>
 			</Name>
 			<Desc>
-				<CHS>攻击单一目标能造成大幅伤害。如果目标被杀，你可以立即进入斗篷状态。目标身上的任何暗影印记能够不断累积增加10%的伤害。然后暗影印记会被摧毁。</CHS>
+				<CHS>猛击单个目标，施加大量伤害。如果击杀了目标，立即进入伪装模式。目标身上的每一层暗影标记都将增加10%伤害，释放结束后暗影标记将清空。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_物理伤害(%weapondamage_武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>真实打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>诅咒之刃</CHS>
+					<CHS>暗咒剑刃</CHS>
 				</Name>
 				<Desc>
-					<CHS>暗影印记增加额外的%markdamagebonus_伤害</CHS>
+					<CHS>暗影标记可以增加 %markdamagebonus_额外伤害</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>致残打击</CHS>
+					<CHS>削弱打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到%vulnerability_易伤5秒</CHS>
+					<CHS>目标会被附加持续5秒的%vulnerability_效果</CHS>
 				</Desc>
 			</Powerup2>			
 		</shadowAssassinStrike>
 		<shadowAssassinStrike_heal>
 			<Name>
-				<CHS>噬魂之刃</CHS>
+				<CHS>猎魂者剑刃</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一击都能恢复 %heal_ 最大生命值</CHS>
+				<CHS>每次击杀回复 %heal_ 最大生命值</CHS>
 			</Desc>
 		</shadowAssassinStrike_heal>
 		<shadowAssassinStrike_rage>
 			<Name>
-				<CHS>黑暗之怒</CHS>
+				<CHS>黑暗狂怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一击都能产生 %rage_ 额外怒气</CHS>
+				<CHS>每次击杀获得 %rage_ 额外狂怒值</CHS>
 			</Desc>			
 		</shadowAssassinStrike_rage>
 		<shadowAssassinStrike_manaCost>
@@ -3032,33 +3032,33 @@
 				<CHS>刺客之血</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manacostdecrease_ 法力消耗</CHS>
+				<CHS>减少 %manacostdecrease_ 魔法消耗</CHS>
 			</Desc>			
 		</shadowAssassinStrike_manaCost>
 		<shadowAssassinStrike_markDamage>
 			<Name>
-				<CHS>刺客标记</CHS>
+				<CHS>刺客印记</CHS>
 			</Name>
 			<Desc>
-				<CHS>暗影印记增加 %markdamagebonus_ 伤害</CHS>
+				<CHS>暗影标记的伤害增加 %markdamagebonus_</CHS>
 			</Desc>			
 		</shadowAssassinStrike_markDamage>
 		<shadowNecro>
 			<Name>
-				<CHS>暗影爆破</CHS>
+				<CHS>暗影爆裂</CHS>
 			</Name>
 			<Desc>
-				<CHS>暗影世界生命力消耗能量的爆发能够对6米范围以内的敌人造成伤害。伤害效应增加10%，目标身上的任何暗影印记被破坏。</CHS>
+				<CHS>一阵暗影世界的能量袭来，对6米内的敌人造成伤害。每一层暗影标记都将增加10%伤害，释放结束后暗影标记将清空。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_秘法伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>%attack_ 奥术伤害 (%weapondamage_ 武器攻击力)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>黑暗阵风</CHS>
+					<CHS>黑暗之风</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -3066,32 +3066,32 @@
 					<CHS>黑暗风暴</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果区域增加%radiusbonus_ 米</CHS>
+					<CHS>此效果的影响范围扩大%radiusbonus_ 米</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>汲取冲击</CHS>
+					<CHS>吸血爆炸</CHS>
 				</Name>
 				<Desc>
-					<CHS>你可以立即获得%heal_的最大生命值</CHS>
+					<CHS>立即回复 %heal_ 最大生命值</CHS>
 				</Desc>
 			</Powerup2>			
 		</shadowNecro>
 		<shadowNecro_damage>
 			<Name>
-				<CHS>阴暗能量</CHS>
+				<CHS>混沌力量</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %damagebonus_ 伤害</CHS>
+				<CHS>增加伤害%damagebonus_</CHS>
 			</Desc>			
 		</shadowNecro_damage>
 		<shadowNecro_deathBlast>
 			<Name>
-				<CHS>灵魂冲击</CHS>
+				<CHS>灵魂爆炸</CHS>
 			</Name>
 			<Desc>
-				<CHS>被杀害的目标可以产生次级爆炸，对2米范围以内的敌人造成 %deathblastdamage_ 原始伤害</CHS>
+				<CHS>被杀死的目标将自爆，对2米内的敌人造成 %deathblastdamage_ 初试伤害</CHS>
 			</Desc>			
 		</shadowNecro_deathBlast>
 		<shadowNecro_manaCost>
@@ -3099,15 +3099,15 @@
 				<CHS>暗影协调</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manacostdecrease_ 法力消耗</CHS>
+				<CHS>减少 %manacostdecrease_ 魔法消耗</CHS>
 			</Desc>			
 		</shadowNecro_manaCost>
 		<shadowNecro_cooldown>
 			<Name>
-				<CHS>暗影舞动</CHS>
+				<CHS>暗影之舞</CHS>
 			</Name>
 			<Desc>
-				<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>			
 		</shadowNecro_cooldown>
 		<shadowAura>
@@ -3115,84 +3115,84 @@
 				<CHS>黑暗光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>在你周围产生5米半径的恶毒光环。光环内带有暗影印记的敌人承受持续性伤害（标记不会摧毁）。</CHS>
+				<CHS>在你周身制造一个半径为5米的光环，范围内有暗影标记的敌人会持续受到伤害。（不会消耗暗影标记。）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒造成%attack_的秘法伤害（%weapondamage_ 的武器伤害）</CHS>
+				<CHS>%attack_ 每秒奥术伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>灵魂虹吸</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>挥之不去的黑暗</CHS>
+					<CHS>飘荡黑暗</CHS>
 				</Name>
 				<Desc>
-					<CHS>持续时间延长%durationbonus_秒</CHS>
+					<CHS>持续时间增加 %durationbonus_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>黑暗之球</CHS>
+					<CHS>黑暗领域</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果区域增加%radiusbonus_ 米</CHS>
+					<CHS>此效果的影响范围扩大%radiusbonus_ 米</CHS>
 				</Desc>
 			</Powerup2>
 		</shadowAura>
 		<shadowAura_markChance>
 			<Name>
-				<CHS>傲慢的黑暗</CHS>
+				<CHS>傲慢黑暗</CHS>
 			</Name>
 			<Desc>
-				<CHS>每秒有%markchance_的几率为光环内的目标增加1个额外的暗影印记</CHS>
+				<CHS>在光环范围内的敌人每秒有 %markchance_ 几率获得额外的暗影标记</CHS>
 			</Desc>			
 		</shadowAura_markChance>
 		<shadowAura_vulnerability>
 			<Name>
-				<CHS>黑暗威压</CHS>
+				<CHS>强势黑暗</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标的每一层暗影印记都会受到%vulnerability_的易伤折磨</CHS>
+				<CHS>每层暗影标记使目标获得 %vulnerability_ 易伤</CHS>
 			</Desc>			
 		</shadowAura_vulnerability>
 		<shadowAura_massSlow>
 			<Name>
-				<CHS>黑暗之攫</CHS>
+				<CHS>黑暗之握</CHS>
 			</Name>
 			<Desc>
-				<CHS>光环内的目标减速%chill_。每个目标身上的暗影印记的效应增强。</CHS>
+				<CHS>在光环范围内的敌人被减速 %chill_。每层暗影标记都将增强减速效果。</CHS>
 			</Desc>			
 		</shadowAura_massSlow>
 		<shadowAura_cooldown>
 			<Name>
-				<CHS>黑暗特工</CHS>
+				<CHS>黑暗使者</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldowndecrease_秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>			
 		</shadowAura_cooldown>
 		<shadowPoisonTrail>
 			<Name>
-				<CHS>黑暗之径</CHS>
+				<CHS>黑暗痕迹</CHS>
 			</Name>
 			<Desc>
-				<CHS>你进入隐形形态，移动时在背后留下一米宽的毒素条痕。当你重新现身时，条痕变为持续6秒的毒云。进入条痕的敌人受到持续性伤害，持续5秒（不叠加）</CHS>
+				<CHS>进入潜行状态后，你会在身后留下一道1米宽的毒液痕迹，该痕迹会在你重新现身时变成毒云，持续6秒。接触到该毒液痕迹的敌人会在5秒内受到持续伤害（不能叠加）。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒造成%sptattack_ 的毒素伤害（%sptweapondamage_ 的武器伤害）</CHS>
+				<CHS>%sptattack_ 每秒毒性伤害 (%sptweapondamage_ 武器伤害) </CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>凋谢之径</CHS>
+					<CHS>凋零之径</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -3200,76 +3200,76 @@
 					<CHS>诅咒之径</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标中毒时会受到%vulnerability_的易伤折磨</CHS>
+					<CHS>中毒的目标获得 %vulnerability_ 易伤</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>萎靡之径</CHS>
+					<CHS>衰弱之径</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标中毒时会减速 %chill_</CHS>
+					<CHS>中毒的目标被减速 %chill_ </CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>天谴之径</CHS>
+					<CHS>地狱之径</CHS>
 				</Name>
 				<Desc>
-					<CHS>毒药的持续时间延长 %durationbonus_ 秒</CHS>
+					<CHS>毒素持续时间延长 %durationbonus_ 秒</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>暗影游侠</CHS>
+					<CHS>暗影游戏啊</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+					<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 				</Desc>
 			</Master>
 		</shadowPoisonTrail>
 		<shadowPoisonTrail_dotDuration>
 			<Name>
-				<CHS>暗影剧毒</CHS>
+				<CHS>暗影毒液</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加中毒持续时间</CHS>
+				<CHS>增加中毒的持续时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%dotdurationbonus_ 秒持续时间</CHS>
+				<CHS> +%dotdurationbonus_ 秒持续时间</CHS>
 			</effect0>
 		</shadowPoisonTrail_dotDuration>
 		<shadowPoisonTrail_duration>
 			<Name>
-				<CHS>天谴之径</CHS>
+				<CHS>地狱之径</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加毒素条痕的持续时间</CHS>
+				<CHS>增加毒液痕迹的持续时间</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%durationbonus_ 秒连续时间</CHS>
+				<CHS> +%durationbonus_ 秒毒素持续时间</CHS>
 			</effect0>
 		</shadowPoisonTrail_duration>
 		<shadowPoisonTrail_manaCost>
 			<Name>
-				<CHS>暗影之血</CHS>
+				<CHS>暗影鲜血</CHS>
 			</Name>
 			<Desc>
 				<CHS>降低法力消耗</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%manacostdecrease_ 法力消耗</CHS>
+				<CHS>%manacostdecrease_ 魔力消耗</CHS>
 			</effect0>
 		</shadowPoisonTrail_manaCost>
 		<shadowPoisonTrail_cooldown>
 			<Name>
-				<CHS>暗影游侠</CHS>
+				<CHS>暗影游戏啊</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间</CHS>
+				<CHS>减少冷却时间。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+				<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 			</effect0>
 		</shadowPoisonTrail_cooldown>
 		<shadowWarrior>
@@ -3277,26 +3277,26 @@
 				<CHS>暗影战士</CHS>
 			</Name>
 			<Desc>
-				<CHS>你进入隐形形态并召唤2个暗影战士。战士会用暗影旋斩攻击目标，在产生6层暗影印记之后还会转换目标。他们拥有和你一样的生命值、防御和抗性，但是他们的伤害则是依据技能等级的。召唤新的战士会摧毁原来的。</CHS>
+				<CHS>在进入潜行状态时，召唤出两个暗影战士，战士会对目标使用暗影风暴，在目标身上有6个暗影标记时自动转移目标，他们的生命值、防御力和元素防御力和你一样，但是他们的攻击力与该技能等级有关。召唤新的战士会立即消灭旧的战士。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>暗影战士伤害：%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>暗影战士伤害： %attack_ 物理伤害（%weapondamage_ 武器攻击力）</CHS>
 			</effect0>
 			<effect1>
-				<CHS>暗影战士生命值：%maxhp_（你的生命值的 %castermaxhpmul_）</CHS>
+				<CHS>暗影战士生命值： %maxhp_ (你的生命值的%castermaxhpmul_)</CHS>
 			</effect1>
 			<buff__PhantasmalAide>
-				<CHS>%s:+%.3g%% 战士伤害值（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 战士伤害 (+%.3g%% 每等级)</CHS>
 			</buff__PhantasmalAide>
 			<buff__ghostlyMirage>
-				<CHS>%s:+%.3g%% 战士伤害值（+%.3g%% per level）</CHS>
+				<CHS>%s: +%.3g%% 战士伤害 (+%.3g%% 每等级)</CHS>
 			</buff__ghostlyMirage>
 			<Powerup0>
 				<Name>
-					<CHS>暗影蛮兵</CHS>
+					<CHS>暗影屠杀</CHS>
 				</Name>
 				<Desc>
-					<CHS>战士伤害+%damagebonus_ </CHS>
+					<CHS>战士的伤害+%damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -3304,15 +3304,15 @@
 					<CHS>暗影勇士</CHS>
 				</Name>
 				<Desc>
-					<CHS>战士生命值+%hpbonus_ </CHS>
+					<CHS>战士生命值+%hpbonus_ health</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>暗影亡灵</CHS>
+					<CHS>暗影幽魂</CHS>
 				</Name>
 				<Desc>
-					<CHS>战士死亡时对3米范围内的敌人造成攻击伤害%blastdamage_倍的伤害</CHS>
+					<CHS>战士在死亡时造成一次范围为3米的爆炸，爆炸伤害为他们攻击力的 %blastdamage_倍</CHS>
 				</Desc>
 			</Powerup2>			
 		</shadowWarrior>
@@ -3321,7 +3321,7 @@
 				<CHS>永恒战士</CHS>
 			</Name>
 			<Desc>
-				<CHS>战士死后有%resurrectchance_ 的几率立即复活</CHS>
+				<CHS>战士有 %resurrectchance_ 几率在死后立即复生</CHS>
 			</Desc>			
 		</shadowWarrior_resurrectChance>
 		<shadowWarrior_speed>
@@ -3329,15 +3329,15 @@
 				<CHS>幻影战士</CHS>
 			</Name>
 			<Desc>
-				<CHS>战士移动速度快%speed_</CHS>
+				<CHS>战士移动速度增加 %speed_ </CHS>
 			</Desc>			
 		</shadowWarrior_speed>
 		<shadowWarrior_additionalMarkChance>
 			<Name>
-				<CHS>缚灵刃</CHS>
+				<CHS>暴怒之剑</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一轮攻击，战士有 %additionalmarkchance_ 的几率为目标施加1个额外的暗影印记</CHS>
+				<CHS>战士的每一击都有 %additionalmarkchance_ 几率施加一个暗影标记</CHS>
 			</Desc>			
 		</shadowWarrior_additionalMarkChance>
 		<shadowWarrior_cooldown>
@@ -3345,79 +3345,79 @@
 				<CHS>暗影大师</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低冷却时间%cooldowndecrease_秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>
 		</shadowWarrior_cooldown>
 		<decoy>
 			<Name>
-				<CHS>追踪机器人</CHS>
+				<CHS>幽魂使者</CHS>
 			</Name>
 			<Desc>
-				<CHS>召唤3个追踪机器人寻找40米内的敌人，追踪、照明并使他们遭受易伤效果。追踪机器人不受伤害并且会一直存在。</CHS>
+				<CHS>召唤3只幽魂使者，他们会搜寻40米范围内的敌人，点亮他们，并在他们身上附加脆弱效果，幽魂使者不会受到伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%vulnerability_ 易伤</CHS>
+				<CHS>每只幽魂使者+%vulnerability_ 脆弱</CHS>
 			</effect0>
 			<effect1>
-				<CHS>目标移动速度-%slow_</CHS>
+				<CHS>减少目标-%slow_ 移动速度</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>加强照明灯</CHS>
+					<CHS>强化点亮</CHS>
 				</Name>
 				<Desc>
-					<CHS>易伤效果增加%vulnerabilitybonus_</CHS>
+					<CHS>增加 %vulnerabilitybonus_脆弱效果</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>光子束缚</CHS>
+					<CHS>幻影枷锁</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被追踪机器人标记时，速度降低%massslow_</CHS>
+					<CHS>被幽魂使者标记的目标将被减速 %massslow_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>追踪机器人包裹</CHS>
+					<CHS>幽魂使者小队</CHS>
 				</Name>
 				<Desc>
-					<CHS>召唤的追踪机器人+%cikeszcountbonus_</CHS>
+					<CHS>+%cikeszcountbonus_只幽魂使者</CHS>
 				</Desc>
 			</Powerup2>			
 			<Expert>
 				<Name>
-					<CHS>光线免疫退化仪</CHS>
+					<CHS>黯淡之光</CHS>
 				</Name>
 				<Desc>
-					<CHS>随着时间效应，目标遭受+%dotDamageBonus_的伤害</CHS>
+					<CHS>目标持续受到 +%dotDamageBonus_ 伤害</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>弱点标记</CHS>
+					<CHS>探测弱点</CHS>
 				</Name>
 				<Desc>
-					<CHS>攻击被标记的目标有+%critChance_ 的几率导致暴击命中（可能会超过最大极限值）</CHS>
+					<CHS>攻击被标记的目标时，暴击率 +%critChance_  (可超过上限)</CHS>
 				</Desc>
 			</Master>
 		</decoy>
 		<decoyFelrobbantas>
 			<Name>
-				<CHS>摧毁追踪机器人</CHS>
+				<CHS>幽魂毁灭者</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的追踪机器人在3秒内尽可能多的吸引敌人的注意力，然后爆炸。每个追踪机器人爆炸能造成3米范围内的伤害。</CHS>
+				<CHS>幽魂使者在3秒内嘲讽尽可能多的敌人，然后自爆。爆炸将对3米内的敌人造成伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每个解体机器人造成%attack_物理/火焰伤害（%weapondamage_武器伤害）</CHS>
+				<CHS>%attack_ 物理/火焰伤害 (%weapondamage_ 武器攻击力) /幽魂使者</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>改进自爆装置</CHS>
+					<CHS>改进自毁装置</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -3425,48 +3425,48 @@
 					<CHS>碎片云</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围增加%blastradiusbonus_米</CHS>
+					<CHS>攻击范围增加 %blastradiusbonus_ 米</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>铅弹片</CHS>
+					<CHS>引导弹片</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup2>			
 		</decoyFelrobbantas>
 		<decoyFelrobbantas_m1>
 			<Name>
-				<CHS>凝固汽油液滴</CHS>
+				<CHS>凝固汽油弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标被点燃，遭受额外的%dot_的原始伤害，时间持续5秒</CHS>
+				<CHS>目标被点燃，并受到 %dot_ 初始伤害，持续 5秒</CHS>
 			</Desc>			
 		</decoyFelrobbantas_m1>
 		<decoyFelrobbantas_m2>
 			<Name>
-				<CHS>量子印记再物化器</CHS>
+				<CHS>量子印记重具现化</CHS>
 			</Name>
 			<Desc>
-				<CHS>爆炸后，追踪机器人有%resurrectchance_ 的几率立即复活</CHS>
+				<CHS>幽魂使者有 %resurrectchance_ 几率在爆炸之后立即重生</CHS>
 			</Desc>			
 		</decoyFelrobbantas_m2>
 		<decoyFelrobbantas_m3>
 			<Name>
-				<CHS>肮脏炸弹</CHS>
+				<CHS>下三流小炸弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标遭受%vulnerability_ 的易伤折磨，时间持续5秒。</CHS>
+				<CHS>目标获得 %vulnerability_ 易伤，持续5秒。</CHS>
 			</Desc>			
 		</decoyFelrobbantas_m3>
 		<decoyFelrobbantas_m4>
 			<Name>
-				<CHS>爆炸激发器</CHS>
+				<CHS>爆炸抗击</CHS>
 			</Name>
 			<Desc>
-				<CHS>每一击都能产生+%ragePerKill_的怒气</CHS>
+				<CHS>每次击杀 +%ragePerKill_ 狂怒值</CHS>
 			</Desc>			
 		</decoyFelrobbantas_m4>
 		<precisionShot>
@@ -3474,61 +3474,61 @@
 				<CHS>精准射击</CHS>
 			</Name>
 			<Desc>
-				<CHS>按住鼠标按钮发射一次精准射击，延迟2秒。射击能造成极端伤害，除非你过早的进行射击。过早射击造成较小伤害。</CHS>
+				<CHS>按住鼠标2.5秒来释放精准一击。完全瞄准的一击将造成巨量伤害，提前攻击只能造成少量伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>精准射击造成%precisionattack_的物理伤害（%precisionweapondamage_ 的武器伤害）</CHS>
+				<CHS>%precisionattack_ 物理伤害，完全瞄准(%precisionweapondamage_ 武器伤害) </CHS>
 			</effect0>
 			<effect1>
-				<CHS>过早射击造成%attack_的物理伤害（%weapondamage_的武器伤害）</CHS>
+				<CHS>%attack_ 物理伤害，提前攻击 (%weapondamage_ 武器伤害) </CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>毁灭者弹</CHS>
+					<CHS>毁灭者子弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>镀镍弹</CHS>
+					<CHS>五毛子弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>射击最多能穿透%piercecount_个目标</CHS>
+					<CHS>该子弹可以最多穿透 %piercecount_ 个目标</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>致伤弹</CHS>
+					<CHS>创伤子弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>暴击几率增加%critchance_ （甚至超出最大限制）</CHS>
+					<CHS>增加 %critchance_ 暴击率（暴击率可溢出）</CHS>
 				</Desc>
 			</Powerup2>
 		</precisionShot>
 		<precisionShot_m1>
 			<Name>
-				<CHS>光纤搜索瞄准镜</CHS>
+				<CHS>寻光透镜</CHS>
 			</Name>
 			<Desc>
-				<CHS>%aimtimedecrease_瞄准被追踪机器人标记的目标所花费的时间</CHS>
+				<CHS>瞄准被幽魂使者标记的敌人将降低%aimtimedecrease_ 瞄准时间</CHS>
 			</Desc>			
 		</precisionShot_m1>
 		<precisionShot_m2>
 			<Name>
-				<CHS>双弹筒</CHS>
+				<CHS>双重子弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>射击有%doubletapchance_的几率成为“双快发射”，能立即发射第二枚弹药</CHS>
+				<CHS>有 %doubletapchance_ 几率“双发”，立即接上第二发</CHS>
 			</Desc>			
 		</precisionShot_m2>
 		<precisionShot_m3>
 			<Name>
-				<CHS>狙击手训练</CHS>
+				<CHS>神枪手训练</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %criticalhit_ 的暴击几率</CHS>
+				<CHS>暴击率增加 %criticalhit_</CHS>
 			</Desc>			
 		</precisionShot_m3>
 		<precisionShot_m4>
@@ -3536,66 +3536,66 @@
 				<CHS>冷静专注</CHS>
 			</Name>
 			<Desc>
-				<CHS>%powerupcostdecrease_ 激活该技能的强化消耗</CHS>
+				<CHS>降低强化技能消耗 %powerupcostdecrease_ </CHS>
 			</Desc>			
 		</precisionShot_m4>
 		<scatterblast>
 			<Name>
-				<CHS>驱散冲击</CHS>
+				<CHS>爆碎</CHS>
 			</Name>
 			<Desc>
-				<CHS>以60度弧度进行3次射击。该技能每秒可以用2个额外的小球充能，极限是5秒钟（按住鼠标键不放）。额外的小球能够将射击弧度增加到最大值70度。所有的小球刺穿所有的目标，给每个序列目标造成的伤害降低20%。</CHS>
+				<CHS>向60度角范围内发射3轮射弹。充能可增加每秒射弹数量，最多增加5发 (按住)。额外的射弹可将射角增加至70度。每发射弹都将贯穿目标，对后续目标造成的伤害降低20%。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_物理伤害(%weapondamage_武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>恶魔射击</CHS>
+					<CHS>魔鬼射击</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>涂甘油炮弹</CHS>
+					<CHS>甘油弹丸</CHS>
 				</Name>
 				<Desc>
-					<CHS>这种炮弹爆炸对2米内造成%blastdamage_伤害</CHS>
+					<CHS>弹丸造成范围为2米的 %blastdamage_ 爆炸伤害</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>动能炮弹</CHS>
+					<CHS>动能弹丸</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标有 %knockdownchance_ 几率被击倒</CHS>
+					<CHS>有 %knockdownchance_ 概率击倒敌人</CHS>
 				</Desc>
 			</Powerup2>			
 		</scatterblast>
 		<scatterblast_m1>
 			<Name>
-				<CHS>重型炮弹</CHS>
+				<CHS>重击弹丸</CHS>
 			</Name>
 			<Desc>
-				<CHS>当小球刺穿 %damagelossreduce_ 的目标时，降低小球丢失的伤害值数量</CHS>
+				<CHS>对后续目标的伤害增加 %damagelossreduce_</CHS>
 			</Desc>			
 		</scatterblast_m1>
 		<scatterblast_m2>
 			<Name>
-				<CHS>霰弹枪专长</CHS>
+				<CHS>霰弹枪专家</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低 %manacostdecrease_ 法力消耗</CHS>
+				<CHS>减少 %manacostdecrease_ 魔法消耗</CHS>
 			</Desc>			
 		</scatterblast_m2>
 		<scatterblast_m3>
 			<Name>
-				<CHS>霰弹枪手的幸运</CHS>
+				<CHS>霰弹枪手之运气</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 +%critchance_ 暴击几率（可能超过最大极限值）</CHS>
+				<CHS>暴击率 +%critchance_ (可超过上限)</CHS>
 			</Desc>			
 		</scatterblast_m3>
 		<scatterblast_m4>
@@ -3603,173 +3603,173 @@
 				<CHS>辅助瞄准</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加 %chargespeed_ 充能速度</CHS>
+				<CHS>充能速度增加 %chargespeed_</CHS>
 			</Desc>
 		</scatterblast_m4>
 		<poisonBlast>
 			<Name>
-				<CHS>毒药爆炸</CHS>
+				<CHS>毒液爆炸</CHS>
 			</Name>
 			<Desc>
-				<CHS>发射一次爆炸充能可以在3米范围内造成伤害。爆炸还能产生维持5秒的有毒云朵。踏入云朵的敌人会中毒，受到额外的伤害10秒，还会遭受5%的易伤折磨。多次射击的效应可以堆积。</CHS>
+				<CHS>发射充能弹，对3米内的敌人造成伤害。爆炸将释放出一片持续五秒的毒云，毒云内的敌人会中毒并，额外伤害并获得5%易伤，持续10秒。此效果可叠加。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 毒素伤害（武器伤害的%weapondamage_）</CHS>
+				<CHS>%attack_ 毒性伤害 (武器伤害的%weapondamage_)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>已中毒的敌人每秒遭受毒素伤害（%dot_的爆炸伤害）</CHS>
+				<CHS>中毒的敌人每秒受到毒性伤害(%dot_ 爆炸伤害) </CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>毒云</CHS>
+					<CHS>砒霜毒云</CHS>
 				</Name>
 				<Desc>
-					<CHS>持续伤害增加+%dotbonus_</CHS>
+					<CHS>持续伤害 +%dotbonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>烈性毒素</CHS>
+					<CHS>强力毒素</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%dotdurationbonus_ 秒的毒云持续时间</CHS>
+					<CHS> +%dotdurationbonus_ 秒毒云持续时间</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>虚弱毒素</CHS>
+					<CHS>衰弱毒素</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标造成的伤害降低 %damagereduction_（甚至对强大的敌人有效）</CHS>
+					<CHS>目标造成的伤害减少 %damagereduction_ （该效果对强大的敌人更有效）</CHS>
 				</Desc>
 			</Powerup2>			
 		</poisonBlast>
 		<poisonBlast_m1>
 			<Name>
-				<CHS>集中毒素云</CHS>
+				<CHS>高浓度毒云</CHS>
 			</Name>
 			<Desc>
-				<CHS>持续伤害百分比增加 %dotbonus_</CHS>
+				<CHS>持续伤害增加 %dotbonus_ </CHS>
 			</Desc>						
 		</poisonBlast_m1>
 		<poisonBlast_m2>
 			<Name>
-				<CHS>连续不断的云</CHS>
+				<CHS>持续毒云</CHS>
 			</Name>
 			<Desc>
-				<CHS>毒云持续的时间延长 %clouddurationbonus_ 秒</CHS>
+				<CHS>毒云持续时间增加 %clouddurationbonus_ se秒</CHS>
 			</Desc>						
 		</poisonBlast_m2>
 		<poisonBlast_m3>
 			<Name>
-				<CHS>巨大的云</CHS>
+				<CHS>巨大毒云</CHS>
 			</Name>
 			<Desc>
-				<CHS>效果区域增加%radiusbonus_米</CHS>
+				<CHS>范围增加 %radiusbonus_ 米</CHS>
 			</Desc>						
 		</poisonBlast_m3>
 		<poisonBlast_m4>
 			<Name>
-				<CHS>毒素敏感度</CHS>
+				<CHS>毒性敏感</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标有%doubledotchance_ 的几率遭受毒云（敌人每进入一片新云都会激活一次）的双重伤害</CHS>
+				<CHS>目标有 %doubledotchance_ 几率受到双倍毒性伤害 (每朵毒云单独计算)</CHS>
 			</Desc>						
 		</poisonBlast_m4>		
 		<glacierShot>
 			<Name>
-				<CHS>冰川射击</CHS>
+				<CHS>冰河射击</CHS>
 			</Name>
 			<Desc>
-				<CHS>射出一发子弹穿透路径上的所有目标，造成冰系伤害。每次撞击都会产生最多5块碎片击中5米内的其他目标。碎片造成的伤害是原始伤害的30%。</CHS>
+				<CHS>射出一发可以穿透弹道上所有敌人的子弹，该子弹造成寒冰伤害，每次击中敌人都能制造出最多5发冰碎片，可以攻击5米内的敌人。碎片造成初始伤害的30%。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_冰霜伤害（武器伤害%weapondamage_）</CHS>
+				<CHS>%attack_ 冰系伤害 (武器伤害的%weapondamage_)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>寒冷冲击</CHS>
+					<CHS>寒冰爆裂</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>冰川弹</CHS>
+					<CHS>冰河子弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标被冰冻 %freezeduration_ 秒</CHS>
+					<CHS>使目标冻结 %freezeduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>冰弹片</CHS>
+					<CHS>寒冰榴弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>冰碎片造成 +%fragmentdamagebonus_ 伤害</CHS>
+					<CHS>冰碎片的伤害+%fragmentdamagebonus_ </CHS>
 				</Desc>
 			</Powerup2>			
 		</glacierShot>
 		<glacierShot_m1>
 			<Name>
-				<CHS>冰爆弹</CHS>
+				<CHS>冰爆子弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>冰冻或者减速目标的伤害增加 %frozenvulnerability_</CHS>
+				<CHS>增加 %frozenvulnerability_ 对被冻结或减速的敌人的伤害</CHS>
 			</Desc>			
 		</glacierShot_m1>
 		<glacierShot_m2>
 			<Name>
-				<CHS>冰霜凝胶弹</CHS>
+				<CHS>冰霜子弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标减速%slow_</CHS>
+				<CHS>目标被减速 %slow_</CHS>
 			</Desc>			
 		</glacierShot_m2>
 		<glacierShot_m3>
 			<Name>
-				<CHS>霜燃弹</CHS>
+				<CHS>霜爆子弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>目标受到 %vulnerability_ 易伤，持续5秒（不叠加）</CHS>
+				<CHS>目标获得 %vulnerability_ 易伤，持续5秒 (不能叠加)</CHS>
 			</Desc>			
 		</glacierShot_m3>
 		<glacierShot_m4>
 			<Name>
-				<CHS>改进的碎片</CHS>
+				<CHS>改进分裂</CHS>
 			</Name>
 			<Desc>
-				<CHS>碎片寻找目标的范围扩大 %searchradius_ 米</CHS>
+				<CHS>破片攻击距离增加 %searchradius_ 米</CHS>
 			</Desc>			
 		</glacierShot_m4>
 		<sphereOfTimelessness>
 			<Name>
-				<CHS>永恒之域</CHS>
+				<CHS>永恒漩涡</CHS>
 			</Name>
 			<Desc>
-				<CHS>世界静止时建立个人时间气泡气泡在你走动时会缩小，走动一定距离后就消失了。攻击或使用技能都算移动4米。一些动作例如整理物品栏物品不算在内。气泡消失后，时间恢复正常。在此期间你也获得大量的伤害加成。</CHS>
+				<CHS>制造出一个包裹着你的全身的泡泡，该泡泡存在时，时间静止，但泡泡会随着你的移动慢慢消失，攻击或使用距离=移动4米，整理包裹等少数动作不会增加移动距离。当泡泡消失时，时间恢复正常，在时间静止时，你的伤害也会增加。</CHS>			
 			</Desc>
 			<effect0>
-				<CHS>时间气泡在移动 %skillduration_ 米后消失。</CHS>
+				<CHS>时空泡泡在移动 %skillduration_米后消失</CHS>
 			</effect0>
 			<effect1>
-				<CHS>%skillduration_ 伤害加成</CHS>
+				<CHS>%postcalcfurydamagebonus_ 额外伤害</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>冰冻屠杀</CHS>
+					<CHS>冰雪狂欢</CHS>
 				</Name>
 				<Desc>
-					<CHS>伤害加成增加 %damagebonus_</CHS>
+					<CHS>额外伤害增加 %damagebonus_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>永恒飞跃</CHS>
+					<CHS>永恒冲刺</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次使用技能，都有 %damagebonus_ 的几率是无消耗</CHS>
+					<CHS>使用技能时，有 %freeactionchance_ 概率不增加移动距离</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -3777,128 +3777,128 @@
 					<CHS>无助的敌人</CHS>
 				</Name>
 				<Desc>
-					<CHS>暴击伤害增加 %critdamage_（甚至超出最大限制）</CHS>
+					<CHS>增加%critdamage_ 暴击率(暴击率可溢出)</CHS>
 				</Desc>
 			</Powerup2>
 		</sphereOfTimelessness>
 		<sphereOfTimelessness_m1>
 			<Name>
-				<CHS>准确打击</CHS>
+				<CHS>百发百中</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加暴击率 %critchance_（甚至超出最大限制）</CHS>
+				<CHS>暴击率 +%critchance_ (能超过上限)</CHS>
 			</Desc>			
 		</sphereOfTimelessness_m1>
 		<sphereOfTimelessness_m2>
 			<Name>
-				<CHS>永恒的愤怒</CHS>
+				<CHS>无尽暴怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次击杀获得 %ragebonus_ 怒气</CHS>
+				<CHS>每次击杀获得 %ragebonus_ 狂怒值</CHS>
 			</Desc>			
 		</sphereOfTimelessness_m2>
 		<sphereOfTimelessness_m3>
 			<Name>
-				<CHS>永恒天赋</CHS>
+				<CHS>永恒之馈赠</CHS>
 			</Name>
 			<Desc>
-				<CHS>Each meter's worth of action regenerates %manapertick_ of your maximum mana</CHS>
+				<CHS>有效的行动每米回复 %manapertick_ 最大魔法值</CHS>
 			</Desc>			
 		</sphereOfTimelessness_m3>
 		<sphereOfTimelessness_m4>
 			<Name>
-				<CHS>永恒药膏</CHS>
+				<CHS>永恒之香精</CHS>
 			</Name>
 			<Desc>
-				<CHS>Each meter's worth of action restores %hppertick_ of maximum health</CHS>
+				<CHS>有效的行动每米回复 %hppertick_ 最大生命值</CHS>
 			</Desc>			
 		</sphereOfTimelessness_m4>		
 		<missileVault>
 			<Name>
-				<CHS>飞弹跳跃</CHS>
+				<CHS>导弹飞跃</CHS>
 			</Name>
 			<Desc>
-				<CHS>你想后跳跃几米，并对原先的位置发射爆破弹。爆炸在3米范围内造成伤害。</CHS>
+				<CHS>你向后跳数米之后，对你的起跳位置发射一枚爆炸物，对落点附近3米范围内的敌人造成伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 火焰/物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_ 火系/物理伤害 (武器伤害的%weapondamage_)</CHS>
 			</effect0>
 			<effect1>
-				<CHS>%distance_ 米跳跃距离</CHS>
+				<CHS>%distance_米跳跃距离</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>震爆飞弹</CHS>
+					<CHS>眩晕导弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>电击飞弹</CHS>
+					<CHS>电击导弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>交错飞弹</CHS>
+					<CHS>减速导弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到 %vulnerability_ 易伤，持续5秒</CHS>
+					<CHS>对目标附加5秒%vulnerability_ vulnerability的脆弱状态</CHS>
 				</Desc>
 			</Powerup2>
 		</missileVault>
 		<missileVault_m1>
 			<Name>
-				<CHS>冲击波飞弹</CHS>
+				<CHS>震荡波导弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>扩大爆炸影响范围 %blastradiusbonus_ 米</CHS>
+				<CHS>爆炸范围增加 %blastradiusbonus_ 米</CHS>
 			</Desc>			
 		</missileVault_m1>
 		<missileVault_m2>
 			<Name>
-				<CHS>推力飞弹</CHS>
+				<CHS>针刺导弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>扩大飞弹飞行距离 %distancebonus_ 米</CHS>
+				<CHS>距离增加 +%distancebonus_ 米</CHS>
 			</Desc>			
 		</missileVault_m2>
 		<missileVault_m3>
 			<Name>
-				<CHS>燃烧飞弹</CHS>
+				<CHS>燃烧导弹</CHS>
 			</Name>
 			<Desc>
-				<CHS>爆炸点燃目标造成 %dot_ 点每秒的额外伤害，持续3秒</CHS>
+				<CHS>爆炸将点燃敌人，造成 %dot_ 初始伤害，持续3秒</CHS>
 			</Desc>			
 		</missileVault_m3>
 		<missileVault_m4>
 			<Name>
-				<CHS>爆炸特技专长</CHS>
+				<CHS>爆炸专家</CHS>
 			</Name>
 			<Desc>
-				<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+				<CHS>冷却时间减少 %cooldowndecrease_ 秒</CHS>
 			</Desc>			
 		</missileVault_m4>
 		<battleStance>
 			<Name>
-				<CHS>战斗姿势</CHS>
+				<CHS>战斗姿态</CHS>
 			</Name>
 			<Desc>
-				<CHS>静止不动3秒获得大量伤害加成</CHS>
+				<CHS>原地不动3秒后增加伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damage_ 伤害加成</CHS>
+				<CHS>+%damage_ 额外伤害</CHS>
 			</effect0>			
 			<Expert>
 				<Name>
-					<CHS>回避姿势</CHS>
+					<CHS>闪避姿态</CHS>
 				</Name>
 				<Desc>
-					<CHS>技能效果增加一个 +%dodge_ 闪避奖励</CHS>
+					<CHS>此技能获得 +%dodge_ 闪避加成</CHS>
 				</Desc>				
 			</Expert>
 			<Master>
@@ -3906,16 +3906,16 @@
 					<CHS>完美时机</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加暴击几率 %critchance_ （即使超过最大限度）</CHS>
+					<CHS>提升 %critchance_ 暴击率（无视最大上限）</CHS>
 				</Desc>				
 			</Master>			
 		</battleStance>
 		<battleStance_m1>
 			<Name>
-				<CHS>回避姿势</CHS>
+				<CHS>闪避姿态</CHS>
 			</Name>
 			<Desc>
-				<CHS>获得技能效果闪避加成</CHS>
+				<CHS>增加对技能效果的闪避概率</CHS>
 			</Desc>
 			<effect0>
 				<CHS>+%dodge_ 闪避</CHS>
@@ -3926,10 +3926,10 @@
 				<CHS>完美瞄准</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加暴击伤害（即使超过最大限度）</CHS>
+				<CHS>增加暴击伤害（无视最大上限）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%critdamage_ 暴击伤害</CHS>
+				<CHS>+%critdamage_ 暴击率</CHS>
 			</effect0>
 		</battleStance_criticalDamage>
 		<battleStance_m2>
@@ -3937,10 +3937,10 @@
 				<CHS>完美时机</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加暴击几率（即使超过最大限度）</CHS>
+				<CHS>增加暴击几率（无视最大上限）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%critchance_ 暴击几率</CHS>
+				<CHS>+%critchance_ 暴击率</CHS>
 			</effect0>
 		</battleStance_m2>
 		<battleStance_attackRate>
@@ -3956,66 +3956,66 @@
 		</battleStance_attackRate>
 		<aura__Rampage_limit>
 			<Name>
-				<CHS>红色迷雾</CHS>
+				<CHS>红雾</CHS>
 			</Name>
 			<Desc>
-				<CHS>此加成适用于90%最大怒气以上</CHS>
+				<CHS>当怒气值达到90%时，可获得该加成</CHS>
 			</Desc>
 		</aura__Rampage_limit>
 		<aura__Rampage_critchance>
 			<Name>
-				<CHS>愤怒狂暴</CHS>
+				<CHS>狂暴</CHS>
 			</Name>
 			<Desc>
-				<CHS>最大怒气状态下，你有1%的致命攻击几率</CHS>
+				<CHS>在怒气值满的时候增加1%的暴击几率</CHS>
 			</Desc>
 		</aura__Rampage_critchance>
 
 		<aura__TreasureHunter>
 			<effect1>
-				<CHS>+%modifiervalue_(item_find_chance)% 魔法物品掉落几率</CHS>
+				<CHS> +%modifiervalue_(item_find_chance)% 发现魔法几率</CHS>
 			</effect1>
 		</aura__TreasureHunter>
 		<aura__TreasureHunter_potionfind>
 			<Name>
-				<CHS>精华猎人</CHS>
+				<CHS>精华猎手</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加10%精华掉落几率</CHS>
+				<CHS>找到精华的几率增加 10%</CHS>
 			</Desc>
 		</aura__TreasureHunter_potionfind>
 		<aura__TreasureHunter_essencefind>
 			<Name>
-				<CHS>遗迹猎人</CHS>
+				<CHS>遗迹猎手</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加15%掉落精华的几率</CHS>
+				<CHS>同时也增加 15%寻找到精华的概率</CHS>
 			</Desc>
 		</aura__TreasureHunter_essencefind>
 
 		<aura__HiddenReserves_powerup>
 			<Name>
-				<CHS>心灵之火</CHS>
+				<CHS>内心之火</CHS>
 			</Name>
 			<Desc>
-				<CHS>道具激活后，有5%的机会马上恢复怒气点数</CHS>
+				<CHS>在使用道具的时候，有5%的几率能恢复花费掉的怒气值</CHS>
 			</Desc>
 		</aura__HiddenReserves_powerup>
 		<aura__HiddenReserves_manaperrage>
 			<Name>
-				<CHS>愤怒转换</CHS>
+				<CHS>怒气值转化</CHS>
 			</Name>
 			<Desc>
-				<CHS>每消耗一点怒气获得1点法力</CHS>
+				<CHS>每消耗1点怒气，获得1点魔力</CHS>
 			</Desc>
 		</aura__HiddenReserves_manaperrage>
 
 		<aura__PowerForBlood_potion>
 			<Name>
-				<CHS>附魔灵魂</CHS>
+				<CHS>着魔之魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>魔法药剂冷却时间缩短10%</CHS>
+				<CHS>魔法药剂的冷却时间减少了10%</CHS>
 			</Desc>
 		</aura__PowerForBlood_potion>
 		<aura__PowerForBlood_manaperkill>
@@ -4023,7 +4023,7 @@
 				<CHS>灵魂陷阱</CHS>
 			</Name>
 			<Desc>
-				<CHS>每杀死一名敌人恢复1%的最大魔力</CHS>
+				<CHS>每杀死一个敌人都将恢复你最大魔法值的1%</CHS>
 			</Desc>
 		</aura__PowerForBlood_manaperkill>
 
@@ -4032,58 +4032,58 @@
 				<CHS>高效建造</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有地雷类技能的法力消耗降低10%。</CHS>
+				<CHS>所有制造陷阱的技能的魔力消耗减少10%。</CHS>
 			</Desc>
 		</aura__Minecraft_ManaCost>
 		<aura__Minecraft_Cooldown>
 			<Name>
-				<CHS>高级装配</CHS>
+				<CHS>强化装配</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有地雷类技能的冷却时间缩短10%。</CHS>
+				<CHS>所有制造陷阱的技能的冷却时间减少10%。</CHS>
 			</Desc>
 		</aura__Minecraft_Cooldown>
 
 		<aura__UnnaturalResistance_resistchance>
 			<Name>
-				<CHS>超自然抵抗</CHS>
+				<CHS>超自然抗性</CHS>
 			</Name>
 			<Desc>
-				<CHS>有5%的几率可以让负面效果对你无效。</CHS>
+				<CHS>你有5%的几率不受到消极效果的影响</CHS>
 			</Desc>
 		</aura__UnnaturalResistance_resistchance>
 		<aura__UnnaturalResistance_resistance>
 			<Name>
-				<CHS>非凡弹性</CHS>
+				<CHS>不规则弹性</CHS>
 			</Name>
 			<Desc>
-				<CHS>降低基于有害效果造成的持续伤害20%。</CHS>
+				<CHS>减少20%的即将到来的基础持续伤害影响。</CHS>
 			</Desc>
 		</aura__UnnaturalResistance_resistance>
 		
 		<aura__Hunter_sRejuvenation_potion>
 			<Name>
-				<CHS>附魔血液</CHS>
+				<CHS>着魔之血</CHS>
 			</Name>
 			<Desc>
-				<CHS>生命药剂冷却时间缩短10%</CHS>
+				<CHS>HP的冷却时间减少10%</CHS>
 			</Desc>
 		</aura__Hunter_sRejuvenation_potion>
 		<aura__Hunter_sRejuvenation_hpperkill>
 			<Name>
-				<CHS>猎人的复活</CHS>
+				<CHS>猎人的复燃</CHS>
 			</Name>
 			<Desc>
-				<CHS>每杀死一名敌人，你将恢复1%的生命力。</CHS>
+				<CHS>每杀死一个敌人都将恢复你最大HP的1%</CHS>
 			</Desc>
 		</aura__Hunter_sRejuvenation_hpperkill>
 		
 		<aura__Recklessness_physicalDamage>
 			<Name>
-				<CHS>肾上腺冲击</CHS>
+				<CHS>肾上腺素爆发</CHS>
 			</Name>
 			<Desc>
-				<CHS>生命力低于30%时，将获得10%物理伤害加成。</CHS>
+				<CHS>当你的血量低于30%，获得10%额外物理伤害。</CHS>
 			</Desc>
 		</aura__Recklessness_physicalDamage>
 		<aura__Recklessness_physicalResist>
@@ -4091,92 +4091,92 @@
 				<CHS>生存本能</CHS>
 			</Name>
 			<Desc>
-				<CHS>物理抵抗惩罚降低20%。</CHS>
+				<CHS>物理伤害抗性降低到20%。</CHS>
 			</Desc>
 		</aura__Recklessness_physicalResist>
 
 		<aura__WardWisdom_itemDefense>
 			<Name>
-				<CHS>装甲结界</CHS>
+				<CHS>护甲守护</CHS>
 			</Name>
 			<Desc>
-				<CHS>护甲提供20%额外防御</CHS>
+				<CHS>护甲提高20%额外防御属性。</CHS>
 			</Desc>
 		</aura__WardWisdom_itemDefense>
 		<aura__WardWisdom_defenseResistance>
 			<Name>
-				<CHS>抵抗结界</CHS>
+				<CHS>抗性守卫</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有抵抗增加5%防御值。</CHS>
+				<CHS>你的所有抗性提高你防御值的5%。</CHS>
 			</Desc>
 		</aura__WardWisdom_defenseResistance>
 
 		<aura__GoliathSlayer_defenseAgainst>
 			<Name>
-				<CHS>坚定杀手</CHS>
+				<CHS>坚定猎杀者</CHS>
 			</Name>
 			<Desc>
-				<CHS>对付强力敌人获得10%防御加成</CHS>
+				<CHS>对强力敌人获得额外10%的防御。</CHS>
 			</Desc>
 		</aura__GoliathSlayer_defenseAgainst>
 		<aura__GoliathSlayer_uniqueFindChance>
 			<Name>
-				<CHS>幸运杀手</CHS>
+				<CHS>幸运猎杀者</CHS>
 			</Name>
 			<Desc>
-				<CHS>强大的敌人有额外10%的可能性掉落史诗套装或传说物品。</CHS>
+				<CHS>强大的敌人掉落史诗、套装或传奇物品的概率也要多 10% 。</CHS>
 			</Desc>
 		</aura__GoliathSlayer_uniqueFindChance>
 
 		<aura__FireSage_ManaReserve>
 			<Name>
-				<CHS>火焰大师</CHS>
+				<CHS>火焰精通</CHS>
 			</Name>
 			<Desc>
-				<CHS>维护降低10%的最大魔力值。</CHS>
+				<CHS>法力维持降低到10%最大法力值</CHS>
 			</Desc>
 		</aura__FireSage_ManaReserve>
 		<aura__FireSage_FocusDamage>
 			<Name>
-				<CHS>凶猛共振</CHS>
+				<CHS>炙热共鸣</CHS>
 			</Name>
 			<Desc>
-				<CHS>法术手铐的火焰元素伤害增加10%。</CHS>
+				<CHS>你的法术护腕的基础火元素伤害增强10%。</CHS>
 			</Desc>
 		</aura__FireSage_FocusDamage>
 
 		<aura__IceSage_ManaReserve>
 			<Name>
-				<CHS>寒冰大师</CHS>
+				<CHS>寒冰精通</CHS>
 			</Name>
 			<Desc>
-				<CHS>维护降低10%的最大魔力值。</CHS>
+				<CHS>法力维持降低到10%最大法力值</CHS>
 			</Desc>
 		</aura__IceSage_ManaReserve>
 		<aura__IceSage_FocusDamage>
 			<Name>
-				<CHS>冰霜共振</CHS>
+				<CHS>寒冷共鸣</CHS>
 			</Name>
 			<Desc>
-				<CHS>法术手铐的冰冻元素伤害增加10%。</CHS>
+				<CHS>你的法术护腕的基础冰元素伤害增强10%。</CHS>
 			</Desc>
 		</aura__IceSage_FocusDamage>
 
 		<aura__StormSage_ManaReserve>
 			<Name>
-				<CHS>风暴大师</CHS>
+				<CHS>风暴精通</CHS>
 			</Name>
 			<Desc>
-				<CHS>维护降低10%的最大魔力值。</CHS>
+				<CHS>法力维持降低到10%最大法力值</CHS>
 			</Desc>
 		</aura__StormSage_ManaReserve>
 		<aura__StormSage_FocusDamage>
 			<Name>
-				<CHS>闪电共振</CHS>
+				<CHS>闪电共鸣</CHS>
 			</Name>
 			<Desc>
-				<CHS>法术手铐的闪电元素伤害增加10%。</CHS>
+				<CHS>你的法术护腕的基础电元素伤害增强10%。</CHS>
 			</Desc>
 		</aura__StormSage_FocusDamage>
 
@@ -4185,7 +4185,7 @@
 				<CHS>法力编织专精</CHS>
 			</Name>
 			<Desc>
-				<CHS>维持技能消耗的魔力降低10%。</CHS>
+				<CHS>维持技能消耗法力值减少10%。</CHS>
 			</Desc>
 		</aura__MentalDiscipline_ManaCost>
 		<aura__MentalDiscipline_Damage>
@@ -4193,24 +4193,24 @@
 				<CHS>法力编织精通</CHS>
 			</Name>
 			<Desc>
-				<CHS>维持技能造成的伤害增加5%。</CHS>
+				<CHS>维持技能造成5%额外伤害。</CHS>
 			</Desc>
 		</aura__MentalDiscipline_Damage>
 
 		<aura__Spellbinding_doubleDurationChance>
 			<Name>
-				<CHS>荒野魔法</CHS>
+				<CHS>狂野魔法</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有减速，击晕，冰冻，震惊和迷惑效果都有10%的几率增加一倍时间。</CHS>
+				<CHS>你造成的所有减速，眩晕，冰冻，冲击和迷惑效果持续时间有10%的机会翻倍。</CHS>
 			</Desc>
 		</aura__Spellbinding_doubleDurationChance>
 		<aura__Spellbinding_vulnerability>
 			<Name>
-				<CHS>伤害束缚</CHS>
+				<CHS>伤害捆绑</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有减速，击晕，冰冻，震惊和迷惑效果对敌人造成的伤害增加10%。</CHS>
+				<CHS>你对被减速，眩晕，冰冻，冲击和迷惑的敌人造成10%额外伤害。</CHS>
 			</Desc>
 		</aura__Spellbinding_vulnerability>
 
@@ -4219,15 +4219,15 @@
 				<CHS>高效建造</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有机械援军的法力消耗降低10%。</CHS>
+				<CHS>所有制造机械盟友的技能的魔力消耗减少10%。</CHS>
 			</Desc>
 		</aura__MechanoidBuilding_ManaCost>
 		<aura__MechanoidBuilding_Resist>
 			<Name>
-				<CHS>强健机械体</CHS>
+				<CHS>强力机械体</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的机械援军对所有形式的伤害获得10%的抗性。</CHS>
+				<CHS>你的机械盟友提高10%对所有伤害的抗性。</CHS>
 			</Desc>
 		</aura__MechanoidBuilding_Resist>
 
@@ -4236,15 +4236,15 @@
 				<CHS>高效建造</CHS>
 			</Name>
 			<Desc>
-				<CHS>所有炮台的法力消耗降低10%。</CHS>
+				<CHS>所有制造防御塔的技能的魔力消耗减少10%。</CHS>
 			</Desc>
 		</aura__PerimeterExpertise_ManaCost>
 		<aura__PerimeterExpertise_Resist>
 			<Name>
-				<CHS>强力炮台</CHS>
+				<CHS>强力炮塔</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的炮台对所有形式的伤害获得10%的抗性。</CHS>
+				<CHS>你的防御塔提高10%对所有伤害的抗性。</CHS>
 			</Desc>
 		</aura__PerimeterExpertise_Resist>
 
@@ -4253,15 +4253,15 @@
 				<CHS>熵光环</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的实际控场抗性增加了30%。</CHS>
+				<CHS>真实群众掌控抗性减少30%。</CHS>
 			</Desc>
 		</aura__EntropyDiscipline_ccRes>
 		<aura__EntropyDiscipline_ccResReduce>
 			<Name>
-				<CHS>剧烈熵</CHS>
+				<CHS>强熵</CHS>
 			</Name>
 			<Desc>
-				<CHS>敌人生物的抵抗降低5%。</CHS>
+				<CHS>敌方生物也减少他们5%的抗性</CHS>
 			</Desc>
 		</aura__EntropyDiscipline_ccResReduce>
 
@@ -4270,24 +4270,24 @@
 				<CHS>快速瞄准</CHS>
 			</Name>
 			<Desc>
-				<CHS>如果8米内没有敌人，奖励将应用</CHS>
+				<CHS>如果8米之内没有敌人，则获得加成</CHS>
 			</Desc>
 		</aura__ClearShot_radius>
 		<aura__ClearShot_damage>
 			<Name>
-				<CHS>钢铁意志</CHS>
+				<CHS>坚忍不拔</CHS>
 			</Name>
 			<Desc>
-				<CHS>如果范围内只有一个敌人，你将获得50%奖励</CHS>
+				<CHS>如果有一个敌人在距离之内，你将仍然能获得50%的加成</CHS>
 			</Desc>
 		</aura__ClearShot_damage>
 		
 		<giantHidra__passive>
 			<Name>
-				<CHS>火蛇</CHS>
+				<CHS>炽焰之蛇</CHS>
 			</Name>
 			<Desc>
-				<CHS>你已经激活了火焰蛇，这需要喂养成本，降低了你的最大法力。</CHS>
+				<CHS>你拥有需要维护的火焰巨蛇，减少最大法力值。</CHS>
 			</Desc>			
 		</giantHidra__passive>		
 		
@@ -4297,7 +4297,7 @@
 				<CHS>流血</CHS>
 			</Name>
 			<Desc>
-				<CHS>你处于流血状态，继续受到物理伤害。</CHS>
+				<CHS>你正在流血并且会收到持续的物理伤害</CHS>
 			</Desc>
 		</bleeding_bonechopper>
 		<lighningclaw>
@@ -4305,7 +4305,7 @@
 				<CHS>电击</CHS>
 			</Name>
 			<Desc>
-				<CHS>你被电击了。你的移速和伤害降低了50%。</CHS>
+				<CHS>受到电击效果。移动速度和伤害减少50%</CHS>
 			</Desc>
 		</lighningclaw>
 		<icebolt>
@@ -4313,7 +4313,7 @@
 				<CHS>冰箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>你被减速30%。</CHS>
+				<CHS>你被减速了30%</CHS>
 			</Desc>
 		</icebolt>
 		<__icebolt_nosferatu>
@@ -4321,23 +4321,23 @@
 				<CHS>冰箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>你被减速30%。</CHS>
+				<CHS>你被减速了30%</CHS>
 			</Desc>
 		</__icebolt_nosferatu>
 		<icespell_area>
 			<Name>
-				<CHS>冬日闪光</CHS>
+				<CHS>冬日耀光</CHS>
 			</Name>
 			<Desc>
-				<CHS>你被减速40%。</CHS>
+				<CHS>你被减速了40%</CHS>
 			</Desc>
 		</icespell_area>
 		<Centaur_Archery>
 			<Name>
-				<CHS>半人马冰霜箭</CHS>
+				<CHS>人马霜矢</CHS>
 			</Name>
 			<Desc>
-				<CHS>你被减速20%。</CHS>
+				<CHS>你被减速了20%</CHS>
 			</Desc>
 		</Centaur_Archery>
 		<lightningclaw>
@@ -4345,47 +4345,47 @@
 				<CHS>电击</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的伤害和移速降低了50%.</CHS>
+				<CHS>伤害和移动送都减少50%</CHS>
 			</Desc>
 		</lightningclaw>
 		<poisoning_strike>
 			<Name>
-				<CHS>毒素打击</CHS>
+				<CHS>毒性打击</CHS>
 			</Name>
 			<Desc>
-				<CHS>你中毒了。会不断受到毒药伤害。</CHS>
+				<CHS>你中毒了。持续受到毒性伤害。</CHS>
 			</Desc>
 		</poisoning_strike>
 		<Ice_DOT>
 			<Name>
-				<CHS>冰霜球</CHS>
+				<CHS>冰霜球面</CHS>
 			</Name>				
 			<Desc>
-				<CHS>你正受到持续性冰系伤害。</CHS>
+				<CHS>受到持续性寒冰伤害。</CHS>
 			</Desc>
 		</Ice_DOT>
 		<stunning_missile_hollowking>
 			<Name>
-				<CHS>冰霜飞弹</CHS>
+				<CHS>霜冻子弹</CHS>
 			</Name>				
 			<Desc>
-				<CHS>你被冻结3秒。</CHS>
+				<CHS>冻结3秒。</CHS>
 			</Desc>
 		</stunning_missile_hollowking>
 		<Afterburn_Basalthanor>
 			<Name>
-				<CHS>火焰打击</CHS>
+				<CHS>烈焰打击</CHS>
 			</Name>				
 			<Desc>
-				<CHS>你正受到持续性火焰伤害。</CHS>
+				<CHS>受到持续性火焰伤害。</CHS>
 			</Desc>
 		</Afterburn_Basalthanor>
 		<td_world_Rat_Pits>
 			<Name>
-				<CHS>建造鼠坑</CHS>
+				<CHS>生成老鼠坑</CHS>
 			</Name>				
 			<Desc>
-				<CHS>建造一个鼠持续地召唤老鼠，持续60秒或者直到它被摧毁。老鼠为你而战。</CHS>
+				<CHS>创建一个持续召唤60秒老鼠的坑洞，直到其被摧毁。老鼠为你作战。</CHS>
 			</Desc>
 		</td_world_Rat_Pits>
 		<aranycikesz_mark>
@@ -4393,15 +4393,15 @@
 				<CHS>标记</CHS>
 			</Name>				
 			<Desc>
-				<CHS>你被标记了！你更容易受到所有的伤害！</CHS>
+				<CHS>得到标记！对所有来源伤害产生弱性。</CHS>
 			</Desc>
 		</aranycikesz_mark>
 		<finalboss_damage_slow_totem>
 			<Name>
-				<CHS>缓慢痛苦图腾</CHS>
+				<CHS>折磨图腾</CHS>
 			</Name>				
 			<Desc>
-				<CHS>图腾正在减慢你的速度，同时你正受到持续的伤害！</CHS>
+				<CHS>图腾会减缓移动速度，受到持续性伤害！</CHS>
 			</Desc>
 		</finalboss_damage_slow_totem>
 		<finalboss_nova>
@@ -4409,7 +4409,7 @@
 				<CHS>光波</CHS>
 			</Name>				
 			<Desc>
-				<CHS>杀死虚空教堂里的所有敌人，除了无面者，他只受到500伤害。</CHS>
+				<CHS>击杀虚空教堂内除无面人外所有敌方生物，无面人受到5000点伤害。</CHS>
 			</Desc>
 		</finalboss_nova>
 		<taunt>
@@ -4417,100 +4417,100 @@
 				<CHS>嘲讽</CHS>
 			</Name>
 			<Desc>
-				<CHS>10米范围内的所有敌人将你作为优先目标，持续10秒。持续期间内你将获得一个防御奖励。</CHS>
+				<CHS>10米内的敌人将你视为首要目标，持续10秒。期间你获得防御加成。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%defense_ 防御</CHS>
+				<CHS>增加 %defense_ 防御值</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>挑战嘲讽</CHS>
+					<CHS>挑衅</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%radiusbonus_ 米作用范围</CHS>
+					<CHS> +%radiusbonus_ 米范围</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>激怒嘲讽</CHS>
+					<CHS>触怒</CHS>
 				</Name>
 				<Desc>
-					<CHS>持续时间内目标受到 %vulnerability_ 易伤</CHS>
+					<CHS>目标获得 %vulnerability_ 易伤</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>回响嘲讽</CHS>
+					<CHS>回声</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%durationbonus_ 秒持续时间</CHS>
+					<CHS>增加%durationbonus_ 秒持续时间</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>响亮声音</CHS>
+					<CHS>大嗓门</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%radiusbonus_ 米作用范围</CHS>
+					<CHS> +%radiusbonus_ 米范围</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>敏捷思维</CHS>
+					<CHS>头脑灵活</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+					<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 				</Desc>
 			</Master>
 		</taunt>
 		<miniShieldBlock>
 			<Name>
-				<CHS>副手盾牌格挡</CHS>
+				<CHS>盾牌格挡 弱</CHS>
 			</Name>
 			<Desc>
-				<CHS>你用升盾牌格挡前方180度弧形区域内的大部分伤害。当你处于格挡状态时，你不能攻击或者移动。注意，不能格挡范围攻击。</CHS>
+				<CHS>举起护盾防护前方180度的大部分商户。 持续期间，无法移动或攻击。范围伤害不能被格挡。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>格挡时吸收 %frontresist_ 受到的伤害</CHS>
+				<CHS>阻挡吸收%frontresist_的伤害</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>反射格挡</CHS>
+					<CHS>反射阻挡</CHS>
 				</Name>
 				<Desc>
-					<CHS>攻击者有 %stunchance_ 的几率被眩晕2秒</CHS>
+					<CHS>敌人有 %stunchance_ 几率被晕眩2秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>钢铁庇护</CHS>
+					<CHS>金属罩</CHS>
 				</Name>
 				<Desc>
-					<CHS>每一次攻击都能在你进行格挡的 %healdurationlimit_ 秒内恢复你 %heal_ 的最大生命值。</CHS>
+					<CHS>在招架的前  %healdurationlimit_ 秒内，每次攻击将回复 %heal_ 最大生命值</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>惊愕格挡</CHS>
+					<CHS>惊人阻挡</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标受到 %vulnerability_ 易伤，持续4秒</CHS>
+					<CHS>目标持续%vulnerability_易伤状态4秒</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>愤怒格挡</CHS>
+					<CHS>狂怒阻挡</CHS>
 				</Name>
 				<Desc>
-					<CHS>格挡攻击有 %ragechance_ 几率生成1点怒气</CHS>
+					<CHS>被阻挡的攻击有%ragechance_几率获得1怒气。</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>副手反击</CHS>
+					<CHS>次要反击</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次格挡反射 %reflectdamage_ 伤害给攻击者</CHS>
+					<CHS>每一次阻挡反射%reflectdamage_伤害给攻击者。</CHS>
 				</Desc>
 			</Master>
 		</miniShieldBlock>
@@ -4519,103 +4519,103 @@
 				<CHS>暗影撕裂</CHS>
 			</Name>
 			<Desc>
-				<CHS>攻击单个目标造成物理伤害并施加1个暗影印记。</CHS>
+				<CHS>袭击单一目标，造成物理伤害并附上一个暗影标记。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_ 物理伤害 (%weapondamage_ 武器攻击)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>强化撕裂</CHS>
+					<CHS>重度撕裂</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>暗影命令</CHS>
+					<CHS>黑暗之语</CHS>
 				</Name>
 				<Desc>
-					<CHS>为目标施加 +%markcountbonus_ 个暗影印记</CHS>
+					<CHS>目标受到+%markcountbonus_暗影标记</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>灵魂撕裂</CHS>
+					<CHS>思维混乱</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标晕眩 %stunduration_ 秒</CHS>
+					<CHS>目标晕眩%stunduration_秒</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>诅咒撕裂</CHS>
+					<CHS>魔法分裂</CHS>
 				</Name>
 				<Desc>
-					<CHS>有 %additionalmarkchance_ 几率为目标施加1个额外的暗影印记</CHS>
+					<CHS>目标有%additionalmarkchance_几率获得额外的一个暗影标记</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>旋律撕裂</CHS>
+					<CHS>精确分裂</CHS>
 				</Name>
 				<Desc>
-					<CHS>强化：降低 %powerupcostdecrease_ 怒气消耗</CHS>
+					<CHS>强化技能消耗的狂怒值降低 %powerupcostdecrease_</CHS>
 				</Desc>
 			</Master>
 		</shadowRend>
 		<shadowshackles>
 			<Name>
-				<CHS>暗影枷锁</CHS>
+				<CHS>暗影锁链</CHS>
 			</Name>
 			<Desc>
-				<CHS>创建一个破坏性的能量环，在3米范围内造成奥术伤害。同时使目标减速并且每秒为目标施加1个暗影印记。</CHS>
+				<CHS>召唤一圈破坏性能量在三米内造成奥术伤害。目标同时被减速并每秒获得一个暗影标记。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 奥数伤害（%weapondamage_ 武器伤害） 每秒</CHS>
+				<CHS>%attack_奥术伤害(%weapondamage_ 武器伤害)每秒</CHS>
 			</effect0>
 			<effect1>
-				<CHS>目标移动速度降低 %chill_</CHS>
+				<CHS>目标被减速%chill_</CHS>
 			</effect1>
 			<Powerup0>
 				<Name>
-					<CHS>强化枷锁</CHS>
+					<CHS>虹吸锁链</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>标记枷锁</CHS>
+					<CHS>标记锁链</CHS>
 				</Name>
 				<Desc>
-					<CHS>当目标被表暗影标记时，有 %moremarkchance_ 几率施加1个额外的暗影印记。</CHS>
+					<CHS>目标被咒语标记时%moremarkchance_ 获得一个额外暗影标记</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>捆绑枷锁</CHS>
+					<CHS>束缚锁链</CHS>
 				</Name>
 				<Desc>
-					<CHS>使目标移动速度额外降低 %chillbonus_</CHS>
+					<CHS>目标被额外减速%chillbonus_</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>暗影守卫</CHS>
+					<CHS>黑暗看守</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+					<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>永恒暗影守卫</CHS>
+					<CHS>永恒之夜守护者</CHS>
 				</Name>
 				<Desc>
-					<CHS>永久的使目标移动速度额外降低 %chillbonus_</CHS>
+					<CHS>目标被永久额外减速%chillbonus_</CHS>
 				</Desc>
 			</Master>
 		</shadowshackles>		
@@ -4624,92 +4624,92 @@
 				<CHS>暗影形态</CHS>
 			</Name>
 			<Desc>
-				<CHS>你进入暗影世界，使自己隐形。当超过持续时间（或者你攻击一个目标）你将立即退出隐形状态并获得一个伏击奖励，大量增加你的伤害。</CHS>
+				<CHS>你进入影界，使自己隐形。时间耗尽（或你攻击了一个目标）时从暗地里杀出并获得偷袭加成，大量增加你的伤害。</CHS>
 			</Desc>
 			<effect0>
 				<CHS></CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>暗影庇护</CHS>
+					<CHS>暗影圣殿</CHS>
 				</Name>
 				<Desc>
-					<CHS>当你退出隐形状态时，你有 %invulnerabilityduration_ 秒不会受到伤害。</CHS>
+					<CHS>从暗影中现身时你在%invulnerabilityduration_秒内持续无敌</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>暗影静止</CHS>
+					<CHS>暗影沉睡</CHS>
 				</Name>
 				<Desc>
-					<CHS>你的隐形状态持续时间延长 %durationbonus_ 秒</CHS>
+					<CHS>你的持续隐藏时间增加 %durationbonus_秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>暗影恩惠</CHS>
+					<CHS>暗影恩赐</CHS>
 				</Name>
 				<Desc>
-					<CHS>当你处于隐形状态时，恢复 %manaregen_ 魔法每秒。</CHS>
+					<CHS>你在隐藏状态时每秒恢复%manaregen_魔法值</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>暗影束缚</CHS>
+					<CHS>黑暗系链</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+					<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>暗影宁静</CHS>
+					<CHS>黑夜宁静</CHS>
 				</Name>
 				<Desc>
-					<CHS>强化消耗：使此技能的怒气消耗降低1。</CHS>
+					<CHS>此技能的主动技能减少1怒气。</CHS>
 				</Desc>
 			</Master>
 		</hide>		
 		<inkrupture>
 			<Name>
-				<CHS>墨境破裂</CHS>
+				<CHS>破裂墨境</CHS>
 			</Name>
 			<Desc>
-				<CHS>当你进入隐形状态时释放暗影能量冲击波。冲击波在3米范围内造成物理伤害。当你从暗影世界返回时获得一个伏击奖励，大量增加你的伤害。</CHS>
+				<CHS>你在释放一阵暗能量冲击波后进入隐藏形态。冲击波在三米范围内造成物理伤害。从影界归来时会获得偷袭加成，极大的增加你的伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_物理伤害(%weapondamage_武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>墨境爆炸</CHS>
+					<CHS>墨境冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>墨境泡沫</CHS>
+					<CHS>墨境泡泡</CHS>
 				</Name>
 				<Desc>
-					<CHS>你的隐形状态持续时间延长 %durationbonus_ 秒</CHS>
+					<CHS>你的持续隐藏时间增加 %durationbonus_秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>墨冲击</CHS>
+					<CHS>墨境冲击波</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>墨境潮汐</CHS>
+					<CHS>墨境之潮</CHS>
 				</Name>
 				<Desc>
-					<CHS>降低魔法消耗 %manacostdecrease_</CHS>
+					<CHS>魔法值消耗减少%manacostdecrease_</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -4717,338 +4717,338 @@
 					<CHS>墨境脉冲</CHS>
 				</Name>
 				<Desc>
-					<CHS>冷却时间缩短 %cooldowndecrease_ 秒</CHS>
+					<CHS>冷却时间减少%cooldowndecrease_ 秒</CHS>
 				</Desc>
 			</Master>
 		</inkrupture>		
 		<portalobscura>
 			<Name>
-				<CHS>传送暗盒</CHS>
+				<CHS>暗黑传送门</CHS>
 			</Name>
 			<Desc>
-				<CHS>你立即执行墨境跳跃到指定位置并进入隐形状态。</CHS>
+				<CHS>使用墨境传送立刻到达指定地点并进入隐藏形态。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>在隐形状态跳跃到位置</CHS>
+				<CHS>以隐藏形态传送至地点</CHS>
 			</effect0>
 			<inkrupture>
-				<CHS>%s:-%.3g%% 冷却时间（-%.3g%% 每级）</CHS>
+				<CHS>%s: -%.3g%%冷却时间(每级-%.3g%%)</CHS>
 			</inkrupture>			
 			<Powerup0>
 				<Name>
-					<CHS>邪恶启程</CHS>
+					<CHS>有害出发</CHS>
 				</Name>
 				<Desc>
-					<CHS>跳离时使2米范围内的敌人眩晕 %stunduration_ 秒</CHS>
+					<CHS>传送时眩晕2米之内的敌人%stunduration_秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>离别礼物</CHS>
+					<CHS>临别赠礼</CHS>
 				</Name>
 				<Desc>
-					<CHS>跳离时为2米范围内的敌人施加 %markcount_ 个暗影印记</CHS>
+					<CHS>传送时使2米之内的敌人带上%markcount_暗影标记</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>Jump Shock</CHS>
+					<CHS>传送冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>跳离时使2米范围内的敌人受到 %vulnerability_ 易伤</CHS>
+					<CHS>传送时使2米内敌人%vulnerability_虚弱5秒</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>补品暗盒</CHS>
+					<CHS>治愈传送</CHS>
 				</Name>
 				<Desc>
-					<CHS>跳离治疗 %heal_ 的最大生命值</CHS>
+					<CHS>传送恢复你最大HP的%heal_</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>臭气暗盒</CHS>
+					<CHS>瘴气传送</CHS>
 				</Name>
 				<Desc>
-					<CHS>跳离产生持续5秒的毒云，制造2米范围内毒素伤害（%weapondamage_ 武器伤害）</CHS>
+					<CHS>传送时会出现毒云，持续5秒，在2米内造成毒素伤害（%weapondamage_ 武器伤害）</CHS>
 				</Desc>
 			</Master>
 		</portalobscura>		
 		<deepumbraform>
 			<Name>
-				<CHS>深影形态</CHS>
+				<CHS>进阶暗影形态</CHS>
 			</Name>
 			<Desc>
-				<CHS>深影形态延长潜行时间上限，增加生命、法力恢复速度。</CHS>
+				<CHS>增加隐藏形态的持续时间和该状态下生命值魔法值的恢复速度。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%durationbonus_ 秒潜行持续时间</CHS>
+				<CHS>隐藏形态持续时间+%durationbonus_秒</CHS>
 			</effect0>
 			<effect1>
-				<CHS>每秒恢复 %hpregen_ 的最大生命值</CHS>
+				<CHS>每秒恢复最大生命值的%hpregen_</CHS>
 			</effect1>
 			<effect2>
-				<CHS>每秒恢复 %manaregen_ 的最大法力</CHS>
+				<CHS>每秒恢复最大魔法值的%manaregen_</CHS>
 			</effect2>			
 			<Expert>
 				<Name>
-					<CHS>暗影冲刺</CHS>
+					<CHS>黑夜奔袭</CHS>
 				</Name>
 				<Desc>
-					<CHS>潜行速度提高10%</CHS>
+					<CHS>隐藏形态的移速增加10%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>暗影飞跃</CHS>
+					<CHS>暗影狂奔</CHS>
 				</Name>
 				<Desc>
-					<CHS>潜行速度进一步提高15%</CHS>
+					<CHS>隐藏形态的移速增加15%</CHS>
 				</Desc>
 			</Master>
 		</deepumbraform>		
 		<markofslow>
 			<Name>
-				<CHS>减速印记</CHS>
+				<CHS>减速标记</CHS>
 			</Name>
 			<Desc>
-				<CHS>凡是带有暗影印记的敌人移动速度下降（多个暗影印记累加）。</CHS>
+				<CHS>带有暗影标记的所有敌人移速降低。（效果可叠加。）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>敌方速度减缓 %slow_</CHS>
+				<CHS>敌人被减速%slow_</CHS>
 			</effect0>			
 			<Expert>
 				<Name>
-					<CHS>障碍光环</CHS>
+					<CHS>阻碍之环</CHS>
 				</Name>
 				<Desc>
-					<CHS>受影响的目标减缓2米范围内其他敌人的速度</CHS>
+					<CHS>被影响的目标也会使2米内的所有敌人减速</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>震慑印记</CHS>
+					<CHS>眩晕标记</CHS>
 				</Name>
 				<Desc>
-					<CHS>敌方累计10个暗影印记时，受到5秒震慑</CHS>
+					<CHS>累积10个暗影标记的敌人会被眩晕5秒</CHS>
 				</Desc>
 			</Master>
-		</markofslow>
+		</markofslow>		
 		<markofvulnerability>
 			<Name>
-				<CHS>易伤印记</CHS>
+				<CHS>虚弱标记</CHS>
 			</Name>
 			<Desc>
-				<CHS>凡带有暗影印记的敌人变得更易受伤（多个暗影印记累加）。</CHS>
+				<CHS>带有暗影标记的所有敌人受到伤害增加。（效果可叠加。）</CHS>
 			</Desc>
 			<effect0>
-				<CHS>目标受每个暗影印记 %vulnerability_ 易伤影响</CHS>
-			</effect0>
+				<CHS>目标每带有一个暗影标记受到伤害增加%vulnerability_ </CHS>
+			</effect0>			
 			<Expert>
 				<Name>
-					<CHS>致命印记</CHS>
+					<CHS>死亡标记</CHS>
 				</Name>
 				<Desc>
-					<CHS>敌方累计10个暗影印记，即失去20%的总血量</CHS>
+					<CHS>累积10个暗影标记的敌人会立即损失最大生命值的20%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>弱点光环</CHS>
+					<CHS>虚弱光环</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标将易伤影响扩散至距离2米内的所有敌人</CHS>
+					<CHS>目标将把自身的易伤传播给2米内的其他敌人</CHS>
 				</Desc>
 			</Master>
-		</markofvulnerability>
+		</markofvulnerability>		
 		<markOfReborn>
 			<Name>
-				<CHS>持久印记</CHS>
+				<CHS>持续印记</CHS>
 			</Name>
 			<Desc>
-				<CHS>暗影印记被技能摧毁后，有机会立刻在目标上重现。</CHS>
+				<CHS>当暗影标记被某个技能摧毁了，该印记有几率重新出现在目标上。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%rebornmarkchance_ 几率重现暗影印记</CHS>
-			</effect0>
+				<CHS>%rebornmarkchance_ 几率使暗影标记重现</CHS>
+			</effect0>			
 			<Expert>
 				<Name>
-					<CHS>印记电击</CHS>
+					<CHS>标记冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>印记重现后，目标有25%的几率受到2秒震慑</CHS>
+					<CHS>当标记重现时有25%几率使目标眩晕2秒</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>印记折磨</CHS>
+					<CHS>无尽折磨</CHS>
 				</Name>
 				<Desc>
-					<CHS>印记重现后，目标受到震慑的几率额外增加25%</CHS>
+					<CHS>标记重现时使目标眩晕的几率再增加25%</CHS>
 				</Desc>
 			</Master>
 		</markOfReborn>
 		<shadowfury>
 			<Name>
-				<CHS>暗影之怒</CHS>
+				<CHS>暗影狂怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>潜行时不断获得怒气</CHS>
+				<CHS>在隐藏形态时你会持续获得怒气</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%ragechance_几率每秒获得5点怒气</CHS>
+				<CHS>每秒+%ragechance_获得5怒气</CHS>
 			</effect0>
 			<Expert>
 				<Name>
-					<CHS>持续的愤怒</CHS>
+					<CHS>无尽狂怒</CHS>
 				</Name>
 				<Desc>
-					<CHS>结束潜行后，潜行所用的一半时间内继续获得怒气值</CHS>
+					<CHS>退出隐藏形态时，你在隐藏形态持续的一半时间内会继续获得怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>不懈的愤怒</CHS>
+					<CHS>无情怒火</CHS>
 				</Name>
 				<Desc>
-					<CHS>增加2点怒气获取率</CHS>
+					<CHS>获得怒气值增加2</CHS>
 				</Desc>
 			</Master>
 		</shadowfury>
 		<hpregenminion>
 			<Name>
-				<CHS>自动修复模块</CHS>
+				<CHS>自我修复模块</CHS>
 			</Name>
 			<Desc>
-				<CHS>用自动修复模块创造所有下属，使其每秒恢复一部分最大生命值。</CHS>
+				<CHS>你的所有随从都会获得一个自我修复模块，使其每秒都会获得一定量的生命值。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>下属每秒恢复%hpregen_最大生命值</CHS>
+				<CHS>你的随从每秒恢复最大生命值的%hpregen_</CHS>
 			</effect0>			
 			<Expert>
 				<Name>
-					<CHS>神奇的修理工具箱</CHS>
+					<CHS>奇妙工具箱</CHS>
 				</Name>
 				<Desc>
-					<CHS>每5秒你的下属有5%几率立即恢复全部生命值</CHS>
+					<CHS>你的随从每5秒有5%的几率恢复所有生命值</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>惊人的修理工具箱</CHS>
+					<CHS>伟大工具箱</CHS>
 				</Name>
 				<Desc>
-					<CHS>下属恢复全部生命值的几率增加5%</CHS>
+					<CHS>你的随从恢复所有生命值的几率再提高5%</CHS>
 				</Desc>
 			</Master>
 		</hpregenminion>
 		
 		<pasztorkodas>
 			<Name>
-				<CHS>Pseudo-Pathic协同效应</CHS>
+				<CHS>串通一气</CHS>
 			</Name>
 			<Desc>
-				<CHS>5米范围内所有下属（包括机械体和炮塔类型）获得额外伤害</CHS>
+				<CHS>你5米内的所有随从（不管是炮塔类的还是可移动的）获得伤害加成</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_下属伤害</CHS>
+				<CHS>随从伤害+%damagebonus_</CHS>
 			</effect0>			
 			<Expert>
 				<Name>
-					<CHS>Pseudo-Pathic修复</CHS>
+					<CHS>互帮互助</CHS>
 				</Name>
 				<Desc>
-					<CHS>范围内的下属每秒恢复1%最大生命值</CHS>
+					<CHS>范围内的所有随从每秒恢复最大生命值的1%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>Pseudo-Pathic区域</CHS>
+					<CHS>杀戮地带</CHS>
 				</Name>
 				<Desc>
-					<CHS>作用范围增加1米</CHS>
+					<CHS>影响区域扩大1米</CHS>
 				</Desc>
 			</Master>
 		</pasztorkodas>
 		<aura__HiddenReserves>
 			<Name>
-				<CHS>隐藏储备</CHS>
+				<CHS>隐藏的储备品</CHS>
 			</Name>
 			<Desc>
-				<CHS>你使用的每点怒气值都能治疗你。</CHS>
+				<CHS>你的每一点愤怒都会治疗你。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每消耗一点怒气，+%heal_生命值</CHS>
+				<CHS>每花费一点怒气值则生命值增加%heal_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
-					<CHS>心灵之火</CHS>
+					<CHS>内心之火</CHS>
 				</Name>
 				<Desc>
-					<CHS>道具激活后，有5%的机会马上恢复怒气点数</CHS>
+					<CHS>在使用道具的时候，有5%的几率能恢复花费掉的怒气值</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>愤怒转换</CHS>
+					<CHS>怒气值转化</CHS>
 				</Name>
 				<Desc>
-					<CHS>每消耗1点怒气，都将获得1点魔力</CHS>
+					<CHS>每用掉一点怒气值，获得一点魔法值</CHS>
 				</Desc>
 			</Master>
 		</aura__HiddenReserves>
 		<Paradox_cooldown>
 			<Name>
-				<CHS>矛盾组装</CHS>
+				<CHS>悖论聚集</CHS>
 			</Name>
 			<Desc>
-				<CHS>缩短创造下属和炮塔的冷却时间</CHS>
+				<CHS>生成随从和炮塔的冷却时间缩短</CHS>
 			</Desc>
 			<effect0>
 				<CHS>%cooldownbonus_ 冷却时间</CHS>
 			</effect0>
 			<Expert>
 				<Name>
-					<CHS>炮塔组装</CHS>
+					<CHS>炮塔装配</CHS>
 				</Name>
 				<Desc>
-					<CHS>所有炮塔获得+50%额外生命值</CHS>
+					<CHS>所有炮塔+50% HP</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>机械体组装</CHS>
+					<CHS>机械装配</CHS>
 				</Name>
 				<Desc>
-					<CHS>所有机械体（除炮塔）获得+50%额外生命值</CHS>
+					<CHS>所有机械（除了炮塔）+50% HP</CHS>
 				</Desc>
 			</Master>
 		</Paradox_cooldown>
 		<aura__MechanoidBuildingHP>
 			<Name>
-				<CHS>加固结构</CHS>
+				<CHS>结构增强</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的炮塔和机械体获得额外的生命值</CHS>
+				<CHS>你的炮塔和机械获得额外生命值</CHS>
 			</Desc>
 			<effect0>
-				<CHS>所有下属 +%hpbonus_ 生命值</CHS>
+				<CHS>所有随从+%hpbonus_ HP</CHS>
 			</effect0>
 			<Expert>
 				<Name>
-					<CHS>建构效率</CHS>
+					<CHS>结构效率</CHS>
 				</Name>
 				<Desc>
-					<CHS>建造机械体所需的法力减少10%</CHS>
+					<CHS>制造机械的魔法值减少10%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>防护涂层</CHS>
+					<CHS>防护层</CHS>
 				</Name>
 				<Desc>
-					<CHS>你的机械体+10%生命值。</CHS>
+					<CHS>你的机器人获得+10%生命。</CHS>
 				</Desc>
 			</Master>
 		</aura__MechanoidBuildingHP>
@@ -5057,249 +5057,249 @@
 				<CHS>代谢过载</CHS>
 			</Name>
 			<Desc>
-				<CHS>静止2秒后生命值恢复加快</CHS>
+				<CHS>站立不动2秒，你的HP恢复量会增加</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每秒恢复 %hpregenbonus_ 最大生命值</CHS>
+				<CHS>每秒恢复最大生命值的%hpregenbonus_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
-					<CHS>精神超越</CHS>
+					<CHS>头脑风暴</CHS>
 				</Name>
 				<Desc>
-					<CHS>法力恢复速度增加20%</CHS>
+					<CHS>魔法恢复量增加20%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>防御超越</CHS>
+					<CHS>固若金汤</CHS>
 				</Name>
 				<Desc>
-					<CHS>静止时所受伤害降低5%</CHS>
+					<CHS>静止时受到伤害降低5%</CHS>
 				</Desc>
 			</Master>
 		</BattleStanceHPRegen>
 		<Rocket>
 			<Name>
-				<CHS>双重火箭</CHS>
+				<CHS>多重火箭</CHS>
 			</Name>
 			<Desc>
-				<CHS>瞄准目标发射一簇2枚火箭，伤害2米范围内的敌人。火箭总能命中且单独造成在列伤害。</CHS>
+				<CHS>朝目标发射一发双联火箭，对2米内敌人造成伤害。火箭必定命中且独立计算伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每发子弹造成 %attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>每发火箭造成%attack_ 物理伤害 (%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>连锁引爆</CHS>
+					<CHS>连环爆炸</CHS>
 				</Name>
 				<Desc>
-					<CHS>火箭发射数量增加 %strikecount_</CHS>
+					<CHS>增加发射的火箭数目%strikecount_</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>预裂弹头</CHS>
+					<CHS>预置破片弹头</CHS>
 				</Name>
 				<Desc>
-					<CHS>效果范围增加 %linkedrangebonus_ 米</CHS>
+					<CHS>效果的范围提升%linkedrangebonus_米。</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>磷光电荷</CHS>
+					<CHS>荧光冲击</CHS>
 				</Name>
 				<Desc>
-					<CHS>眩晕目标 %stunduration_ 秒</CHS>
+					<CHS>使目标晕眩 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>超音冲击波</CHS>
+					<CHS>超音速冲击波</CHS>
 				</Name>
 				<Desc>
-					<CHS>10% 几率击落目标</CHS>
+					<CHS>10%几率击倒目标</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>扩大火箭架</CHS>
+					<CHS>增强型火箭架</CHS>
 				</Name>
 				<Desc>
-					<CHS>技能冷却时间-1秒</CHS>
+					<CHS>技能冷却时间减少1秒</CHS>
 				</Desc>
 			</Master>
 		</Rocket>
 		<EnergyBlast>
 			<Name>
-				<CHS>力场轰击</CHS>
+				<CHS>力场爆发</CHS>
 			</Name>
 			<Desc>
-				<CHS>释放猛烈的冲击波，造成4米半径内伤害。</CHS>
+				<CHS>释放一股强力能量冲击波，在4米范围内造成大量伤害。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_物理伤害(%weapondamage_武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
-					<CHS>限制超载</CHS>
+					<CHS>限制器超载</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%damagebonus_ 伤害</CHS>
+					<CHS>增加%damagebonus_的伤害</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>飘渺的爆炸回声</CHS>
+					<CHS>优雅爆炸余波</CHS>
 				</Name>
 				<Desc>
-					<CHS>使目标眩晕 %stunduration_ 秒</CHS>
+					<CHS>使目标眩晕%stunduration_秒</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>释放应急阀</CHS>
+					<CHS>阀门紧急打开</CHS>
 				</Name>
 				<Desc>
-					<CHS>+%radiusbonus_ 爆炸半径</CHS>
+					<CHS>+%radiusbonus_米爆炸范围</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>注入动能晶体</CHS>
+					<CHS>注入动能水晶</CHS>
 				</Name>
 				<Desc>
-					<CHS>该技能消耗的法力-20%</CHS>
+					<CHS>技能的魔法值消耗减少20%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>轻量轰击器</CHS>
+					<CHS>轻型放电器</CHS>
 				</Name>
 				<Desc>
-					<CHS>强化：怒气消耗-1</CHS>
+					<CHS>主要技能消耗减少1怒气</CHS>
 				</Desc>
 			</Master>
 		</EnergyBlast>
 		<fireminearray>
 			<Name>
-				<CHS>燃烧地雷阵</CHS>
+				<CHS>燃烧雷阵列</CHS>
 			</Name>
 			<Desc>
-				<CHS>在周围放置3颗燃烧地雷。该地雷对2米内的敌人造成火焰伤害，并持续5秒焚烧敌人，每秒伤害为原先的40%。新放置的地雷会把先前的摧毁。</CHS>
+				<CHS>在你周围放置3个燃烧雷。对2米内的敌人造成火焰伤害并点燃他们5秒，每秒造成40%的初始伤害。放置新雷会摧毁之前放过的雷。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 冰系伤害（%weapondamage_ 武器伤害）</CHS>
+				<CHS>%attack_火焰伤害（%weapondamage_的武器伤害）</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>强化燃烧</CHS>
 				</Name>
 				<Desc>
-					<CHS>%damagebonus_ 伤害加成</CHS>
+					<CHS>+%damagebonus_伤害奖励</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
 				<Name>
-					<CHS>黏性燃料</CHS>
+					<CHS>粘性燃料</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标燃烧时间延长 %dotduration_ 秒</CHS>
+					<CHS>目标点燃时间增加%dotduration_</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
 				<Name>
-					<CHS>纵火犯的幸灾乐祸</CHS>
+					<CHS>纵火犯的天堂</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次击中 +%rageperhit_ 怒气</CHS>
+					<CHS>每一击+%rageperhit_怒气</CHS>
 				</Desc>
 			</Powerup2>
 			<Expert>
 				<Name>
-					<CHS>高效重显</CHS>
+					<CHS>有效改良</CHS>
 				</Name>
 				<Desc>
-					<CHS>法力消耗-20%</CHS>
+					<CHS>魔法值消耗-20%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>扩大地雷撒布器</CHS>
+					<CHS>大容量布雷器</CHS>
 				</Name>
 				<Desc>
-					<CHS>部署地雷数量+1</CHS>
+					<CHS>地雷数+1</CHS>
 				</Desc>
 			</Master>
 		</fireminearray>
 		<LangszoroTapolas>
 			<Name>
-				<CHS>汽态燃料</CHS>
+				<CHS>汽化燃料</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加火焰喷射器基础技能的伤害</CHS>
+				<CHS>以火焰喷射器为基础的技能伤害增加</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_ 火焰喷射器伤害</CHS>
+				<CHS>火焰喷射器伤害+%damagebonus_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
-					<CHS>过冷喷嘴</CHS>
+					<CHS>超冷却喷嘴</CHS>
 				</Name>
 				<Desc>
-					<CHS>强化火焰喷射器技能怒气消耗-1</CHS>
+					<CHS>火焰喷射器技能升级减少1怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>高压混合物</CHS>
+					<CHS>超压缩混合</CHS>
 				</Name>
 				<Desc>
-					<CHS>火焰喷射器的法力消耗降低10%</CHS>
+					<CHS>火焰喷射器魔法消耗减少10%</CHS>
 				</Desc>
 			</Master>
 		</LangszoroTapolas>
 		<RaketaTapolas>
 			<Name>
-				<CHS>弹头制作</CHS>
+				<CHS>弹头改造</CHS>
 			</Name>
 			<Desc>
-				<CHS>增加所有火箭基础技能的伤害</CHS>
+				<CHS>所有火箭炮技能伤害增加</CHS>
 			</Desc>
 			<effect0>
-				<CHS>+%damagebonus_ 火箭伤害</CHS>
+				<CHS>火箭炮伤害+%damagebonus_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
 					<CHS>低密度弹头</CHS>
 				</Name>
 				<Desc>
-					<CHS>发射火箭的法力消耗降低10%</CHS>
+					<CHS>发射火箭炮的魔法值消耗减少10%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>高压点火器</CHS>
+					<CHS>超压缩引爆器</CHS>
 				</Name>
 				<Desc>
-					<CHS>火箭技能冷却时间缩短10%</CHS>
+					<CHS>火箭炮技能冷却时间减少10%</CHS>
 				</Desc>
 			</Master>
 		</RaketaTapolas>
 		<jegcsapas>
 			<Name>
-				<CHS>冷冻光束</CHS>
+				<CHS>寒冰射线</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的速度降低35%。</CHS>
+				<CHS>你被减速35%</CHS>
 			</Desc>						
 		</jegcsapas>
 		<repairdrone__heal>
 			<Name>
-				<CHS>法力发电机</CHS>
+				<CHS>魔法生成</CHS>
 			</Name>
 			<Desc>
-				<CHS>一个修理无人机正使你的法力再生。</CHS>
+				<CHS>一个修理无人机正在恢复你的魔法值。</CHS>
 			</Desc>						
 		</repairdrone__heal>
 		<__invulnerability>
@@ -5322,11 +5322,11 @@
 	<Property>	
 		<increase_damage>
 			<desc>
-				<CHS>$SIGN$$VALUE$ 所有伤害</CHS>
+				<CHS>$SIGN$$VALUE$ 对所有伤害</CHS>
 			</desc>
 			<bonus_percent>
 				<desc>
-					<CHS>$SIGN$$VALUE$% 所有伤害</CHS>
+					<CHS>$SIGN$$VALUE$% 对所有伤害</CHS>
 				</desc>
 			</bonus_percent>
 		</increase_damage>

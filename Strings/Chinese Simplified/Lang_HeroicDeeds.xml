@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -7,21 +6,21 @@
 	<Languages>CHS</Languages>
 	<HeroicDeeds>
 		<NextLevel>
-			<CHS>下个英雄称号</CHS>
+			<CHS>下一个英雄头衔</CHS>
 		</NextLevel>
 		<NewAchievement>
-			<CHS>成就解锁</CHS>
+			<CHS>已解锁的成就</CHS>
 		</NewAchievement>
 		<HiddenContent>
-			<CHS>隐藏的内容已发现！</CHS>
+			<CHS>发现隐藏内容！</CHS>
 		</HiddenContent>
 		<Deeds>
 			<forgotten_knowledge>
 				<name1>
-					<CHS>被遗忘的知识</CHS>
+					<CHS>忘却的知识</CHS>
 				</name1>
 				<desc>
-					<CHS>使用元素师或者暗影刺客达到100级（角色等级）。</CHS>
+					<CHS>使用元素师或影术师（角色职业）达到100级。</CHS>
 				</desc>
 			</forgotten_knowledge>
 			<steam_lord>
@@ -29,23 +28,23 @@
 					<CHS>蒸汽领主</CHS>
 				</name1>
 				<desc>
-					<CHS>使用工程师或者机甲师达到100级（角色等级）。</CHS>
+					<CHS>使用建造师或燃素师（角色职业）达到100级。</CHS>
 				</desc>
 			</steam_lord>
 			<good_ole_hunter>
 				<name1>
-					<CHS>经典猎人</CHS>
+					<CHS>老牌猎人</CHS>
 				</name1>
 				<desc>
-					<CHS>使用赏金猎人或者保卫者达到100级（角色等级）。</CHS>
+					<CHS>使用赏金猎人或守卫者（角色职业）达到100级。</CHS>
 				</desc>
 			</good_ole_hunter>
 			<circle_unbroken>
 				<name1>
-					<CHS>全能型选手</CHS>
+					<CHS>圆圆满满</CHS>
 				</name1>
 				<desc>
-					<CHS>完成“被遗忘的知识”，“蒸汽领主”和“经典猎人”成就。</CHS>
+					<CHS>完成“忘却的知识”，“蒸汽领主”与“老牌猎人”成就。</CHS>
 				</desc>
 			</circle_unbroken>
 			<requiem>
@@ -53,29 +52,29 @@
 					<CHS>梦之安魂曲</CHS>
 				</name1>
 				<desc>
-					<CHS>使用60或者更高等级的专家模式角色死亡。</CHS>
+					<CHS>使一个60级以上的硬核角色死亡。</CHS>
 				</desc>
 			</requiem>
 			<glory_100>
 				<name1>
-					<CHS>不朽的神圣</CHS>
+					<CHS>永恒荣光</CHS>
 				</name1>
 				<desc>
-					<CHS>达到100神圣等级。</CHS>
+					<CHS>荣耀达到100级。</CHS>
 				</desc>
 				<req>
-					<CHS>$CurrentValue$/$NextLevelValue$神圣等级</CHS>
+					<CHS>$CurrentValue$/$NextLevelValue$ 荣耀等级</CHS>
 				</req>
 			</glory_100>
 			<legend>
 				<name1>
-					<CHS>传说的荣耀</CHS>
+					<CHS>传奇荣耀</CHS>
 				</name1>
 				<desc>
-					<CHS>达到15声望等级。</CHS>
+					<CHS>声望等级达到15。</CHS>
 				</desc>
 				<req>
-					<CHS>$CurrentValue$/$NextLevelValue$声望等级</CHS>
+					<CHS>$CurrentValue$/$NextLevelValue$ 声望等级</CHS>
 				</req>
 			</legend>
 			<skill_branch_complete>
@@ -83,20 +82,20 @@
 					<CHS>专家</CHS>
 				</name1>
 				<desc>
-					<CHS>使用任意的角色等级学习技能树一个分支的所有技能，强化以及专精。</CHS>
+					<CHS>使用任意角色职业，在技能树的一个分支上，习得所有技能、强化和精通。</CHS>
 				</desc>
 			</skill_branch_complete>
 			<td_mission>
 				<name1>
-					<CHS>塔楼守卫者</CHS>
+					<CHS>高塔防御者</CHS>
 				</name1>
 				<desc>
-					<CHS>完成一个塔楼防御任务。</CHS>
+					<CHS>完成一个塔防任务。</CHS>
 				</desc>
 			</td_mission>
 			<resistance_mission>
 				<name1>
-					<CHS>反抗势力万岁！</CHS>
+					<CHS>抵抗万岁！</CHS>
 				</name1>
 				<desc>
 					<CHS>完成一个抵抗任务。</CHS>
@@ -104,24 +103,24 @@
 			</resistance_mission>
 			<jones>
 				<name1>
-					<CHS>琼斯，你跟老子比差远了！</CHS>
+					<CHS>比过你，琼斯!</CHS>
 				</name1>								
 				<desc>
-					<CHS>为反抗势力收集10件遗物。</CHS>
+					<CHS>为抵抗收集10个遗物。</CHS>
 				</desc>
 				<req>
-					<CHS>$CurrentValue$/$NextLevelValue$遗物已收集</CHS>
+					<CHS>$CurrentValue$/$NextLevelValue$ 遗物已收集</CHS>
 				</req>
 			</jones>
 			<potions_drunk>
 				<name1>
-					<CHS>稍微喝一口</CHS>
+					<CHS>小抿一口</CHS>
 				</name1>
 				<desc>
-					<CHS>喝很多药剂（应该不太难）。</CHS>
+					<CHS>喝很多药水 (应该不太难)。</CHS>
 				</desc>
 				<req>
-					<CHS>$CurrentValue$/$NextLevelValue$药剂已使用</CHS>
+					<CHS>消耗了 $CurrentValue$/$NextLevelValue$ 药水</CHS>
 				</req>
 			</potions_drunk>
 			<looted_chest_count>
@@ -129,26 +128,26 @@
 					<CHS>寻宝猎人</CHS>
 				</name1>
 				<desc>
-					<CHS>老实说，范海辛游戏中，最重要的一部分就是战利品！所以你应该从箱子中能拿多少就拿多少！</CHS>
+					<CHS>老实说，像范海辛这种游戏最重要的部分就是战利品！从那个箱子里拿个钵满盆满吧！</CHS>
 				</desc>
 				<req>
-					<CHS>(掠夺的箱子: $CurrentValue$/$NextLevelValue$)</CHS>
+					<CHS>（搜索的箱子：$CurrentValue$/$NextLevelValue$）</CHS>
 				</req>
 			</looted_chest_count>
 			<good_catch>
 				<name1>
-					<CHS>淘金</CHS>
+					<CHS>高富帅</CHS>
 				</name1>								
 				<desc>
-					<CHS>使用任意角色收集100万金币。</CHS>
+					<CHS>使用任何角色收集一百万金钱。</CHS>
 				</desc>
 				<req>
-					<CHS>$CurrentValue$/$NextLevelValue$金币已获取</CHS>
+					<CHS>$CurrentValue$/$NextLevelValue$ 总共黄金收集量</CHS>
 				</req>
 			</good_catch>
 			<set_equipped>
 				<name1>
-					<CHS>时尚的猎人</CHS>
+					<CHS>帅气猎人</CHS>
 				</name1>								
 				<desc>
 					<CHS>装备一整套套装。</CHS>
@@ -159,55 +158,55 @@
 					<CHS>男仆</CHS>
 				</name1>
 				<desc>
-					<CHS>麦柯维纳在卡特琳娜女士的帮助下进入麦柯维纳村庄。</CHS>
+					<CHS>在卡特琳娜女士的帮助下获得进入马克夫纳村庄的许可。</CHS>
 				</desc>
 			</manservant>
 			<reach_borgova>
 				<name1>
-					<CHS>达到博格维亚。</CHS>
+					<CHS>抵达博格瓦</CHS>
 				</name1>
 				<desc>
-					<CHS>达到博格维亚的镇子。</CHS>
+					<CHS>抵达博格瓦市镇。</CHS>
 				</desc>
 			</reach_borgova>
 			<kill_breda>
 				<name1>
-					<CHS>面包和黄油</CHS>
+					<CHS>布雷达与黄油</CHS>
 				</name1>
 				<desc>
-					<CHS>击败暴脾气的将军。</CHS>
+					<CHS>打败弗米伽提的将军。</CHS>
 				</desc>
 			</kill_breda>
 			<kill_fulmigati>
 				<name1>
-					<CHS>脾气消除器</CHS>
+					<CHS>福尔玛加蒂终结者</CHS>
 				</name1>
 				<desc>
-					<CHS>击败疯狂科学家暴脾气。</CHS>
+					<CHS>打败疯狂科学家弗米伽提。</CHS>
 				</desc>
 			</kill_fulmigati>
 			<perun_2_completed>
 				<name1>
-					<CHS>震慑与敬畏</CHS>
+					<CHS>震撼与威慑</CHS>
 				</name1>								
 				<desc>
-					<CHS>释放佩伦之力</CHS>
+					<CHS>释放佩伦的力量</CHS>
 				</desc>
 			</perun_2_completed>
 			<defeat_drillingtorony>
 				<name1>
-					<CHS>工作中的扳手</CHS>
+					<CHS>从中作梗</CHS>
 				</name1>								
 				<desc>
-					<CHS>摧毁活动提取设备。</CHS>
+					<CHS>毁掉活动萃取装置</CHS>
 				</desc>
 			</defeat_drillingtorony>
 			<defeat_harker_dryad>
 				<name1>
-					<CHS>邪恶之源</CHS>
+					<CHS>恶魔之根</CHS>
 				</name1>								
 				<desc>
-					<CHS>击败树妖女王和哈克将军。</CHS>
+					<CHS>打败树精女王和哈克将军。</CHS>
 				</desc>
 			</defeat_harker_dryad>
 			<crystal_bastion>
@@ -215,15 +214,15 @@
 					<CHS>水晶堡垒</CHS>
 				</name1>
 				<desc>
-					<CHS>击败门之主</CHS>
+					<CHS>打败守门大师</CHS>
 				</desc>
 			</crystal_bastion>
 			<follow_the_leader>
 				<name1>
-					<CHS>跟着领袖</CHS>
+					<CHS>跟随首领</CHS>
 				</name1>
 				<desc>
-					<CHS>你击败了七邪教的领袖。</CHS>
+					<CHS>你打败了七人异教的领袖。</CHS>
 				</desc>
 			</follow_the_leader>
 			<lock_and_key>
@@ -231,60 +230,60 @@
 					<CHS>钥匙和锁</CHS>
 				</name1>
 				<desc>
-					<CHS>你封锁了罪恶坟墓。</CHS>
+					<CHS>你封印了无望坟墓。</CHS>
 				</desc>
 			</lock_and_key>
 			<defying_death>
 				<name1>
-					<CHS>蔑视死亡</CHS>
+					<CHS>挑战死亡</CHS>
 				</name1>
 				<desc>
-					<CHS>你摧毁了克什之死</CHS>
+					<CHS>你打败了科谢的亡魂。</CHS>
 				</desc>
 			</defying_death>
 			<ride_into_the_sunset>
 				<name1>
-					<CHS>朝夕阳奔跑</CHS>
+					<CHS>驶向夕阳</CHS>
 				</name1>
 				<desc>
-					<CHS>你击败了不死者克什并拯救了博格维亚。</CHS>
+					<CHS>你已经打败了不灭的科席，并拯救了博格维娅。</CHS>
 				</desc>
 			</ride_into_the_sunset>
 			<hardcore_ending>
 				<name1>
-					<CHS>我是个硬汉！</CHS>
+					<CHS>我太男人了！</CHS>
 				</name1>
 				<desc>
-					<CHS>用一位核心角色完成游戏。</CHS>
+					<CHS>以专家级角色完成游戏</CHS>
 				</desc>
 			</hardcore_ending>
 			<mostly_coop>
 				<name1>
-					<CHS>永不孤身行走</CHS>
+					<CHS>永不独行</CHS>
 				</name1>
 				<desc>
-					<CHS>使用团队模式通关游戏。</CHS>
+					<CHS>几乎完全在多人模式下完成游戏。</CHS>
 				</desc>
 			</mostly_coop>
 			<full_solo>
 				<name1>
-					<CHS>孤狼</CHS>
+					<CHS>独狼</CHS>
 				</name1>
 				<desc>
-					<CHS>使用单人模式通关游戏。</CHS>
+					<CHS>在单人模式下完成游戏。</CHS>
 				</desc>
 			</full_solo>
 			<daily_quest_completed>
 				<name1>
-					<CHS>但是等等！还有更多！</CHS>
+					<CHS>等等！这还不算完！</CHS>
 				</name1>
 				<desc>
-					<CHS>完成一个日常任务</CHS>
+					<CHS>完成一个日常任务。</CHS>
 				</desc>
 			</daily_quest_completed>
 			<scenario_completed>
 				<name1>
-					<CHS>步伐的改变</CHS>
+					<CHS>换换口味</CHS>
 				</name1>
 				<desc>
 					<CHS>完成一次冒险。</CHS>
@@ -292,48 +291,48 @@
 			</scenario_completed>
 			<scenario_types>
 				<name1>
-					<CHS>周游世界</CHS>
+					<CHS>环游世界</CHS>
 				</name1>
 				<desc>
-					<CHS>玩遍所有的冒险类型。</CHS>
+					<CHS>玩过每一种冒险。</CHS>
 				</desc>
 			</scenario_types>
 			<td_mission_perfect>
 				<name1>
-					<CHS>完美的计划</CHS>
+					<CHS>完美计划</CHS>
 				</name1>
 				<desc>
-					<CHS>在任何一个怪物到达大门之前完成一次塔防任务。</CHS>
+					<CHS>完成一个塔防任务，而且没有让任何一只怪物抵达大门。</CHS>
 				</desc>
 			</td_mission_perfect>
 			<killed_monsters_total>
 				<name1>
-					<CHS>怪物的祸害</CHS>
+					<CHS>怪物的毒药</CHS>
 				</name1>
 				<desc>
-					<CHS>击杀大量怪物，你可以在人类中出名，也会在在怪物中变得臭名昭著。</CHS>
+					<CHS>杀死大量怪物会让你在平民世界里出名，在怪物中则声名狼藉</CHS>
 				</desc>
 				<req>
-					<CHS>(已击杀怪物: $CurrentValue$/$NextLevelValue$)</CHS>
+					<CHS>（杀死的怪物：$CurrentValue$/$NextLevelValue$）</CHS>
 				</req>
 			</killed_monsters_total>
 			<ghost_of_war>
 				<name1>
-					<CHS>释放战争鬼魂</CHS>
+					<CHS>释放战争幽灵。</CHS>
 				</name1>
 				<desc>
-					<CHS>让卡特琳娜女士杀死首领。(完成最后一击就行了。)</CHS>
+					<CHS>让卡特琳娜女士击杀一个Boss。（让出最后一击就够了）</CHS>
 				</desc>
 			</ghost_of_war>
 			<killed_monsters_boss>
 				<name1>
-					<CHS>复仇者</CHS>
+					<CHS>复仇女神</CHS>
 				</name1>
 				<desc>
-					<CHS>击败Boss来获得声望！</CHS>
+					<CHS>击败头目以赢得声望！</CHS>
 				</desc>
 				<req>
-					<CHS>（击杀的Boss数：$CurrentValue$/$NextLevelValue$)</CHS>
+					<CHS>（已杀头目：$CurrentValue$/$NextLevelValue$）</CHS>
 				</req>
 			</killed_monsters_boss>
 			<killed_monsters_miniboss>
@@ -341,45 +340,45 @@
 					<CHS>大英雄</CHS>
 				</name1>
 				<desc>
-					<CHS>击败特殊的敌人来获得声望！</CHS>
+					<CHS>击败特殊敌人以赢得声望！</CHS>
 				</desc>
 				<req>
-					<CHS>（击杀的特殊敌人数：$CurrentValue$/$NextLevelValue$)</CHS>
+					<CHS>（已杀特殊敌人：$CurrentValue$/$NextLevelValue$）</CHS>
 				</req>
 			</killed_monsters_miniboss>
 			<godlike_maxed>
 				<name1>
-					<CHS>如神一般</CHS>
+					<CHS>如同神一般</CHS>
 				</name1>
 				<desc>
-					<CHS>讲一件神装物品升至满级。</CHS>
+					<CHS>将一个神级道具升级至全部潜能。</CHS>
 				</desc>
 			</godlike_maxed>
 			<all_achievements>
 				<name1>
-					<CHS>惊人的冒险</CHS>
+					<CHS>惊奇之旅</CHS>
 				</name1>
 				<desc>
-					<CHS>完成所有的成就。</CHS>
+					<CHS>完成所有成就。</CHS>
 				</desc>
 			</all_achievements>
 			<bunnyslayer>
 				<name1>
-					<CHS>兔子杀手</CHS>
+					<CHS>戮兔者</CHS>
 				</name1>
 				<desc>
-					<CHS>找到神秘之剑 - 兔子杀手。</CHS>
+					<CHS>用兔子杀手打败兔子。</CHS>
 				</desc>
 			</bunnyslayer>
 			<riddle_me_wisp>
 				<name1>
-					<CHS>谜语精灵</CHS>
+					<CHS>难缠之灵</CHS>
 				</name1>
 				<desc>
-					<CHS>回答所有谜语精灵的问题 (这样可以避免和他们交战).</CHS>
+					<CHS>正确回答Riddle Wisps的所有问题（所以你不能再和他们打架了）。</CHS>
 				</desc>
 				<req>
-					<CHS>(已回答的谜语: $CurrentValue$/$NextLevelValue$)</CHS>
+					<CHS>(已回答Wisps: $CurrentValue$/$NextLevelValue$)</CHS>
 				</req>
 			</riddle_me_wisp>
 			<rightful_heir>
@@ -387,7 +386,7 @@
 					<CHS>合法继承人</CHS>
 				</name1>
 				<desc>
-					<CHS>取回国王鲍里斯拉夫的权杖。</CHS>
+					<CHS>检查波利斯拉夫国王的皇家权杖。</CHS>
 				</desc>
 			</rightful_heir>
 			<gandalf_looted>
@@ -395,79 +394,79 @@
 					<CHS>灰色宝藏</CHS>
 				</name1>
 				<desc>
-					<CHS>拾取灰袍巫师的战利品</CHS>
+					<CHS>劫掠灰巫师。</CHS>
 				</desc>
 			</gandalf_looted>
 			<bomb_expert>
 				<name1>
-					<CHS>爆炸！</CHS>
+					<CHS>爆炸了啊！</CHS>
 				</name1>
 				<desc>
-					<CHS>救炸弹专家一命。</CHS>
+					<CHS>救炸弹专家的命</CHS>
 				</desc>
 			</bomb_expert>
 			<jack_not_free>
 				<name1>
-					<CHS>分析者</CHS>
+					<CHS>分析师</CHS>
 				</name1>
 				<desc>
-					<CHS>你辨认危险罪犯的能力超群，知道应该把什么人抓进监狱。</CHS>
+					<CHS>你有一种不可思议的能辨认出危险罪犯的感觉，并且你知道谁应该躲在吧台后面。</CHS>
 				</desc>
 			</jack_not_free>
 			<murky_waters>
 				<name1>
-					<CHS>浑水</CHS>
+					<CHS>混浊的水</CHS>
 				</name1>
 				<desc>
-					<CHS>你发现了实验室的水下区域。</CHS>
+					<CHS>你发现了实验室的水下部分。</CHS>
 				</desc>
 			</murky_waters>
 			<grimm_truth>
 				<name1>
-					<CHS>残酷的事实</CHS>
+					<CHS>格林的本意（译者注：格林童话作者）</CHS>
 				</name1>
 				<desc>
-					<CHS>你发现了汉塞尔和格雷泰尔的故事</CHS>
+					<CHS>你揭露了韩赛尔与格蕾特故事的真相。</CHS>
 				</desc>
 			</grimm_truth>
 			<poni>
 				<name1>
-					<CHS>她的小马。</CHS>
+					<CHS>她的小马</CHS>
 				</name1>
 				<desc>
-					<CHS>你找到了失踪小马的坟墓。</CHS>
+					<CHS>你发现了失踪小马的墓穴。</CHS>
 				</desc>
 			</poni>
 			<katarina_rokon>
 				<name1>
-					<CHS>家人团聚</CHS>
+					<CHS>家庭团聚</CHS>
 				</name1>
 				<desc>
-					<CHS>你在卡特琳娜遇到了卡特琳娜的家人。</CHS>
+					<CHS>你在其他世界遇见了卡特琳娜的一个亲戚。</CHS>
 				</desc>
 			</katarina_rokon>
 			<upgrade_critical_damage>
 				<name1>
-					<CHS>致命伤害</CHS>
+					<CHS>暴击伤害</CHS>
 				</name1>
 				<desc>
-					<CHS>造成更多的伤害总没有坏处。</CHS>
+					<CHS>伤害越多越好。</CHS>
 				</desc>
 			</upgrade_critical_damage>
 			<upgrade_critical_chance>
 				<name1>
-					<CHS>暴击率</CHS>
+					<CHS>暴击几率</CHS>
 				</name1>
 				<desc>
-					<CHS>造成更多的致命总没有坏处。</CHS>
+					<CHS>致命一击率越高越好。</CHS>
 				</desc>
 			</upgrade_critical_chance>
 			<upgrade_attack_rate>
 				<name1>
-					<CHS>攻速</CHS>
+					<CHS>攻击频率</CHS>
 				</name1>
 				<desc>
-					<CHS>每秒攻击越多，伤害也就越多，太棒了！</CHS>
+					<CHS>每秒攻速越高，每秒造成的伤害就越高。真棒！</CHS>
 				</desc>
 			</upgrade_attack_rate>
 			<upgrade_fire_damage>
@@ -475,31 +474,31 @@
 					<CHS>火焰伤害</CHS>
 				</name1>
 				<desc>
-					<CHS>造成更多的火焰伤害。</CHS>
+					<CHS>火焰造成更多伤害。</CHS>
 				</desc>
 			</upgrade_fire_damage>
 			<upgrade_cold_damage>
 				<name1>
-					<CHS>寒冰伤害</CHS>
+					<CHS>冰冷伤害</CHS>
 				</name1>
 				<desc>
-					<CHS>造成更多的冰冻伤害。</CHS>
+					<CHS>冰冻造成更多伤害。</CHS>
 				</desc>
 			</upgrade_cold_damage>
 			<upgrade_lightning_damage>
 				<name1>
-					<CHS>闪电伤害</CHS>
+					<CHS>雷属性伤害</CHS>
 				</name1>
 				<desc>
-					<CHS>造成更多的闪电伤害。</CHS>
+					<CHS>闪电造成更多伤害。</CHS>
 				</desc>
 			</upgrade_lightning_damage>
 			<upgrade_poison_damage>
 				<name1>
-					<CHS>毒素伤害</CHS>
+					<CHS>毒伤害</CHS>
 				</name1>
 				<desc>
-					<CHS>造成更多的中毒伤害。</CHS>
+					<CHS>毒素造成更多伤害。</CHS>
 				</desc>
 			</upgrade_poison_damage>
 			<upgrade_physical_damage>
@@ -512,10 +511,10 @@
 			</upgrade_physical_damage>
 			<upgrade_hp>
 				<name1>
-					<CHS>HP</CHS>
+					<CHS>生命</CHS>
 				</name1>
 				<desc>
-					<CHS>奖励攻击点数很好。</CHS>
+					<CHS>额外生命越多越好。</CHS>
 				</desc>
 			</upgrade_hp>
 			<upgrade_mana>
@@ -523,15 +522,15 @@
 					<CHS>魔法</CHS>
 				</name1>
 				<desc>
-					<CHS>奖励魔法点数很好。</CHS>
+					<CHS>额外法力越多越好。</CHS>
 				</desc>
 			</upgrade_mana>
 			<upgrade_cooldown_reduction>
 				<name1>
-					<CHS>冷却缩短</CHS>
+					<CHS>减少冷却时间</CHS>
 				</name1>
 				<desc>
-					<CHS>冷却时间缩短后，你可以更快速地施展咒语。</CHS>
+					<CHS>减少冷却时间可以让你可以更快使用法术。</CHS>
 				</desc>
 			</upgrade_cooldown_reduction>
 			<upgrade_dodge>
@@ -539,7 +538,7 @@
 					<CHS>闪避</CHS>
 				</name1>
 				<desc>
-					<CHS>更多闪避 = 承受攻击更少。</CHS>
+					<CHS>多闪避=少受伤。</CHS>
 				</desc>
 			</upgrade_dodge>
 			<upgrade_physical_resist>
@@ -547,23 +546,23 @@
 					<CHS>物理抗性</CHS>
 				</name1>
 				<desc>
-					<CHS>较高的物理伤害抵抗迟早有用。</CHS>
+					<CHS>高物理抗性应该很好用。</CHS>
 				</desc>
 			</upgrade_physical_resist>
 			<upgrade_elemental_resist>
 				<name1>
-					<CHS>元素抵抗</CHS>
+					<CHS>元素抗性</CHS>
 				</name1>
 				<desc>
-					<CHS>较高的元素伤害抵抗迟早有用。</CHS>
+					<CHS>高元素抗性应该很好用。</CHS>
 				</desc>
 			</upgrade_elemental_resist>
 			<upgrade_poison_resist>
 				<name1>
-					<CHS>毒素抵抗</CHS>
+					<CHS>抗毒力</CHS>
 				</name1>
 				<desc>
-					<CHS>较高的中毒伤害抵抗迟早有用。</CHS>
+					<CHS>高毒素抗性应该很好用。</CHS>
 				</desc>
 			</upgrade_poison_resist>
 			<upgrade_defense>
@@ -571,15 +570,15 @@
 					<CHS>防御</CHS>
 				</name1>
 				<desc>
-					<CHS>防御更高，受到的伤害就越少。</CHS>
+					<CHS>更高的防御=更少的伤害。</CHS>
 				</desc>
 			</upgrade_defense>
 			<upgrade_parry>
 				<name1>
-					<CHS>格挡</CHS>
+					<CHS>招架</CHS>
 				</name1>
 				<desc>
-					<CHS>格挡越高，受到的攻击就越少。（在使用剑的情况下。）</CHS>
+					<CHS>更多招架=更少被打中（用剑时）。</CHS>
 				</desc>
 			</upgrade_parry>
 			<upgrade_damage_reduction>
@@ -587,7 +586,7 @@
 					<CHS>伤害减免</CHS>
 				</name1>
 				<desc>
-					<CHS>获得较少的伤害总是很好的。</CHS>
+					<CHS>受伤越少越好。</CHS>
 				</desc>
 			</upgrade_damage_reduction>
 			<upgrade_hp_regen>
@@ -595,15 +594,15 @@
 					<CHS>怒气</CHS>
 				</name1>
 				<desc>
-					<CHS>对怒气的增益总是非常棒的。</CHS>
+					<CHS>能得到额外的狂怒点数总是好事。</CHS>
 				</desc>
 			</upgrade_hp_regen>
 			<upgrade_mana_regen>
 				<name1>
-					<CHS>魔法回复</CHS>
+					<CHS>魔法恢复</CHS>
 				</name1>
 				<desc>
-					<CHS>魔法力恢复速度加快有很大的帮会组。</CHS>
+					<CHS>高法力恢复速度非常有用。</CHS>
 				</desc>
 			</upgrade_mana_regen>
 		</Deeds>

@@ -8,17 +8,17 @@
 		<DLG_Ch2_bossfight_end2>
 			<node1>
 				<Desc>
-					<CHS>好吧。走吧。</CHS>
+					<CHS>好吧。走。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>我们能走了吗？</CHS>
+					<CHS>我们现在能走了吗？</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>耐心点儿，我的朋友。我马上就会回来。</CHS>
+					<CHS>不好意思啊，朋友。我马上回来。</CHS>
 				</Desc>
 			</node3>
 		</DLG_Ch2_bossfight_end2>

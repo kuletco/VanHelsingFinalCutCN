@@ -8,17 +8,17 @@
 		<DLG_Vhgold_TD1_report>
 			<node1>
 				<Desc>
-					<CHS>啊，你回来了！事情发展的怎么样？你充分利用了陷阱吗？</CHS>
+					<CHS>啊，你回来了！ 事情怎么样了？你好好利用那些陷阱了吗？</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>前哨们非常厉害。陷阱对入侵者起到的作用不大。</CHS>
+					<CHS>哨岗真是太棒了。那些陷阱让我们处理入侵者方便了不少。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>我想陷阱的数量还不够。我建议你先修复陷阱网络。</CHS>
+					<CHS>我用了，但是陷阱的数量不够。我建议你优化一下陷阱网络的排列顺序。</CHS>
 				</Desc>
 			</node3>
 		</DLG_Vhgold_TD1_report>

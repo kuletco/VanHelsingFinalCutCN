@@ -8,27 +8,27 @@
 		<DLG_MQ12_Commands7>
 			<node1>
 				<Desc>
-					<CHS>长官！如果你不介意的话，我想说这地方太过开阔了。我们的防线会太过单薄。</CHS>
+					<CHS>先生！如果你不介意我说话的话，这个地区太过开阔了。我们全部铺展开的话防御力量会太过薄弱的。</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>然而，你必须不惜一切代价守好这里。向巢穴求援！</CHS>
+					<CHS>但是，你必须要不惜一切代价守卫这个地区。请求巢穴支援！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>在高处部署自动炮塔，守好你的位置！</CHS>
+					<CHS>在较高的地方部署自动炮台并守卫阵地！</CHS>
 				</Desc>
 			</node3>
 			<node4>
 				<Desc>
-					<CHS>你必须不惜一切代价守好这些位置！</CHS>
+					<CHS>你必须不惜一切代价坚守阵地！</CHS>
 				</Desc>
 			</node4>
 			<node5>
 				<Desc>
-					<CHS>我先去调查下位置，稍后再想你汇报。</CHS>
+					<CHS>首先我会调查阵地，之后我会给你做个简报。</CHS>
 				</Desc>
 			</node5>
 		</DLG_MQ12_Commands7>

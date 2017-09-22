@@ -14,10 +14,10 @@
 				<CHS>我进入到在我们地下迷宫里打开的墨境之门。最终来到了墨境里一个被遗弃的村庄。希望我能查明这里离裂缝有多近。</CHS>
 			</desc>
 			<main>
-				<CHS>探索被困在墨境中的村庄</CHS>
+				<CHS>探索受困在墨境之中的村民。</CHS>
 			</main>
 			<Go_out>
-				<CHS>穿过通往外面的墨境之门</CHS>
+				<CHS>进入离开这个地方的墨境之门</CHS>
 			</Go_out>
 			<Completed>
 				<CHS>我查明了这个被遗弃的村庄最初是有人居住的，那些来自墨境采石场的难民就住在这里。七号犯人最近就在这里，我怀疑这一定和奇怪的异常现象有所联系。我会跟随他的足迹。</CHS>
@@ -25,22 +25,22 @@
 		</Ch1_The_Sanctuary>
 		<Ch1_Patkanyfogo>
 			<Name>
-				<CHS>魔笛手</CHS>
+				<CHS>花衣魔笛手</CHS>
 			</Name>
 			<desc>
-				<CHS>圣所的村民召唤出一个生物来用他的长笛声引诱这些怪物，但是他却引诱了村民们的孩子。我必须找到这个魔笛手。</CHS>
+				<CHS>避难所的村民召唤了一只生物，打算让他用笛声引走怪物们。但讽刺的是，他引走的却是村民的孩子们。我得找到这位吹笛手。</CHS>
 			</desc>
 			<main>
-				<CHS>找到魔笛手</CHS>
+				<CHS>寻找吹笛手</CHS>
 			</main>
 			<Speak>
-				<CHS>营救孩子</CHS>
+				<CHS>拯救孩子们</CHS>
 			</Speak>
 			<Kill>
-				<CHS>杀死魔笛手，将孩子送回安全地带</CHS>
+				<CHS>杀死吹笛手，护送孩子们安全回家</CHS>
 			</Kill>
 			<Completed>
-				<CHS>我击败了魔笛手，现在，那些孩子能安全地回到他们的父母身边了。</CHS>
+				<CHS>我打败了吹笛手，将孩子们安全送回到各自的父母身边。</CHS>
 			</Completed>
 		</Ch1_Patkanyfogo>
 		<Ch1_Island_of_Bones>
@@ -51,10 +51,10 @@
 				<CHS>我来到了一个陌生的地方，一个神话生物的墓地。它是墨境领域的一部分，是迷雾中的群岛。墨境之心矿井，我的下一个目的地就是那里。</CHS>
 			</desc>
 			<main>
-				<CHS>找到通往墨镜之心矿井的路。</CHS>
+				<CHS>找到通往墨镜矿井的路。</CHS>
 			</main>
 			<Defeat>
-				<CHS>击败采集者</CHS>
+				<CHS>击败收集者</CHS>
 			</Defeat>
 			<Completed>
 				<CHS>暴脾气为了进一步实验而在墨境中捕捉的那些怪物正逍遥法外，杀死它们的守卫。我几百了最强大的野兽，了解到一个门之主已经苏醒。我会对此展开调查。</CHS>
@@ -65,50 +65,50 @@
 				<CHS>笼中的男人</CHS>
 			</Name>
 			<desc>
-				<CHS>我在笼子里发现一个男人，当怪物逃出来的时候，他试着躲藏起来，但是他的计划可能有点有效过头，因为他跑不出来了。我需要找到钥匙：钥匙一定还在那些死人的身上。</CHS>
+				<CHS>我发现一位一位男子被关在笼子里，原来他是在怪物逃脱时躲进笼子中保命，但却没有钥匙打开自己锁上的笼子。我必须找到钥匙：应该就在某个死者的身上。</CHS>
 			</desc>
 			<main>
-				<CHS>找到打开牢笼的钥匙</CHS>
+				<CHS>找到笼子的钥匙</CHS>
 			</main>
 			<Free>
-				<CHS>释放囚犯</CHS>
+				<CHS>释放笼中囚犯</CHS>
 			</Free>
 			<Completed>
-				<CHS>我在监工的口袋里找到了钥匙并释放了囚犯。</CHS>
+				<CHS>我在一位死去的监工身上发现了钥匙并释放了那位囚犯。</CHS>
 			</Completed>
 		</Ch1_The_prisoner_soldier>
 		<Ch1_Inkheart_Mines>
 			<Name>
-				<CHS>墨水心矿山</CHS>
+				<CHS>墨境矿场</CHS>
 			</Name>
 			<desc>
-				<CHS>墨水心矿上属于暴脾气教授。我希望在这里找到一些答案。</CHS>
+				<CHS>墨境矿场是弗米伽提教授的财产。希望能在这里找到一些答案。</CHS>
 			</desc>
 			<main>
-				<CHS>探索废弃矿山。</CHS>
+				<CHS>探索被遗弃的矿场</CHS>
 			</main>
 			<Find_gate>
-				<CHS>找到通往这个领域领主的大门</CHS>
+				<CHS>寻找通往此领域之主的入口</CHS>
 			</Find_gate>
 			<Completed>
-				<CHS>墨水心矿山盛产一种名叫“锈”的矿石，由于一些奇怪的感染而废弃。我听说七号犯人拿了一些这种矿石并前去寻找这个领域的领主，门之主人。</CHS>
+				<CHS>墨境矿场，出产一种叫锈的稀有矿物质，但是却因某种奇怪的疾病而关闭。我发现囚犯七号带了一些锈前往寻找此领域之主，门之大师。</CHS>
 			</Completed>
 		</Ch1_Inkheart_Mines>
 		<Ch1_rust_Infection>
 			<Name>
-				<CHS>锈枯病</CHS>
+				<CHS>锈疫</CHS>
 			</Name>
 			<desc>
-				<CHS>我找到一个感染了的人，他是一名墨水心矿山前老板。他正忍受着锈枯病的折磨。我必须找到一名炼金术士：他能想出治疗方法。</CHS>
+				<CHS>我遇见一位感染重病的人，他是墨境矿场的曾经员工。他患上的这种含有疾病叫做锈疫。我得找个炼金术师为他配制解药。</CHS>
 			</desc>
 			<main>
-				<CHS>和炼金术士谈谈感染的事</CHS>
+				<CHS>跟炼金术师说说疾病的事</CHS>
 			</main>
 			<Go_back>
-				<CHS>返回受感染者那儿</CHS>
+				<CHS>回去找感染重病的男人</CHS>
 			</Go_back>
 			<Completed>
-				<CHS>还好我找到了一名炼金术士，他对能治疗这种罕见病感到十分兴奋。</CHS>
+				<CHS>很幸运找到了一位炼金术师，他很开心有机会治疗这么罕见的疾病。</CHS>
 			</Completed>
 		</Ch1_rust_Infection>
 		<Ch1_Rusty_Heart>
@@ -116,16 +116,16 @@
 				<CHS>锈心</CHS>
 			</Name>
 			<desc>
-				<CHS>杀死受伤者并取走他的心</CHS>
+				<CHS>击杀重伤的男人，夺走他的心脏</CHS>
 			</desc>
 			<main>
-				<CHS>收集生锈的心</CHS>
+				<CHS>收集锈心</CHS>
 			</main>
 			<Go_back>
-				<CHS>回去找炼金术士</CHS>
+				<CHS>回去找炼金术师</CHS>
 			</Go_back>
 			<Completed>
-				<CHS>我必须做一个重大的决定：药对受感染者没有作用所以我杀了他。但是疾病让他的心脏成为了日后研究的重要物品。</CHS>
+				<CHS>我做出了一个艰难的决定：解药无法救治并入膏盲的男人，所以我杀了他。但是这种疾病将他的心脏改造成了一种极其珍贵的材料，可用作以后的研究。</CHS>
 			</Completed>
 		</Ch1_Rusty_Heart>
 		<Ch1_Crystal_Bastion>
@@ -136,10 +136,10 @@
 				<CHS>我找到了所谓的门之主人的居住地-它是一个被七号犯人从永恒睡眠中唤醒的生物。我想他是那扇神秘大门的创造者。</CHS>
 			</desc>
 			<main>
-				<CHS>击败这个领域的领主</CHS>
+				<CHS>击败领域之主</CHS>
 			</main>
 			<Completed>
-				<CHS>这个生物死了，现在大门一定也关上了。未污染地区没有人再擅自进入这里。但是七号犯人还在至黑地区用他收集的神秘的梦材料谋划着一些事情。</CHS>
+				<CHS>他死了，那道门现在应该关上了。再也不会有异界生物穿越了。但是囚犯七号依然逍遥法外，他一定想利用手上的梦幻材料密谋些什么。</CHS>
 			</Completed>
 		</Ch1_Crystal_Bastion>
 	</Quests>
@@ -148,30 +148,30 @@
 			<Ink_tukor_varos>
 				<BNT_tukorvaros_indulas>
 					<01_Katarina>
-						<CHS>这个地方看起来像诡异科学改变所有事情之前的老博格维亚。</CHS>
+						<CHS>这个地方很像被奇怪的科学摧毁前的博格瓦。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>所以墨境还有一些时间遗忘的角落。好极了。</CHS>
+						<CHS>看来墨境中还有一些被时光忘却的地方。太好了。</CHS>
 					</02_VH>
 				</BNT_tukorvaros_indulas>
 				<CUT_tukorvaros_Sanctuary>
 					<01_NPC_DLC_major>
-						<CHS>陌生人！你是来帮助我们的吗？</CHS>
+						<CHS>陌生人！你是来帮我们的吗？</CHS>
 					</01_NPC_DLC_major>
 					<02_Katarina>
-						<CHS>好吧，这要看。你知道我们有点挑的。</CHS>
+						<CHS>那就要看情况了。我们可是很挑剔的。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>这是什么地方，这里发生了什么？</CHS>
+						<CHS>这是什么地方？出了什么事？</CHS>
 					</03_VH>
 					<04_NPC_DLC_major>
-						<CHS>这里是避难所！我们曾经在墨水心矿山工作，直到有一天发生了事故。我们封锁了通往诅咒之地的大门，但是...</CHS>
+						<CHS>这是避难所！我们原本都是墨境矿场的员工，直到出了那起意外。我们关闭了那道通往天杀的地方的门口，但是……</CHS>
 					</04_NPC_DLC_major>
 					<05_Katarina>
 						<CHS>你刚说”事故“？</CHS>
 					</05_Katarina>
 					<06_NPC_DLC_major>
-						<CHS>...但是突然一个戴着面具的神秘人出现并打开了大门。他离开了，但是怪物从另一边冲了进来。</CHS>
+						<CHS>……一位神秘面罩男士从天而降打开了一道门。他离开后，怪物就从门中不断涌出！</CHS>
 					</06_NPC_DLC_major>
 					<07_VH>
 						<CHS>七号犯人！我早该知道。我们必须找到那扇门。放心，我们会清理沿途的村庄。</CHS>
@@ -179,22 +179,22 @@
 				</CUT_tukorvaros_Sanctuary>
 				<CUT_Happy_family>
 					<01_Katarina>
-						<CHS>我会救回孩子的。</CHS>
+						<CHS>我把孩子们带回家吧。</CHS>
 					</01_Katarina>
 					<02_VH>
-						<CHS>告诉他们的父母他们不该召唤强大的实体来解决问题。</CHS>
+						<CHS>并且警告那些为人父母者不要玩火自焚。</CHS>
 					</02_VH>
 				</CUT_Happy_family>
 				<BNT_tukorvaros_kifozde>
 					<01_NPC_szakacs>
-						<CHS>回头客是最好的称赞！但是，视频间中没有很多材料了。</CHS>
+						<CHS>我很欢迎来访的客人，可惜我的厨房中已无更多的材料了。</CHS>
 					</01_NPC_szakacs>
 				</BNT_tukorvaros_kifozde>
 			</Ink_tukor_varos>
 			<Ink_csont>
 				<BNT_Ink_csont_kezdo>
 					<01_VH>
-						<CHS>这肯定就是传奇生物受死的地方。</CHS>
+						<CHS>这个地方应该就是传奇生物临终前来安眠的地方。</CHS>
 					</01_VH>
 					<02_Katarina>
 						<CHS>从情况上看，我会说他们是先被抓住的。</CHS>
@@ -202,10 +202,10 @@
 				</BNT_Ink_csont_kezdo>
 				<CUT_Volodya_information>
 					<01_NPC_Volodya>
-						<CHS>哦，终于有人来了！救救我！</CHS>
+						<CHS>哦，谢天谢地！快救救我！</CHS>
 					</01_NPC_Volodya>
 					<02_VH>
-						<CHS>你是谁，这里又是什么地方。</CHS>
+						<CHS>你是谁？这是什么地方？</CHS>
 					</02_VH>
 					<03_NPC_Volodya>
 						<CHS>这里曾经是暴脾气的贼窝，在他们把生物带到城市中之前他们把他们生物 关在这里。我现在能走了吗？</CHS>
@@ -220,18 +220,18 @@
 						<CHS>我会解决这个收集者。你怎么活下来的？</CHS>
 					</06_VH>
 					<07_NPC_Volodya>
-						<CHS>我很幸运并且装聋作哑。我试着隐藏在这里但是我忘记那要是了。</CHS>
+						<CHS>我既聪明又愚笨。我躲进来这里，但却忘了带上钥匙。</CHS>
 					</07_NPC_Volodya>
 					<08_Katarina>
-						<CHS>好了，请祝你玩得开心。再见。</CHS>
+						<CHS>那就祝你在里面呆得愉快。再见！</CHS>
 					</08_Katarina>
 					<09_NPC_Volodya>
-						<CHS>等一下！监工有打开门的钥匙，但是生物抓住了它。钥匙移动还在他口袋里。</CHS>
+						<CHS>等等！监工有钥匙，但是他被怪物们吊死了。钥匙应该还在他的裤袋里。</CHS>
 					</09_NPC_Volodya>
 				</CUT_Volodya_information>
 				<BNT_return_to_Volodya>
 					<01_VH>
-						<CHS>今天是你的幸运日。我们找到了钥匙。</CHS>
+						<CHS>你今天走运了。我们找到了钥匙。</CHS>
 					</01_VH>
 					<02_NPC_Volodya>
 						<CHS>谢谢你！如果不介意，我要再待一下。直到你解决了怪物。</CHS>
@@ -239,29 +239,29 @@
 				</BNT_return_to_Volodya>
 				<CUT_The_Collector>
 					<01_Ink_csont_bies_boss>
-						<CHS>你在这里做什么？这个地方还有那扇门之后的东西都属于门之大师。</CHS>
+						<CHS>你在这里干嘛？这里的所有一切都是属于门之大师的！</CHS>
 					</01_Ink_csont_bies_boss>
 					<02_VH>
-						<CHS>我不知道这个大师是谁。你介意我详细说一下嘛？</CHS>
+						<CHS>我不知道你说的什么大师？能给我解惑下吗？</CHS>
 					</02_VH>
 					<03_Ink_csont_bies_boss>
-						<CHS>他用响指来打开并关闭大门。他已经从沉睡中苏醒并收回了他在墨境的岛屿！</CHS>
+						<CHS>他弹指之间开门关门。他刚被从沉睡中唤醒，现在将会收拾墨境中的旧山河。</CHS>
 					</03_Ink_csont_bies_boss>
 					<04_VH>
-						<CHS>让我猜一下……他不想在他的土地上看见人任何人，是吗？</CHS>
+						<CHS>让我猜猜……他喜欢自己的土地上出现陌生人，对吗？</CHS>
 					</04_VH>
 					<05_Ink_csont_bies_boss>
-						<CHS>你是个聪明的小伙子。你剥皮后的皮肤会是给我的主人很好的礼物。</CHS>
+						<CHS>你真聪明！主人应该会喜欢你被剥下来的皮肤。</CHS>
 					</05_Ink_csont_bies_boss>
 				</CUT_The_Collector>
 			</Ink_csont>
 			<Ink_quarry>
 				<BNT_inkheart>
 					<01_VH>
-						<CHS>这一定就是废弃的墨水心矿山。。</CHS>
+						<CHS>这里应该就是被遗弃的墨境矿场。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>现在在一个皇家门卫手中。</CHS>
+						<CHS>现在是属于伟大的看门人的。</CHS>
 					</02_Katarina>
 					<03_VH>
 						<CHS>这让一切开始变得明朗。首先让七号犯人通过这里，然后一个真正的门之大师回来了，然后一个神秘的墨境涌流出现在藏身处中。</CHS>
@@ -272,7 +272,7 @@
 				</BNT_inkheart>
 				<CUT_fertozott_koldus>
 					<01_NPC_fertozott_koldus>
-						<CHS>小心！我感染了锈枯病。是那个面具人传给你的吗？</CHS>
+						<CHS>小心！我感染了锈疫。是那个面具人传给你的吗？</CHS>
 					</01_NPC_fertozott_koldus>
 					<02_VH>
 						<CHS>不是，但是我很想找到他。他去哪里了？</CHS>
@@ -281,13 +281,13 @@
 						<CHS>是的，他不是很爱说话。他夺走了我们最后一个装满锈的箱子并朝禁忌墨境之门进发。通往门之大师宫殿的大门。</CHS>
 					</03_NPC_fertozott_koldus>
 					<04_Katarina>
-						<CHS>锈枯病是什么？</CHS>
+						<CHS>这所谓的锈疫是什么东西？</CHS>
 					</04_Katarina>
 					<05_NPC_fertozott_koldus>
 						<CHS>锈是一种你能在这里找到的罕见梦材料。它提高了墨境的性能。但是在精炼厂发生了事故...我们都染上了锈枯病，</CHS>
 					</05_NPC_fertozott_koldus>
 					<06_VH>
-						<CHS>这个病致命吗？</CHS>
+						<CHS>有生命危险吗？</CHS>
 					</06_VH>
 					<07_NPC_fertozott_koldus>
 						<CHS>炼金术士可能有治疗的药物。但是我是这里除了工业野兽外的唯一活物。其他人要么死了，要么逃了。</CHS>
@@ -298,13 +298,13 @@
 				</CUT_fertozott_koldus>
 				<CUT_Rust_curse>
 					<01_NPC_fertozott_koldus>
-						<CHS>哦...你是来杀我的。</CHS>
+						<CHS>哦……你是来杀我的。</CHS>
 					</01_NPC_fertozott_koldus>
 					<02_Katarina>
-						<CHS>为什么你那样说？</CHS>
+						<CHS>你为什么这么说？</CHS>
 					</02_Katarina>
 					<03_NPC_fertozott_koldus>
-						<CHS>锈枯病让你能一窥真相...但是这不容易...我变成了更强大的生物！我想先杀了你！</CHS>
+						<CHS>锈疫让你能一窥真相...但是这不容易...我变成了更强大的生物！我想先杀了你！</CHS>
 					</03_NPC_fertozott_koldus>
 				</CUT_Rust_curse>
 				<CUT_hazimano_POI>
@@ -312,19 +312,19 @@
 						<CHS>滚开！你不能在这里！滚开，你们这群人！</CHS>
 					</01_NPC_hazimano>
 					<02_Katarina>
-						<CHS>哦，一只家养小精灵。他们就像幽灵一样照看这个房子，但是他们有强大的魔法力量。</CHS>
+						<CHS>哦，是一个家精灵。他们就像家神一样，负责打理家居。不过他们拥有强大的魔法力量。</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>所以你是一名强力的巫师了你还会打扫房间吗？那是多可怜啊？</CHS>
+						<CHS>这么说，你是一位强大的法师，却还要负责扫地？难道你的偶像是扫地老僧？</CHS>
 					</03_VH>
 					<04_NPC_hazimano>
 						<CHS>那么？这就是我们做的，这是传统在我把你变样儿之前快滚！</CHS>
 					</04_NPC_hazimano>
 					<05_Katarina>
-						<CHS>哦，你真是丑陋悲惨！</CHS>
+						<CHS>哦，你真是丑陋而又悲惨！</CHS>
 					</05_Katarina>
 					<06_VH>
-						<CHS>你知道什么？你迷路了！</CHS>
+						<CHS>你懂什么？快滚！</CHS>
 					</06_VH>
 				</CUT_hazimano_POI>
 			</Ink_quarry>
@@ -337,10 +337,10 @@
 						<CHS>这个地方感觉古老而纯洁。暴脾气无法用他的科学污染这个领域</CHS>
 					</02_Katarina>
 					<03_VH>
-						<CHS>这证明门之主人肯定是个上古生物。</CHS>
+						<CHS>也就是说这位门之大师是一只很古老的生物。</CHS>
 					</03_VH>
 					<04_Katarina>
-						<CHS>一个被七号犯人从永恒睡眠中唤醒的生物。</CHS>
+						<CHS>被我们的囚犯七号从长眠中唤醒。</CHS>
 					</04_Katarina>
 					<05_VH>
 						<CHS>听上去很不错。我们走。</CHS>
@@ -348,10 +348,10 @@
 				</BNT_hereweare>
 				<CUT_Master_of_Doors>
 					<01_Ink_kristalyos_erdo_szelleme_boss>
-						<CHS>范海辛！你名不副实。</CHS>
+						<CHS>范海辛！久仰大名。</CHS>
 					</01_Ink_kristalyos_erdo_szelleme_boss>
 					<02_VH>
-						<CHS>看起来就像我的敌人。</CHS>
+						<CHS>就跟我的敌人一样。</CHS>
 					</02_VH>
 					<03_Ink_kristalyos_erdo_szelleme_boss>
 						<CHS>是的。我在你的面具朋友叫醒我之后和他做了一个交易。我打开通往墨境至黑领域的路然后他离开。你抓不到他的，对不起。他告诉我你的底下藏身处的准确位置，所以我打开了附近的另一扇门。</CHS>
@@ -363,21 +363,21 @@
 						<CHS>没事。我还是会突然出现...杀死所有人，抢夺你的藏身处...并在我在那里的时候参观一下现代城市。</CHS>
 					</05_Ink_kristalyos_erdo_szelleme_boss>
 					<06_VH>
-						<CHS>关上大门。现在。</CHS>
+						<CHS>关上大门。马上。</CHS>
 					</06_VH>
 					<07_Ink_kristalyos_erdo_szelleme_boss>
 						<CHS>我想那么做也无能为力啊。只要我还有一口气这扇门就必须开着。</CHS>
 					</07_Ink_kristalyos_erdo_szelleme_boss>
 					<08_VH>
-						<CHS>好极了！一开始我以为这个很困难。</CHS>
+						<CHS>太好了！我还以为有多难。</CHS>
 					</08_VH>
 				</CUT_Master_of_Doors>
 				<CUT_1DLC_Finale>
 					<01_VH>
-						<CHS>这个生物死了，现在大门一定也关上了。未污染地区没有人再擅自进入这里。</CHS>
+						<CHS>那只生物挂了，那道门应该关上了。不会再有异界生物跑到未被侵蚀的世界。</CHS>
 					</01_VH>
 					<02_Katarina>
-						<CHS>你确定吗？七号犯人在至黑地区用他收集的神秘的梦材料谋划着一些事情。</CHS>
+						<CHS>你确定吗？囚犯七号还在最深最暗的地方，可能在利用那些梦幻材料密谋什么诡计。</CHS>
 					</02_Katarina>
 					<03_VH>
 						<CHS>但是我们还要活着再战斗。我们回家吧。</CHS>
@@ -385,7 +385,7 @@
 				</CUT_1DLC_Finale>
 				<BNT_smallzilla_POI>
 					<01_Katarina>
-						<CHS>看，看！太可爱了！我能把他带回家吗，范海辛？</CHS>
+						<CHS>快看，好可爱啊！我能把它带回家吗，范海辛？</CHS>
 					</01_Katarina>
 					<02_VH>
 						<CHS>我不知道这是什么生物，但是看起来还很幼小。他的母亲可能还在附近。</CHS>
@@ -414,7 +414,7 @@
 				</terep_ink_csont>
 				<terep_ink_quarry>
 					<name>
-						<CHS>墨水心矿山</CHS>
+						<CHS>墨境矿场</CHS>
 					</name>
 				</terep_ink_quarry>
 				<terep_ink_kristalyos>
@@ -432,62 +432,62 @@
 		<GameObject>
 			<Info>
 				<Ketrecfelugyelo_hulla>					
-					<CHS>吊死鬼</CHS>
+					<CHS>被吊死的人</CHS>				
 				</Ketrecfelugyelo_hulla>
 				<Ink_csont_sarkanyfog>					
-					<CHS>龙骨</CHS>
+					<CHS>龙骨</CHS>				
 				</Ink_csont_sarkanyfog>
 				<Ink_csont_ketrec_ajto>					
-					<CHS>上锁的笼子</CHS>
+					<CHS>锁上的笼子</CHS>				
 				</Ink_csont_ketrec_ajto>
 				<Csont_teleport1>					
-					<CHS>墨门</CHS>
+					<CHS>墨境之门</CHS>				
 				</Csont_teleport1>
 				<Csont_teleport2>					
-					<CHS>墨门</CHS>
+					<CHS>墨境之门</CHS>				
 				</Csont_teleport2>
 				<Entrance_to_ink_quarry>					
-					<CHS>墨门</CHS>
+					<CHS>墨境之门</CHS>				
 				</Entrance_to_ink_quarry>
 				<quarry_door>					
-					<CHS>奇怪的门</CHS>
+					<CHS>奇怪的门</CHS>				
 				</quarry_door>
 				<waypoint_ink_quarry_end>					
-					<CHS>洛基裂口</CHS>
+					<CHS>岩石缝隙</CHS>				
 				</waypoint_ink_quarry_end>
 				<Hidden_rock>					
-					<CHS>闪耀石头</CHS>
+					<CHS>闪亮石头</CHS>				
 				</Hidden_rock>
 				<Bossfight_segedkapu>					
-					<CHS>墨门</CHS>
+					<CHS>墨境之门</CHS>				
 				</Bossfight_segedkapu>
 				<Kristalyos_kapu1>					
-					<CHS>垫脚石</CHS>
+					<CHS>踏脚石</CHS>				
 				</Kristalyos_kapu1>
 				<Kristalyos_kapu2>					
-					<CHS>垫脚石</CHS>
+					<CHS>踏脚石</CHS>				
 				</Kristalyos_kapu2>
 				<Teleport_kut>					
-					<CHS>水晶盆地</CHS>
+					<CHS>水晶盆地</CHS>				
 				</Teleport_kut>
 				<terep_ink_tukor_varos>
 					<waypoint_tukorvaros>
-						<CHS>畸形屋</CHS>
+						<CHS>歪楼</CHS>
 					</waypoint_tukorvaros>
 				</terep_ink_tukor_varos>
 				<terep_ink_csont>
 					<waypoint_ink_csont>
-						<CHS>山坡</CHS>
+						<CHS>山脚</CHS>
 					</waypoint_ink_csont>
 				</terep_ink_csont>
 				<terep_ink_quarry>
 					<waypoint_ink_quarry>
-						<CHS>废弃平台</CHS>
+						<CHS>被遗弃的平台</CHS>
 					</waypoint_ink_quarry>
 				</terep_ink_quarry>
 				<terep_ink_kristalyos>
 					<waypoint_ink_kristalyos>
-						<CHS>上古墨境之门</CHS>
+						<CHS>古老的墨境之门</CHS>
 					</waypoint_ink_kristalyos>
 				</terep_ink_kristalyos>
 				<Lair_DLC1>
@@ -501,37 +501,37 @@
 	<Soldiers>
 		<NPC_Volodya>
 			<Name>
-				<CHS>瓦洛佳</CHS>
+				<CHS>沃洛佳</CHS>
 			</Name>
 		</NPC_Volodya>
 		<NPC_infected_man>
 			<Name>
-				<CHS>受感染者</CHS>
+				<CHS>被感染的男人</CHS>
 			</Name>
 		</NPC_infected_man>
 		<NPC_kobold>
 			<Name>
-				<CHS>家养小精灵</CHS>
+				<CHS>家精灵</CHS>
 			</Name>
 		</NPC_kobold>
 		<NPC_Kid1>
 			<Name>
-				<CHS>汉塞尔</CHS>
+				<CHS>韩赛尔</CHS>
 			</Name>
 		</NPC_Kid1>
 		<NPC_Kid2>
 			<Name>
-				<CHS>格雷泰尔</CHS>
+				<CHS>格蕾特</CHS>
 			</Name>
 		</NPC_Kid2>
 		<NPC_Apa>
 			<Name>
-				<CHS>皮埃特 舒尔茨</CHS>
+				<CHS>彼得·舒尔茨</CHS>
 			</Name>
 		</NPC_Apa>
 		<NPC_DLC_major>
 			<Name>
-				<CHS>沃尔夫村长</CHS>
+				<CHS>沃夫市长</CHS>
 			</Name>
 		</NPC_DLC_major>
 		<NPC_szakacs>
@@ -541,7 +541,7 @@
 		</NPC_szakacs>
 		<Ink_tukor_varos_pied_piper>
 			<Name>
-				<CHS>皮耶 皮佩</CHS>
+				<CHS>吹笛手</CHS>
 			</Name>
 		</Ink_tukor_varos_pied_piper>
 		<Bies_boss>
@@ -551,27 +551,27 @@
 		</Bies_boss>
 		<crabling>
 			<Name>
-				<CHS>小螃蟹</CHS>
+				<CHS>幼蟹</CHS>
 			</Name>
 		</crabling>
 		<Metallopod>
 			<Name>
-				<CHS>Metallopod</CHS>
+				<CHS>金属异形</CHS>
 			</Name>
 		</Metallopod>
 		<Metallopod_Deluxe>
 			<Name>
-				<CHS>高级Metallopod</CHS>
+				<CHS>高级金属异形</CHS>
 			</Name>
 		</Metallopod_Deluxe>
 		<Phlogiston_Metallopod>
 			<Name>
-				<CHS>燃素金属豆荚</CHS>
+				<CHS>金属异形燃素师</CHS>
 			</Name>
 		</Phlogiston_Metallopod>
 		<Goofzilla_ink>
 			<Name>
-				<CHS>Smallzilla</CHS>
+				<CHS>小斯拉</CHS>
 			</Name>
 		</Goofzilla_ink>
 		<emerald_golem_elite>
@@ -581,7 +581,7 @@
 		</emerald_golem_elite>
 		<ink_kristalyos_faun>
 			<Name>
-				<CHS>门之主</CHS>
+				<CHS>门之大师</CHS>
 			</Name>
 		</ink_kristalyos_faun>
 		<SpecialAbilities>
@@ -589,13 +589,13 @@
 				<CHS>蝙蝠群</CHS>
 			</Bat_Swarm_Biest>
 			<Jump_Biest>
-				<CHS>死亡俯冲</CHS>
+				<CHS>致命俯冲</CHS>
 			</Jump_Biest>
 			<Crystal_nova>
 				<CHS>水晶新星</CHS>
 			</Crystal_nova>
 			<Shards>
-				<CHS>剃刀碎片</CHS>
+				<CHS>尖锐碎片</CHS>
 			</Shards>
 			<Crystal_Storm>
 				<CHS>水晶风暴</CHS>
@@ -604,7 +604,7 @@
 				<CHS>死亡射线</CHS>
 			</Energy_beam_Behemoth>
 			<Advanced_earthquake>
-				<CHS>毁灭地震</CHS>
+				<CHS>灾难地震</CHS>
 			</Advanced_earthquake>
 		</SpecialAbilities>
 	</Soldiers>
@@ -612,12 +612,12 @@
 		<Items>
 			<Rustblight_Cure>
 				<Name>
-					<CHS>锈枯病解药</CHS>
+					<CHS>锈疫解药</CHS>
 				</Name>
 			</Rustblight_Cure>
 			<Grandmas_Ring>
 				<Name>
-					<CHS>祖母的指环</CHS>
+					<CHS>祖母的戒指</CHS>
 				</Name>
 			</Grandmas_Ring>
 			<vh2lvl60_Plaguedealer>
@@ -627,17 +627,17 @@
 			</vh2lvl60_Plaguedealer>
 			<Vh2lvl60_Frostgore>
 				<Name>
-					<CHS>霜刺</CHS>
+					<CHS>寒霜淤血</CHS>
 				</Name>
 			</Vh2lvl60_Frostgore>
 			<vh2lvl60_Scorge>
 				<Name>
-					<CHS>灾祸</CHS>
+					<CHS>天灾</CHS>
 				</Name>
 			</vh2lvl60_Scorge>
 			<vh2lvl60_Arcane_Glory>
 				<Name>
-					<CHS>神秘荣耀</CHS>
+					<CHS>奥术荣耀</CHS>
 				</Name>
 			</vh2lvl60_Arcane_Glory>
 			<vh2lvl60_Hellfire>
@@ -647,17 +647,17 @@
 			</vh2lvl60_Hellfire>
 			<vh2lvl60_Toxin_Injector>
 				<Name>
-					<CHS>剧毒注射器</CHS>
+					<CHS>毒素注射器</CHS>
 				</Name>
 			</vh2lvl60_Toxin_Injector>
 			<vh2lvl60_The_Kite>
 				<Name>
-					<CHS>风筝</CHS>
+					<CHS>鸢</CHS>
 				</Name>
 			</vh2lvl60_The_Kite>
 			<vh2lvl60_Forceguard>
 				<Name>
-					<CHS>力量守卫</CHS>
+					<CHS>力量护盾</CHS>
 				</Name>
 			</vh2lvl60_Forceguard>
 			<vh2lvl60_Frozen_Carapace>
@@ -672,12 +672,12 @@
 			</vh2lvl60_Soulcage>
 			<vh2lvl60_Souldrinker>
 				<Name>
-					<CHS>饮魂者</CHS>
+					<CHS>灵魂饮者</CHS>
 				</Name>
 			</vh2lvl60_Souldrinker>
 			<vh2lvl60_Deathssnare>
 				<Name>
-					<CHS>死亡陷阱</CHS>
+					<CHS>死亡圈套</CHS>
 				</Name>
 			</vh2lvl60_Deathssnare>
 			<vh2lvl60_Escape>
@@ -687,22 +687,22 @@
 			</vh2lvl60_Escape>
 			<vh2lvl60_Lifeguard>
 				<Name>
-					<CHS>生命守卫</CHS>
+					<CHS>生命护盾</CHS>
 				</Name>
 			</vh2lvl60_Lifeguard>
 			<vh2lvl60_Utility_Belt_MK2>
 				<Name>
-					<CHS>通用腰带MK2</CHS>
+					<CHS>多用途腰带 MK2</CHS>
 				</Name>
 			</vh2lvl60_Utility_Belt_MK2>
 			<vh2lvl60_Shroud_of_the_Stormgod>
 				<Name>
-					<CHS>风暴之神裹布</CHS>
+					<CHS>雷神之罩</CHS>
 				</Name>
 			</vh2lvl60_Shroud_of_the_Stormgod>
 			<vh2lvl60_Forcepack>
 				<Name>
-					<CHS>力量包</CHS>
+					<CHS>力量包裹</CHS>
 				</Name>
 			</vh2lvl60_Forcepack>
 			<vh2lvl60_Hope>
@@ -712,7 +712,7 @@
 			</vh2lvl60_Hope>
 			<vh2lvl60_Poison_Enhancer>
 				<Name>
-					<CHS>毒素强化</CHS>
+					<CHS>毒素增强器</CHS>
 				</Name>
 			</vh2lvl60_Poison_Enhancer>
 			<resonant_essence>
@@ -735,158 +735,158 @@
 			</Dragon_tooth>
 			<Rusty_Heart>
 				<Name>
-					<CHS>生锈的心</CHS>
+					<CHS>锈心</CHS>
 				</Name>
 			</Rusty_Heart>
 			<Vodyanoy_Haggis>
 				<Name>
-					<CHS>沃迪亚诺伊 哈吉斯</CHS>
+					<CHS>沃迪亚诺伊·哈吉斯</CHS>
 				</Name>
 				<ConsumeEffect>
-					<CHS>+25 所有抗性</CHS>
+					<CHS>所有抗性+25</CHS>
 				</ConsumeEffect>
 			</Vodyanoy_Haggis>
 			<Vrikolak_Pie>
 				<Name>
-					<CHS>Vrikolak馅饼</CHS>
+					<CHS>维科拉风味小吃</CHS>
 				</Name>
 			</Vrikolak_Pie>
 			<Domovoy_Steak>
 				<Name>
-					<CHS>幽灵牛排</CHS>
+					<CHS>家神牛排</CHS>
 				</Name>
 			</Domovoy_Steak>
 		</Items>
 		<Enchantment>
 			<SpellLevelToFrozenSoil>
 				<desc>
-					<CHS>冻土奖励等级$VALUE$ </CHS>
+					<CHS>冻土获得$VALUE$级加成</CHS>
 				</desc>
 			</SpellLevelToFrozenSoil>
 			<SpellLevelToAura__BlightAura>
 				<desc>
-					<CHS>枯萎光环奖励等级$VALUE$</CHS>
+					<CHS>瘟疫光环获得$VALUE$级加成</CHS>
 				</desc>
 			</SpellLevelToAura__BlightAura>
 			<SpellLevelToFateCurse>
 				<desc>
-					<CHS>命运诅咒奖励等级$VALUE$</CHS>
+					<CHS>命运诅咒获得$VALUE$级加成</CHS>
 				</desc>
 			</SpellLevelToFateCurse>
 			<SpellLevelToAura__ElementalResonance>
 				<desc>
-					<CHS>元素共振奖励等级$VALUE$</CHS>
+					<CHS>元素共振获得$VALUE$级加成</CHS>
 				</desc>
 			</SpellLevelToAura__ElementalResonance>
 			<SpellLevelToAura__Meditation>
 				<desc>
-					<CHS>冥想奖励等级$VALUE$</CHS>
+					<CHS>冥想获得$VALUE$级加成</CHS>
 				</desc>
 			</SpellLevelToAura__Meditation>
 			<SpellLevelToSkinOfSteel>
 				<desc>
-					<CHS>钢铁皮肤励等级$VALUE$</CHS>
+					<CHS>钢铁之肤获得$VALUE$级加成</CHS>
 				</desc>
 			</SpellLevelToSkinOfSteel>
 			<SpellLevelToAura__GlobeOfProtection>
 				<desc>
-					<CHS>球形防护励等级$VALUE$</CHS>
+					<CHS>球形防护获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToAura__GlobeOfProtection>
 			<SpellLevelToSoulRend>
 				<desc>
-					<CHS>灵魂出窍奖励等级$VALUE$</CHS>
+					<CHS>灵魂撕裂获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToSoulRend>
 			<SpellLevelToImprovedArcaneMight>
 				<desc>
-					<CHS>强化奥术力量励等级$VALUE$</CHS>
+					<CHS>神秘力量·改获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToImprovedArcaneMight>
 			<SpellLevelToBuff__ArcaneEruption>
 				<desc>
-					<CHS>奥术喷发励等级$VALUE$</CHS>
+					<CHS>神秘爆发获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToBuff__ArcaneEruption>
 			<SpellLevelToAura__StormSage>
 				<desc>
-					<CHS>风暴圣人励等级$VALUE$</CHS>
+					<CHS>风暴使者获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToAura__StormSage>
 			<SpellLevelToBuff__ForceArmor>
 				<desc>
-					<CHS>武力装甲获得$VALUE$奖励关卡</CHS>
+					<CHS>力之护甲获得$VALUE$等级加成</CHS>
 				</desc>
 			</SpellLevelToBuff__ForceArmor>
 			<SpellLevelToAura__RangedDamageReduction>
 				<desc>
-					<CHS>念力光环奖励等级$VALUE$</CHS>
+					<CHS>念力气场获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToAura__RangedDamageReduction>
 			<SpellLevelToFrostGrenade>
 				<desc>
-					<CHS>冰冻手雷奖励等级$VALUE$</CHS>
+					<CHS>冰霜手榴弹获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToFrostGrenade>
 			<SpellLevelToToxicantcloud>
 				<desc>
-					<CHS>毒素云雾奖励等级$VALUE$</CHS>
+					<CHS>毒雾获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToToxicantcloud>
 			<SpellLevelToSuperchargedBlast>
 				<desc>
-					<CHS>超能冲击奖励等级$VALUE$</CHS>
+					<CHS>超蓄能爆炸获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToSuperchargedBlast>
 			<SpellLevelToEmergencyVenting>
 				<desc>
-					<CHS>紧急排放超能冲击奖励等级$VALUE$</CHS>
+					<CHS>紧急排气获得$VALUE$额外等级</CHS>
 				</desc>
 			</SpellLevelToEmergencyVenting>
 			<CooldownReductionSoulburst>
 				<desc>
-					<CHS>灵魂爆发技能$VALUE$%秒冷却</CHS>
+					<CHS>灵魂爆发技能冷却时间为$VALUE$秒</CHS>
 				</desc>
 			</CooldownReductionSoulburst>
 			<CooldownReductionNightmare>
 				<desc>
-					<CHS>梦魇技能$VALUE$%秒冷却</CHS>
+					<CHS>噩梦技能冷却时间为$VALUE$秒</CHS>
 				</desc>
 			</CooldownReductionNightmare>
 			<CooldownReductionBuff__GrappleSnare>
 				<desc>
-					<CHS>抓取陷阱技能$VALUE$%秒冷却</CHS>
+					<CHS>抓投陷阱技能冷却时间为$VALUE$秒</CHS>
 				</desc>
 			</CooldownReductionBuff__GrappleSnare>
 		</Enchantment>
 	</Artifacts>
 	<hiddencontent>
 		<fozelek_consumable>
-			<CHS>你已经采样当地美食。</CHS>
+			<CHS>你已经试遍了这里的烹饪。</CHS>
 		</fozelek_consumable>
 		<turoscsusza_consumable>
-			<CHS>你已经采样当地美食。</CHS>
+			<CHS>你已经试遍了这里的烹饪。</CHS>
 		</turoscsusza_consumable>
 		<rantotthus_consumable>
-			<CHS>你已经采样当地美食。</CHS>
+			<CHS>你已经试遍了这里的烹饪。</CHS>
 		</rantotthus_consumable>
 		<tukorvaros_titanic>
-			<CHS>你已经见证了一个特殊的幽灵时刻。</CHS>
+			<CHS>你目睹了一个特殊的灵异瞬间。</CHS>
 		</tukorvaros_titanic>
 		<Dragontooth_dialog_done>
-			<CHS>我们找到了一枚龙牙。</CHS>
+			<CHS>你找到一颗龙牙</CHS>
 		</Dragontooth_dialog_done>
 		<Mano_megnyiffant>
-			<CHS>你已经拯救世界于力量饥饿，地面清扫家精灵。</CHS>
+			<CHS>你从一个渴求力量的小鬼手中拯救了世界。</CHS>
 		</Mano_megnyiffant>
 		<hidden_rock_activate>
-			<CHS>你已经在碎石下找到精华。</CHS>
+			<CHS>你发现了藏在碎石下的精华。</CHS>
 		</hidden_rock_activate>
 		<Smallzilla_POI>
-			<CHS>你明智地留下可爱的smallzilla。</CHS>
+			<CHS>你明智的选择不干涉可爱的小斯拉。</CHS>
 		</Smallzilla_POI>
 		<Secret_gate_opened>
-			<CHS>你发现了水晶堡垒内的秘密区域。</CHS>
+			<CHS>你发现了水晶堡垒的秘密区域。</CHS>
 		</Secret_gate_opened>
 	</hiddencontent>
 </Root>

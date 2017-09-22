@@ -8,17 +8,17 @@
 		<DLG_Orichalcum_quest_done>
 			<node1>
 				<Desc>
-					<CHS>你究竟发生了什么？你真的伏击了装运吗？</CHS>
+					<CHS>你到底怎么了？ 你真的去伏击那些运货的人了?</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>当然了。把木箱运到巢穴！</CHS>
+					<CHS>当然。然后把那些箱子转移到了巢穴里！</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>请你下次提醒我，我完成了这样的任务。我的体质一团糟。更不要说我的衣服了。</CHS>
+					<CHS>顺便，请你下一次完成这样的任务的时候提醒我一下。我的身体一团糟。更别提我的衣服了。</CHS>
 				</Desc>
 			</node3>
 		</DLG_Orichalcum_quest_done>

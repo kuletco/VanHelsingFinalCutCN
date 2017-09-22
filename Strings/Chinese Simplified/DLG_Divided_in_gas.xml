@@ -8,17 +8,17 @@
 		<DLG_Divided_in_gas>
 			<node1>
 				<Desc>
-					<CHS>你回来了！好极了！</CHS>
+					<CHS>你回来了！太好了！</CHS>
 				</Desc>
 			</node1>
 			<node2>
 				<Desc>
-					<CHS>机器已经破坏掉了。但我害怕这不过是一个更险恶的阴谋的第一步。</CHS>
+					<CHS>机器已经被摧毁了。但恐怕这只是一个邪恶之至的庞大计划的开端而已。</CHS>
 				</Desc>
 			</node2>
 			<node3>
 				<Desc>
-					<CHS>是啊，没错。无论如何我根本对什么自以为是的疯狂科学不感兴趣。</CHS>
+					<CHS>当然了。任何自重的疯狂科学家一定都会这么做的。</CHS>
 				</Desc>
 			</node3>
 		</DLG_Divided_in_gas>
