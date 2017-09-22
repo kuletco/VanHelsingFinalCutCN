@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_TD3>
+			<node1>
+				<Desc>
+					<CN>七邪教在墨境的表面撕开了一条大口子，创造了另一个墨境裂缝，就像我们之前解决掉的那个一样。但这个比之前那个更大，从里面出来的一大群生物更加危险。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>真好。告诉我我们没有再次被出其不意地被抓住了。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>这次没有。我们已经把陷阱从前哨站移到苍天周界去了，可以及时在靠近裂缝的地方安装好陷阱。我们需要的只是一个操作它的人。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>很好。我会处理那部分。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我会让我们的一个船长去完成这个任务。</CN>
+				</Desc>
+			</node5>
+		</DLG_TD3>
+	</Quest>
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_hell_titan_end>
+			<node1>
+				<Desc>
+					<CN>奖品正在送往泰坦的路上。你实现了不可能实现之事，旅行者!</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>别假装你没有为你自己弄一些！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>在经历了几个世纪的折磨之后，这是一场盛宴。也是一个让最初的货品所有者高兴的好机会。</CN>
+				</Desc>
+			</node3>
+		</DLG_hell_titan_end>
+	</Quest>
+</Root>
+

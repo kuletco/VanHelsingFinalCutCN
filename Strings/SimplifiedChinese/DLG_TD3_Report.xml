@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_TD3_Report>
+			<node1>
+				<Desc>
+					<CN>在苍天周界边上的第二个裂缝情况怎么样了？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>又一次胜利了，指挥官，但是我不能给你分享细节。我要回到我的探险中去了。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我怕这会是无面沙皇做主了。一旦我解决他就没什么关系了。</CN>
+				</Desc>
+			</node3>
+		</DLG_TD3_Report>
+	</Quest>
+</Root>

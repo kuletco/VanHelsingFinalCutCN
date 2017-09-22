@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Csatornatisztito>
+			<node1>
+				<Desc>
+					<CN>这种奇怪生物有软肋的，你知道的。我现在感觉很不好。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我理解你！你是那样一个鬼见鬼怕怪见怪烦的弑怪者，隧道里那成堆的尸体不都是你放进去的么！我猜你根本没过脑子就让我们这些可怜人给你收拾烂摊子！就是一个劲让我们工作，工作，工作，饭却不给吃饱！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>他说他饿了。或许我能给他找点吃的来吃…</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>别浪费我时间。去吧，去完成你份内的使命吧。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>哦，我的天！果然是一种魂灵！最重要的是。你知道吗？我要带你去一条秘密管道，直通下水道一块被隐藏的地方。</CN>
+				</Desc>
+			</node5>
+		</DLG_Csatornatisztito>
+	</Quest>
+</Root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Monsters_in_the_city>
+			<node1>
+				<Desc>
+					<CN>你做到了！现在我知道了，为什么你看上去这么眼熟。你一定是范海辛！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>甚至不用提他无畏的幽灵同伴！她讨厌名誉。和财富。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>你一定把我和我的父亲搞混了。不过当然了，我愿意帮忙。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>既然这样，你不介意追捕其它野兽吧？我们看到别的一些生物在街上潜行。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我会处理的。这就是为什么我出现在这里。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>我做不到。对不起。我必须先保护这座城。</CN>
+				</Desc>
+			</node6>
+		</DLG_Monsters_in_the_city>
+	</Quest>
+</Root>

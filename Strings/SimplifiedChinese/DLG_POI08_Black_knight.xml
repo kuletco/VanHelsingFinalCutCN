@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_POI08_Black_knight>
+			<node1>
+				<Desc>
+					<CN>没人可以过去！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>没有武器你要怎么做？跳过来？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>这仅仅是一个开始！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我已经受够这个了。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我懂了，你要跑了！</CN>
+				</Desc>
+			</node5>
+		</DLG_POI08_Black_knight>
+	</Quest>
+</Root>

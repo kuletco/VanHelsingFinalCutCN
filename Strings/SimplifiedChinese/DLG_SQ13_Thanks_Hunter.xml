@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ13_Thanks_Hunter>
+			<node1>
+				<Desc>
+					<CN>请接受我诚挚的感谢，陌生人。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>下次雇佣猎人的时候，一定要更加小心。祝你好运！</CN>
+				</Desc>
+			</node2>
+		</DLG_SQ13_Thanks_Hunter>
+	</Quest>
+</Root>

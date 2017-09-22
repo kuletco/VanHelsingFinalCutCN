@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLC_The_ink_machines>
+			<node1>
+				<Desc>
+					<CN>范海辛！如果你不介意的话，我现在需要你的专业知识。</CN>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<CN>像往常一样，我意识到，唯一能做到的人…就是我。</CN>
+				</Desc>
+			</node10>
+			<node2>
+				<Desc>
+					<CN>我很乐意帮忙，前提是不要做实验什么的。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>还真需要，那是冯·斯特姆教授做的最后一个实验。他把墨镜的精华灌输给一些机器，让它们拥有了智力。对了，其中有个机器是自动炮塔。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>现在他们觉得孤独了？想要拥抱了？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>真是讽刺啊，对吧？答案是否定的。这些机器非常聪明，而且赋有攻击性，而且他们可以Inkwalk。我们终于找到他们的位置了，现在只要招人消灭Machine King就行了！</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>听上去比拥抱好多了，我愿意去做。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>如果我找到合适的人，我会告诉你的。</CN>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CN>你回来了！你找到可以消灭Machine King的人了吗？</CN>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<CN>我还在找，耐心点。</CN>
+				</Desc>
+			</node9>
+		</DLC_The_ink_machines>
+	</Quest>
+</Root>

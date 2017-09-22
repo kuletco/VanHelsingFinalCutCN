@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_I_prepare_the_ritual>
+			<node1>
+				<Desc>
+					<CN>终于！希望对于这么伟大的一个猎手来说不会太无聊。我应该开始做准备了。如果我需要别的什么东西的话我会来问你的。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>哦，哦，帅气的陌生人！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>千万别那么说。奉承只会让她不安。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>你真是粗鲁。我需要一个道歉！</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>那让你去收集老鼠骨头呢？你确实看起来是那种用乱七八糟东西的家伙……制造什么奇怪又神秘的玩意儿。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>你不是个可爱的人么？你说的没错。我要举行一个盛大的仪式，这些骨头非常关键。</CN>
+				</Desc>
+			</node6>
+		</DLG_I_prepare_the_ritual>
+	</Quest>
+</Root>

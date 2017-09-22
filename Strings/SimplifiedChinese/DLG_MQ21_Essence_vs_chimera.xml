@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_MQ21_Essence_vs_chimera>
+			<node1>
+				<Desc>
+					<CN>看看这些书！大部分都是记载喀迈拉的。看见了这个标题了吗？"如何饲养喀迈拉"。你能为我总结一下吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我就给你概括一下。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>看书你就明白了！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>“喀迈拉的身体几乎是以墨境构成…你不能喂给这种魔法生物传统的食物。他们从很远的地方就能闻到魔法精华的味道，并以魔法精华为食。”</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我们得找到以批发价格出售魔法精华的人。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>那么，接下来怎么做？"如何饲养喀迈拉"。听起来就是它了！</CN>
+				</Desc>
+			</node6>
+		</DLG_MQ21_Essence_vs_chimera>
+	</Quest>
+</Root>

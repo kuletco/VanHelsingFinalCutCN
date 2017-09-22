@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Shopkeeper_conversation_1>
+			<node1>
+				<Desc>
+					<CN>哈！那是些锻炼！对吗，范海辛？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你是怎么知道我的？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我看到猎人，就认出来了。只有一个猎人在我们抵抗时收到邀请。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>元素师，我亲爱的范海辛。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>那么你是来帮助我们摆脱那些疯狂的科学家的。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>是这个想法。但是我想先准备一下。</CN>
+				</Desc>
+			</node6>
+		</DLG_Shopkeeper_conversation_1>
+	</Quest>
+</Root>

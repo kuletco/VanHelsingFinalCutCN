@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ125_Bryans_quest>
+			<node1>
+				<Desc>
+					<CN>长官！有你在这真好。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>谢谢你，队长。我在找一个大兵布莱恩。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>他额头上有一个闪电形状的疤痕。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>别听她的。你知道我们到哪能找到这个人吗？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我把他和他的小队派去摧毁一个装满燃素毒气的运货车厢。那是个危险的任务。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ125_Bryans_quest>
+	</Quest>
+</Root>

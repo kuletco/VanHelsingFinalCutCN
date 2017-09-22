@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ22_sewers_defense_report>
+			<node1>
+				<Desc>
+					<CN>告诉我，范海辛，你在古代通道里对付过哈克的士兵吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>他们不会是问题了。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>那地方是噩梦，指挥官。我们不能好好的集中对付哈克的军队。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>很好。那么这部分的迷宫就安全了。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>真不卡新。不过我们会在其他地方拦截他们。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ22_sewers_defense_report>
+	</Quest>
+</Root>

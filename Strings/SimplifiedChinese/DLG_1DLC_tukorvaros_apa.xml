@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_1DLC_tukorvaros_apa>
+			<node1>
+				<Desc>
+					<CN>你是猎人吗，阁下？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你怎么看出来的？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>哇，真棒！我们从Inkwell里召唤出一个生物。他叫Pied Piper，据说能用笛声将这些怪物引走。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>请别告诉我你们被这老把戏给迷惑了。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我们确实这么干了，我的女士。我们确实这么干了！他引走的不是怪物，而是我们的孩子！不过，他还在这里，但我们不能离开这个地方。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>我会找到他的，我保证。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>对不起，但我现在不能收拾你的烂摊子。</CN>
+				</Desc>
+			</node7>
+		</DLG_1DLC_tukorvaros_apa>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_RM00_The_elit_team>
+			<node1>
+				<Desc>
+					<CN>范海辛！战争议会在围攻的期间评估了你的行为，他们决定委托你对精英士兵进行训练。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>等等。这算是惩罚还是奖励？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>那我的任务到底是什么呢，指挥官？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>你的任务是把反抗军精英训练好，把他们派去完成重要任务。我们为你指派了一些新队长。先和他们见见面，然后做出明智的选择！</CN>
+				</Desc>
+			</node4>
+		</DLG_RM00_The_elit_team>
+	</Quest>
+</Root>

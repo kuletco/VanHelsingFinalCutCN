@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_POI05_The_moonstone>
+			<node1>
+				<Desc>
+					<CN>嗯，我没没花多久就找到了第一具尸体。他已经死了一段时间了。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>救救...我！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>他看起来比我更像是不死者。难道你不认为你的灵魂没得到安息吗？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我有...一块魔法月石。用它释放我的灵魂！</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>你怎么敢这样！我都看上那块宝石了！</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>严格来说，他并没有安息。他的灵魂还困在尸体上。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>感觉不妙。我们得走了。</CN>
+				</Desc>
+			</node7>
+		</DLG_POI05_The_moonstone>
+	</Quest>
+</Root>

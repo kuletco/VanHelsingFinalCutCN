@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SP_papertrail3>
+			<node1>
+				<Desc>
+					<CN>他们头上受到了致命的打击。一下子就死了。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>他抓着一大把表格。你能列出来么？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>上面写着："发条堡垒的工程师都已经被杀了。异界的第一个奇迹，一个科学的堡垒！马上，通过制造墨境风暴，它能自我维持，就像是永动机。这样还无法影响到博格维亚。那或许还需要一个科学还不知道的能量来源。"</CN>
+				</Desc>
+			</node3>
+		</DLG_SP_papertrail3>
+	</Quest>
+</Root>

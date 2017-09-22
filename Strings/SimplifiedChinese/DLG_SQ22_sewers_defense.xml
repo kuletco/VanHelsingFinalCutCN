@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ22_sewers_defense>
+			<node1>
+				<Desc>
+					<CN>哈克将军不会轻言放弃。他的特种部队找到了穿过地道的新路线。这次他们选择通过没人敢进入的最古老最危险的地下室到达巢穴。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我要让他们看看为什么不能进入那些地下室。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我们反抗军的战士们会解决他们的。</CN>
+				</Desc>
+			</node3>
+		</DLG_SQ22_sewers_defense>
+	</Quest>
+</Root>

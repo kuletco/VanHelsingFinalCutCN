@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_haunted_crystal_end>
+			<node1>
+				<Desc>
+					<CN>看上去水晶正在减少。让我们继续赶路吧。</CN>
+				</Desc>
+			</node1>
+		</DLG_haunted_crystal_end>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLC_The_rivalmages_eliminated>
+			<node1>
+				<Desc>
+					<CN>哎呀，我的朋友，这太让人吃惊了。我一会可能用得上你的建议。当我的私人保镖怎么样？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>如果我是你，我会马上停止，然后逃跑。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我可以给你一大笔钱，你去杀死那些怪兽，我唯一的敌人！哈哈哈哈！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>你好大的胆子！我是怪物猎人！专门追捕你这样的人！我才不和死灵法师交朋友。趁我还没发脾气之前赶紧滚吧。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>看到了吧？我警告过你的。</CN>
+				</Desc>
+			</node5>
+		</DLC_The_rivalmages_eliminated>
+	</Quest>
+</Root>

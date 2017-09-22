@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_I_am_not_thirsty>
+			<node1>
+				<Desc>
+					<CN>谢谢你，陌生人！我会永远记住你的恩情的。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>没必要谢我。我喜欢差异感。我还从来没有因为…水打过怪兽。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>这是一场多么荣耀的战役。范海辛差点丢掉他头上的…高帽！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>哦，是的，我被扣上了一顶大帽子！不错的博格维亚工艺，还是崭新的。你想要么？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>看起来非常适合你。谢谢。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>这可是一份不错的礼物，可是不行。夫人只不过是开玩笑而已。</CN>
+				</Desc>
+			</node6>
+		</DLG_I_am_not_thirsty>
+	</Quest>
+</Root>

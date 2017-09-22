@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_mar_alchemist01>
+			<node1>
+				<Desc>
+					<CN>唔！唔？！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你能再说一遍吗?</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>Grmmnfgh!</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>呃。好吧。以后再说吧。</CN>
+				</Desc>
+			</node4>
+		</DLG_mar_alchemist01>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_RM_Introduction_Stark>
+			<node1>
+				<Desc>
+					<CN>天气真好，不是吗，长官？听说现在你是老大了！我们一定能相处的很好。我以前和你一样是个猎人。格里戈尔·斯塔克，怪物克星，为您效劳。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>没什么印象，抱歉。不过要是你曾经是个猎人，你肯定有很多有用的经验。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>说的没错，长官！探险是我的本色！还有埋伏！埋伏是我另一个本色。我对陷阱和远程武器也略知一二。呐，抱歉。其实我擅长的还是陷阱！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>在猎人学院里教你如何变得傲慢自大吗？等等，别说。</CN>
+				</Desc>
+			</node4>
+		</DLG_RM_Introduction_Stark>
+	</Quest>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLC_The_hiding_machines>
+			<node1>
+				<Desc>
+					<CN>我听说你准备去绞架沼泽，千万要小心！那儿还有很多潜伏的，生锈了的机器。你知道市长对那些东西给了很高的悬赏吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>悬赏？意思是，我们终于可以从这活儿里得到钱了？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>谢谢你的建议，放心，我会消灭那些机器的，就算免费也无妨，希望我同伴没听到这句话。</CN>
+				</Desc>
+			</node3>
+		</DLC_The_hiding_machines>
+	</Quest>
+</Root>

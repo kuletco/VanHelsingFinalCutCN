@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_rkresearch_04>
+			<node1>
+				<Desc>
+					<CN>我被我们刚刚的发现震惊了。如果你有空的话，浏览一下我放在普罗米修斯档案里的注解。</CN>
+				</Desc>
+			</node1>
+		</DLG_rkresearch_04>
+	</Quest>
+</Root>

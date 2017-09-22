@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ17_The_rune_stone>
+			<node1>
+				<Desc>
+					<CN>哦老天，真是松了口气！我担心死了，怕你回不来了。你找到打开我的牢房的钥匙了吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>那取决于你下一个回答了。你有没有尸坑之戒上的符文石？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>呃，好吧，呃……不完全是。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>什么叫“不完全是”？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>东西不在我这……但是我可以告诉你在哪！在我的营地里，藏在几个旧袋子里。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ17_The_rune_stone>
+	</Quest>
+</Root>

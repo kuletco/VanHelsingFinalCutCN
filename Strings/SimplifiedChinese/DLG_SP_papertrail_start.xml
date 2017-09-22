@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SP_papertrail_start>
+			<node1>
+				<Desc>
+					<CN>冯·斯特姆，你来太晚了。搜索队中了埋伏，惨遭屠杀。我要死了！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>他精神错乱了。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>他的灵魂随时都会消逝。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>你发誓，冯·斯特姆！发誓你会寻找其他人并且救出他们！</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我不是冯·斯特姆，但我发誓会救出你的朋友。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>放手吧，安然的死去。</CN>
+				</Desc>
+			</node6>
+		</DLG_SP_papertrail_start>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_generator_information>
+			<node1>
+				<Desc>
+					<CN>我给你带来了好消息。暴脾气的一个助理联系了反抗军。他有一些技术资料想出手。我们可以利用这个提升我们的防御力度，但是你需要先找到Todor Schimko。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>很好。我会刘新德。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>还有别的差事？疯狂科学家怎么会让自己的计划失败呢。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我还有别的事情要做。</CN>
+				</Desc>
+			</node4>
+		</DLG_generator_information>
+	</Quest>
+</Root>

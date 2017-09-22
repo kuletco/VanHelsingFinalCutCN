@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_katona_hulla1>
+			<node1>
+				<Desc>
+					<CN>看看那些被粗暴对待的尸体！他们不知道到底发生了什么。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>哈克要孤注一掷了。他愿意牺牲最好的士兵。</CN>
+				</Desc>
+			</node2>
+		</DLG_katona_hulla1>
+	</Quest>
+</Root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_haunted_bandit_end>
+			<node1>
+				<Desc>
+					<CN>怪物消失了！谢谢你，请收下这个作为谢礼。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>明天漂亮的抢劫一场吧！</CN>
+				</Desc>
+			</node2>
+		</DLG_haunted_bandit_end>
+	</Quest>
+</Root>

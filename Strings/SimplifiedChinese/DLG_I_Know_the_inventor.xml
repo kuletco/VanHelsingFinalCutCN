@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_I_Know_the_inventor>
+			<node1>
+				<Desc>
+					<CN>范海辛，你回来啦！够快的啊，保佑你没事！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我还害怕我们不能庆祝了。机器宫殿四处都围着厚实的围墙。我们到现在无法接近教授。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>啊，我明白。你认为我一定知道解除那些围墙的方法是么。那可就太好了。不，我帮不了你。这是一种新型技术，真正的天才发明的。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我们只需要你告诉我们我们该去哪里，能到什么级别。我们会关照好其他后顾之忧的。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>有一件事我可以告诉你。我知道到哪儿能找到制造这些墙的发明者。去工业港口去找 Nikkola Telsa的实验室。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>那就是我要说的地方！正是我们需要的。再见！</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>哦，太棒了。你告诉他，还是我来？</CN>
+				</Desc>
+			</node7>
+		</DLG_I_Know_the_inventor>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Weapon_smuggler>
+			<node1>
+				<Desc>
+					<CN>是反抗军派你来的，对吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>不，是反抗军派来的那个人派我来的。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>什么？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>别担心。他们被袭击了，我是来帮忙的。现在我的工作做完了。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>等一下！拿着这个武器。这是个艺术品。谢谢你的帮助。</CN>
+				</Desc>
+			</node5>
+		</DLG_Weapon_smuggler>
+	</Quest>
+</Root>

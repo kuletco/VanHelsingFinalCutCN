@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Rescue_the_rebels>
+			<node1>
+				<Desc>
+					<CN>帮助我，范海辛，你是我唯一的希望！我的一些同志被困在城堡里。我逃到护城河增援。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>小事一桩，朋友。我来帮他们。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>对不起，朋友，我的时间紧迫。必须要阻止暴脾气。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我无法反驳。好吧，我会试着寻找我的战友。</CN>
+				</Desc>
+			</node4>
+		</DLG_Rescue_the_rebels>
+	</Quest>
+</Root>

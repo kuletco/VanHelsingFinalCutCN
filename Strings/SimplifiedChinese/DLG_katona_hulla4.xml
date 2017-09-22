@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_katona_hulla4>
+			<node1>
+				<Desc>
+					<CN>这些袭击绝对是森林女神的作为。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>有道理。如果这是他们的地盘，他们一定不情愿守卫神器。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>值得一提的是，树精们有一个女王。伟大的树神。静默女神。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>或许他们已经废黜了她，并且实行了民主制。</CN>
+				</Desc>
+			</node4>
+		</DLG_katona_hulla4>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Vlados_Katarina>
+			<node1>
+				<Desc>
+					<CN>如果我没记错的话，当范海辛打败吸血鬼王子之后你才成为范海辛的盟友的。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>卡特琳娜夫人！也就是说你那谦逊的仆人瓦尔德斯给你的不死灵魂留下了永恒的印象。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>这就相当于王子赐予你的巨大奖励了。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我死之后的最大成就之一。</CN>
+				</Desc>
+			</node4>
+		</DLG_Vlados_Katarina>
+	</Quest>
+</Root>

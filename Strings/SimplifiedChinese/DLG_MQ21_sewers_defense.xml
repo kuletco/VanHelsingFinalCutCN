@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_MQ21_sewers_defense>
+			<node1>
+				<Desc>
+					<CN>哈克将军派出了一个老式部队在通道中与我们抗衡。他是个固执的人，我会教训他的。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>越来越烦人了。我来解决他们。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>对我们抵抗阻止的士兵们来说，这是一个锻炼他们战斗技巧的好机会。</CN>
+				</Desc>
+			</node3>
+		</DLG_MQ21_sewers_defense>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ11_The_ornithopter_base>
+			<node1>
+				<Desc>
+					<CN>我们还在坚持，长官，但是那些该死的扑翼机还是个很大的威胁。我们应该在他们下次进攻前摧毁他们的发射塔。侦察兵报告塔内有3个控制中心。我们可以把它们用来解除那些因菲纳机械。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>可能。不过我们需要有足够的经验的人去做。工程师在哪？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>好的。我倒要看看我能不能帮你解决那些扑翼机。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>那不要紧，队长。他们不是问题。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>就我所知，他们在上面的工厂层中的武器仓库中。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ11_The_ornithopter_base>
+	</Quest>
+</Root>

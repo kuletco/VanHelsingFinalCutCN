@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Choise_is_yours>
+			<node1>
+				<Desc>
+					<CN>见到你真好，猎人！我们有一位战士在一个废弃的仓库，发现了一个原始的Inkhopping Modulator。我们觉得你应该会感兴趣。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>那个设备是干什么用的？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我以前是远征队的医院。科学家把我们和那些机器一起派往墨镜。你看到三个开关了吗？每一个都代表一个目的地。遗憾的是你没法看懂那些标签。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>太危险了，我不想可不想死在墨镜的某个地方。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我们看看那些标签吧！</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>我能选择吗？我能…？啊，好吧。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>这个是说某个“闪光灯”什么的，我们来试试。</CN>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CN>这个说“非常棒”，有点意思。</CN>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<CN>那个“遗失并发现”是什么意思？</CN>
+				</Desc>
+			</node9>
+		</DLG_Choise_is_yours>
+	</Quest>
+</Root>

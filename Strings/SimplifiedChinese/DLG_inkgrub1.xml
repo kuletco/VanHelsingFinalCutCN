@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_inkgrub1>
+			<node1>
+				<Desc>
+					<CN>这些蛋真是奇特。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>它们是什么，它们为什么会在森林里？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>如果这是这里的某种生物下的蛋怎么办？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>你非得让我这么想，对吧？</CN>
+				</Desc>
+			</node4>
+		</DLG_inkgrub1>
+	</Quest>
+</Root>

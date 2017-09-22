@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_inkgrub21>
+			<node1>
+				<Desc>
+					<CN>或者这些石头蛋是一个墨境之球？这就是我们要处理的事情？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>没错。森林中的破坏之源。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>你要毁掉它吗？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>没错。找个理由进行破坏真好。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>不。我不会冒险让事情变得更糟。</CN>
+				</Desc>
+			</node5>
+		</DLG_inkgrub21>
+	</Quest>
+</Root>

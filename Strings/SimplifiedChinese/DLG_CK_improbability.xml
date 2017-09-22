@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_CK_improbability>
+			<node1>
+				<Desc>
+					<CN>别光站着！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>被炸伤的科学家！冯斯特姆说每件事都自有安排。很显然没有。异常涌流......不管它是什么，对把怪物困在绝境中有不同的设置。一派胡言。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>你这个傻瓜，就随便选一个！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我要尝试“非理智分子重新熔化”。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我要尝试“空间皮质失败”。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>让我们尝试“旋涡假冒分离机”。</CN>
+				</Desc>
+			</node6>
+		</DLG_CK_improbability>
+	</Quest>
+</Root>

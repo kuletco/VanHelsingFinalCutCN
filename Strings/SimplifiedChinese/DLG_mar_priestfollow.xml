@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_mar_priestfollow>
+			<node1>
+				<Desc>
+					<CN>你也在找祭司吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>是的。他在哪儿?</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>他不久前离开了。人们说他往蛇女通道的方向走了。我不知道他为什么要去那……</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>谢谢。我不会再让你远离你的祷告者了。</CN>
+				</Desc>
+			</node4>
+		</DLG_mar_priestfollow>
+	</Quest>
+</Root>

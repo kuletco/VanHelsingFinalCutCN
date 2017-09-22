@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_MQ12_Commands1>
+			<node1>
+				<Desc>
+					<CN>范海辛！我的意思是称你为指挥官，先生！武装部队正靠近我们的阵地！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>请求支援坚守阵地！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>坚守你的阵地！如果有必要，别忘了发表一次演讲！</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>撤退到第二道防线，并且守卫阵地！</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我要先去调查阵地，然后再向士兵做简短报告。</CN>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands1>
+	</Quest>
+</Root>

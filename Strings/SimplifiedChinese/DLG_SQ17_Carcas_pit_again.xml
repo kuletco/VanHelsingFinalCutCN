@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ17_Carcas_pit_again>
+			<node1>
+				<Desc>
+					<CN>范海辛！我们有一块石板，对吗？咱们把它放进间隙中。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我们没那个时间。我说我们清理灵魂然后摧毁它。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>好主意。我们应该试一试。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>好吧？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>好！成功了。问题解决了，卡特琳娜小姐。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ17_Carcas_pit_again>
+	</Quest>
+</Root>

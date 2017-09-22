@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Whisp_question_2>
+			<node1>
+				<Desc>
+					<CN>我触摸到了地球，我触摸到了天空。如果我触摸*你*，你一定会死的！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你是流星吗？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>你是霹雳吗？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>卡特琳娜？有什么想法？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>好吧……</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>我知道这个谜语太简单了。*叹气* 好吧……</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>呃。我讨厌谜语。我们直接跳过吧。</CN>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CN>它一着陆就触摸它怎么样？</CN>
+				</Desc>
+			</node8>
+		</DLG_Whisp_question_2>
+	</Quest>
+</Root>

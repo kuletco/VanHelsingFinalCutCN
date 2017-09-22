@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLC_The_test_machines>
+			<node1>
+				<Desc>
+					<CN>天呐！你看起来像是被猫拖进来的东西。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>Antonov列兵报告，长官！从下水道返回，长官！我有重大消息，长官！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>让他说，你在下面看到了什么？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>差不多有24个战士机器在隧道里测试一些奇怪的机器。我一个人没法对付他们，长官。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>干得好，我会调查的。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>我没时间了，把事情告诉弗拉多斯伯爵吧。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>等等，我们现在要使用军衔了吗？可以给我一个吗？</CN>
+				</Desc>
+			</node7>
+		</DLC_The_test_machines>
+	</Quest>
+</Root>

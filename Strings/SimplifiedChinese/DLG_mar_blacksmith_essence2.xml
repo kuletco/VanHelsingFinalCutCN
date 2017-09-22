@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_mar_blacksmith_essence2>
+			<node1>
+				<Desc>
+					<CN>好吧，好吧，我的朋友！你有什么东西给我吗？我仍然愿意支付……1500金！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我担心这种物质永远洗不掉……但还是给你吧。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我要用这种物质打造新武器。如果你有兴趣，再来找我。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我觉得你的报酬不够啊。我宁可自己留着这物质！</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>怪物猎人！你根本不能相信这些人。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>我发现的它，我的朋友……但是我不再拥有它了。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>怪物猎人！你根本不能相信这些人。</CN>
+				</Desc>
+			</node7>
+		</DLG_mar_blacksmith_essence2>
+	</Quest>
+</Root>

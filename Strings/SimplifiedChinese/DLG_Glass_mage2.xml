@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Glass_mage2>
+			<node1>
+				<Desc>
+					<CN>太好了！灵魂避难所现在已经充满能量了。我又能安全地度过好几个世纪了。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我们能做点什么来解救你吗？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>向你这样一个野蛮的，狩猎怪物狂人能恢复亚特兰蒂斯的高阶魔法？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>是时候离开这副傲慢的画了，卡特琳娜。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>唉，为了你的服务，我打开了一间暗室。再见，幽灵女士！</CN>
+				</Desc>
+			</node5>
+		</DLG_Glass_mage2>
+	</Quest>
+</Root>

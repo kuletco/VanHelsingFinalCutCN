@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLC_The_Hive_is_destroyed>
+			<node1>
+				<Desc>
+					<CN>范海辛！这个被遗弃的地方终于有拜访者了，你为何来此？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我不知道为什么，可是我觉得一位忠诚的祈祷者，应该治愈我那因为战争而受伤的灵魂。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>我一直想好好忏悔自己所犯下的过错，这让我非常苦恼。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>什么…？你…？天呐！你找到宝石了！而且仍然有用！请把它给我，我会好好利用的。</CN>
+				</Desc>
+			</node4>
+		</DLC_The_Hive_is_destroyed>
+	</Quest>
+</Root>

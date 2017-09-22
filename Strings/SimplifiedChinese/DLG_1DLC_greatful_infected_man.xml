@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_1DLC_greatful_infected_man>
+			<node1>
+				<Desc>
+					<CN>噢……你来杀我的。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>为什么你那样说？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>Rustblight让你一窥真相……</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>好吧，治疗后你的情况不会那么严重了，考虑下让我把你治好吧。但你知道吗？拿着吧，我的朋友，不要再说了。</CN>
+				</Desc>
+			</node4>
+		</DLG_1DLC_greatful_infected_man>
+	</Quest>
+</Root>

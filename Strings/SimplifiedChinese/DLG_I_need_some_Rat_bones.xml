@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_I_need_some_Rat_bones>
+			<node1>
+				<Desc>
+					<CN>哦，哦，帅气的陌生人！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>千万别那么说。奉承只会让她不安。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>啊，我仍然需要你的帮助。我需要几根老鼠骨头。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>老鼠骨头？？我可是范海辛，怪物的杀戮者，你居然想让我帮你收集骨头？</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我需要这些东西举行一个神秘的仪式来帮助反抗军。希望这能让你听起来觉得有些挑战性！</CN>
+				</Desc>
+			</node5>
+		</DLG_I_need_some_Rat_bones>
+	</Quest>
+</Root>

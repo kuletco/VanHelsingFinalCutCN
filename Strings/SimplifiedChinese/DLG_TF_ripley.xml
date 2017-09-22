@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_TF_ripley>
+			<node1>
+				<Desc>
+					<CN>杀了我，杀了我……</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我们现在应该杀了她……在她被他们一次又一次复活之前。</CN>
+				</Desc>
+			</node2>
+		</DLG_TF_ripley>
+	</Quest>
+</Root>

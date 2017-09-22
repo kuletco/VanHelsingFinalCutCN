@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ11_the_second_chance>
+			<node1>
+				<Desc>
+					<CN>范海辛先生，你回来了！可是我的同伴在哪？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>他执行任务的时候勇猛五笔。不过任务并未完成。我们需要你来完成他。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>他……死了……？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>他……好吧，他告诉我们如果他没有成功的话就来找你。他还说过你是这次行动的主脑。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我可以通过不被你害死来证明那一点。作为替代，我会把这个自动工具盒给你。把它连接到控制中心，剩下的就交给我了。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ11_the_second_chance>
+	</Quest>
+</Root>

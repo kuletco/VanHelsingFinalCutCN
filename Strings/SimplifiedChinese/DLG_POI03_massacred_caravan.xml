@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_POI03_massacred_caravan>
+			<node1>
+				<Desc>
+					<CN>看！那是一个经典的博格维亚小丑。这一定是个商人。嘿，你不会是想去抢劫他，是吧？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你为什么这么神经质？我们可以找到能说明他是谁的东西。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>好吧。我们看看他是否带着什么有用的东西。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>没什么。一个叫约翰的人所写的一封信，以及一张物品清单。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>这是了不得的清单。珠宝，武器，昂贵的丝绸。我们现在能走了吗？</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>当然不能！你把我当成什么了？</CN>
+				</Desc>
+			</node6>
+		</DLG_POI03_massacred_caravan>
+	</Quest>
+</Root>

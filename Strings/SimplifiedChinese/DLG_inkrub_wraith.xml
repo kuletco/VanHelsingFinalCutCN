@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_inkrub_wraith>
+			<node1>
+				<Desc>
+					<CN>尽管墨境溢出物将森林一分为二，同样的诅咒也笼罩着幽灵树林。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>所以我们已经知道了自己要干什么了。</CN>
+				</Desc>
+			</node2>
+		</DLG_inkrub_wraith>
+	</Quest>
+</Root>

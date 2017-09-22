@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Vhgold_TD2_report>
+			<node1>
+				<Desc>
+					<CN>那些生物越来越近了……我能感觉到它在我的大脚趾！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你的大脚趾需要眼睛亲自检查。我已经解决了这些生物。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>让你的大脚趾放松。我无法阻止所有的生物，但它们剩下的数量不多，不会造成太大麻烦。</CN>
+				</Desc>
+			</node3>
+		</DLG_Vhgold_TD2_report>
+	</Quest>
+</Root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_haunted_ghost_end>
+			<node1>
+				<Desc>
+					<CN>我们终于自由了！为了表达我们的感激之情，我们给你准备了一些宝藏，范海辛！</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>这是你的错！</CN>
+				</Desc>
+			</node2>
+		</DLG_haunted_ghost_end>
+	</Quest>
+</Root>

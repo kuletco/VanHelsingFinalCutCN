@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_Gas_in_the_tunnels>
+			<node1>
+				<Desc>
+					<CN>我收到消息说暴脾气教授又发明了一种新型毒气，他计划用这种毒气淹没整个城市。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>他为什么要那么做？”真是疯了。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>之前关于这个“疯狂科学家”你有什么不了解的么？</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>“这件事确实太疯狂了，但是也不是没办法阻止”！这种毒气会麻痹认得神经，把他们变成没有脑子的努力。对我而言，这将是一个耻辱。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我们应该怎么做？</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>暴脾气正在策划实验。他计划用实验室的机器把洪水冲到地下。你必须找到并摧毁装置。如果你乐意给我提供一件小东西的话……可别忘了随身携带……你的药。</CN>
+				</Desc>
+			</node6>
+		</DLG_Gas_in_the_tunnels>
+	</Quest>
+</Root>

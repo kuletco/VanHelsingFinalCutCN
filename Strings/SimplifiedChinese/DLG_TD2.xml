@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_TD2>
+			<node1>
+				<Desc>
+					<CN>还记得你最近研发的异界防御工事么？我派些士兵去探索一下。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>他们发现什么有价值的东西吗？</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>不少呢。最重要的，我们证实了这防御工事是用来阻止异界入侵的。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>这应该很容易对付无面沙皇。我们需要拯救它。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>这就是我问你的原因。一个墨境裂缝在防御工事附近生成了，我们需要派遣军队防御。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>好吧。我能解决它。</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>那么我应该派一支我们的精英部队。</CN>
+				</Desc>
+			</node7>
+		</DLG_TD2>
+	</Quest>
+</Root>

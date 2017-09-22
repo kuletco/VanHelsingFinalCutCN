@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_POI03_The_ghoul>
+			<node1>
+				<Desc>
+					<CN>不要伤害我，陌生人！我只是一个有着严重脱发和皮肤问题的老人！每个人都把我当成食尸鬼。你能想象吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你知道这是为什么吗？因为你就是个食尸鬼！</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>求求你，请相信我！如果你能给我一顶能遮住头的帽子，以及一些零钱和衣服，我就会变成一个体面的人。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>说的好！你会感染普通人，生出新的受害者。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>我还留有一些食物。你想吃点什么？</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>你真是善良，先生。我能吃掉一块肉… 或者一个多汁的眼球...嗯...天哪.我真的是食尸鬼,对吗?啊?...啊!!!</CN>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CN>给你。一顶帽子还有一些钱。振作起来，老人。</CN>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CN>多么仁慈！谢谢你，先生！</CN>
+				</Desc>
+			</node8>
+		</DLG_POI03_The_ghoul>
+	</Quest>
+</Root>

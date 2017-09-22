@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_We_are_greatful>
+			<node1>
+				<Desc>
+					<CN>谢谢你，猎人！我估计我们的朋友已经将它安全送到旧城了。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>你的朋友？我不知道你在说什么。我们找到你，纯碎靠的是运气。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>可别告诉我，我们要返回去拯救其他的人。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>不，不。你已经帮了我们很多。我们自己可以解决这个问题。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>是的。他很厉害。他现在一定在秘密巢穴里。你应该去追他。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>当然。我们离教授越来越近了。事情可能会变得……有一点凌乱。</CN>
+				</Desc>
+			</node6>
+		</DLG_We_are_greatful>
+	</Quest>
+</Root>

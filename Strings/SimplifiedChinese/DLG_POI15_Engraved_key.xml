@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_POI15_Engraved_key>
+			<node1>
+				<Desc>
+					<CN>你注意到这个球上的钥匙孔了吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>还有石头上的蚀刻和钥匙上的一样。咱们试试吧。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>真可惜我们没有钥匙。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我希望我们有把钥匙。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>可是我们有钥匙！上面有类似的蚀刻图案。咱们试试吧。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>可是我们没有。</CN>
+				</Desc>
+			</node6>
+		</DLG_POI15_Engraved_key>
+	</Quest>
+</Root>

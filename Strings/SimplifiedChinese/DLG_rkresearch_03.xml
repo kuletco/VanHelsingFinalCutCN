@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_rkresearch_03>
+			<node1>
+				<Desc>
+					<CN>它很迷人，先生。我忙着编写普罗米修斯档案呢。有空看一眼吧，先生。你不会后悔的。</CN>
+				</Desc>
+			</node1>
+		</DLG_rkresearch_03>
+	</Quest>
+</Root>

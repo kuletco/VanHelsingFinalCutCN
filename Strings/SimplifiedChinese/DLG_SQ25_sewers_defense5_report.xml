@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLG_SQ25_sewers_defense5_report>
+			<node1>
+				<Desc>
+					<CN>范海辛？你在工厂里击败过哈克的部队吗？</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>当然有。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>不。他们比我们更了解那地方。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>他们迟早会放弃的。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>不幸的是，现在什么也没丢。</CN>
+				</Desc>
+			</node5>
+		</DLG_SQ25_sewers_defense5_report>
+	</Quest>
+</Root>

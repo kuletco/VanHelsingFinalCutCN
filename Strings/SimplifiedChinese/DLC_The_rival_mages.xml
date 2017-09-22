@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CN>SimplifiedChinese</CN>
+	</LanguageName>
+	<Languages>CN</Languages>
+	<Quest>
+		<DLC_The_rival_mages>
+			<node1>
+				<Desc>
+					<CN>一个真正的怪物猎人！很高兴见到你。我一直在找您这样的雇佣兵。</CN>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CN>我不是雇佣兵，而且我也没时间闲聊。</CN>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CN>至少你得听我说完，我被流放了，所以不得不离开我们的藏匿地。我再也不想忍受那种态度，老实说，我需要自己的地盘。我希望你能帮我打败我的对手，我可以给你5000金币，还有一些非常稀有的artifact。</CN>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CN>我已经警告过你了，我不是雇佣兵，你走吧。</CN>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CN>太遗憾了，我本可以利用这样一个充满恨意的人。</CN>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CN>听起来不错，好吧，我可以帮你对付你的敌人。</CN>
+				</Desc>
+			</node6>
+		</DLC_The_rival_mages>
+	</Quest>
+</Root>
