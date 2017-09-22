@@ -1,0 +1,37 @@
+﻿1
+00:00:01,220 --> 00:00:03,584
+A storm is approaching the city.
+
+2
+00:00:03,653 --> 00:00:08,305
+ It will destroy the Force Domes and give us a second chance.
+
+3
+00:00:08,405 --> 00:00:11,464
+But this is an unnatural tempest,
+
+4
+00:00:11,935 --> 00:00:18,903
+born in the forbidden mountains where a sinister presence 
+tainted the forest a long, long time ago.
+
+5
+00:00:19,692 --> 00:00:23,293
+A mythical figure they called the Deathless.
+
+6
+00:00:23,492 --> 00:00:28,626
+The more I discover about this land, the more secrets keep cropping up.
+
+7
+00:00:28,830 --> 00:00:32,163
+I’m afraid that I have unleashed a terrible power.
+
+8
+00:00:32,197 --> 00:00:36,136
+And now I’m going to let it blast through this tormented city.
+
+9
+00:00:36,757 --> 00:00:40,138
+Hopefully it was worth it.
+

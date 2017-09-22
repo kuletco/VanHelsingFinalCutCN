@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>UNPAKKE Users Guide</title>
+<style type="text/css">
+html,body{margin:0;}
+body{background:#1d2c41;font:12px Arial;}
+.section {padding:10px; border-bottom:2px dotted #4a71a7}
+.stitle {font-size:14px;}
+.cr{color:#c14646;}
+.cg{color:#2b7f2b;}
+.code{color:#c0c0c0;background:#000000;padding:10px;border:1px solid #4a71a7;}
+a{color:#2a71c2;}
+a:hover{border-bottom:1px dotted #2a71c2;}
+em{font-style:italic}
+</style>
+</head>
+<body>
+<div style="background:#FFFFFF;width:1000px;border:2px solid #4a71a7;border-top:0;border-bottom:0;margin:auto;padding:10px">
+<div style="background:#dde7f3;padding:10px"><h1 style="font-size:40px;margin:0 0 10px 10px;margin:0"><span style="color:#133768">UNPAKKE Users Guide</span> <span style="color:#9facbe;font-size:10px">v1.0, last updated on 30.Jan.2012</span></h1></div>
+<div class="section">
+	Unpakke's command line parameters are designed to be simple as possible. Therefore, for both packing and unpacking commands are always four.<br/>
+	<br/>
+	<strong class="cr">** Before using Unpakke, keep in mind that:</strong>
+	<ul>
+		<li>If the output files/directories already exist, they will be <span class="cr">overwritten without warning</span>, so make sure you have backup.</li>
+		<li>You can use both relative or absolute input/output path. However it's recommended to place all the files in the same directory.</li>
+	</ul>
+	<br/>
+	<strong class="stitle">Table of contents:</strong>
+	<ul>
+		<li><a href="#unpack">Unpacking archives</a></li>
+		<li><a href="#pack">Packing archives</a></li>
+		<li><a href="#repack">Re-packing archives</a></li>
+		<li><a href="#misc">Other things you should know</a></li>
+	</ul>
+</div>
+<div class="section"><a name="unpack"></a>
+	<strong class="stitle">Unpacking archives:</strong><br/>
+	<br/>
+	For unpacking you need to pass the following parameters:<br/>
+	<ol>
+		<li><strong class="cg">module name</strong> - the module name, handling the current game packing algorithm;</li>
+		<li><strong class="cg">method</strong> - Unpakke method, in this case "<em>unpack</em>";</li>
+		<li><strong class="cg">input file</strong> - The archive file you like to unpack;</li>
+		<li><strong class="cg">output directory</strong> - The destination folder, where the unpacked files will be placed;</li>
+	</ol>
+	<br/>
+	First of all check if the game archive you are trying to unpack is supported by Unpakke, by referring to <a href="http://nullsecurity.org/unpakke/">its homepage</a>.<br/>
+	If the game using this type of archive is listed, that means you are ready to unpack it by using the appropriate Unpakke module.<br/>
+	<br/>
+	For example let's take the game "<em class="cg">Silent Scream: The Dancer</em>". According to the information from <a href="http://nullsecurity.org/unpakke/">Unpakke's homepage</a>, that game uses <em class="cg">PFP</em> files to store its resources. In the table its said you will need the "<em class="cg">upkk_pfp.dll</em>" module, and no additional libs.<br/>
+	<br/>
+	So you need to download latest version of "<em class="cg">Unpakke</em>", and the "<em class="cg">upkk_pfp.dll</em>" module. If the game is specified to use additional libraries, you need to download them also, and put them in the same directory where Unpakke and its module is placed.<br/>
+	<br/>
+	Then the command line should look like this:<br/>
+	<pre class="code">unpakke.exe upkk_pfp.dll unpack assets.pfp assets</pre>
+	<br/>
+	The result will be put into "<em class="cg">assets</em>" directory.<br/>
+	<br/>
+</div>
+<div class="section"><a name="pack"></a>
+	<strong class="stitle">Packing archives:</strong><br/>
+	<br/>
+	For packing you need to set the following parameters:<br/>
+	<ol>
+		<li><strong class="cg">module name</strong> - the module name, handling the current game packing algorithm;</li>
+		<li><strong class="cg">method</strong> - Unpakke method, in this case "<em>pack</em>";</li>
+		<li><strong class="cg">input directory</strong> - the source folder, containing the files you like to pack;</li>
+		<li><strong class="cg">output file</strong> - the destination file, where the data will be packed back;</li>
+	</ol>
+	First of all chose the game format you would like to pack into, by checking <a href="http://nullsecurity.org/unpakke/">Unpakke's homepage</a> and download the appropriate module.<br/>
+	<br/>
+	Again i will use "<em class="cg">Silent Scream: The Dancer</em>" for example, so the module will be "<em class="cg">upkk_pfp.dll</em>".<br/>
+	<br/>
+	The command line should look like this:<br/>
+	<pre class="code">unpakke.exe upkk_pfp.dll pack assets assets.pfp</pre>
+	<br/>
+	The result will be newly created "<em class="cg">assets.pfp</em>" file.<br/>
+	<br/>
+</div>
+<div class="section"><a name="repack"></a>
+	<strong class="stitle">Repacking archives:</strong><br/>
+	<br/>
+	As a method, repacking is not supported by Unpakke.<br/>
+	However, it still can be used to repack archives on the run.<br/>
+	<br/>
+	To do so:<br/>
+	<ul>
+		<li>Unpack the archive somewhere, as described in section 1 of this document;</li>
+		<li>Replace the modified files in the unpacked files directory;</li>
+		<li>Pack back the directory, as described in section 2 of this document;</li>
+		<li>Delete all the unneeded files;</li>
+	</ul>
+	Using BATCH for manipulating archives with Unpakke is not the only way to build your own resource updater.<br/>
+	Still, as easiest method i will give an example of repacking using a BATCH command file that i will name "<em class="cg">updater.cmd</em>".<br/>
+	<br/>
+	For the example, I will use "<em class="cg">Silent Scream: The Dancer</em>" again.<br/>
+	<br/>
+	I would like to replace the file "<em class="cg">loading.jpg</em>" in the game archive "<em class="cg">assets.pfp</em>" with my modified "<em class="cg">loading.jpg</em>", so first I need to unpack the original "<em class="cg">assets.pfp</em>".<br/>
+	<pre class="code">unpakke.exe upkk_pfp.dll unpack assets.pfp assets</pre>
+	<br/>
+	My unpacked data is in "<em class="cg">assets</em>" directory so i can now replace the "<em class="cg">loading.jpg</em>" file in it.<br/>
+	Using "<em class="cg">MOVE</em>" command i will replace the original "<em class="cg">loading.jpg</em>" with my modified one.<br/>
+	<br/>
+	<pre class="code">move /Y loading.jpg assets/backgrounds/loading.jpg</pre>
+	<br/>
+	The "<em class="cg">/Y</em>" parameter at the end wont prompt me for replacing the existing file. You can learn more about the "<em class="cg">MOVE</em>" command by typing "<em class="cg">MOVE /?</em>" in Windows CMD.<br/>
+	<br/>
+	Now i need to pack the "<em class="cg">assets</em>" directory back to "<em class="cg">assets.pfp</em>". But before that, i will backup the original "<em class="cg">assets.pfp</em>" by renaming it to something else.<br/>
+	<br/>
+	<strong class="cr">*ALWAYS BACKUP THE FILES YOU WANT TO MODIFY!*</strong>
+	<br/>
+	<pre class="code">rename assets.pfp assets.bak</pre>
+	<br/>
+	Since i have backup, I can pack back the "<em class="cg">assets</em>" directory to "<em class="cg">assets.pfp</em>":<br/>
+	<pre class="code">unpakke.exe upkk_pfp.dll pack assets assets.pfp</pre>
+	<br/>
+	The game resources are packed and I no longer need the "<em class="cg">assets</em>" directory, my "<em class="cg">loading.jpg</em>", "<em class="cg">unpakke.exe</em>", its module "<em class="cg">upkk_pfp.dll</em>" and finally the "<em class="cg">updater.cmd</em>", so I will delete them to free some space and get the things clean:
+	<pre class="code">rd /S /Q assets
+del unpakke.exe
+del upkk_pfp.dll
+del updater.cmd</pre>
+	<br/>
+	The final "<em class="cg">updater.cmd</em>" will look like this:<br/>
+	<pre class="code">unpakke.exe upkk_pfp.dll unpack assets.pfp assets
+move /Y loading.jpg assets/backgrounds/loading.jpg
+rename assets.pfp assets.bak
+unpakke.exe upkk_pfp.dll pack assets assets.pfp
+rd /S /Q assets
+del unpakke.exe
+del upkk_pfp.dll
+del updater.cmd</pre>
+	<br/>
+	and if everything is done right, the game will now work with its new "<em class="cg">loading.jpg</em>"!<br/><br/>
+</div>
+<div class="section"><a name="misc"></a>
+	<strong class="stitle">Other things you should know</strong><br/>
+	<br/>
+	<ul>
+		<li>Some of the modules require additional libraries to work. For example, the module for the game "<em class="cg">A New Beginning</em>" require "<em class="cg">zlib1.dll</em>". In that case refer to <a href="http://nullsecurity.org/unpakke/">Unpakke's homepage</a>, and download the required libraries. They should be put in the exact folder where Unpakke and its module is!<br/><br/></li>
+		<li>It's possible to unpack other games that are not listed at <a href="http://nullsecurity.org/unpakke/">Unpakke's homepage</a>.<br/>In case you are found a game not listed there, but working with some of the modules, I'll be happy if you send me its name and icon to update the list.<br/></li>
+	</ul>
+</div>
+<br/><br/><br/><br/><div style="background:#dde7f3;text-align:center;padding:10px;">&copy; nullsecurity.org / <a href="mailto:xpozed.dgt@gmail.com">XpoZed</a> 2011-2012</div>
+</div>
+</body>
+</html>
