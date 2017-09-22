@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ21_The_guardians>
+			<node1>
+				<Desc>
+					<eng>A stack of notes. This must be the draft of a new volume.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Let's see…  "In order to turn the Chimera into a loyal Guardian, the prospective master must defeat it in a special Circle of Combat . If he or she fails, the creature is set free."</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I don't care about the failed attempts. Please go on.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>“If anyone enters a Circle of Combat, the spell recognizes the contestant and summons a new Chimera."</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We must find this Circle of Combat immediately. I want a Chimera. I will call it Fluffy.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I don't understand this. You have already defeated that great Chimera in a circle like this. Where is my Fluffy then?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Maybe it's too shy.</eng>
+				</Desc>
+			</node7>
+		</DLG_MQ21_The_guardians>
+	</Quest>
+</Root>

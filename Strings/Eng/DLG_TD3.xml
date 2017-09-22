@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_TD3>
+			<node1>
+				<Desc>
+					<eng>The Cult of Seven tore a wound in the fabric of the ink and created another ink rift, similar to the one we dealt with before. This one is much bigger than the previous one and it opens into a realm of much more dangerous creatures.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Great. Tell me we weren't caught by surprise again.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Not this time. We've already moved traps from our outposts to the Empyrean Perimeter and we were able to install them near the rift in time. All we need is someone to operate them.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Good. I'll take care of it.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I'll put one of our captains to the task.</eng>
+				</Desc>
+			</node5>
+		</DLG_TD3>
+	</Quest>
+</Root>

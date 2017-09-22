@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ125_Bryans_quest>
+			<node1>
+				<Desc>
+					<eng>Sir! It's good to have you here.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Thank you, captain. I'm looking for a certain Private Bryan.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>And he should have a lightning-shaped scar on his forehead!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Don't listen to her. Do you know where we can find this man?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I sent him with his squadron to destroy a freight car filled with phlogiston gas. It's a dangerous mission.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ125_Bryans_quest>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ13_Hulk>
+			<node1>
+				<Desc>
+					<eng>RAARGH! Let! Me! Out! RAARGH! I AM INNOCENT!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Somehow I doubt that.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I'm... a simple librarian with... AARH... an addiction... Drank too much of... HRRR... Dr. Jekyll's Anger Management drinks... and stayed this way!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Everyone deserves a second chance. You can go.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>And how can I be sure that you'll turn back normal? I can't let you free.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ13_Hulk>
+	</Quest>
+</Root>

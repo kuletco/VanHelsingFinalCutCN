@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ17_prisoner_merchant>
+			<node1>
+				<Desc>
+					<eng>Look! A familiar face.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Yes, I know you. You are the merchant I had to save earlier in Croakwood. What's with you this time?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Do you know how hard it is to leave this horrible country?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You really should give me a discount.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Of course! Which is just great, since the prices have climbed really high since then. But this way you don't have to pay more! Although first you should set me free, you know.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I go and talk to the Spiritwalkers.</eng>
+				</Desc>
+			</node6>
+		</DLG_SQ17_prisoner_merchant>
+	</Quest>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SP_papertrail3>
+			<node1>
+				<Desc>
+					<eng>One fatal blow to the head. A quick death. </eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>He was grasping a handful of sheets. Can you make these lines out?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It says: "The construction of the Clockwork Keep has been finished. The first wonder of the otherworld, a fortress of science! Soon it will sustain itself, like a Perpetual Motion Machine, by creating Inkstorms. The effects can't reach Borgovia yet. That would require a power source yet unknown to science."</eng>
+				</Desc>
+			</node3>
+		</DLG_SP_papertrail3>
+	</Quest>
+</Root>

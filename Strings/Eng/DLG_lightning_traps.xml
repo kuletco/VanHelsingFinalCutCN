@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_lightning_traps>
+			<node1>
+				<Desc>
+					<eng>Well, well, hunter, we meet again.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Shouldn’t you be packing? You know, instead of showing up suddenly from thin air, which is a little disturbing.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>What you said about my future after the fall of Fulmigati... it got me thinking. And it occurred to me that you could benefit from my further assistance. And you could put in a good word for your allies.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I’m listening.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>As you can see, the rooftops are covered with these strange contraptions. They collect the power of the storms and deliver the energy to Fulmigatis deadly machines. If I were you, I’d destroy as many as I can.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Great. Now I have an excuse to destroy them all. Thank you.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>They could also supply half of Borgova with power once all this is over. I won't destroy them.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Don’t mention it. And don’t forget to recommend my services to the Resistance!</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>It's all the same to me.. Have fun with the professor!</eng>
+				</Desc>
+			</node9>
+		</DLG_lightning_traps>
+	</Quest>
+</Root>

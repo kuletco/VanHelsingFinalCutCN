@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ22_sewers_defense>
+			<node1>
+				<Desc>
+					<eng>General Harker won't give up easily. His special forces found a new route through the tunnels system. This time they chose to approach the Lair through the oldest and most dangerous vaults where no one dares to enter.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I will show them why they should not enter those vaults.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Our Resistance soldiers  can deal with them.</eng>
+				</Desc>
+			</node3>
+		</DLG_SQ22_sewers_defense>
+	</Quest>
+</Root>

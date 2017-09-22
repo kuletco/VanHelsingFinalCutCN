@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Wraith_relics_start>
+			<node1>
+				<Desc>
+					<eng>An ancient shrine with relics protected by a mystical barrier. I know that you are intrigued!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>The barrier seems to draw power from the four gates. I've seen this before. It could be brought down by a specific ritual.</eng>
+				</Desc>
+			</node2>
+		</DLG_Wraith_relics_start>
+	</Quest>
+</Root>

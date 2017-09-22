@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_lab_mindswap_start>
+			<node1>
+				<Desc>
+					<eng>Stranger! We are trapped in this diabolical machine, help!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Meow!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>A talking cat? What the hell is going on here?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>We were kidnapped by mad scientists and put in this contraption called the Mind Modulator. It switches minds between bodies. Aargh, I bit the inside of my cheek again!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I hate this puny sack of blood and meat! Give me my claws and teeth back!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Poor things, they got their souls ripped out and stuffed into another body. Admirably creative.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>We cannot be released until the Ghost Capacitor is replaced in the machine! You should be able to find a fresh one around the lab. Hurry!</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>That is all I need to know. Hang in there!</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>I refuse to touch this hellish machine, sorry.</eng>
+				</Desc>
+			</node9>
+		</DLG_lab_mindswap_start>
+	</Quest>
+</Root>

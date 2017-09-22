@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_cro_gypsyld01>
+			<node10>
+				<Desc>
+					<eng>I help you, you help me.</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>Not right now.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>Well, well, who's come back?</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>I've decided to hunt that creature for you.</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>On second thoughts, maybe later.</eng>
+				</Desc>
+			</node14>
+			<node1>
+				<Desc>
+					<eng>Good day to you, sir!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>No greetings for me? Where are your manners?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I didn’t send you away with a warding sign, did I? Well then.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I came on behalf of the village alchemist. I ask you to remove the curse you put on the poor man.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>But that was a rightful curse! He said we were frauds! In the name of Science!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>It might even be true. But he has suffered enough and I need his help.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Aye. We could come to an agreement, you know? You and me?</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>What do you want?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>I have all sort of strange trophies from all sort of strange creatures, see? In my traveling cabinet of curiosities. I need the skull of the legendary Snowpelt.</eng>
+				</Desc>
+			</node9>
+		</DLG_cro_gypsyld01>
+	</Quest>
+</Root>

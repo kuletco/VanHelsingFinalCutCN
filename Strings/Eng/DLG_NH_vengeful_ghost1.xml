@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_NH_vengeful_ghost1>
+			<node1>
+				<Desc>
+					<eng>I curse you Koschei! I served faithfully, yet you shackled my soul to this tomb. I curse you for denying my revenge beyond the grave!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I remember him. He was a nobleman who conspired to butcher a rival family, but was caught. His execution lasted for weeks.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>We bear the same grudge against the Faceless Tsar, mortal. I could be a powerful ally, if you lift my curse! Together we can destroy the remnants of House Lavinius!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Butchering a whole family? Sounds like an unfair deal for a mad ghost.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That family is long dead, Van Helsing.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Oh. Well...</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>An ally could always come handy, vengeful ghost or not.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I think I'll lift this curse by destroying you.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>You deserve to suffer eternally. Goodbye.</eng>
+				</Desc>
+			</node9>
+		</DLG_NH_vengeful_ghost1>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ17_Carcas_pit_again>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! We have a slab of stone, right? Let’s put it into the gap.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>We don't have time for that. I call forth the spirit and we destroy it.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Good idea. We should give it a try.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Well?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Yes! It worked. Case solved then, Miss Katarina.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ17_Carcas_pit_again>
+	</Quest>
+</Root>

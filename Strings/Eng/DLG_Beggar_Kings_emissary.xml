@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Beggar_Kings_emissary>
+			<node10>
+				<Desc>
+					<eng>Who said you can’t? I don’t need money, I want you to save my master!</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>That will be quite a meal.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>And who would your master be?</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>He is the Beggar King! Our protector! The Lord of the Lost Tunnels!  Umm.. he needs some protection of his own these days. He was a powerful man once, but that mad scientist wants to see him dead. Could you help him?</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>The enemy of my enemy is my friend. Where can I find him?</eng>
+				</Desc>
+			</node14>
+			<node15>
+				<Desc>
+					<eng>He fled to the depths of the Ink. You’ll need this amulet to enter his hiding place. Good luck!</eng>
+				</Desc>
+			</node15>
+			<node16>
+				<Desc>
+					<eng>I’m sorry, but I can’t do that. I have a whole town to resuce first.</eng>
+				</Desc>
+			</node16>
+			<node1>
+				<Desc>
+					<eng>Stranger, I beg you! I’m starving!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Here, 50 gold pieces. Eat something and buy some clothes.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>You are a kind soul, stranger. Just like my master.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And who would your master be?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>He is the Beggar King! Our protector! The Lord of the Lost Tunnels!  Umm.. he needs some protection of his own these days. He was a powerful man once, but that mad scientist wants to see him dead. Could you help him?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>The enemy of my enemy is my friend. Where can I find him?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>He fled to the depths of the Ink. You’ll need this amulet to enter his hiding place. Good luck!</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I’m sorry, but I can’t do that. I have a whole town to rescue first.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Sorry. I can’t help you.</eng>
+				</Desc>
+			</node9>
+		</DLG_Beggar_Kings_emissary>
+	</Quest>
+</Root>

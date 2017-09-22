@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_attack_together>
+			<node1>
+				<Desc>
+					<eng>Get lost, hunter! This is our territory!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>No throat-ripping? No foaming? How polite.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I’m not here to hunt you down. I want to destroy Fulmigati, just like you. We could be allies.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I heard that you spared the Vrikolak leader in the mountains. You look like a tough warrior. We could be allies, yes. But we only defend our territory.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I heard that you killed a Vrikolak leader in the mountains. I don’t trust you. But we fight the same enemy, so we could be allies, yes… for a price. We need 10,000 gold. And we only defend our territory.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I don’t need mercenaries.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I can’t pay you that much.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Beastly bodyguards? Sounds like a good idea.</eng>
+				</Desc>
+			</node8>
+		</DLG_attack_together>
+	</Quest>
+</Root>

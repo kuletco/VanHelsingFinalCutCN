@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_The_water_mafia>
+			<node1>
+				<Desc>
+					<eng>Help me, stranger! I’m thirsty! My family needs water! Help us!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Sorry, I’m confused. Katarina, do Borgovians say “water” instead of “food”?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>There is a huge water tank in the vicinity. But a group of evil beasts wants to make us pay for the water!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>That’s truly a disgrace. I’ll help you.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I can’t help you with that. But here’s my water flask.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>And how can I help you?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>No, you heard right. With all these factories around Borgova the soil is polluted. The water is tainted in the rookery and the soldier-machines won’t let us enter the downtown.</eng>
+				</Desc>
+			</node7>
+		</DLG_The_water_mafia>
+	</Quest>
+</Root>

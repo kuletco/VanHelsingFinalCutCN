@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Fence_Candle>
+			<node10>
+				<Desc>
+					<eng>Here you are.</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>I still need some time. Patience is a virtue, you know.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>I changed my mind. It’s a huge sum of money for something so mythical.</eng>
+				</Desc>
+			</node12>
+			<node1>
+				<Desc>
+					<eng>Well, well, hunter! I have something special for you. A candle!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Really?! I know things are bleak in Borgova, but… a candle?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It’s not an ordinary candle, my lady! It belonged to a witch. In the old times when we had an inquisition. She was burned because she served the Lady of Dusk.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And who is this Lady of Dusk?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I don’t know. There used to be too many dark mistresses around here and none of them was too imaginative about their names. But the candle commands some mythical beasts. It’s worth at least 2000 gold.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Well, now you have my interest.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I’m definitely interested. Wait until I collect the money.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>It’s a huge sum of money for something so mythical. No.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Are you here for the candle? Did you get the money?</eng>
+				</Desc>
+			</node9>
+		</DLG_Fence_Candle>
+	</Quest>
+</Root>

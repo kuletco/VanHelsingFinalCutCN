@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_tukorvaros_apa>
+			<node1>
+				<Desc>
+					<eng>Are you a hunter, sir?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What gave my away?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Oh, great! There is a creature we called up from the Inkwell. He’s called the Pied Piper and he was supposed to lure away these monsters with the sound of his flute.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Please don’t tell me that you fell for this old trick.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We did, my lady. We did! And he lured away our children instead of the monsters! He is still here, though, but we can’t leave this place.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I’ll find him, I promise.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I'm sorry, but I can't clean up your mess right now.</eng>
+				</Desc>
+			</node7>
+		</DLG_1DLC_tukorvaros_apa>
+	</Quest>
+</Root>

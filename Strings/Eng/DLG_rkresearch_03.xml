@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_rkresearch_03>
+			<node1>
+				<Desc>
+					<eng>It’s fascinating, sir. I’m busy compiling the Promethean Dossier. Take a look at it when you can, sir. You won’t regret it.</eng>
+				</Desc>
+			</node1>
+		</DLG_rkresearch_03>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI08_Sacrifice_for_Gods2>
+			<node1>
+				<Desc>
+					<eng>Look at that! A shiny trinket among the bones! Shall we take it?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Of course. It's an ancient medallion. They tend to be useful around here.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It's a sacrificial altar that belongs to the Spiritwalkers. I don't want them to put a curse on me. I might end up as a restless ghost, which sounds really miserable.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Thank you, Van Helsing. Thank you SO MUCH!</eng>
+				</Desc>
+			</node4>
+		</DLG_POI08_Sacrifice_for_Gods2>
+	</Quest>
+</Root>

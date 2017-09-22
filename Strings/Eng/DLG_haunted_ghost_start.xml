@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_haunted_ghost_start>
+			<node1>
+				<Desc>
+					<eng>I told you cutting into that sleeping Creaker was a bad idea!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>But you were bragging about your new axe! I had to take a swing!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Two stranded souls... and still arguing. How cute.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Look, we got eaten alive by a tree and now we can't leave until our remains are buried at this altar.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>And let me guess, you want me to play fetch bones?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Yes. Being dead and stuck here for eternity with this mutton is stressing.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Tell me about it.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>There is enough trouble in the forest already, I'll help you.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>We have more pressing matters at hand, sorry...</eng>
+				</Desc>
+			</node9>
+		</DLG_haunted_ghost_start>
+	</Quest>
+</Root>

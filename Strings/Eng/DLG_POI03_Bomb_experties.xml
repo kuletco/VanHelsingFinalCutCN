@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI03_Bomb_experties>
+			<node1>
+				<Desc>
+					<eng>Help! Help me!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>This looks bad.  What happened to you?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Are you blind? I'm stuck under the rock and I have visions from the fever! Now I see a ghost lady!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Hey, I'm HERE!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I have a slab of dynamite with me. You have to blow up the rock. Follow  my instructions faithfully  and I'll be free.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Or we all die.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Don't doubt me! I have a certificate from the Borgovian Bomb Club! Do what I say, please.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>How can I help you?</eng>
+				</Desc>
+			</node8>
+		</DLG_POI03_Bomb_experties>
+	</Quest>
+</Root>

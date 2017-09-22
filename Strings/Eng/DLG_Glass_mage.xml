@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Glass_mage>
+			<node1>
+				<Desc>
+					<eng>I feel an eerie presence around this painting. Like someone is staring at me.</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>Why don't you just find a new host?</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>My imprisonment is final. Ask your vassal to acquire a Soul Sceptre, then use it to lure souls out of the Spirit Dome. Harvest plenty, so their trapped essence can replenish this Shelter.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>Have you heard him, my dearest vassal?</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>Your story is too intriguing to pass. I will help.</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>The whole tale sounds dubious, we should leave.</eng>
+				</Desc>
+			</node14>
+			<node15>
+				<Desc>
+					<eng>He called me Lady Wraith! Finally I've my own nickname!</eng>
+				</Desc>
+			</node15>
+			<node2>
+				<Desc>
+					<eng>Not even a speck of dirt on the frame, yet the palace was destroyed centuries ago.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Well, you are staring at an Atlantean Soul Shelter which is nearly indestructible.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Oops, I almost jumped!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I beg your forgiveness Lady Wraith. Is that crude flesh vessel is your servant?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>This "crude flesh vessel" will blast you into pieces if you don't introduce yourself!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Before I placed my soul in the Shelter, I was the Court Mage of the 47th Atlantean Emperor. It was the only way to survive the cataclysm.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>So this place is indeed the fabled Atlantis. Anything else I should know?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>My Shelter must be recharged, so I can survive a few more centuries.</eng>
+				</Desc>
+			</node9>
+		</DLG_Glass_mage>
+	</Quest>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ23_Rune_book>
+			<node1>
+				<Desc>
+					<eng>Splendid! The Manual of Practical Runes! I'm much obliged. I hope it wasn't too hard to find.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Ghosts have a different interpratation on the meaning of "hard".</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It wasn't as difficult a trying to save an entire country. </eng>
+				</Desc>
+			</node3>
+		</DLG_SQ23_Rune_book>
+	</Quest>
+</Root>

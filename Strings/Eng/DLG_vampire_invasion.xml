@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_vampire_invasion>
+			<node1>
+				<Desc>
+					<eng>What a relief! I was so worried that you'd met your inevitable demise and darkness had taken you into its kind embrace...</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And we wouldn't want to worry about the ghost lady, right? Then worry about your old vampire friends storming through the city!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Need I  remind you that I helped your father to defeat those bloodsuckers decades ago? We are not exactly best friends. First you must seal the Inkgate that led them here. Until then I’ll conceive another cunning plan.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>There is already a slight flaw in your previous plan. I can’t close any Inkgates.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>But I can, silly, remember? Stick to your trademark vampire hunting and leave the Ink to me.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I still have doubts, but fine. Let’s head to the Gothic Quarter. The Inkspill destroyed the underground tunnels, but there is a temporary Inkgate at the Old Port.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Vampires resilient to sunlight. Just like you.</eng>
+				</Desc>
+			</node7>
+		</DLG_vampire_invasion>
+	</Quest>
+</Root>

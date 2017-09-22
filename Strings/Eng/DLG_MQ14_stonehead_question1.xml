@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ14_stonehead_question1>
+			<node1>
+				<Desc>
+					<eng>Bighead sent you! I know! I’m the cleverest head! BWAHAHA! Answer my question now. Which is the strongest? Fire, water, stone or wind?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Wind, because eventually it will wear down even a mountain.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Stone, because it the hardest.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Fire, because the heat will crack the stones.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Water, because it will carve its way through the rocks.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Good answer, little flesh-thing! You can go now!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>You think rock is weak? You think I are weak! Suffer-suffer!</eng>
+				</Desc>
+			</node7>
+		</DLG_MQ14_stonehead_question1>
+	</Quest>
+</Root>

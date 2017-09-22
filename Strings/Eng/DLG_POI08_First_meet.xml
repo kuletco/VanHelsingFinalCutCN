@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI08_First_meet>
+			<node1>
+				<Desc>
+					<eng>Hullo!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Wait, you’re not trying to eat me?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>What? No silly, you my costumer! How do we raid if you in my tummey?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Costumer? Raid...?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Oh, this one’s dumm. I gonna get all his munney. Ehehe...</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I think he wants to trade.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Yes! Let’s raid!</eng>
+				</Desc>
+			</node7>
+		</DLG_POI08_First_meet>
+	</Quest>
+</Root>

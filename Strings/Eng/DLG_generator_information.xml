@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_generator_information>
+			<node1>
+				<Desc>
+					<eng>I have good news for you. One of Fulmigati’s former assistants contacted the Resistance. He wants to sell some technical documents. We could use them to improve our defenses, but you'll need to find this Todor Schimko first.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Good. I’ll take care of it.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Another errand? Mad scientists won’t defeat themselves, you know.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I have other things to do.</eng>
+				</Desc>
+			</node4>
+		</DLG_generator_information>
+	</Quest>
+</Root>

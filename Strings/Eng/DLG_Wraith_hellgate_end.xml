@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Wraith_hellgate_end>
+			<node1>
+				<Desc>
+					<eng>The gate is closed. So there goes my hope of meeting a charmingly evil creature.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>The Faceless Tsar is not good enough for you as a villain?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Well, it's hard to be charming without a face.</eng>
+				</Desc>
+			</node3>
+		</DLG_Wraith_hellgate_end>
+	</Quest>
+</Root>

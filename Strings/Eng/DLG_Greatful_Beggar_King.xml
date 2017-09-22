@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Greatful_Beggar_King>
+			<node1>
+				<Desc>
+					<eng>What an honor! The great Van Helsing came to my rescue personally.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I try to save everyone I can.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>True. It’s like an occupational hazard with him.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You have my gratitude. I am the king of the lost and fallen. My subjects will help you in your fight against that evil Fulmigati.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You have my gratitude. I am the king of the lost and fallen. My subjects will help you in your fight against that evil Fulmigati.</eng>
+				</Desc>
+			</node5>
+		</DLG_Greatful_Beggar_King>
+	</Quest>
+</Root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_I_need_some_swamp_flowers>
+			<node1>
+				<Desc>
+					<eng>I’m going to prepare a magical concoction, but I need some rare swamp lilies for the brew. Would you be so kind as to bring me eight flowers?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Not my usual line of work… but it sounds important.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>You want me to pick flowers, like a peasant girl? No way.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Have you changed your mind?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>This feels like the most challenging task of my life. But yes, I’m going to go out.. and gather some flowers.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Sorry. You need another hunter.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Well, well, if it isn’t the most handsome hunter in Borgova!</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Oooh, she’s planning something. Mark my words.</eng>
+				</Desc>
+			</node8>
+		</DLG_I_need_some_swamp_flowers>
+	</Quest>
+</Root>

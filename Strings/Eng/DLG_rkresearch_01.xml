@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_rkresearch_01>
+			<node1>
+				<Desc>
+					<eng>Sir, it’s about that huge stack of research documents we found in the Testing Facility. The “Promethean Dossier”, as I like to call it.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Are you sure that the material can live up to this pompous name?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Undeniably, sir. It’s the personal research journal of none other than Professor Fulmigati. The first few glimpses were enough to ascertain that this material could change the way we look at Weird Science.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And what are you planning to do with it?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’m going to study these documents as thoroughly as I can, of course. I’ll write down the digest of my discoveries into a research journal, also called the Promethean Dossier. I’ll keep you updated every time I’m finished with a new entry. (Go to the Journal, see Prometheus.)</eng>
+				</Desc>
+			</node5>
+		</DLG_rkresearch_01>
+	</Quest>
+</Root>

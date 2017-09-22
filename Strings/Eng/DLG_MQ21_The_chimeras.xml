@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ21_The_chimeras>
+			<node1>
+				<Desc>
+					<eng>Look at these books! Most of them are about the Chimera . See that one? "The Origins of the Chimera".</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>So they were breeding Chimeras here.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Grab the book and give my the highlights!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Let's see... “The Chimera is a creature made of the material of the Ink itself… clever, swift and strong…   originally created by Koschei the Deathless as bodyguard and hunter in the Ink. The Ink  slowly distorts them, though, so the older specimen are true beasts…"</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>So it's a hunting doggie with some characters flaws.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I wouldn't call them that. What if they are offended?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>So, what should be next? "The Origins of the Chimera". I love origin stories!</eng>
+				</Desc>
+			</node7>
+		</DLG_MQ21_The_chimeras>
+	</Quest>
+</Root>

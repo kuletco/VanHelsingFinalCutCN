@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ21_sewers_defense_report>
+			<node1>
+				<Desc>
+					<eng>Well, Van Helsing? Did you defeat Harker's troops in the tunnels?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Of course I have.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>How should I put is? We had to regroup. Strategically. Somewhere else.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Congratulations! This victory will do wonders for the morale.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That's bad. Fortunately, they still haven’t found the secret entrance.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ21_sewers_defense_report>
+	</Quest>
+</Root>

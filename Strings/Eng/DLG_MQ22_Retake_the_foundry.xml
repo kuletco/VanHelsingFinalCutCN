@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ22_Retake_the_foundry>
+			<node1>
+				<Desc>
+					<eng>Awaiting your orders, sir!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Don't take it personally, captain, but I expected a larger force.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>My squadron arrived here first, sir. The main forces are on their way, but they are going to need some more time. We don't expect troubles. Van Helsing is here.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>That's flattering. All right, captain. Stay with me and help me clear out the area.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Great. Captain, I'll lead the way. You will secure the places we have already cleared out.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Bah! " Van Helsing is here!" Don't even mention the ghost girl. She is nothing but a beautiful sidekick.</eng>
+				</Desc>
+			</node6>
+		</DLG_MQ22_Retake_the_foundry>
+	</Quest>
+</Root>

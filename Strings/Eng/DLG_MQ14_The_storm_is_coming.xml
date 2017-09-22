@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ14_The_storm_is_coming>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! Your ally is most upset. You should've set Perun free, not barter with those traitorous wardens.</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>A secret laboratory in the Ink? That sounds promising.</eng>
+				</Desc>
+			</node10>
+			<node2>
+				<Desc>
+					<eng>If I remember your words correctly, the goal was not to set Perun free but to destroy the Force Domes. And I never saw a storm like this. It's making me nervous, but it will do the trick.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>They will, when the raging storm engulfs the forsaken city! The winds are howling and lightning rips bleeding wounds in the sky! Your friend warns you to stay indoors for a while.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Really? Back to the damp cellars again?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>There might be a task for you underground. While you were gone, I spent my time hunting for Fulmigati's secret laboratories. And I found the gate leading to one of the sealed territories in the Ink. The fabled Crystal Workshop, where the professor experimented with something uncanny… Your weak friend here didn't dare to enter, but you should.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Oh, yes. What could go wrong, I wonder?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>This humble prisoner is most satisfied with you, hunter. Perun's rage has been unleashed!</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Yes, and I'm having serious doubts about the whole enterprise. But it's too late for that now, so we should focus on the Force Domes. Are they falling?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>It will do, but you could have done so much more damage. Still, it doesn't matter anymore. You should stay indoors for a while.</eng>
+				</Desc>
+			</node9>
+		</DLG_MQ14_The_storm_is_coming>
+	</Quest>
+</Root>

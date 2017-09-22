@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_katona_hulla3>
+			<node1>
+				<Desc>
+					<eng>What happened here?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>These corpses were mauled by thorns. Even the local flora has been tainted.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>That sounds really bad, considering that this region once belonged to the dryads.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>The tree spirits? Flesh like bark, branches for limbs, peaceful nature?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I suppose they are not that peaceful any more. Not to mention some other changes...</eng>
+				</Desc>
+			</node5>
+		</DLG_katona_hulla3>
+	</Quest>
+</Root>

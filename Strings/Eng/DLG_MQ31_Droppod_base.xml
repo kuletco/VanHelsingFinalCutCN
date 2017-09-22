@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ31_Droppod_base>
+			<node1>
+				<Desc>
+					<eng>What 's happening? Is the Lair collapsing? And I demand a clear answer!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>As you wish. Harker got tired of the underground hunt for the Lair. He has built a colossal drilling machine. The Animated Extraction Rig will tear apart the whole district above us until it breaks through your ceiling. Are you satisfied?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Did you hear that, Van Helsing? I told you that Harker was building a doomsday device!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Calm down, Katarina. It's a drilling machine, not a doomsday device.  How many soldiers should I bring along?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>"Colossal" was not an exaggeration, Van Helsing. You could bombard this gargantuan platform for days and it would be still operational. Not that you could get through the defenses. It is protected by magic, science and a whole army.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>This is why I don't like you! When you give us advice, it only makes everything even more complicated!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>You are too judgmental. There is an easy way, though. Harker has a floating platform in the Ink. This is where they deploy the Riftshells aimed at you. If you can take that platform, you could drop down straight on top the machine.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>And then what? We turn it off with a monkey wrench?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Your scientists have the blueprints. While you clear out the floating platform, they could surely find the weak spot of the machine. Don't  forget, Lady Katarina… everyone and everything has a weak spot.</eng>
+				</Desc>
+			</node9>
+		</DLG_MQ31_Droppod_base>
+	</Quest>
+</Root>

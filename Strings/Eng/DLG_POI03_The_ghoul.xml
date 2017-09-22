@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI03_The_ghoul>
+			<node1>
+				<Desc>
+					<eng>Don't hurt me, stranger! I'm just an old man with severe hair loss and skin problems! Everyone takes me for a ghoul. Can you imagine that?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Do you know why is that? Because you are a ghoul!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Please, believe me! If you could give me a hat to cover my ugly head and a spare change to buy some clothes I'd pass for a decent mortal.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Well said! You'd pass for a mortal and find new victims.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I have some provisions left.  What'd you like to eat?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>That's really kind of you, sir. I could kill for a slab of rare meat… or a juicy eyeball... hmm... Heavens. I'm really a ghoul, aren't I? Rarrgh?... Raargh!!!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Here you are. A hat and some money. Pull yourself together, old man.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Such a gracious man! Thank you, sir!</eng>
+				</Desc>
+			</node8>
+		</DLG_POI03_The_ghoul>
+	</Quest>
+</Root>

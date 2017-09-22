@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_where_is_the_werewolf>
+			<node10>
+				<Desc>
+					<eng>All right! No need for violence, eh? I’m supposed to sail out with the ugliest wolf in the world tonight. Someone is hunting him. He should be here by now.</eng>
+				</Desc>
+			</node10>
+			<node1>
+				<Desc>
+					<eng>What do you want?! I’m busy.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>We are looking for a mechanical werewolf.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I bet you didn’t think that you would actually say that one day.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Are you crazy? I have no idea what you are talking about.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Maybe some money would help. How about 500?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Now we are talking! Right! I’m supposed to sail out with the ugliest wolf in the world tonight. Someone is hunting him for some notes or whatnot. He should be here by now.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Do you know anything about these notes?</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Do I look like someone who cares? Something about an experiment. I don’t know.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Then think fast, or you’ll go for a swim.</eng>
+				</Desc>
+			</node9>
+		</DLG_where_is_the_werewolf>
+	</Quest>
+</Root>

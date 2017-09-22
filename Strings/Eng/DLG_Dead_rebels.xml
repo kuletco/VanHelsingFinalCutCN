@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Dead_rebels>
+			<node1>
+				<Desc>
+					<eng>Wait. Aren’t they the rebels we were supposed to rescue?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Yes, they are. I made a grave mistake, I truly did. I should have helped that rebel soldier.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It’s a little late to start wallowing in self-doubt, isn’t it? And it doesn’t suit you at all.</eng>
+				</Desc>
+			</node3>
+		</DLG_Dead_rebels>
+	</Quest>
+</Root>

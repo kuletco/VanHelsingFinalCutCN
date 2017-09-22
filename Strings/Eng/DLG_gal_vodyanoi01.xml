@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_gal_vodyanoi01>
+			<node1>
+				<Desc>
+					<eng>P-Please, don’t shoot! I invoke The Pact Between Man and Monster to Leave Each Other Alone.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Who are you?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>My name is... eh, just call me Professor Toad. Everyone does. I’m an archeologist. I’m exploring the ruins of the early vodyanoy civilization.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You must know that the pact was broken.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>So I’ve heard! But I trust you still respect it?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Don't worry. And I also need your help. I'm looking for an ancient Inkgate in the swamp.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>My friend, you are lucky! I know exactly where it is. Let me show it to you on your map!</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>So I’ve heard! But I trust you still respect it?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>As long as you do.</eng>
+				</Desc>
+			</node9>
+		</DLG_gal_vodyanoi01>
+	</Quest>
+</Root>

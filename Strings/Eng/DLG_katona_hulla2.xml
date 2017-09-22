@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_katona_hulla2>
+			<node1>
+				<Desc>
+					<eng>Dead soldiers again. Look at those wounds! This chasm is indeed a festering wound on Borgovia.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Something distorted the land. The spiders, the rocks... everything.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Something? It must have been that buried artifact that you are so desperate to find!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And have you seen what it did to this place? Imagine what would happen if Harker got hold of it!</eng>
+				</Desc>
+			</node4>
+		</DLG_katona_hulla2>
+	</Quest>
+</Root>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ17_The_angry_spirit>
+			<node1>
+				<Desc>
+					<eng>What are you doing here?  You are disturbing  our ritual.</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>You did what? I am humbled, restless one! You must be an even more powerful spirit, the goddess of the starless nights! Let us worship you with blood. We will sacrifice you a mortal immediately!</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>That's enough! You are the true monsters here, and I will stop you  now.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>We should hurry then.</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>If they  are so eager to see blood, I'm going to spill theirs. Attack!</eng>
+				</Desc>
+			</node13>
+			<node2>
+				<Desc>
+					<eng>Which was exactly my intention. You are holding someone captive, and I want you to set him free before these preparations turn into a ritual.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>That man disturbed the slumber of the Spirit of the Deep. If that dark spirit crawls into to the light, it won't go back until it tasted human blood. We captured this man to calm the spirit with a sacrifice.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Is there any other way to save this man?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Of course there is. We can sacrifice you, for example.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Or, you know, I could hunt down this evil spirit. But it's just an idea.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>You shall find the spirit  in an ancient well, in the black heart of a cursed village. But you must hurry. We can't delay the sacrifice much longer.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>It won't be necessary. We have already killed that pesky spirit.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>I think that these men are ready to spill blood.</eng>
+				</Desc>
+			</node9>
+		</DLG_SQ17_The_angry_spirit>
+	</Quest>
+</Root>

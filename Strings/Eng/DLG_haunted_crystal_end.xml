@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_haunted_crystal_end>
+			<node1>
+				<Desc>
+					<eng>It seems like the crystal has become depleted. Let's move on.</eng>
+				</Desc>
+			</node1>
+		</DLG_haunted_crystal_end>
+	</Quest>
+</Root>

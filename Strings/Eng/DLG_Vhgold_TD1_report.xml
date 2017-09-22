@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Vhgold_TD1_report>
+			<node1>
+				<Desc>
+					<eng>Ah, you're back! So how did it go? Were you able to make good use of the traps?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>The outpost was impressive. The traps made short work of the intruders.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I was but there's just not enough of them. I suggest you make the improvement of the trap network a priority.</eng>
+				</Desc>
+			</node3>
+		</DLG_Vhgold_TD1_report>
+	</Quest>
+</Root>

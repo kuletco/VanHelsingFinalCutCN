@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_The_Dark_Alchemist>
+			<node1>
+				<Desc>
+					<eng>Thank you, stranger! You saved my life!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Yes, yes… So what were those creatures? A new batch of creeps from those laboratories?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The Pale Gentlemen! They dabble in arcane arts. One of them, this Grand Alchemist, is experimenting with liquefied phlogiston. It leaks into the streets… and changes people. It’s highly flammable. If only you would blow up the vent where it’s coming from!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>How could I say no to blowing things up? But I’ll need an explosive device.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I have more pressing matters to attend to. I might do it later.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Hunter, you are back! Are you going to help me now?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I never said no. But I still need an explosive device.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I still need to take care of other matters. Be patient.</eng>
+				</Desc>
+			</node8>
+		</DLG_The_Dark_Alchemist>
+	</Quest>
+</Root>

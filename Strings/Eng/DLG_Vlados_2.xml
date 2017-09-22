@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Vlados_2>
+			<node1>
+				<Desc>
+					<eng>How can I help you, Meester Van Helsing?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Tell me what happened here.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>If you wish. After your father had overthrown the reign of vampires, he left us here with the Pact and his former allies in charge.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>The scientists?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Indeed. They created unbelievable machines and creatures. They slowly turned this city into a modern metropolis.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>And what went wrong?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Oh, what could possibly go wrong when you play with forbidden knowledge? They went insane! They started a civil war and almost destroyed Borgova. Finally Professor Fulmigati won. The others have disappeared and we became the new subjects in his grand experiment.</eng>
+				</Desc>
+			</node7>
+		</DLG_Vlados_2>
+	</Quest>
+</Root>

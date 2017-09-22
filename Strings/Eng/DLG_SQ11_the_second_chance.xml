@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ11_the_second_chance>
+			<node1>
+				<Desc>
+					<eng>Mr. Van Helsing, you’re back!  But where is my mate?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>He performed his duty with courage and bravery. But the mission is not complete. We need you to finish what he started.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Is he... dead...?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>He… well, he told us to look for you in case he didn’t succeed. He also said you were the brains of this operation anyway.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’ll prove that by not letting you get me killed. Instead, I’ll just give you this automated toolbox. Just plug it into the control stations and it’ll do the rest.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ11_the_second_chance>
+	</Quest>
+</Root>

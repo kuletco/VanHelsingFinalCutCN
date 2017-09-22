@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Commands4>
+			<node1>
+				<Desc>
+					<eng>The scouts report that our enemies are going to attack from two sides.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You must hold this position! It’s crucial. Deploy the automated turrets and drive back the soldiers… at any cost.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>We are going to stand our ground! Ask for reinforcements from the Lair.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Keep your positions! Don’t forget to make a glorious speech if you have to!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’m going to survey the positions, then I’ll give the orders.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands4>
+	</Quest>
+</Root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_DK_Crowell_Russ>
+			<node1>
+				<Desc>
+					<eng>I knew a pit fighter once who said "Death smiles at us all. All we can do is smile back."</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Or we can go out with guns blazing.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I killed the previous Ringmaster in single combat, you know. The crowd cheered my name.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>The Ringmaster who got murdered after he caught a gladiator cheating with his wife?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You are lucky that I'm out of shape.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>You still can try your luck at acting.</eng>
+				</Desc>
+			</node6>
+		</DLG_DK_Crowell_Russ>
+	</Quest>
+</Root>

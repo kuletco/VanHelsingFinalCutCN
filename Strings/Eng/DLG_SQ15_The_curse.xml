@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ15_The_curse>
+			<node1>
+				<Desc>
+					<eng>Help! Help us, sister!</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>As a ghost, I feel a personal bond with these spirits. We should help them!</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>Van Helsing! Remember that relic we found? That must be the one they are talking about! We could save them.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>I suppose. If we find the camp of the Great Shaman, we'll see what we can do.</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>And I agree with you.  Strange, isn't it? We should search for that relic.</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>They were murderers and bandits. They must suffer.</eng>
+				</Desc>
+			</node14>
+			<node15>
+				<Desc>
+					<eng>Curses upon you, mortal! We will rip the flesh from your bones and make you suffer among us!</eng>
+				</Desc>
+			</node15>
+			<node16>
+				<Desc>
+					<eng>They were all murderers and bandits. They must suffer.</eng>
+				</Desc>
+			</node16>
+			<node17>
+				<Desc>
+					<eng>Curses upon you, mortal! We will rip the flesh from your bones and make you suffer among us!</eng>
+				</Desc>
+			</node17>
+			<node2>
+				<Desc>
+					<eng>I haven't seen this many ghosts in one place since the Great Borgovian Hauntfest. What happened here?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The Spiritwalker Elders put a curse on us. The curse killed us first, then  trapped us here, in the desolate void between two worlds, where we SUFFER and RAGE and...</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Yes, yes. Been there, done that. But why did he curse you?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We were all sinners! Murderers and outlaws.. and then one of us stole a sacred relic from the Spiritwalkers. And we paid for it dearly.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>If there is one thing I’ve learned during these adventures, it's that curses can be broken.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>No doubt about that. We even know how. We have to give back the bone relic, but the thief escaped with the treasure. We don't know where the curse finished him. It can't be too far away, though.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Actually, I've learnt two things. Usually there is another option, but the second one is always bad.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>And you are right! We could also be released if the totem of the tribe is destroyed. It contains all their power, including the curse, but it's ancient and mighty. And the whole tribe will protect it.</eng>
+				</Desc>
+			</node9>
+		</DLG_SQ15_The_curse>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ17_The_rune_stone>
+			<node1>
+				<Desc>
+					<eng>Oh my, what a relief! I was worried sick that you won't return. Do you have the key to my prison?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>It depends on your next answer. Do you have the rune stone taken from the ring of the carcass pit?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Um, well, it's...um. Not really.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>What do you mean "not really"?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I don't have it here... but I could tell you where you can find it! It's in my camp, hidden among a couple of old rugs.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ17_The_rune_stone>
+	</Quest>
+</Root>

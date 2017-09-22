@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_major01>
+			<node1>
+				<Desc>
+					<eng>My word! That was an incredible rescue, hunter.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And an entirely pointless one, so it seems.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Don’t say that! Good deeds are never pointless.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Which means that you will answer my questions, right?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Certainly! But I must return to the village immediately. See you there!</eng>
+				</Desc>
+			</node5>
+		</DLG_mar_major01>
+	</Quest>
+</Root>

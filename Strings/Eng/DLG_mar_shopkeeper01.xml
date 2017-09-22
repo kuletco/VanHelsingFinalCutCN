@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_shopkeeper01>
+			<node1>
+				<Desc>
+					<eng>I've heard you're going to the Gallowsbog! Where the first fighting machines from Borgova are still rusting away in the mud. I’d pay good money for unexploded bombs you could find.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Sure, I'll look around.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Sorry. I'm right in the middle of something.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Ready for some scavenging, I suppose?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Why not?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>You must be confusing me with someone else.</eng>
+				</Desc>
+			</node6>
+		</DLG_mar_shopkeeper01>
+	</Quest>
+</Root>

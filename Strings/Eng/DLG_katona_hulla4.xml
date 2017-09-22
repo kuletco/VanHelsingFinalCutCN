@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_katona_hulla4>
+			<node1>
+				<Desc>
+					<eng>These attacks were definitely made by dryads.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Makes sense. If this is their land, they must be the unwilling guardians of the artifact.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>This might be a good time to mention that the dryads have a queen. The great Tree-Mother. The Silent Goddess.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Maybe they have dethroned her and live in a democracy now.</eng>
+				</Desc>
+			</node4>
+		</DLG_katona_hulla4>
+	</Quest>
+</Root>

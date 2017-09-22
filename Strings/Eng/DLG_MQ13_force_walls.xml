@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ13_force_walls>
+			<node1>
+				<Desc>
+					<eng>I'm much obliged, hunter. My wise decision to help you out last time really paid off. Although you seem to be having difficulties winning this war, don't you?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You are remarkably judgmental for a  rescued prisoner, aren't you?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>We need your help. Can you switch off Harker's force fields?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I told you earlier that we had no tools to destroy those walls, and science hasn't really progressed that much since then. I'm glad to aid your Resistance with my genius, but I can't help you with that.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I knew that it was a hunter's job. Fine. See you in the Lair then, I'll find another way.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ13_force_walls>
+	</Quest>
+</Root>

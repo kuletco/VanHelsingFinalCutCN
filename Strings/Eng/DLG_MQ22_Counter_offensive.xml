@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ22_Counter_offensive>
+			<node1>
+				<Desc>
+					<eng>Great. You are back. The storm has passed and your masked friend told us that the lightning  strikes had destroyed Harker's Force Domes! That's the perfect opportunity to launch the offensive and take back the Foundry through the Viaduct Junction.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Prepare two squadrons, commander. We will use the Inkgates to ambush the enemy.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Harker must have used some sort of distortion device in the Ink. We can't enter the gates. You  have to advance through the underground tunnels.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>This man! Why can't he make it easy for us? Just once?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>And it gets worse. Our spies report that there are certain creatures of interest in the army that occupies Viaduct Junction. Three of them, actually.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>And who would they be?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>One of them is Captain Blood, charged with heinous war crimes. The second is a serial killer, the Gasmask Man, who is hiding among the soldiers. The third is an experimental military automaton. This Alpha Prototype emits poisonous radiation. You must deal with them.</eng>
+				</Desc>
+			</node7>
+		</DLG_MQ22_Counter_offensive>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ31_sewers_defense6_report>
+			<node1>
+				<Desc>
+					<eng>Well, Van Helsing? Did you defeat Harker's troops?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I did. They are getting really tired.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>No. We had to retreat.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Great. I seriously hope that  it was their last attempt.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Things are escalating outside. Hopefully they won't be able to enjoy  this victory.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ31_sewers_defense6_report>
+	</Quest>
+</Root>

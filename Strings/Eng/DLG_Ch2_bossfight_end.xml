@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Ch2_bossfight_end>
+			<node1>
+				<Desc>
+					<eng>Impressive, Van Helsing. It's been a while since I met someone who was capable of such destruction.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You are not talking about my father, are you?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>We don't have time for this. This rig will fall apart any minute. The arcane defenses are gone, so I can open you a gate.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Wait! I'll want to take a look around.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Fine. Let's go.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>You are wasting our time.</eng>
+				</Desc>
+			</node6>
+		</DLG_Ch2_bossfight_end>
+	</Quest>
+</Root>

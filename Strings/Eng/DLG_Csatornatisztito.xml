@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Csatornatisztito>
+			<node1>
+				<Desc>
+					<eng>This strange creature has a point, you know. I almost feel bad now.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I know you! You are that annoying monster-slayer who fills these tunnels with piles of corpses! Bet you never think about us poor sods who have to clean up your mess! Work, work,work, without a bite to eat!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>He said that he was hungry. Maybe I could offer him something to eat…</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Don’t waste my time. Go on, do the job you were created for.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>My, my! A kind soul after all! That’s a first. You know what? I’ll show you a secret tunnel that leads to a hidden part of the sewers.</eng>
+				</Desc>
+			</node5>
+		</DLG_Csatornatisztito>
+	</Quest>
+</Root>

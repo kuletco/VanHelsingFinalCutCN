@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Palace_of_Machines>
+			<node1>
+				<Desc>
+					<eng>I bring news, Van Helsing. The Professor has fled to the Palace of Machines!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What? Now the machines have palaces too?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>That’s just a fancy name for the grand hall where they recently opened the Science Fair of Borgova.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And why would he go there?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Well… You won’t like this, I’m afraid. One of the wonders on display is the prototype of a new automaton, the Mechanical Colossus!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Are you trying to tell me that he has a giant mechanical soldier?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>It’s not operational… Yet. Anyway, Fulmigati has taken to calling it the Doomsday Automaton.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Which is never a good sign, believe me. He must be truly desperate.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>We have no time to lose. We must stop him before he makes that machine fully functional.</eng>
+				</Desc>
+			</node9>
+		</DLG_Palace_of_Machines>
+	</Quest>
+</Root>

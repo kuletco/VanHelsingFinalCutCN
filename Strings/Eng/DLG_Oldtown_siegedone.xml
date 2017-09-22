@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Oldtown_siegedone>
+			<node1>
+				<Desc>
+					<eng>Ah, what a breath of fresh air it is to see you, Van Helsing. We had to kill our wounded to prevent them turning into these fiends. Where are the reinforcements?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>We are the reinforcements. As always.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Then this quarter surely is doomed. I grew up here, you know.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Good, then find your way to the fish market. The Inkgate is there. Go!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We are forever in your debt. Give them hell. Goodbye!</eng>
+				</Desc>
+			</node5>
+		</DLG_Oldtown_siegedone>
+	</Quest>
+</Root>

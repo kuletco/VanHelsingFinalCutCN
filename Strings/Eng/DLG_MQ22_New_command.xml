@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ22_New_command>
+			<node1>
+				<Desc>
+					<eng>At your command, sir!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I don't have any new orders, captain. Just carry on!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>From now on I'll lead the way. You will secure the places we have already cleared out.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>From now on you'll follow me. Help me clear out this area.</eng>
+				</Desc>
+			</node4>
+		</DLG_MQ22_New_command>
+	</Quest>
+</Root>

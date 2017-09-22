@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ15_This_is_magical_seal>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! I've rarely felt anything so powerful. It must be one of those magical seals.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>They do take strange forms and shapes… we can't destroy it then. Not even to save a group of forsaken ghosts.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Still, we can't let those miserable ghosts suffer any more. The totem must be destroyed.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>What are you doing? I thought we were going to leave those magical seals alone!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Don't worry. I simply wanted to know how powerful it is. Very much, I have to say.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ15_This_is_magical_seal>
+	</Quest>
+</Root>

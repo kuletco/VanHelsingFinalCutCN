@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_foguard01_end>
+			<node1>
+				<Desc>
+					<eng>Welcome, stranger… my lady.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And a good day to you. We must get to Borgova. The bridge has collapsed.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Then you need to talk the village mayor, who knows the pathway through the forest.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And where do I find him?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>He went out to investigate a wagon that got lost on the forest road with some valuables. He hasn’t returned yet.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>It’s never that easy, my dear Van Helsing.</eng>
+				</Desc>
+			</node6>
+		</DLG_mar_foguard01_end>
+	</Quest>
+</Root>

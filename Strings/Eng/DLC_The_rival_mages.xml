@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLC_The_rival_mages>
+			<node1>
+				<Desc>
+					<eng>A real, honest monster hunter! I’m so glad that we met. I was just looking for a mercenary like you.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I’m not a mercenary and I don’t have time for idle chatter.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>At least you could hear me out. I was exiled from my order and I had to leave our secret hideout. I won’t tolerate that kind of attitude, and frankly I need the place for myself. I thought that you might help me to get rid of my rivals. I’ll pay you 5000 Gold and some rare artifacts.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I’ve already warned you. I’m not a mercenary. Now leave me be.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Such a shame. I could have used someone with so much hatred towards my kind.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Sounds promising. Fine, I’ll deal with your rivals.</eng>
+				</Desc>
+			</node6>
+		</DLC_The_rival_mages>
+	</Quest>
+</Root>

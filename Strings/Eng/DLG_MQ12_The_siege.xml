@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_The_siege>
+			<node1>
+				<Desc>
+					<eng>Impeccable timing, hunter, as always. I have a message for you: Count Vlados sends his regards, but he had to leave in a hurry to destroy the force walls. You are in charge!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Last time I checked, vampires couldn’t stand daylight.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>He is a modern vampire. Defying superstition and spontaneous combustion at the same time!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I wouldn’t worry for him. I haven’t seen daylight for a while in this smoke. Anyway, General Harker is busy preparing his next attack. Are you ready to employ your tactical genius?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>But of course! I’m quite tactical. And a genius too. I'll visit the posts and give orders to the men.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I’m a hunter, not a commander! You deal with the soldiers, I go to the front line and wait for the attack.</eng>
+				</Desc>
+			</node6>
+		</DLG_MQ12_The_siege>
+	</Quest>
+</Root>

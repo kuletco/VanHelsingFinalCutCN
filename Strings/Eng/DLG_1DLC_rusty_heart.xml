@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_rusty_heart>
+			<node1>
+				<Desc>
+					<eng>How can I help you?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Do you know the cure to the Rustblight?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Don’t tell me that you found someone suffering from this arcane disease! You can only get infected in the Ink, you know. Yes, I might be able to concoct a remedy, but…</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>But what?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>There is a chance that the cure will only turn him into a walking corpse that spreads the infection! I’d sadly suggest that you should kill him. But then bring me his heart! It could be useful for research. I’ll be very grateful.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I’ll take the chances. Give me the cure.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>That’s terrible. But then I’ll do what must be done and deal with him.</eng>
+				</Desc>
+			</node7>
+		</DLG_1DLC_rusty_heart>
+	</Quest>
+</Root>

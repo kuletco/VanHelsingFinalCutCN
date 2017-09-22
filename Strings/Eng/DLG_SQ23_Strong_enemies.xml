@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ23_Strong_enemies>
+			<node1>
+				<Desc>
+					<eng>What are doing here, soldier? Leave that "one-man army" business to the professionals.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I wouldn't dream of it, my lady. I'm a survivor, not a hero. I lost my comrades in the hall behind this door. Harker has strong forces down there. I was lucky to get out alive.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>No, we are lucky to have you, soldier. Join one of the Resistance groups and let me deal with Harker's boys.</eng>
+				</Desc>
+			</node3>
+		</DLG_SQ23_Strong_enemies>
+	</Quest>
+</Root>

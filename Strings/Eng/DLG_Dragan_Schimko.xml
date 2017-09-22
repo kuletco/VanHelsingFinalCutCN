@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Dragan_Schimko>
+			<node1>
+				<Desc>
+					<eng>You must be Van Helsing! You fame precedes you, sir. My name is Todor Schimko and I used to work for the scientists of the Phlogiston Society.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Hopefully the madness was not catching. What is this place, anyway?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>An abandoned research facility. When I had to flee my mentors, I found refuge here. I also brought some important documents with me. Take a look.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>The blueprints for an Improved Generator by Heinrich von Sturm? I’ll take it. (Generator Plan)</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Professor Fulmigati’s research paper on a mechanical trap? How much? (Trap Plan)</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I see some notes by Dr. Blawatzky on human mind and body. What do you want for them? (+5 ability points)</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I’m not asking much. I’d like to get into your secret headquarters before I die out here. If you accept me, the document is yours.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Welcome to the Resistance then!</eng>
+				</Desc>
+			</node8>
+		</DLG_Dragan_Schimko>
+	</Quest>
+</Root>

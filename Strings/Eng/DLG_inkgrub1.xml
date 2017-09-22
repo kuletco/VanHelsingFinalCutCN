@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_inkgrub1>
+			<node1>
+				<Desc>
+					<eng>These eggs are quite peculiar.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What are they and how did they end up in this forest?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>What if there is a creature out there, laying these eggs?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You really had to put that image into my head, didn’t you?</eng>
+				</Desc>
+			</node4>
+		</DLG_inkgrub1>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Commands3>
+			<node1>
+				<Desc>
+					<eng>We are under attack by those blasted ornithopters, sir! I’m afraid we can’t hold out much longer.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You must stand your ground! At least until we get the women and children to safety!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Deploy the automated turrets and stand your ground!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Retreat to the second line of defense and hold your ground!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’m going to survey the positions first, then I’ll give the orders.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands3>
+	</Quest>
+</Root>

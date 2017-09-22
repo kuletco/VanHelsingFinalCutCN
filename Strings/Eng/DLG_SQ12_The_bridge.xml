@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ12_The_bridge>
+			<node1>
+				<Desc>
+					<eng>Sir! We can’t hold this position much longer. We should demolish at least one of these elevated rail tracks to stop the enemy.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>A radical idea, but we don’t have any explosives.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>There is a phlogiston tank right under the railbridge. If we open the three taps, the gas will burst through the vents, creating flammable clouds.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You can solve everything in Borgovia by blowing up some bridges.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I love blowing up bridges as much as the next Borgovian, but this means that flammable clouds will engulf the whole district, right?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>The residents have already fled or have been evacuated, which means that we can risk the plan. Let’s do this.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Forget it, captain. It’s way too dangerous. And I don’t usually say things like that.</eng>
+				</Desc>
+			</node7>
+		</DLG_SQ12_The_bridge>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Vlados_Katarina>
+			<node1>
+				<Desc>
+					<eng>If I remember rightly, you became Van Helsing’s ally when he arrived to defeat the vampire princes.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Lady Katarina! So your humble servant Vlados left an everlasting impression on your undead soul!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It was rather the enormous reward that the princes put on your head.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>One of my biggest accomplishments in my afterlife.</eng>
+				</Desc>
+			</node4>
+		</DLG_Vlados_Katarina>
+	</Quest>
+</Root>

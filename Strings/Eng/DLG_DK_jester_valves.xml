@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_DK_jester_valves>
+			<node1>
+				<Desc>
+					<eng>These valves control the Boiler Apparatus. If we clog the system up in the correct order, nasty things will happen.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Just don't get decapitated by a jet of hot porridge!</eng>
+				</Desc>
+			</node2>
+		</DLG_DK_jester_valves>
+	</Quest>
+</Root>

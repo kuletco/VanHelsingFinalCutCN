@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<Dialogue_Guard_falu>
+			<node10>
+				<Desc>
+					<eng>Thank you, milady. You can pass. And your…  manservant too.</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>We'll talk about this later.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>Fine, don’t even thank me.</eng>
+				</Desc>
+			</node12>
+			<node1>
+				<Desc>
+					<eng>Stop right there!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Easy, lad. We are friends here.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>They all say that. But I won’t let in any dangerous fiends on my watch. No, sir!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>How dare you?! I’m going to tear you apart and then I’ll teach you some manners.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>No! I didn’t mean you, milady! The undead nobility of Borgova is always welcome to haunt here. But you, with the Van Helsing hat… We don’t like your sort here, with your weapons and bad manners.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I am a monster hunter!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Of course you are! Or… you are just a troublemaker.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Oh, you don’t have to worry about my… servant. I keep him on a short leash.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Katarina!</eng>
+				</Desc>
+			</node9>
+		</Dialogue_Guard_falu>
+	</Quest>
+</Root>

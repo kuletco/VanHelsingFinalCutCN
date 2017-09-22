@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Commands7>
+			<node1>
+				<Desc>
+					<eng>Sir! If you don’t mind me saying, this area is far too open and wide. We are all spread out too thin.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Still, you must defend this area at all costs. Ask for reinforcements from the Lair!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Deploy the automated turrets on the higher ground and defend your positions!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You must keep these positions at all cost!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’ll survey the positions first, then I’ll brief you later.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands7>
+	</Quest>
+</Root>

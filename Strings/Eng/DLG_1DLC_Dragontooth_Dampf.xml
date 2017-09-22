@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_Dragontooth_Dampf>
+			<node1>
+				<Desc>
+					<eng>Ah, Van Helsing! I see you’ve found the fang of a mighty dragon. Don’t worry, I’ll pulverize it and you’ll have your cure in no time!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What are you talking about? I’m not ill. It’s a trophy from a mythical beast.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Ach, a misunderstanding! Ehhehe! Allow me to buy it from you, then. Somebody else with… severe heart problems… would pay a hefty sum for it!</eng>
+				</Desc>
+			</node3>
+		</DLG_1DLC_Dragontooth_Dampf>
+	</Quest>
+</Root>

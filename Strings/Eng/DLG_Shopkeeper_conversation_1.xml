@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Shopkeeper_conversation_1>
+			<node1>
+				<Desc>
+					<eng>Ha! That was some exercise! Right, Van Helsing?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>How do you know me?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I recognize a hunter when I see one. And there is only one who got an invitation from our Resistance.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Elementary, my dear Van Helsing.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>So you came to help us to get rid of these mad scientists.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>That’s the idea. But I’d like to get prepared first.</eng>
+				</Desc>
+			</node6>
+		</DLG_Shopkeeper_conversation_1>
+	</Quest>
+</Root>

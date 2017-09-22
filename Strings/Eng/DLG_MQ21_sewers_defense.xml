@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ21_sewers_defense>
+			<node1>
+				<Desc>
+					<eng>General Harker is sending a good, old fashioned army against us through the tunnels. He is a stubborn fellow, I’ll give him that.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>This is getting annoying. I deal with them.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>A great opportunity for our Resistance soldiers to hone their fighting skills.</eng>
+				</Desc>
+			</node3>
+		</DLG_MQ21_sewers_defense>
+	</Quest>
+</Root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI03_mushroom_certificate>
+			<node1>
+				<Desc>
+					<eng>A good day to you!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You are the one who is always complaining that no one takes you seriously without a diploma, right?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Sadly it is true.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Well, how about a nice certificate that would qualify you as a mushroom expert?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Really? A certificate? I always wanted to be a mushroom expert, but I wasn’t clever enough to pass the exams. I'm willing to pay a hefty sum for this.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>The Resistance health care is in good hands, I see.</eng>
+				</Desc>
+			</node6>
+		</DLG_POI03_mushroom_certificate>
+	</Quest>
+</Root>

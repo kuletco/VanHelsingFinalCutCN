@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Hell_fallen_acolyte>
+			<node1>
+				<Desc>
+					<eng>I've fallen from the Tsar's grace after long years of servitude. The reward for my pilgrimage was eternal torment. My soul is trapped in a rotting body. I can't bear the stench of immortality anymore.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>A well deserved reward for your faith.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Let me peel away your rotting prison then.</eng>
+				</Desc>
+			</node3>
+		</DLG_Hell_fallen_acolyte>
+	</Quest>
+</Root>

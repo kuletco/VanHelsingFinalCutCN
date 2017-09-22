@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_gnome_ink_again>
+			<node1>
+				<Desc>
+					<eng>What are you doing here, little gnome? I thought you wanted to go home to your family.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I hate to disappoint you, but this is my home. Or it used to be. While I was gone, the Inkstorm disgorged a tide of monsters here from the void. My family is in hiding and we can't return until someone destroys this infestation. Could you help us out?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I really want to tell you how grateful I am for destroying those Inkgrubs. But… umm.. while I was gone, the Inkstorm disgorged a tide of monsters from the void here. My family is in hiding and we can't return until someone destroys this infestation. Could you help us out?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>How could I say no? Being a monster hunter and all that...</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I have a secret cult to catch. I'll kill anything that stands between me and the gate out of here, but that's all I can do.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>The monster infestation is gone, your families can return now.</eng>
+				</Desc>
+			</node6>
+		</DLG_gnome_ink_again>
+	</Quest>
+</Root>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ11_orni_base_controller>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! So you are in command now?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Good question! Is the ship commanding the storm?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Well, I could cause an overload that would shut it down for good but... isn’t that thing beyond our defenses...?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Nah, a few enemy hordes along the way, the odd behemoth here and there. Trust me, it’ll be mind-numbingly boring.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Don’t worry. I’ll keep you alive.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Alright... I place my trust in you, hunter.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Don’t listen to her. Yes, and I have a task for you. There is an ornithopter launch tower nearby and it’s causing us plenty of grief. If I get you there, can you disable it?</eng>
+				</Desc>
+			</node7>
+		</DLG_SQ11_orni_base_controller>
+	</Quest>
+</Root>

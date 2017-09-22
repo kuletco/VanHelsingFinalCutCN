@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_city1_resistance_spy>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! I was hoping to meet you in person.</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>And how many soldiers are stationed at the command center?</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>Not too many. But as soon as they are under attack, they will alert the garrison nearby. That's when things will get complicated. You should deal with the garrison first.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>A whole garrison? It sounds really reckless. We should definitely do this.</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>There is another way. You could inject poisonous gas through the air vents. That would take care of the soldiers. The vents have their own Force Walls.</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>So we could use the Demagnetizer?</eng>
+				</Desc>
+			</node14>
+			<node15>
+				<Desc>
+					<eng>No, they have their own generators. You will find them on the rooftops of the Bank of Borgova. One generator on the roof of each wing.</eng>
+				</Desc>
+			</node15>
+			<node16>
+				<Desc>
+					<eng>We have already taken care of those.</eng>
+				</Desc>
+			</node16>
+			<node17>
+				<Desc>
+					<eng>Thank you. We'll take over from here.</eng>
+				</Desc>
+			</node17>
+			<node18>
+				<Desc>
+					<eng>I like you, Van Helsing. Well then, you are free to go to the garrison rooftop and inject the poison into the vents.</eng>
+				</Desc>
+			</node18>
+			<node19>
+				<Desc>
+					<eng>Thank you. We'll take over from here.</eng>
+				</Desc>
+			</node19>
+			<node2>
+				<Desc>
+					<eng>I've heard a lot about you. You made a name for yourself as a spy. But where is Harker?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The General has holed up in a refurbished warehouse that they are using as a command center. And they are working on something mysterious. I saw cartloads of strange machines and carved slabs of stones.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I knew that he was hatching a plan! How can we approach the command center?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Only two bridges lead to the building, and both of them are the blocked by modified Force Walls. You need a special Demagnetizer Toolbox to disable them.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Our scientists must have one of those.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Demagnetizer? We found a strange device on a very unpleasant vampire. Is this the one?</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>No. There is only one person with a Demagnetizer on this side of the Force Walls. A vampire noble, a former ally of Vlados. He betrayed us and leads Harker's troops now.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Yes, it is. You can use it to pass through the Force Walls.</eng>
+				</Desc>
+			</node9>
+		</DLG_city1_resistance_spy>
+	</Quest>
+</Root>

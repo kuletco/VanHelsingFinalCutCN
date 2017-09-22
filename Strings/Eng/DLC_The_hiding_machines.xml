@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLC_The_hiding_machines>
+			<node1>
+				<Desc>
+					<eng>I’ve heard that you are heading for the Gallowsbog. Tread carefully on the old battlefield! It’s still haunted by some of those lurking, rusty hunter-machines. Did you know that the mayor put a blood price on those things?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Blood price? Does that mean that we’ll  get paid for this for once?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Thank you for the advice. Rest assured, I’d destroy these machines even for free…. and hopefully my companion didn’t hear that.</eng>
+				</Desc>
+			</node3>
+		</DLC_The_hiding_machines>
+	</Quest>
+</Root>

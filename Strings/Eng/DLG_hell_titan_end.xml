@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_hell_titan_end>
+			<node1>
+				<Desc>
+					<eng>The spoils are on the way to the Titan. You managed to pull off the impossible, traveler!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Don't even try to pretend that you didn't help yourself to some!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It was a feast after centuries of suffering. With a good chance to also make the original proprietor of the goods happy.</eng>
+				</Desc>
+			</node3>
+		</DLG_hell_titan_end>
+	</Quest>
+</Root>
+

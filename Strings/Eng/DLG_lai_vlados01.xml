@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_lai_vlados01>
+			<node1>
+				<Desc>
+					<eng>Let’s get to work, shall we?  First we are going to need power, which is produced by a certain machine called the Elyctrical Generator. Or so I’ve been told. Which is broken, unfortunately.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>But do you know how to fix it?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Me? What am I, a grease-monkey? I’m wearing a cape, see? What we need here is a true adept of mechanical wonders.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And I suppose you know just the man?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Yes. The trouble is that the professional in question is imprisoned in the factory by those miserable wind-up soldiers.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>A task tailored for Van Helsing!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>My thoughts exactly.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I’m still here, you know that, right?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>If I might suggest, take the Inkgate that leads right behind the walls of force!</eng>
+				</Desc>
+			</node9>
+		</DLG_lai_vlados01>
+	</Quest>
+</Root>

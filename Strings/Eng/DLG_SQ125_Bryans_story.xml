@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ125_Bryans_story>
+			<node1>
+				<Desc>
+					<eng>Oh, what a joy! A rescue squad! My comrades are all dead and I'm stuck here!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Don't worry, lad. You are safe now.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Tell me! I must know! Who are you? Do you have a unique Ring? A glittering sword? A red cape? What?!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I'm… I'm a nobody, milady! Please don't hurt me! I used to be a cook, that's all. The War Council loves my chocolate cakes, but that's hardly a speciality.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Really?! We should change sides, Van Helsing. I insist!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>We will escort you to safety, soldier. You won't last alone out here.</eng>
+				</Desc>
+			</node6>
+		</DLG_SQ125_Bryans_story>
+	</Quest>
+</Root>

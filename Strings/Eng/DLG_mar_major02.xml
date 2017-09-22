@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_major02>
+			<node1>
+				<Desc>
+					<eng>Oh, it’s the hunter again! I’m glad to see you!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Before you run away again, please tell me how to get to Borgova.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>If you want to reach Borgova, you must travel through the old mines to the other side of the mountain.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I sense another “but” coming up.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>But you have to use the ancient Inkgate in the swamps. It opens into the tunnels.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>It’s not easy to find your way around here.</eng>
+				</Desc>
+			</node6>
+		</DLG_mar_major02>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Weapon_smuggler>
+			<node1>
+				<Desc>
+					<eng>You were sent by the Resistance, right?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>No, we were sent by the man who was sent by the Resistance.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I’m sorry?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Don’t worry about it. They were attacked and I came to help. Now my job here is done.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Wait! Take this weapon. It’s a work of art. And thank you for the help.</eng>
+				</Desc>
+			</node5>
+		</DLG_Weapon_smuggler>
+	</Quest>
+</Root>

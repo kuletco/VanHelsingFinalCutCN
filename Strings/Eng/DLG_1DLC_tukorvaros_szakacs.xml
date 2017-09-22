@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_tukorvaros_szakacs>
+			<node1>
+				<Desc>
+					<eng>Guests! Finally! You came to taste my specialties, didn't you? I ran out of ingredients, so I can only prepare one meal. But that will change the way you think about food.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>It sounds slightly unnerving. What's on the menu?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Well, you can choose Domovoy Steak, Vrikolak Pie or Vodyanoy Haggis!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Domovoy Steak? That sounds… exotic. I'll have one.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Vrikolak Pie? That sounds like a delicacy. Yes, please.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Vodyanoy Haggis must be a real Borgovian treat. I'll take it.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>They all sound disgusting and rather unhealthy. No, thank you.</eng>
+				</Desc>
+			</node7>
+		</DLG_1DLC_tukorvaros_szakacs>
+	</Quest>
+</Root>

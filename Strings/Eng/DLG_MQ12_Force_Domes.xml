@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Force_Domes>
+			<node1>
+				<Desc>
+					<eng>Did you save Private Bryan?</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>In this case we must return to the Lair.</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>You are right, commander, but there are still civilians out there. Return to the Lair and make sure it's ready to accommodate the refugees.I’ll join the others and wait for the next attack.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>Can we talk about the state of our defenses?</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>I still have to take care of something.</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>Vlados is gone and our defenses are crumbling. Our job is done here.</eng>
+				</Desc>
+			</node14>
+			<node15>
+				<Desc>
+					<eng>In this case we must return to the Lair.</eng>
+				</Desc>
+			</node15>
+			<node16>
+				<Desc>
+					<eng>You are right, commander, but there are still civilians out there. Return to the Lair and make sure it's ready to accommodate the refugees.I’ll join the others and wait for the next attack.</eng>
+				</Desc>
+			</node16>
+			<node2>
+				<Desc>
+					<eng>Yes. We did. And I think I'm going to have some words with the War Council.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I wouldn't know anything about that. I suggest focusing on the defenses until we get Vlados back.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Not yet, but we are still looking for him.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>No, and we have no time to waste any more.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>But the War Council…</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>The War Council is only a group of rich supporters who like to play war. Return to the Lair and make sure it's ready to accommodate the refugees. I’ll join the others and wait for the next attack.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I still have to take care of something.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Vlados is gone and our defenses are crumbling. Our job is done here.</eng>
+				</Desc>
+			</node9>
+		</DLG_MQ12_Force_Domes>
+	</Quest>
+</Root>

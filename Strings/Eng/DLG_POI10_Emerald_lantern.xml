@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI10_Emerald_lantern>
+			<node1>
+				<Desc>
+					<eng>This green lantern makes me nervous. It looks like something out of this world.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And the monsters seem to feed on it. It's a rare artifact. We'll take it to our scientists.</eng>
+				</Desc>
+			</node2>
+		</DLG_POI10_Emerald_lantern>
+	</Quest>
+</Root>

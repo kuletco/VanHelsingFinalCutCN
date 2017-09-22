@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ13_sewers_defense_report>
+			<node1>
+				<Desc>
+					<eng>How did it go, Van Helsing? I hope you drove back Harker's soldiers from the tunnel system.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>We have defeated them.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Not too good, I'm afraid.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Great job! That will teach Harker a lesson, I suppose.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You can't win every battle, Van Hesling. But today we've lost an important section of the tunnel system. Harker is one step closer to the Lair.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ13_sewers_defense_report>
+	</Quest>
+</Root>

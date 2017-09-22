@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_I_am_not_thirsty>
+			<node1>
+				<Desc>
+					<eng>Thank you, stranger! I’ll be forever grateful.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You don’t have to thank me. I like diversity. I’ve never fought monsters for… water.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>And what a glorious battle it was. Van Helsing almost lost his… Hat!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Well, I have a great hat! Proper Borgovian handiwork, still new. Would you like to have it?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That’s really nice of you. Thank you.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>That’s a kind offer, but no. The lady was only joking.</eng>
+				</Desc>
+			</node6>
+		</DLG_I_am_not_thirsty>
+	</Quest>
+</Root>

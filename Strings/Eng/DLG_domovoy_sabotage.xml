@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_domovoy_sabotage>
+			<node1>
+				<Desc>
+					<eng>I'm glad to help. Say hello to my favourite bomb, Sparky. You want to make that building go boom, yes?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Do your worst, my friend.</eng>
+				</Desc>
+			</node2>
+		</DLG_domovoy_sabotage>
+	</Quest>
+</Root>

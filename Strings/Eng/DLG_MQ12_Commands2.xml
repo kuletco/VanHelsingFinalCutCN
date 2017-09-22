@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Commands2>
+			<node1>
+				<Desc>
+					<eng>Sir! We have fortified our positions! No one will get through here, I swear.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Great news, captain. It’s time for a great motivational speech, don’t you think?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Send out a patrol to support the adjoining posts!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>A word to the wise, you are way too confident, captain. And even hunters get killed if they get too cocky.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’m going to survey the positions, then I’ll give the orders.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands2>
+	</Quest>
+</Root>

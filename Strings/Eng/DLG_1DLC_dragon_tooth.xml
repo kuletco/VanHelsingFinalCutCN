@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_dragon_tooth>
+			<node1>
+				<Desc>
+					<eng>What are you doing?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Look at this skeleton! So there used to be dragons in Borgovia. Fascinating! I’ll take a fang as a souvenir.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>A souvenir, of course. Oh, you nasty boy! I bet you can hardly wait to grind it to fine powder!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>What? Why would I do that?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Don’t worry, Van Helsing, your secret is safe with me. Let’s go!</eng>
+				</Desc>
+			</node5>
+		</DLG_1DLC_dragon_tooth>
+	</Quest>
+</Root>

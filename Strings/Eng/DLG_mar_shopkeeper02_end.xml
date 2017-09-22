@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_shopkeeper02_end>
+			<node1>
+				<Desc>
+					<eng>Let's see what you have for me. Yes, these will do nicely! Here's your reward!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Pleasure doing business with you.</eng>
+				</Desc>
+			</node2>
+		</DLG_mar_shopkeeper02_end>
+	</Quest>
+</Root>

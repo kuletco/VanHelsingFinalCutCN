@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ25_sewers_defense5>
+			<node1>
+				<Desc>
+					<eng>Harker is desperately trying to find the entrance to the Lair. His troops are now moving through the underground factories built by Fulmigati. We should send them packing as soon as possible.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>One day Harker will run out of soldiers. Until then I stop them over and over again.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The Resistance soldiers have gained enough experience to deal with them.</eng>
+				</Desc>
+			</node3>
+		</DLG_SQ25_sewers_defense5>
+	</Quest>
+</Root>

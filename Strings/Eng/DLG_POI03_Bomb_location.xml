@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI03_Bomb_location>
+			<node1>
+				<Desc>
+					<eng>Do you really want to follow his instructions?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You heard the man. He is the expert.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Trust me, I've seen plenty of things blow up around you. His advice feels wrong. Just put that dynamite where I show you.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>His life is at stake. We do what he says.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You might be right.I do what you say.</eng>
+				</Desc>
+			</node5>
+		</DLG_POI03_Bomb_location>
+	</Quest>
+</Root>

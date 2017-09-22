@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_We_are_late>
+			<node10>
+				<Desc>
+					<eng>I don’t see the point in wandering around aimlessly. Let’s go back to the lair.</eng>
+				</Desc>
+			</node10>
+			<node1>
+				<Desc>
+					<eng>Is this the wolf we’ve been looking for?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Only his corpse. I hate being late.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The Professor’s minions didn’t strike me as too bright. They could have missed the secret notes.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I found something! There’s a journal. But some pages are missing.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Ah! They're not complete morons after all. I might even enjoy hunting them down.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>So, what we suspected is true. The beast is dead. The rest of the secret notes must be here.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I found something! There’s a journal. Now we can return to the Lair.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>The wolf is dead, but now we have something else to hunt. His killers.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>With pleasure.</eng>
+				</Desc>
+			</node9>
+		</DLG_We_are_late>
+	</Quest>
+</Root>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_DK_domovoy>
+			<node1>
+				<Desc>
+					<eng>(muffled, uncontrollable crying)</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>Want to buy a ticket? A nice ticket? Good price! Please!</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>Fine, but I want to watch this apocalypse from a front row seat.</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>I'm not wasting my time on a Domovoy. Crying in a ticket booth. At a Circus. Really.</eng>
+				</Desc>
+			</node12>
+			<node13>
+				<Desc>
+					<eng>(cries hysterically)</eng>
+				</Desc>
+			</node13>
+			<node14>
+				<Desc>
+					<eng>Getting soft, Van Helsing?</eng>
+				</Desc>
+			</node14>
+			<node15>
+				<Desc>
+					<eng>I've killed thousands of creatures without mercy, but that's not an excuse to lose all humanity.</eng>
+				</Desc>
+			</node15>
+			<node16>
+				<Desc>
+					<eng>Oh my, he is still wailing. Can I kill him then?</eng>
+				</Desc>
+			</node16>
+			<node17>
+				<Desc>
+					<eng>I'm so happy, I will do anything for first guest! Just ask! I'm so good with bombs!</eng>
+				</Desc>
+			</node17>
+			<node18>
+				<Desc>
+					<eng>A Domovoy with an affection for bombs. What a surprise.</eng>
+				</Desc>
+			</node18>
+			<node19>
+				<Desc>
+					<eng>(cries hysterically)</eng>
+				</Desc>
+			</node19>
+			<node2>
+				<Desc>
+					<eng>Look, a Domovoy in the ticket booth! Kill him, quick!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>He seems rather harmless. And I've already killed my share of Domovoys for two lifetimes.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>(crying intsensifies)</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Can you stop crying and tell me what's going on?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>My first day at work! Many nice tickets to sell, but nobody coming. Everybody went crazy at Dark Carnival!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Crazy enough to hire a monster as a ticket seller?</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Everyone got tortured to death by evil clowns. No one else was volunteering but me!</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>I wonder why.</eng>
+				</Desc>
+			</node9>
+		</DLG_DK_domovoy>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Vlados_banter3>
+			<node1>
+				<Desc>
+					<eng>How can I help you, Meester Van Helsing?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Why did you send us that letter?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The Resistance can’t deal with a threat like this. We tried and we have failed. But your father has great credentials.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Has he now?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Well, he defeated us once, for example.</eng>
+				</Desc>
+			</node5>
+		</DLG_Vlados_banter3>
+	</Quest>
+</Root>

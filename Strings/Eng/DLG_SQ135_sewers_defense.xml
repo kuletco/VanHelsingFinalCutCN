@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ135_sewers_defense>
+			<node1>
+				<Desc>
+					<eng>General Harker won’t give up easily. He is still determined to find the underground entrance to the Lair. Now he enlisted the help of the rat-people of the Borgovian underworld and they are on the move in the tunnels.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>We must stop them immediately. I deal with them personally.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>They are simple scavengers, not trained soldiers. Send out our boys to destroy them.</eng>
+				</Desc>
+			</node3>
+		</DLG_SQ135_sewers_defense>
+	</Quest>
+</Root>

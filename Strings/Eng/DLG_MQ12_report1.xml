@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_report1>
+			<node1>
+				<Desc>
+					<eng>We managed to hold our ground! But only just. Harker is now familiar with our positions. My scouts tell me that the General is preparing a full-scale artillery attack. I’d recommend that we send our men back to the second line of defense.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What would you like me to do?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Patience, commander. I have to take care of something first.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Call back the soldiers from the first line. I go to the front line and wait there before they attack.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’ll give the orders for the second line!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>From now on you are in charge here.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Great! I’ll give the orders for the second line! Do you need anything else?</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Patience, commander. I have to take care of something first.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Yes. Call back the soldiers from the first line. I go to the front line and wait there before they attack.</eng>
+				</Desc>
+			</node9>
+		</DLG_MQ12_report1>
+	</Quest>
+</Root>

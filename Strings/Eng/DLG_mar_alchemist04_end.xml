@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_alchemist04_end>
+			<node1>
+				<Desc>
+					<eng>Wonderful! Thank you! I can do SCIENCE again!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>My pleasure.</eng>
+				</Desc>
+			</node2>
+		</DLG_mar_alchemist04_end>
+	</Quest>
+</Root>

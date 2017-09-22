@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Lair_dreamer_trade>
+			<node1>
+				<Desc>
+					<eng>I see you have a broken, but still extremely rare Dreamer artifact in your possession. Would you like to swap it for something more useful?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Yes, please.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>No, I'm keeping this artifact.</eng>
+				</Desc>
+			</node3>
+		</DLG_Lair_dreamer_trade>
+	</Quest>
+</Root>

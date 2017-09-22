@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Gas_in_the_tunnels>
+			<node1>
+				<Desc>
+					<eng>I’ve received word that Professor Fulmigati has developed a new type of poisonous gas and he plans to flood the whole city with it.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And why would he do that? That’s insane.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Which part of the “mad scientist” did you miss earlier?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>“Though this be madness, but there is method in it”!  The gas affects everyone and turns them into mindless slaves. Even me, which would be a disgrace, really.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>So what should we do about it?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Fulmigati is planning a test. He means to use an experimental machine to flood the sewers. You must find it and destroy the whole apparatus. And if you will permit me to offer a little advice… Don’t forget to take your… medicaments with you.</eng>
+				</Desc>
+			</node6>
+		</DLG_Gas_in_the_tunnels>
+	</Quest>
+</Root>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SP_supplyrun_start>
+			<node1>
+				<Desc>
+					<eng>Hey, traveler! Our families are starving!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I wonder why this feels like deja vu?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>What are you mumbling there, son? We ran out of food two days ago and the volunteers we sent to the storehouse never returned.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>For a starving man in need you are really insolent. Why should I help you?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Maybe because I have a vital piece of information about what you seek. Bring us some food supplies. You help me, I help you.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I will get your supplies. But if you try to trick me...</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Your offer is way too vague, find other volunteers.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Isn't that a sausage in your hand?</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Oh, this is just the emergency rations! It only makes me hungrier.</eng>
+				</Desc>
+			</node9>
+		</DLG_SP_supplyrun_start>
+	</Quest>
+</Root>

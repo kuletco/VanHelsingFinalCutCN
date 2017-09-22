@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_TD2_Report>
+			<node1>
+				<Desc>
+					<eng>I'm eager to find out how things went at the Empyrean Perimeter.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I've repelled the invaders. You can start sending troops to reinforce and upgrade the fortifications where necessary.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Some of them got through. We have to reinforce and upgrade the fortifications to make it more defensible against future incursions.</eng>
+				</Desc>
+			</node3>
+		</DLG_TD2_Report>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Hell_fallen_warlord>
+			<node1>
+				<Desc>
+					<eng>Stop there, gallant knight! My name is Lord Nyhelm, Supreme Commander of the Steel Legion. I'm on a sacred quest to obtain and wield the Reaper Blade of the Titans. Have you seen it?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Sorry. Your Legion was crushed more than 400 years ago.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>No, I haven't seen the Reaper Blade.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Look, that blade is at least 4 times taller than you.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Nonsense! You will pay dearly for your mockery!</eng>
+				</Desc>
+			</node5>
+		</DLG_Hell_fallen_warlord>
+	</Quest>
+</Root>

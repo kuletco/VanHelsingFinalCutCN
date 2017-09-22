@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Hidden_treasure>
+			<node1>
+				<Desc>
+					<eng>Looking for the hidden treasure. The map says that it’s here.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>All I can see is a boring old chest.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Because this is a traditional chest, hiding in plain sight. Not a modern one with all those high security standards. You know, reinforced lids, poisoned darts and the like.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Then what are you waiting for? …What have we here?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Let me see. A rare artifact… something that looks like one of those gems from Borislav’s statue… and a dragon tooth! A real one. And gold, of course. Plenty of that.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>What are we doing here?</eng>
+				</Desc>
+			</node6>
+		</DLG_Hidden_treasure>
+	</Quest>
+</Root>

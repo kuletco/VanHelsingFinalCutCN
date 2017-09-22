@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Vlados_missing>
+			<node1>
+				<Desc>
+					<eng>You certainly live up to our expectations, sir! You saved us in the last minute.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What happened to you, captain?  And where is Count Vlados?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Count Vlados is gone, sir.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>What do you mean, “gone”? Did he crumble to dust, or did he just slip away to throw a doomsday party… again?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You really shouldn’t question his dedication to the cause, my lady. He led his unit to one of the elyctricity works to disable the Force Domes from there. Then suddenly Harker’s specialists swarmed the area. We had no choice but retreat.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I'll take it from here, captain. Go back to the front line!</eng>
+				</Desc>
+			</node6>
+		</DLG_MQ12_Vlados_missing>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Ch3_Lair_bossfight_utan>
+			<node1>
+				<Desc>
+					<eng>Astonishing, hunter! Your victory was a stunning blow to Harker's forces. But this war won't be over until we’ve dealt with the General himself.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I agree. But how can we get near him? We won't catch him on the battlefield, and the army headquarters is heavily guarded.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The destruction of his giant machine must have rattled him. According to one of our spies he is planning to visit his remaining troops in person. They are in the Merchant District.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I'll go after Harker then. I'm sure he has an emergency plan.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Why can't you just enjoy victory for once? I think that this war will be over soon.</eng>
+				</Desc>
+			</node5>
+		</DLG_Ch3_Lair_bossfight_utan>
+	</Quest>
+</Root>

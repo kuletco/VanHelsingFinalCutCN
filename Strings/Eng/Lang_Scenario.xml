@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<event>
+		<finished>
+			<eng>Finished</eng>
+		</finished>
+		<updating_event>
+			<eng>Updating event</eng>
+		</updating_event>
+		<next_event>
+			<eng>Next event in:</eng>
+		</next_event>
+		<event_end>
+			<eng>Event ends in:</eng>
+		</event_end>
+		<background>
+			<eng>Background</eng>
+		</background>
+		<leaderboard>
+			<eng>Hunters of Fame</eng>
+			<your_score>
+				<eng>Your score:</eng>
+			</your_score>
+		</leaderboard>
+		<monster_hunt>
+			<name>
+				<eng>Nightmares on  the Loose</eng>
+			</name>
+			<desc>
+				<eng>Professor Fulmigati – genius scientist, dangerous madman and the father of modern-day Borgova – dedicated a lot of his time to experiment with the fusion of machines, living creatures and magic. And as it usually happens with mad inventors, this proved to be a disastrous idea.\nBorgova is filled with a network of secret underground facilities where Fulmigati kept his experiments. Although most of these places are abandoned, some of them still keep failed test subjects, and in the current chaos sometimes these nightmares break free. This time an insanely powerful creature is on the loose and you must hunt it down before it’s too late!</eng>
+			</desc>
+			<objectives>
+				<task>
+					<eng>Targets: %s</eng>
+				</task>
+				<reward>
+					<eng>Kill %d targets!</eng>
+				</reward>
+				<kills>
+					<eng>Targets killed: %d</eng>
+				</kills>
+			</objectives>
+		</monster_hunt>
+		<boss_hunt>
+			<name>
+				<eng>Lycanthrope Hunt</eng>
+			</name>
+			<desc>
+				<eng>Vrikolaks are fierce man-beasts with strong territorial instincts. The rapid industrialization of modern Borgovia led to the deforestation of the Thunderhead Mountains and the shapeshifter tribes lost their hunting grounds. They have also been forced into a constant battle for survival.\nThe Vrikolaks are, understandably, furious. They don’t care that Professor Fulmigati is gone, they are busy unleashing their mindless rage on the population of the metropolis. The Vrikolak attacks reached the level where they’ve left no other choice: they must be hunted down until they learn the lesson.</eng>
+			</desc>
+			<objectives>
+				<task>
+					<eng>Find and destroy the Vrikolak hordes.</eng>
+				</task>
+				<reward>
+					<eng>Kill 1000 Vrikolaks.</eng>
+				</reward>
+				<reward2>
+					<eng>Find and kill the Vrikolak leader.</eng>
+				</reward2>
+				<kills>
+					<eng>Targets killed: %d</eng>
+				</kills>
+			</objectives>
+			<msgCompleted>
+				<eng>You have taught the Vrikolaks a harsh lesson. Unfortunately, you have also raised the attention of their legendary leader, the most feared Vrikolak, the Scarred Beast-King. He is returning from his exile to destroy you – so you must kill him first in a fierce duel.</eng>
+			</msgCompleted>
+		</boss_hunt>
+		<cursed>
+			<name>
+				<eng>Cursed</eng>
+			</name>
+			<desc>
+				<eng>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</eng>
+			</desc>
+		</cursed>
+		<merchant>
+			<name>
+				<eng>Wandering merchant</eng>
+			</name>
+			<desc>
+				<eng>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</eng>
+			</desc>
+		</merchant>
+		<parasite>
+			<name>
+				<eng>Parasite</eng>
+			</name>
+			<desc>
+				<eng>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</eng>
+			</desc>
+		</parasite>
+		<choice>
+			<name>
+				<eng>Choice</eng>
+			</name>
+			<desc>
+				<eng>Blablablablabla\nblablabla\nblablablablablabla\nblabla\nbla\nblablabla\nbla\n\nblablabla</eng>
+			</desc>
+		</choice>
+	</event>
+	<dailyquest>
+		<Reward>
+			<eng>Reward: %d Fate Poins</eng>
+		</Reward>
+		<KillCommon>
+			<name>
+				<eng>Rampage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillCommon>
+		<KillChampion>
+			<name>
+				<eng>Trophy Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Champion monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillChampion>
+		<KillElite>
+			<name>
+				<eng>Big Game Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Elite monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillElite>
+		<LootChest>
+			<name>
+				<eng>Treasure Trip</eng>
+			</name>
+			<desc>
+				<eng>Open [max_count] Treasure Chests ([count]/[max_count])</eng>
+			</desc>
+		</LootChest>
+		<LootEpic>
+			<name>
+				<eng>Relic Hunt</eng>
+			</name>
+			<desc>
+				<eng>Find [max_count] Epic items ([count]/[max_count])</eng>
+			</desc>
+		</LootEpic>
+		<KillPhysical>
+			<name>
+				<eng>Cold Steel Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with physical type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillPhysical>
+		<KillPoison>
+			<name>
+				<eng>Noxious Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with poison type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillPoison>
+		<KillLightning>
+			<name>
+				<eng>Fulgurous Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with lightning type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillLightning>
+		<KillFire>
+			<name>
+				<eng>Flaming Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with fire type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillFire>
+		<KillIce>
+			<name>
+				<eng>Frozen Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with ice type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillIce>
+		<KillKatarina>
+			<name>
+				<eng>Ghost Training</eng>
+			</name>
+			<desc>
+				<eng>Let Katarina kill [max_count] monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillKatarina>
+		<CompleteScenario>
+			<name>
+				<eng>Adventure Run</eng>
+			</name>
+			<desc>
+				<eng>Complete [max_count] Adventures ([count]/[max_count])</eng>
+			</desc>
+		</CompleteScenario>
+		<CompleteScenarioCoop>
+			<name>
+				<eng>Team Adventure Run</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure in coop</eng>
+			</desc>
+		</CompleteScenarioCoop>
+		<KillChampionNoDeath>
+			<name>
+				<eng>Deathless Trophy Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Champion monsters without dying ([count]/[max_count])</eng>
+			</desc>
+		</KillChampionNoDeath>
+		<KillEliteNoDeath>
+			<name>
+				<eng>Deathless Big Game Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Elite monsters without dying ([count]/[max_count])</eng>
+			</desc>
+		</KillEliteNoDeath>
+		<KillNoDeath>
+			<name>
+				<eng>Deathless Rampage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters without dying ([count]/[max_count])</eng>
+			</desc>
+		</KillNoDeath>
+		<UseEssence>
+			<name>
+				<eng>Essence Smithing</eng>
+			</name>
+			<desc>
+				<eng>Put [max_count] worth of essence into items ([count]/[max_count])</eng>
+			</desc>
+		</UseEssence>
+		<GoldSpentGambler>
+			<name>
+				<eng>Gambling Spree</eng>
+			</name>
+			<desc>
+				<eng>Gamble [max_count] gold ([count]/[max_count])</eng>
+			</desc>
+		</GoldSpentGambler>
+		<WinArenaWave>
+			<name>
+				<eng>Arena Stand</eng>
+			</name>
+			<desc>
+				<eng>Survive [max_count] waves in the Arena ([count]/[max_count])</eng>
+			</desc>
+		</WinArenaWave>
+		<CompleteScenarioHunterOrElementalist>
+			<name>
+				<eng>Kite Training</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Bounty Hunter or Elementalist</eng>
+			</desc>
+		</CompleteScenarioHunterOrElementalist>
+		<CompleteScenarioHunterOrConstructor>
+			<name>
+				<eng>Gun Run</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Bounty Hunter or Constructor</eng>
+			</desc>
+		</CompleteScenarioHunterOrConstructor>
+		<CompleteScenarioProtectorOrPhlogistoneer>
+			<name>
+				<eng>Assault Exercise</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Protector or Phlogistoneer</eng>
+			</desc>
+		</CompleteScenarioProtectorOrPhlogistoneer>
+		<CompleteScenarioProtectorOrUmbralist>
+			<name>
+				<eng>Fencing Practice</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Protector or Umbralist</eng>
+			</desc>
+		</CompleteScenarioProtectorOrUmbralist>
+		<CompleteScenarioPhlogistoneerOrElementalist>
+			<name>
+				<eng>Demolitions Drill</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Phlogistoneer or Elementalist</eng>
+			</desc>
+		</CompleteScenarioPhlogistoneerOrElementalist>
+		<CompleteScenarioConstructorOrUmbralist>
+			<name>
+				<eng>Utility Exam</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Constructor or Umbralist</eng>
+			</desc>
+		</CompleteScenarioConstructorOrUmbralist>
+		<PigasusItemBought>
+			<name>
+				<eng>Happy Shopping</eng>
+			</name>
+			<desc>
+				<eng>Buy an item from the Pigasus vendor.</eng>
+			</desc>
+		</PigasusItemBought>		
+	</dailyquest>
+	<battle>
+		<gui>
+			<map>
+				<scenario_Nightmare_Hollow02>
+					<name>
+						<eng>Darkgate Cemetery</eng>
+					</name>
+				</scenario_Nightmare_Hollow02>
+				<scenario_tutorial2_Nightmare_Hollow02>
+					<name>
+						<eng>Darkgate Cemetery</eng>
+					</name>
+				</scenario_tutorial2_Nightmare_Hollow02>
+				<scenario_poksziklak>
+					<name>
+						<eng>Gloomy Crags</eng>
+					</name>
+				</scenario_poksziklak>
+				<scenario_cold_caverns>
+					<name>
+						<eng>Deep Mines</eng>
+					</name>
+				</scenario_cold_caverns>
+				<scenario_foundry>
+					<name>
+						<eng>Steel District</eng>
+					</name>
+				</scenario_foundry>
+				<scenario_ink_glass>
+					<name>
+						<eng>Atlantean Ruins</eng>
+					</name>
+				</scenario_ink_glass>
+				<scenario_ink_beggarking>
+					<name>
+						<eng>Boneyard Reef</eng>
+					</name>
+				</scenario_ink_beggarking>
+				<scenario_tutorial1_cave>
+					<name>
+						<eng>Forlorn Grotto</eng>
+					</name>
+				</scenario_tutorial1_cave>
+				<scenario_haunted_forest02>
+					<name>
+						<eng>Vilewoods</eng>
+					</name>
+				</scenario_haunted_forest02>
+				<scenario_ink_frozen>
+					<name>
+						<eng>Permafrost Island</eng>
+					</name>
+				</scenario_ink_frozen>
+				<scenario_ink_old_town>
+					<name>
+						<eng>Shattered District</eng>
+					</name>
+				</scenario_ink_old_town>
+				<scenario_pokol1>
+					<name>
+						<eng>Desolate Limbo</eng>
+					</name>
+				</scenario_pokol1>
+				<scenario_tutorial2_ink4>
+					<name>
+						<eng>Void Archipelago</eng>
+					</name>
+				</scenario_tutorial2_ink4>
+				<scenario_dark_carnival>
+					<name>
+						<eng>Rabid Circus</eng>
+					</name>
+				</scenario_dark_carnival>
+				<scenario_tutorial3_vizt1>
+					<name>
+						<eng>Infested Slums</eng>
+					</name>
+				</scenario_tutorial3_vizt1>				
+				<scenario_ink_darkness>
+					<name>
+						<eng>Netherville</eng>
+					</name>
+				</scenario_ink_darkness>
+				<terep_lair>
+					<desc>
+						<eng>This is your home base where you can store, buy and upgrade equipment as well as reset your character's skills and abilities.</eng>
+					</desc>
+				</terep_lair>
+				<arena>
+					<name>
+						<eng>Arena</eng>
+					</name>
+					<desc>
+						<eng>Enter the arena for a fee, then fight ever tougher waves of enemies as long as you can. The further you get, the better your rewards will be.</eng>
+					</desc>
+				</arena>
+			</map>
+			<scenario>
+				<difficulty>
+					<eng>Special Conditions:</eng>
+				</difficulty>
+				<scenario_Nightmare_Hollow02>
+					<eng>Darkgate Cemetery</eng>
+				</scenario_Nightmare_Hollow02>
+				<scenario_tutorial2_Nightmare_Hollow02>
+					<eng>Darkgate Cemetery</eng>
+				</scenario_tutorial2_Nightmare_Hollow02>
+				<scenario_fenyves>
+					<eng>Croakwood</eng>
+				</scenario_fenyves>
+				<scenario_poksziklak>
+					<eng>Gloomy Crags</eng>
+				</scenario_poksziklak>
+				<scenario_foundry>
+					<eng>Steel District</eng>
+				</scenario_foundry>
+				<scenario_cold_caverns>
+					<eng>Deep Mines</eng>
+				</scenario_cold_caverns>
+				<scenario_ink_glass>
+					<eng>Atlantean Ruins</eng>
+				</scenario_ink_glass>
+				<scenario_ink_beggarking>
+					<eng>Boneyard Reef</eng>
+				</scenario_ink_beggarking>
+				<scenario_cave>
+					<eng>Forlorn Grotto</eng>
+				</scenario_cave>
+				<scenario_haunted_forest02>
+					<eng>Vilewoods</eng>
+				</scenario_haunted_forest02>
+				<scenario_ink_frozen>
+					<eng>Permafrost Island</eng>
+				</scenario_ink_frozen>
+				<scenario_ink_old_town>
+					<eng>Shattered District</eng>
+				</scenario_ink_old_town>
+				<scenario_pokol1>
+					<eng>Desolate Limbo</eng>
+				</scenario_pokol1>
+				<scenario_ink4>
+					<eng>Void Archipelago</eng>
+				</scenario_ink4>
+				<scenario_dark_carnival>
+					<eng>Rabid Circus</eng>
+				</scenario_dark_carnival>
+				<scenario_gyarnegyed>
+					<eng>Furnace Alley</eng>
+				</scenario_gyarnegyed>
+				<scenario_viztisztito_1>
+					<eng>Infested Slums</eng>
+				</scenario_viztisztito_1>
+				<scenario_tutorial1_cave>
+					<eng>Forlorn Grotto</eng>
+				</scenario_tutorial1_cave>
+				<scenario_tutorial2_ink4>
+					<eng>Void Archipelago</eng>
+				</scenario_tutorial2_ink4>
+				<scenario_tutorial3_vizt1>
+					<eng>Infested Slums</eng>
+				</scenario_tutorial3_vizt1>				
+				<scenario_ink_darkness>
+					<eng>Netherville</eng>
+				</scenario_ink_darkness>
+				<scenario_nagyerdo>
+					<eng>Rotten Bayou</eng>
+				</scenario_nagyerdo>
+				<arena>
+					<eng>Arena</eng>
+					<entry_fee>
+						<eng>Entry fee: 20 Fate Points</eng>
+					</entry_fee>
+					<entry_free>
+						<eng>First entry is free every day</eng>
+					</entry_free>
+					<level_req>
+						<eng>The Arena is only available from level 20.</eng>
+					</level_req>
+					<round>
+						<eng>Round %d</eng>
+					</round>
+				</arena>
+				<nubcsirke>
+					<eng>Congratulations! You have unlocked two new maps!</eng>
+				</nubcsirke>
+				<fate_gained>
+					<eng>+%d Fate Points!</eng>
+				</fate_gained>
+				<fate_nomore>
+					<eng>Daily Fate limit reached!</eng>
+				</fate_nomore>
+			</scenario>
+		</gui>
+	</battle>
+	<common>
+		<enter>
+			<eng>Enter</eng>
+		</enter>
+	</common>
+</Root>

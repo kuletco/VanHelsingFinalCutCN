@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_priestfollow>
+			<node1>
+				<Desc>
+					<eng>Are you looking for the priest too?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I am. Where is he?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>He left a short while ago. People say he was headed towards Gorgon Pass. I have no clue why he would go out there...</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Thank you. I won't keep you from your prayers any further.</eng>
+				</Desc>
+			</node4>
+		</DLG_mar_priestfollow>
+	</Quest>
+</Root>

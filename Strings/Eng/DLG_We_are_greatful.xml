@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_We_are_greatful>
+			<node1>
+				<Desc>
+					<eng>Thank you, hunter! So I guess our friend made it safely to the Old Town.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Your friend? I have no idea what you are talking about. We only found you by sheer luck.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Please don’t tell me that we have to go back and rescue someone else too.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>No, no. You helped us tremendously. We’ll deal with this.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Yes. He is fine. He must be in the Secret Lair by now. You should go after him.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Definitely. We are getting close to the Professor. It might get… a bit messy around here.</eng>
+				</Desc>
+			</node6>
+		</DLG_We_are_greatful>
+	</Quest>
+</Root>

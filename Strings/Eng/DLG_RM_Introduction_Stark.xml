@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_RM_Introduction_Stark>
+			<node1>
+				<Desc>
+					<eng>Nice day, isn't it, sir? Heard you are in charge now! We'll get along just fine. I used to be a hunter like you. Grigor Stark, Scourge of the Werebeasts, at you service.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Doesn't ring a bell, sorry. But if you were a hunter, you must have a long list of useful expertise.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Right you are, sir! Exploration is my middle name! And ambush! Ambush is my other middle name. I also have an inkling of traps and ranged weapons. Nah, sorry. Actually I'm great with traps!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Is arrogance something that they teach you at the Hunters Academy? Wait, don't answer that.</eng>
+				</Desc>
+			</node4>
+		</DLG_RM_Introduction_Stark>
+	</Quest>
+</Root>

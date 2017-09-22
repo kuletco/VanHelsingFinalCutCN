@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Glass_mage2>
+			<node1>
+				<Desc>
+					<eng>Excellent! The Soul Shelter is now fully recharged. I'm safe for a few more centuries.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Can we do something to set you free?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Could such a barbaric, monster-hunting brute such as you reinvent Atlantean High Magic?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Time to leave this stuck up painting, Katarina.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Alas, I have unlocked a hidden compartment for your services. Farewell, Lady Wraith!</eng>
+				</Desc>
+			</node5>
+		</DLG_Glass_mage2>
+	</Quest>
+</Root>

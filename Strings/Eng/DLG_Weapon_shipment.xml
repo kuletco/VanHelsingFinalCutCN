@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Weapon_shipment>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! Right… in time. … the Vodyanoy frogs attacked us… I’m the last of my squadron. There is a boat on the river… with the weapons shipment for the Resistance… waiting for the signal.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I could fly over the water! Would that work?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>No, they are waiting… for the signal from the lighthouse. Climb the stairs, turn on the light… Will you do that?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I’ll do that, my friend.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’m really sorry, friend, but the Resistance needs us elsewhere.</eng>
+				</Desc>
+			</node5>
+		</DLG_Weapon_shipment>
+	</Quest>
+</Root>

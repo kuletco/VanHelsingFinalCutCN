@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Rescue_the_rebels>
+			<node1>
+				<Desc>
+					<eng>Help me, Van Helsing, you are my only hope! Some of my comrades are trapped in the castle. I escaped through the moat to bring reinforcements.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Easy, friend. I’m here to help them.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I’m sorry, friend, but I have no time to loose. Fulmigati must be stopped.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I can’t argue with that. Fine, I’ll try to find my fellow soldiers.</eng>
+				</Desc>
+			</node4>
+		</DLG_Rescue_the_rebels>
+	</Quest>
+</Root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SP_papertrail_start>
+			<node1>
+				<Desc>
+					<eng>You are too late, Von Sturm. The search party was ambushed and massacred. I'm dying.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>He is delirious.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>His soul is going to depart any second now.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Swear, Von Sturm! Swear that you will look for the others and save them!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I'm not Von Sturm, but I swear to save your friends.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Just let it go and die peacefully.</eng>
+				</Desc>
+			</node6>
+		</DLG_SP_papertrail_start>
+	</Quest>
+</Root>

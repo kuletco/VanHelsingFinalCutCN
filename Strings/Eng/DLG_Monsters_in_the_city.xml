@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Monsters_in_the_city>
+			<node1>
+				<Desc>
+					<eng>You did it! Now I know why you seemed so familiar. You must be Van Helsing!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Don’t even mention his fearless ghost companion! She simply hates fame. And fortune.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>You must be confusing me with my father. But of course, I’m here to help.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>In that case you won’t mind hunting down the other beasts too, will you? We saw some other creatures prowling the streets.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’ll deal with them. That’s why I’m here.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I can’t do that. Sorry. I must save the city first.</eng>
+				</Desc>
+			</node6>
+		</DLG_Monsters_in_the_city>
+	</Quest>
+</Root>

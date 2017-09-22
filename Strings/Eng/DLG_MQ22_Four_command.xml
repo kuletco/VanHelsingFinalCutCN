@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ22_Four_command>
+			<node1>
+				<Desc>
+					<eng>Sir! We have secured the Launch Tower. We are awaiting your commands.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Good work! Move against the field artillery , occupy the position, then return here to defend the tower.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Great job! There is a railway gun not far from here. Destroy the weapon, then return here to defend the tower.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Stay here and defend the Launch Tower! We can't let the enemy occupy this place!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Three Resistance soldiers are coming with me! The others stay here and defend the Launch Tower!</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ22_Four_command>
+	</Quest>
+</Root>

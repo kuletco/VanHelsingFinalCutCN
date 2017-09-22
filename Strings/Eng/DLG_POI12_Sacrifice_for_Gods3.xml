@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI12_Sacrifice_for_Gods3>
+			<node1>
+				<Desc>
+					<eng>Another sacrificial altar! It's nice to see that our cultural heritage lives on. Burt what about this glove?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>It's a sacrifice, I suppose. It might come in handy later. I'll take it.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I still don't want to touch anything that was placed on an ancient altar. Leave it.</eng>
+				</Desc>
+			</node3>
+		</DLG_POI12_Sacrifice_for_Gods3>
+	</Quest>
+</Root>

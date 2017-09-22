@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_cro_merchant01>
+			<node1>
+				<Desc>
+					<eng>At last, someone with proper weapons! Get me out of this unholy forest alive and I will be grateful.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I’m afraid I can’t do that. My path leads me straight to the heart of darkness.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Umm... Right. To the darkness then. Could you at least escort me to the Romany camp?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I could do that, yes.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>It's too dangerous. Perhaps later.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>You are back! Can I go with you now?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Fine, I'll escort you.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>No. I'm just passing through.</eng>
+				</Desc>
+			</node8>
+		</DLG_cro_merchant01>
+	</Quest>
+</Root>

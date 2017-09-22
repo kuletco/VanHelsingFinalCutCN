@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI03_massacred_caravan>
+			<node1>
+				<Desc>
+					<eng>Look!  That was a classic Borgovian hold-up. This man must have been a merchant. Hey, you are not trying to loot him, are you?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Why are you so squeamish? We could find something that tells us who he was.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Fine. Let's see if he carried something useful.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Not much. A letter, signed by someone called John, and a list of the goods.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Impressive list. Jewelry, weapons, expensive silks. Can we go now?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Of course not. What do you take me for?</eng>
+				</Desc>
+			</node6>
+		</DLG_POI03_massacred_caravan>
+	</Quest>
+</Root>

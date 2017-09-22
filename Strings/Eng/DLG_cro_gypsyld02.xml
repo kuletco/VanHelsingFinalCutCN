@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_cro_gypsyld02>
+			<node1>
+				<Desc>
+					<eng>Ay! You did it! I’m as good as my word. We will make that pesky curse disappear!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>That's mighty kind of you.</eng>
+				</Desc>
+			</node2>
+		</DLG_cro_gypsyld02>
+	</Quest>
+</Root>

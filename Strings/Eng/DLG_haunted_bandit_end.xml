@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_haunted_bandit_end>
+			<node1>
+				<Desc>
+					<eng>The monsters are gone! Thank you and please take these for your troubles.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Have a nice robbery tomorrow!</eng>
+				</Desc>
+			</node2>
+		</DLG_haunted_bandit_end>
+	</Quest>
+</Root>

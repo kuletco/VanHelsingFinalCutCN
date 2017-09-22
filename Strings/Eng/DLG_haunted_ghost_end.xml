@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_haunted_ghost_end>
+			<node1>
+				<Desc>
+					<eng>At last we are free! As a sign of our gratitude we've uncovered some treasure for you, Van Helsing!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>It was your fault!</eng>
+				</Desc>
+			</node2>
+		</DLG_haunted_ghost_end>
+	</Quest>
+</Root>

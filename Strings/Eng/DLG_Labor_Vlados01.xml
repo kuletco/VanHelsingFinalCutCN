@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Labor_Vlados01>
+			<node1>
+				<Desc>
+					<eng>Don’t get started with the theatrics!</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>Be careful. If you follow the corridor to the east, you'll find some arrogant cultists and their leader, who’ve been wreaking havoc around here.</eng>
+				</Desc>
+			</node10>
+			<node2>
+				<Desc>
+					<eng>I came to help you, old friend, but this strange lock looks unbreakable.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I’m no expert, but couldn’t you take the key from the Warden? Just an idea. He never leaves his guard post. It's on the northern corridor that leads from the Operating Theatre.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Why did they keep you here anyway?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>When I was captured, Harker imprisoned me in this secret facility. He used my blood to recreate the Contrasolis Concoction!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>The what?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>A serum that protects the undead from the sunlight. A truly great notion if you want to build an army of vampires.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I have so many questions to ask you. But first let’s get you out here.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>My friend! And I thought you had banished me to the sorrowful pits of despair for reasons that I can’t even…</eng>
+				</Desc>
+			</node9>
+		</DLG_Labor_Vlados01>
+	</Quest>
+</Root>

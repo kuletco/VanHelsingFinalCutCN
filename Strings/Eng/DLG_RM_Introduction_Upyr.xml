@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_RM_Introduction_Upyr>
+			<node1>
+				<Desc>
+					<eng>I am Prince Upyr. I am the Wrath of the Frozen Dales! I am the Great and Terrible! It is nice to make your acquaintance, Van Helsing.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Likewise. I heard that you might consider joining our cause again.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Your men made a convincing argument. My hatred towards the clanking scientific abominations  knows no limits and I should let my anger flow freely.  I am an expert on the mundane and the occult.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And he knows his way around  rebellions. He personally suppressed a lot of peasant uprisings back in the day.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That is indeed true. I could be useful for your little Resistance.</eng>
+				</Desc>
+			</node5>
+		</DLG_RM_Introduction_Upyr>
+	</Quest>
+</Root>

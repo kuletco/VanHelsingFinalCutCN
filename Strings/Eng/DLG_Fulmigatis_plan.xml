@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Fulmigatis_plan>
+			<node1>
+				<Desc>
+					<eng>Evil minds always have several plans in motion. You saw what the mind-weakening gas could do. Fulmigati created a poison from the same substance. He named it the Puppetmaster Concoction. He will introduce the poison into the water system and turn everyone into… mindless slaves!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Sounds like a proper mad scientist to me. So what can we do about it?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The Resistance guards the water plant, but they are outnumbered. Our spies report that Fulmigati will send Breda, his most dangerous creature… among others. You must kill it. And them.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>One man and a ghost against a whole army? Story of my life.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>How can we get to the water plant?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Through the industrial port. You must destroy the hostile guard posts along the way, so we can send in reinforcements later.</eng>
+				</Desc>
+			</node6>
+		</DLG_Fulmigatis_plan>
+	</Quest>
+</Root>

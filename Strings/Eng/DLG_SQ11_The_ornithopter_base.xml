@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ11_The_ornithopter_base>
+			<node1>
+				<Desc>
+					<eng>We are holding out, sir, but those blasted ornithopters are a menace. We should destroy their launch tower before the next attack. Scouts report three control stations in the tower. We might use them to disable those infernal machines.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Possibly. But we’d need someone with proper expertise to do that. Where are the engineers?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Alright. I’ll see if I can take care of those ornithopters for you.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>It doesn’t matter, captain. They won’t be a problem.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>As far as I know, they are at the weapons depot on the upper factory grounds.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ11_The_ornithopter_base>
+	</Quest>
+</Root>

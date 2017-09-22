@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_heroic_mission>
+			<node1>
+				<Desc>
+					<eng>I'm glad you could make it back, Van Helsing. We have a hefty decision to make.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What is it, Commander?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It is a well kept secret that shortly before his fall, Professor Fulmigati almost finished his most diabolical invention: the Chaos Engine. It would have been a machine capable of destabilizing the barrier between the Ink and our world.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I am aware. What of it?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>The unfinished prototype was destroyed during the revolution and we thought we’d seen the last of it. Until now. The Cult of Seven have somehow rebuilt the machine and they’re using it to accelerate the changes happening all over Borgova.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>If we’re still to have a city by the time you defeat the Faceless Tsar, our forces must take it down. That means sending our elite teams on two extremely dangerous missions. I thought you might want to make this decision yourself.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I trust your judgement, Commander. Choose the best men for the task. I have bigger fish to fry.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>You're right. That's a decision I must handle myself. I'll choose the captains.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Understood. Sergeant Tsarevich! Gather your men and prepare for the assault on the Chaos Engine! Baron Upyr, I'm giving you command of the rest of our elite forces. Begin planning the diversionary offensive.</eng>
+				</Desc>
+			</node9>
+		</DLG_heroic_mission>
+	</Quest>
+</Root>

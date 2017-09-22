@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_Dragontooth_Saffi>
+			<node1>
+				<Desc>
+					<eng>Oh, Van Helsing, you brought a dragon fang… I’ve never thought that you need…. you know! But I’ll prepare the potion as soon as I can.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I have no idea what you are talking about. It’s only a trophy from a mythical beast.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Oh, sweet! You really don’t have any idea, haven’t you? Good. Don’t ask why I need it. I give you a rare ring if you hand  it to me.</eng>
+				</Desc>
+			</node3>
+		</DLG_1DLC_Dragontooth_Saffi>
+	</Quest>
+</Root>

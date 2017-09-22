@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI04_Rare_ore_fragments>
+			<node1>
+				<Desc>
+					<eng>Let's see what you have here, hunter.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>A huge slab of some extraordinarily rare ore.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I'm impressed. What do you want me to forge for you?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>A sword would be great.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>What about a ring? Not THE Ring, though.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I need new armor.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>An amulet would  be practical.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng></eng>
+				</Desc>
+			</node8>
+		</DLG_POI04_Rare_ore_fragments>
+	</Quest>
+</Root>

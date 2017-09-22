@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_inkgrub21>
+			<node1>
+				<Desc>
+					<eng>So this stone egg is an Inkgrub? This is what we have to deal with?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Yes. The source of corruption in the forest.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Do you want to destroy it?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Yes. It's always good to have an excuse to destroy something.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>No. I will not risk making everything even worse.</eng>
+				</Desc>
+			</node5>
+		</DLG_inkgrub21>
+	</Quest>
+</Root>

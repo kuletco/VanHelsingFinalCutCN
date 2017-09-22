@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ21_Essence_vs_chimera>
+			<node1>
+				<Desc>
+					<eng>Look at these books! Most of them are about the Chimera . See that one? "How to Feed Your Chimera".  Could you sum it up for me?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I'll give you a quick summary.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Just read it already!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>“The Chimera's body is raw Ink-material… and you can't feed a creature of pure magic with ordinary food. They live on magical essences that they smell from miles apart. ”</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We should find someone who sells Essence  on wholesale price.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>So, what should be next?  "How to Feed Your Chimera". Sounds promising!</eng>
+				</Desc>
+			</node6>
+		</DLG_MQ21_Essence_vs_chimera>
+	</Quest>
+</Root>

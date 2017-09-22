@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_1DLC_alchemist_reward>
+			<node1>
+				<Desc>
+					<eng>Ach, I see you’ve brought me the heart! As you can see, the illness transformed the organ into a corroded lump. It’s an extremely valuable component for later research.</eng>
+				</Desc>
+			</node1>
+		</DLG_1DLC_alchemist_reward>
+	</Quest>
+</Root>

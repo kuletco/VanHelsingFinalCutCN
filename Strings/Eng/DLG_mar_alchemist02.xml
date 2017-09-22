@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_alchemist02>
+			<node1>
+				<Desc>
+					<eng>I gather you are the one who helped me, yes?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I had selfish reasons. I need to know what happened in Borgova.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>SCIENCE happened!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Which means…</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That there are experiments where you create…a  monster! And Borgova is a monster now.</eng>
+				</Desc>
+			</node5>
+		</DLG_mar_alchemist02>
+	</Quest>
+</Root>

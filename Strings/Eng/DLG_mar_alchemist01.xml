@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_alchemist01>
+			<node1>
+				<Desc>
+					<eng>Mmmmfff! Mfff?!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Could you repeat that, please?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Grmmnfgh!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Um. Fine. Maybe later.</eng>
+				</Desc>
+			</node4>
+		</DLG_mar_alchemist01>
+	</Quest>
+</Root>

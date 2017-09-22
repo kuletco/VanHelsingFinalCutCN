@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Vhgold_TD1>
+			<node1>
+				<Desc>
+					<eng>We have a problem. The noise of the generator attracted the attention of the monsters in the tunnels. They are moving against the Lair.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>That is bad news indeed. I wasn’t looking for another fight just yet.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Fortunately the Lair is surrounded by several defense outposts which all have trap networks. We could lure the monsters to one of those.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Good idea. I’ll do just that. (Play tower defense)</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’ve got bigger fish to fry. Send some of our guards to man the outpost.</eng>
+				</Desc>
+			</node5>
+		</DLG_Vhgold_TD1>
+	</Quest>
+</Root>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+		<ES>Espanol</ES>
+		<FR>French</FR>
+		<DE>German</DE>
+		<HU>Hungarian</HU>
+		<IT>Italian</IT>
+		<PL>Polish</PL>
+		<PT>Portugese</PT>
+		<RU>Russian</RU>
+	</LanguageName>
+	<Languages>eng;ES;FR;DE;HU;IT;PL;PT;RU</Languages>
+</Root>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_hunted_werewolf>
+			<node1>
+				<Desc>
+					<eng>One of my fellow scientists, known only as Le Docteur, created the enhanced werewolves. The soldiers hunt down the beasts, bring them to the slab und re-animate them by the power of the storms. Science!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Gruesome science. And why should I care?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Because one of these behemoths was the subject of an even more mysterious experiment! He escaped und he is planning to flee to the hills. He could give us valuable insights. I heard that the beast will be in the Rookery, at the port tonight.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>It sounds like a good idea.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We still have time. I’ll hunt him down later.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>It’s getting late. Aren’t you supposed to be somewhere?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Right. I’ll hunt down the mechanical beast.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>We still have time. I’ll hunt him down later.</eng>
+				</Desc>
+			</node8>
+		</DLG_hunted_werewolf>
+	</Quest>
+</Root>

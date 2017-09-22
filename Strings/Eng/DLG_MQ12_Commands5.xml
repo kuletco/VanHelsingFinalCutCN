@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ12_Commands5>
+			<node1>
+				<Desc>
+					<eng>Resistance soldiers reporting! Sir! We might be a bit outnumbered.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Deploy the automated turrets and hold your ground!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Hold your ground, people!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>We must defend this area at all cost. Ask for reinforcements from the Lair!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’ll survey the line of defense. I’ll brief you later.</eng>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands5>
+	</Quest>
+</Root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI15_Engraved_key>
+			<node1>
+				<Desc>
+					<eng>Have you noticed the keyhole on this orb?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And the engraving on the stone looks like the patterns on this engraved key. Let's give it a try.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It's a shame that we don't have any keys.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I wish we had a key.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>But we have a key! With a similar engraved pattern. Let's give it a try.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>But we don't have any.</eng>
+				</Desc>
+			</node6>
+		</DLG_POI15_Engraved_key>
+	</Quest>
+</Root>

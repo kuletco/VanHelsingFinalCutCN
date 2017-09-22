@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ13_Prisoner_Telsa>
+			<node1>
+				<Desc>
+					<eng>Sir! We found this strange ornihopter in the tunnels. We tried to shoot it, but it…. well, it spoke to us. Turns out it's a messenger from an inventor called Telsa. He was captured by the General, but he rewired this machine and sent it for help.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Great! So our associate mad genius is finally somewhere where he can't build anything that destroys half of the city. You are not planning to set him free, are you?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>If he stays there, the General will eventually use his genius abilities against us.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Will you send out a rescue team, sir?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>No, my friend. Rescue missions are my specialty. Do you have anything else to report?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Yes, sir! Commander Petrov wants to have a word with you.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>No, sir!</eng>
+				</Desc>
+			</node7>
+		</DLG_MQ13_Prisoner_Telsa>
+	</Quest>
+</Root>

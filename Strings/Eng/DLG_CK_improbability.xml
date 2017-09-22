@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_CK_improbability>
+			<node1>
+				<Desc>
+					<eng>Don't just stand there!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Blasted scientists! VonSturm said that everything will take care itself. Obviously it didn't. The Improbability Flux... whatever it is, has different settings for keeping monsters at bay. It's all gibberish.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Ah, you silly, just pick one!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I'll try "Dissonantial Molecular Retrofusion".</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I'll try "Spatial Cortex Fizzling".</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Let's try "Vortical Pseudo Splitter".</eng>
+				</Desc>
+			</node6>
+		</DLG_CK_improbability>
+	</Quest>
+</Root>

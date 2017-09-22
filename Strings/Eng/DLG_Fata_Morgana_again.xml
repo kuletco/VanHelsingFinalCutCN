@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Fata_Morgana_again>
+			<node1>
+				<Desc>
+					<eng>How did you know that?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>He didn't really go out silently, did he?  Well then, I will open the gate for you.  Beware, though… the Nightmare Hollows is ruled by the Guardian of the Impossible Tombs, Lady Irina.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>WHAT!?! No, no, no! It cannot be!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Katarina, are you all right? Who is she?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You can run wherever you want, your past will always catch up with you. And that’s all I’m going to say on this matter for now.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Well done, you two. One less insane Ringmaster in the world.</eng>
+				</Desc>
+			</node6>
+		</DLG_Fata_Morgana_again>
+	</Quest>
+</Root>

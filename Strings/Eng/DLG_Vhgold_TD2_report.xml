@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Vhgold_TD2_report>
+			<node1>
+				<Desc>
+					<eng>The creatures are getting close... I can feel it in my big toe!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Your big toe needs its eyes checked. I already dealt with the creatures.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Tell your big toe to relax. I couldn't stop all the creatures, but there isn't enough of them left cause too much trouble.</eng>
+				</Desc>
+			</node3>
+		</DLG_Vhgold_TD2_report>
+	</Quest>
+</Root>

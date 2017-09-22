@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_inkrub_wraith>
+			<node1>
+				<Desc>
+					<eng>The same curse is hanging over the Wraithwoods, despite the Ink spill cutting the forest in half.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>So we already know what to do.</eng>
+				</Desc>
+			</node2>
+		</DLG_inkrub_wraith>
+	</Quest>
+</Root>

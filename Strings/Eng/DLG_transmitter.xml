@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_transmitter>
+			<node1>
+				<Desc>
+					<eng>Who are you and what is this strange contraption?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>This is an Aerial Transmitter, my lady, and I’m the operator. It was built by Resistance scientists, based on Fulmigati’s designs. It transmits voice signals through the Ink, so we can reach both of you wherever you are.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>But it must have one flaw. A true Fulmigati design always has one.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Well, yes… it requires a tremendous amount of energy, sir, so we must use it sparingly.</eng>
+				</Desc>
+			</node4>
+		</DLG_transmitter>
+	</Quest>
+</Root>

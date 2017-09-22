@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI08_Swamp_lily>
+			<node1>
+				<Desc>
+					<eng>What a nice surprise! What brings you here, hunter?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You know, it's just… silly. I was up in the mountains and… I found a swamp lily and it occurred to me that you used to brew potions of these, so...</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>He found it. But of course. Much rather paid a fortune for this ugly weed.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You are such a charming man, Van Helsing! But I can't let you leave empty-handed. Here, take this! A medalion, crafted by me personally. It's not too strong at the moment, but the more magic you use around it, the stronger it will become.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Thank you. I'm really grateful. See, Katarina? Good deeds and nice manners always  pay off. You should try it someday.</eng>
+				</Desc>
+			</node5>
+		</DLG_POI08_Swamp_lily>
+	</Quest>
+</Root>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_CK_Klockmeister2>
+			<node1>
+				<Desc>
+					<eng>Errr... Who are you? Why are you here? Eheh... just joking. So what is the correct number, please?</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>I'm not finished yet.</eng>
+				</Desc>
+			</node10>
+			<node2>
+				<Desc>
+					<eng>32.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>35.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>31.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That is the correct answer, obviously. Why are you still here?</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I want my reward now, please. Tell me the trick.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>The what? Oh yes, of course! Set gear ratio to 1:324 at Control Station 542 so the reality-changing energies will dissipate faster when you destroy the Relic, which will result in a lot less death and destruction in Borgovia!</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I'll try no to forget these numbers and ratios. Thank you.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>What? What are you doing here?! Go away and don't bother me anymore!</eng>
+				</Desc>
+			</node9>
+		</DLG_CK_Klockmeister2>
+	</Quest>
+</Root>

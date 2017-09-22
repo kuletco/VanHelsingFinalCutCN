@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_mar_alchemist03>
+			<node1>
+				<Desc>
+					<eng>There is a well in the village, where the Ink seeps out into this world. An Inktide snatched away a bag of valuable components from me.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And how can I help you with that?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>If you could climb down into the well and risk your life by looking for my belongings, I’d be very grateful.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I had a feeling that you would say that.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You say jump, I say... no.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Did you change your mind?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I simply can't resist adventures like that. That's one of my flaws.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Not really. Sorry.</eng>
+				</Desc>
+			</node8>
+		</DLG_mar_alchemist03>
+	</Quest>
+</Root>

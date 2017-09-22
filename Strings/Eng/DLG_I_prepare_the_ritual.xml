@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_I_prepare_the_ritual>
+			<node1>
+				<Desc>
+					<eng>Finally! I hope that it wasn’t too boring for the great hunter. I should begin the preparations. I’ll ask you again when I need something else.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Well, well, handsome stranger!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Don’t do that. Flattery only makes her edgy.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You are so rude. I demand an apology!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>How about a nice collection of rat bones? You sure look like someone who could use them... for something strange, mystical and uncanny.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Aren’t you adorable? And you are right. I’m going to perform a grand ritual for the Resistance, and these bones will be useful.</eng>
+				</Desc>
+			</node6>
+		</DLG_I_prepare_the_ritual>
+	</Quest>
+</Root>

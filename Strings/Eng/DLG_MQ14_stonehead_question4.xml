@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ14_stonehead_question4>
+			<node1>
+				<Desc>
+					<eng>Before you could pass, answer my question. Tell me, what is taller than trees?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>The world tree.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>The sky.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>The mountain.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Good answer, little mortal. I like you! You can pass.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>My apologies, really, but you are not worthy to be here.</eng>
+				</Desc>
+			</node6>
+		</DLG_MQ14_stonehead_question4>
+	</Quest>
+</Root>

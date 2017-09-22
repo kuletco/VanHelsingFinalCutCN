@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ14_Ancient_clock>
+			<node1>
+				<Desc>
+					<eng>Marvelous! You are still alive! Well, one of you, anyway. Did you find the clockwork?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Look, I don't want to brag, but kobolds are not that tough after you have defeated a mad scientist. Yes, we found it.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I'm really grateful, my lady. And now it is my turn to keep my promise. I'll join your Resistance.</eng>
+				</Desc>
+			</node3>
+		</DLG_SQ14_Ancient_clock>
+	</Quest>
+</Root>

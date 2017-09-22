@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_I_Know_the_inventor>
+			<node1>
+				<Desc>
+					<eng>Van Helsing, you are back! That was quick, bless your heart!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I’m afraid we can’t celebrate yet. The Palace of Machines is surrounded by impenetrable force walls. We can’t get to the Professor yet.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Oh, I see. And you thought that I would know the trick of disarming those walls. Now that is sweet. And no, I can’t help you. It’s a new technology, devised by a true genius.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>We only need you to tell us where to go and which levers to pull. We’ll take care of everything else.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I can tell you one thing. I know where you can find the man who invented those walls. Go to the Industrial Port and seek the lab of Nikkola Telsa.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>But that is what I was talking about!  That’s all we needed. Bye!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>Oh, that’s sweet. Will you tell him or should I?</eng>
+				</Desc>
+			</node7>
+		</DLG_I_Know_the_inventor>
+	</Quest>
+</Root>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_haunted_crystal_start>
+			<node1>
+				<Desc>
+					<eng>Hmm, something is very unsettling about this crystal. To mortal eyes it's standing still, but in reality it's blinking into different Ink Realms at astonishing speed.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>In another word, it's dangerous.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Maybe or maybe not. There is an easy way to find out.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>A life-threatening kind of easy, I presume.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Don't be a sissy Van Helsing, hit the crystal!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I'm going to regret this…</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I refuse to submit to the childish curiosity of a ghostly companion.</eng>
+				</Desc>
+			</node7>
+		</DLG_haunted_crystal_start>
+	</Quest>
+</Root>

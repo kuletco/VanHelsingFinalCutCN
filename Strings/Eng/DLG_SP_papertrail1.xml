@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SP_papertrail1>
+			<node1>
+				<Desc>
+					<eng>This one has been dead for a while.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Nothing useful here, just his crumpled notebook. Look at this entry!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It says: "Bittersweet anniversary. Five years after the crash-landing of the Inkship. We spent our time wisely. Exploration, scientific grudges among the expedition members, building the Transmitters to reach Borgovia. No success so far."</eng>
+				</Desc>
+			</node3>
+		</DLG_SP_papertrail1>
+	</Quest>
+</Root>

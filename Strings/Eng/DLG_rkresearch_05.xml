@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_rkresearch_05>
+			<node1>
+				<Desc>
+					<eng>The records we obtained in the Testing Facility are all about the birth of Weird Science. How could it be not interesting? I have a new entry in the Promethean Dossier, by the way.</eng>
+				</Desc>
+			</node1>
+		</DLG_rkresearch_05>
+	</Quest>
+</Root>

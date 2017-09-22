@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Taking_back_the_city>
+			<node1>
+				<Desc>
+					<eng>The Resistance is taking back the streets of Borgova! Isn’t that marvelous? All those brave soldiers shedding their sweet… delicious… spicy blood for their city!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And what are you going to do? Give advice from the dangerous depths of your armchair?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Ach, you know me too well, my lady. Coordination and strategic planning! It’s a difficult burden, but someone has to do it.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Your determination is remarkable. If you need me, I’ll be outside, fighting a real battle.</eng>
+				</Desc>
+			</node4>
+		</DLG_Taking_back_the_city>
+	</Quest>
+</Root>

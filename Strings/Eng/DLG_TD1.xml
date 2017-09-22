@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_TD1>
+			<node1>
+				<Desc>
+					<eng>There is a large horde of undead swarming towards the surface. If they are not stopped, they will wreak havoc in the city.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>As if the situation wasn't bad enough.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Luckily, they will go through one of our old outposts which has a network of traps and defensive installations. It is currently unmanned however, so we need to send someone over there.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I'll deal with the horde myself.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Alright, I’ll send a team to mount a defense.</eng>
+				</Desc>
+			</node5>
+		</DLG_TD1>
+	</Quest>
+</Root>

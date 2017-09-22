@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_MQ13_sewers_defense>
+			<node1>
+				<Desc>
+					<eng>General Harker has sent his soldier-things down to the underground tunnels. They are still looking for the Lair. They will eventually cut us off if we don't stop them now.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>So be it, commander. I'll defend the tunnel system on my own.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>That's the perfect opportunity to see our elite soldiers in action. They'll defend the tunnels.</eng>
+				</Desc>
+			</node3>
+		</DLG_MQ13_sewers_defense>
+	</Quest>
+</Root>

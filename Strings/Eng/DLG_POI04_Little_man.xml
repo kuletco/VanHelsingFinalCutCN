@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI04_Little_man>
+			<node1>
+				<Desc>
+					<eng>This little man must have died from exhaustion.  Who was he?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>These handwritten notes  might help. Listen: "I failed to persuade the scientists that I'm a simple cook, not a miner... they told me to stop lying... that "my kind" always sings about gold and we are good miners..."</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Did they think he was a dwarf? Dwarves don't exist. Stupid scientists.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Wait, it goes on. "They left me here. I'm weak and I could only chisel down a couple of splinters from this rock. They haven't returned. I can't leave because of the kobolds."</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Poor thing! He was only a small man. But this rock could really contain rare minerals. You should try and dig up some.</eng>
+				</Desc>
+			</node5>
+		</DLG_POI04_Little_man>
+	</Quest>
+</Root>

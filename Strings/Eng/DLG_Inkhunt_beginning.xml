@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Inkhunt_beginning>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! There is something you might want to see. Urgently.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>The civil war is barely over and now we have a new problem?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>A strange Inkgate has opened in the Lair. We don’t know where it leads or what might come through that rift. Which qualifies as a problem, I suppose.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Prisoner Seven disappears in the Ink and then a rift opens up here? I don’t like this. I will enter this gate and find out how it could be closed down.</eng>
+				</Desc>
+			</node4>
+		</DLG_Inkhunt_beginning>
+	</Quest>
+</Root>

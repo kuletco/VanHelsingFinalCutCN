@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_The_Ink_is_coming>
+			<node1>
+				<Desc>
+					<eng>Mista Helsing, thank God you’re here! I saw something terrible in the tunnels. The Ink is coming!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What do you mean the Ink is coming?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>A dark mist is flooding the tunnels, spitting forth all manner of horrors! They will soon be upon us! You must do something!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I’ll go and stop them at one of our outposts. (Play tower defense)</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Tell the engineer to send some guards to man our outposts.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>The creatures are getting close... I can feel it in my big toe!</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I’ll go and deal with them immediately.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I must reinforce the defenses before I go out there.</eng>
+				</Desc>
+			</node8>
+		</DLG_The_Ink_is_coming>
+	</Quest>
+</Root>

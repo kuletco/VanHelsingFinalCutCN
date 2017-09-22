@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Alchemist_poison>
+			<node1>
+				<Desc>
+					<eng>What are you doing there, sniffing like bloodhound?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>This puddle is of the same substance that the Dark Alchemist unleashed on the town. Smells good, doesn’t it?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Tell me you are not really trying to…</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>...taste it? But I’m experimenting! It’s all the rage in Borgova.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>…taste it? Of course not. It might turn me into a turtle or whatnot.</eng>
+				</Desc>
+			</node5>
+		</DLG_Alchemist_poison>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI08_Black_knight>
+			<node1>
+				<Desc>
+					<eng>No one can pass!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>And what are you going to do without arms? Jump at me?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It is just a scratch!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I’ve had enough of this.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>So you are running away, I see!</eng>
+				</Desc>
+			</node5>
+		</DLG_POI08_Black_knight>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ22_sewers_defense_report>
+			<node1>
+				<Desc>
+					<eng>Tell me, Van Helsing, have you dealt with Harker's troops  in the ancient tunnels?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>They won't be a problem any more.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>That place was a nightmare, commander. We couldn't focus on Harker's forces properly.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Good. That part of the maze is secured then.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>That's unpleasant. But we will intercept them somewhere else.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ22_sewers_defense_report>
+	</Quest>
+</Root>

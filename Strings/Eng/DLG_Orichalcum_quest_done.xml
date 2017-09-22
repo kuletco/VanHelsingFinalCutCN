@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Orichalcum_quest_done>
+			<node1>
+				<Desc>
+					<eng>What on earth has happened to you? Did you really ambush the shipments?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Of course I did. Transport the crates to the Lair!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>And please, remind me next time that I’m done with missions like this. My body is amess.  Not to mention my clothes.</eng>
+				</Desc>
+			</node3>
+		</DLG_Orichalcum_quest_done>
+	</Quest>
+</Root>

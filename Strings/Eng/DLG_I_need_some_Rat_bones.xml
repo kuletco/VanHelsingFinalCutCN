@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_I_need_some_Rat_bones>
+			<node1>
+				<Desc>
+					<eng>Well, well, handsome stranger!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Don’t do that. Flattery only makes her edgy.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Still, I could use your help. I need some rat bones.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Rat bones? I am Van Helsing, the blight of monsters and you want me to gather bones for you?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I need them to perform an arcane ritual to help the Resistance. I hope it sounds much more challening now!</eng>
+				</Desc>
+			</node5>
+		</DLG_I_need_some_Rat_bones>
+	</Quest>
+</Root>

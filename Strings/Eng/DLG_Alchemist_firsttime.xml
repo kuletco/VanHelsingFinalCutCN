@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Alchemist_firsttime>
+			<node1>
+				<Desc>
+					<eng>What do you want from a fraud like me?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>What fraud? You are a gifted scientist.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>YES, I AM! And what do I? I distill Essences.  That's all!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>And is this a problem because…?</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Because no one takes me seriously without a proper degree. Although  I learned everything the hard way. Blowing up laboratories! Making smelly, bubbling things!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I think you could go on for a while. We have to go.</eng>
+				</Desc>
+			</node6>
+		</DLG_Alchemist_firsttime>
+	</Quest>
+</Root>

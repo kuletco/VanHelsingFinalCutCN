@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_cro_ghost02>
+			<node1>
+				<Desc>
+					<eng>Where am I? Marina will kill me if I'm late.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>*Leave the ghost alone*</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Make him follow us. I think I know how to help him.</eng>
+				</Desc>
+			</node3>
+		</DLG_cro_ghost02>
+	</Quest>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_RM_Introduction_Stahl>
+			<node1>
+				<Desc>
+					<eng>Ehehheh, Mr. Van Helsing! Allow me… my name is Dr. Stahl. How are you feeling today?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Are you a medical doctor or a proper mad scientist?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>No, my lady, I treat no maladies. I'm a simple genius, born to defeat the world with giant, exploding machines. Currently I'm helping out the Resistance. I'm also a diplomat, an expert on traps and occult knowledge. At your service!</eng>
+				</Desc>
+			</node3>
+		</DLG_RM_Introduction_Stahl>
+	</Quest>
+</Root>

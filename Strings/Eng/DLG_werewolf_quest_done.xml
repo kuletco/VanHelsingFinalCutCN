@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_werewolf_quest_done>
+			<node1>
+				<Desc>
+					<eng>Ach, no beast, my hunter friend? I’m so disappointed.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>No, I couldn’t save him. Now all his secrets are lost.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I found him, but I was too late. I recovered some of the secret notes from his journal.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Splendid, splendid! Good work, hunter!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I found him, but I was too late. I recovered some of the secret notes from his journal.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Splendid, splendid! Good work, hunter!</eng>
+				</Desc>
+			</node6>
+		</DLG_werewolf_quest_done>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLC_The_rivalmages_eliminated>
+			<node1>
+				<Desc>
+					<eng>Well, my friend, that was astonishing. I could use your services in the future. As my personal bodyguard maybe?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>If I were you, I’d stop right there. And flee.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I’d grant you a generous wage and you could kill monsters… my own enemies! Mwuhahaha!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>How dare you! I’m a monster hunter! I hunt things like you! I don’t make friends with necromancers. And now get out of my sight before I lose my temper.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>See? I warned you.</eng>
+				</Desc>
+			</node5>
+		</DLC_The_rivalmages_eliminated>
+	</Quest>
+</Root>

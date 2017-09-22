@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Hell_fallen_hunter>
+			<node1>
+				<Desc>
+					<eng>I was a feared monster hunter once. Chased the Faceless Tsar to the deepest realms. Then I was betrayed and the Titanslayer Relic was wrenched from my grasp. Now I'm trapped here, mocked for eternity...</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I will succeed where you have failed.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>There is a Titanslayer here with me.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>It belongs to me! Mine! All mine!</eng>
+				</Desc>
+			</node4>
+		</DLG_Hell_fallen_hunter>
+	</Quest>
+</Root>

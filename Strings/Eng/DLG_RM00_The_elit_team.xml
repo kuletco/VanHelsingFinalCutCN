@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_RM00_The_elit_team>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! The War Council evaluated your actions during the siege, and they decided to entrust you with the training of the elite soldiers.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Wait. Is this a punishment or a reward?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>And what exactly would be my task, commander?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You have to prepare the Resistance elite squads and send them out on important missions. We appointed some new captains who will serve under your command. Meet them first, then choose wisely!</eng>
+				</Desc>
+			</node4>
+		</DLG_RM00_The_elit_team>
+	</Quest>
+</Root>

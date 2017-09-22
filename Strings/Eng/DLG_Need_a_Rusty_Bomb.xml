@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Need_a_Rusty_Bomb>
+			<node10>
+				<Desc>
+					<eng>Fine. I’ll take it.</eng>
+				</Desc>
+			</node10>
+			<node1>
+				<Desc>
+					<eng>Ah new customer in these bleak times! A sight for sore eyes, really.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>So, you are back, huh? If you still need the explosive device, the price is the same. 1200 gold.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Fine. I’ll take it.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I don’t have the necessary funds at the moment. I’ll be back.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I don’t need your overpriced gadgets.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Come on. You deal in forbidden goods. Business must be thriving. Take me, for example: I need an explosive device.</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>I might just have what you need. I won’t ask why you want it and you pay me 1200 gold.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>I don’t have the necessary funds at the moment. I’ll be back.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>I don’t need your overpriced gadgets.</eng>
+				</Desc>
+			</node9>
+		</DLG_Need_a_Rusty_Bomb>
+	</Quest>
+</Root>

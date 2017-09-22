@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Lair_Alchemist_skrim>
+			<node1>
+				<Desc>
+					<eng>Oh, the sweet scent of rotting Skrimbeast innards!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I got them in Gnarlovoy. Can you use them?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Ach, I can create a powerful potion for you with permanent effects, right now.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I would like to have that potion made, please.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>You can have the innards as a present, I'm not interested.</eng>
+				</Desc>
+			</node5>
+		</DLG_Lair_Alchemist_skrim>
+	</Quest>
+</Root>

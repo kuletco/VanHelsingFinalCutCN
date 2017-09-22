@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_RM_Introduction_Tsarevich>
+			<node1>
+				<Desc>
+					<eng>Van Helsing, sir! Reporting for duty!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Easy, captain. I'm still a monster hunter, not a general. What is your specialty?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Ivan Tsarevich reporting, sir! Special command tactics and offensive warfare!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You must be the one of those... oooh… muscles…. I mean specialists. With muscles. Hmm.</eng>
+				</Desc>
+			</node4>
+		</DLG_RM_Introduction_Tsarevich>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SQ135_sewers_defense_report>
+			<node1>
+				<Desc>
+					<eng>So, how about the two-legged vermin, Van Helsing? Did you defeat the rat-people in the tunnels?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I think they won't try to attack again any time soon.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>We have just lost an important outpost in the tunnels.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Good work. I suppose the General will  also think twice next time about making a pact with monsters.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>It is most unfortunate, Van Helsing. We must prepare for a next attack.</eng>
+				</Desc>
+			</node5>
+		</DLG_SQ135_sewers_defense_report>
+	</Quest>
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLC_The_Hive_is_destroyed>
+			<node1>
+				<Desc>
+					<eng>Van Helsing! Finally a visitor in this sadly abandoned hall of worship. What brings you here?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>I don’t know why, but I feel that an honest prayer would be ointment on the bruises on my battle-hardened soul.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>And I was considering confessing all the sins I’ve been carrying with this ethereal body. Which makes me really confused.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>What…? Are you..? Oh, my! You have found the gem! And it works! It still works! Please, give it to me. I will use it wisely.</eng>
+				</Desc>
+			</node4>
+		</DLC_The_Hive_is_destroyed>
+	</Quest>
+</Root>

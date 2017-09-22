@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLC_The_mystic_gem>
+			<node1>
+				<Desc>
+					<eng>We are doomed! The shackles of terror bind my people to the pits of despair! Even the faithful begin to doubt themselves!  Hunter, I need your help to restore their faith. I must keep my flock together!</eng>
+				</Desc>
+			</node1>
+			<node10>
+				<Desc>
+					<eng>I still have to think about this.</eng>
+				</Desc>
+			</node10>
+			<node11>
+				<Desc>
+					<eng>I realized that the task seemed like my usual line of work, so why not? How can I find this relic?</eng>
+				</Desc>
+			</node11>
+			<node12>
+				<Desc>
+					<eng>Go to the Gallowsbog and find the place they call the Dark Pits. One of them opens into the Ink. You have to jump into that hole, and it will lead you straight to the relic.</eng>
+				</Desc>
+			</node12>
+			<node2>
+				<Desc>
+					<eng>Sorry, you lost me at the shackles of terror. So… do you want me to preach to the villagers?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Heavens, no! The last thing I need is my people grabbing forks and following you on one of your expeditions.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>Admit it, Van Helsing, your speaking skills are way too… uncomplicated for this.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Still, there is something you could do. I used to possess a powerful relic that could stir up the flames of belief in my people. It’s a gem blessed by our patron saint. It was stolen from me and I have never been able to recover the relic.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>Now you are speaking my language. Where can I find this gem?</eng>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<eng>On second thought… my charming companion is right.  I’m too simple for such religious matters. Maybe later.</eng>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<eng>Go to the Gallowsbog and find the so-called Dark Pits. One of them opens into the Ink. You have to jump into that hole, and it will lead you straight to the relic.</eng>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<eng>Hah! You came back! I prayed to God to give you strength.</eng>
+				</Desc>
+			</node9>
+		</DLC_The_mystic_gem>
+	</Quest>
+</Root>

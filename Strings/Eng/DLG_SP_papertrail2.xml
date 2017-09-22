@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_SP_papertrail2>
+			<node1>
+				<Desc>
+					<eng>Hmm, someone removed his guts through the nose and mouth.</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>He left behind a stack of bloodstained notes. Anything interesting?</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Maybe this one: ""Study in progress: experimenting with the crystallized dream material of the Ink that the natives call Rust. The prototypes we built could channel the flow of the Ink in close proximity to shape the otherworld. Von Sturm is highly optimistic. We have lost other four scientists this week."</eng>
+				</Desc>
+			</node3>
+		</DLG_SP_papertrail2>
+	</Quest>
+</Root>

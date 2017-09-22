@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Wraith_relics_end>
+			<node1>
+				<Desc>
+					<eng>Well done, you solved the riddle. Is this the right time to mention that I could have passed through the barrier any time?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>So you let me waste time here just for your amusement? Don't test my patience, Katarina.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>You forget we have different perceptions of time.</eng>
+				</Desc>
+			</node3>
+		</DLG_Wraith_relics_end>
+	</Quest>
+</Root>

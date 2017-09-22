@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Gnarl_beast_end>
+			<node1>
+				<Desc>
+					<eng>Oh, are you still alive?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>You have a lot of explaining to do, gnome! Open the door, right now!</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>Skrims have to be killed gently, otherwise their meat turns sour. This one is ruined. Can you bring me another one, perhaps? It's almost lunchtime!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>You insolent little...</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Just let it go, Van Helsing.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>What about our soup? We also need some spices! Hey, hey!</eng>
+				</Desc>
+			</node6>
+		</DLG_Gnarl_beast_end>
+	</Quest>
+</Root>

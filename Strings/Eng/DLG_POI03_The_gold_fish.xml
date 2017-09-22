@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_POI03_The_gold_fish>
+			<node1>
+				<Desc>
+					<eng>See that? I can’t believe it! My wishes will come true!</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Katarina, you are talking about my frozen dinner.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>It’s a goldfish, silly! It will grant you three wishes! Wish for something!</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>It’s worth a try. I wish I had a sweet, polite ghost companion with nice manners.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>Oh, I should have known! You arrogant, pesky mortal!</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>See? It didn’t work. I grab it for dinner.</eng>
+				</Desc>
+			</node6>
+		</DLG_POI03_The_gold_fish>
+	</Quest>
+</Root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Traps_enabled>
+			<node1>
+				<Desc>
+					<eng>Great work, as always. And tell me, how did you like my deviously imaginative traps?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Absolutely not. They were quite useful.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>I’m glad you see it that way. I recommend that we focus on our defenses. If you need some new traps, just tell me.</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>He’s afraid that these mechanical wonders will replace human hunters.</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>I’m not really convinced, you know.</eng>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<eng>I understand that you have your doubts, but I’d suggest we focus on our defenses. You can’t be everywhere. If you need some new traps, just tell me.</eng>
+				</Desc>
+			</node6>
+		</DLG_Traps_enabled>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quest>
+		<DLG_Lair_Vlados_serum>
+			<node1>
+				<Desc>
+					<eng>How do you know so much about this serum?</eng>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<eng>Well, as one of the former subjects of this research I have some knowledge on the matter.</eng>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<eng>What? You could always stand the sunlight?</eng>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<eng>I thought you noticed!</eng>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<eng>We did notice something, but admit it, you have always been strange.</eng>
+				</Desc>
+			</node5>
+		</DLG_Lair_Vlados_serum>
+	</Quest>
+</Root>
