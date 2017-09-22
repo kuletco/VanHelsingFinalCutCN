@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI31_Sherlock_Holmes>
+			<node1>
+				<Desc>
+					<CHS>哦，又一个乞丐。你想要钱吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>不，我的女士。我在看守主人的房子。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>你看起来可不像守卫。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我是博格维亚非正规军的一员。我过去为博格维亚最伟大的侦探顾问工作。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>那这个侦探顾问现在在哪呢？</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>他在与死敌战斗的时候掉进瀑布里死了。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>我刚想起来这个可怕的点子……不，他不可能是幽灵。</CHS>
+				</Desc>
+			</node7>
+		</DLG_POI31_Sherlock_Holmes>
+	</Quest>
+</Root>

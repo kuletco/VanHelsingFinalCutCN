@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_lair_kingpin_end>
+			<node1>
+				<Desc>
+					<CHS>那些犯人，我是说家人们，都很感激，范海辛。那就唱首歌吧，怎么样？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>千万别！</CHS>
+				</Desc>
+			</node2>
+		</DLG_lair_kingpin_end>
+	</Quest>
+</Root>

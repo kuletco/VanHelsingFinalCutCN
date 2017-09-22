@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI04_Rare_ore_fragments>
+			<node1>
+				<Desc>
+					<CHS>让我们看看你都有什么，猎人。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>一块有罕见矿石的巨大石板。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>真令人吃惊。你想让我为你打造什么？</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>最好是一把剑。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>戒指怎么样？不要戒指。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>我需要新的护甲。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>护身符可能会比较实用。</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS></CHS>
+				</Desc>
+			</node8>
+		</DLG_POI04_Rare_ore_fragments>
+	</Quest>
+</Root>

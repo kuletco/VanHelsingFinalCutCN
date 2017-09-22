@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Alchemist_poison>
+			<node1>
+				<Desc>
+					<CHS>你在那儿干什么呢？像条狗似的闻来闻去。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>这个水坑是黑暗炼金术士放在小镇的障碍。闻起来不错吧？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>告诉我，你不是真的想……</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>…尝尝？我正在测试！这是Borgova的时尚。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>…尝尝？当然不了。它可能会把我变成乌龟或者什么别的。</CHS>
+				</Desc>
+			</node5>
+		</DLG_Alchemist_poison>
+	</Quest>
+</Root>

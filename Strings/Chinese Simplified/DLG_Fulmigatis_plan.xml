@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Fulmigatis_plan>
+			<node1>
+				<Desc>
+					<CHS>一动歪念头总会想出好多方案来。你马上就能见识到麻痹神经的毒气有多厉害。暴脾气是用同一种物质制造出来的。他给那玩意儿起名叫做Puppetmaster Concoction。他预谋把毒药放在水循环系统中，让所有人都中毒变成……没脑子的傻子！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>听起来正是我想要的疯狂科学家。我们应该怎么做？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>反抗军保卫着水厂，可他们人数众多。我们的探子报告说暴脾气会派出来Breda，他养的那群手下最危险的一个…你必须得杀了它。还有那群家伙。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>一个人和一个幽灵就想对抗整支军队？天方夜谭吧。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我们怎么才能接近水厂？</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>从工业港口摸过去。你必须得摧毁这一路上敌方的哨站，这样我们稍后才能派遣增援部队。</CHS>
+				</Desc>
+			</node6>
+		</DLG_Fulmigatis_plan>
+	</Quest>
+</Root>

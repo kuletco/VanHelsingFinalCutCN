@@ -9,7 +9,7 @@ Videos   ==> Videos and subtitle of cutscene [SRT]
 Tools    ==> A tool to unpack N2PK packages [EXE]
 
 ## How to use
-1. Put Strings\SimplifiedChinese to [Game Path]\Strings.
+1. Put Strings\Chinese Simplified to [Game Path]\Strings.
 2. Put and replace Strings\Languages.xml to [Game Path]\Strings.
 3. Put and replace UI\Fonts\IMPERLB.TTF to [Game Path]\UI\Fonts.
-4. Put Videos\CN to [Game Path]\Videos
+4. Put Videos\CHS to [Game Path]\Videos

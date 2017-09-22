@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ22_Counter_offensive>
+			<node1>
+				<Desc>
+					<CHS>好极了.你回来了。风暴已经过去了，你的面具朋友告诉我们闪电击毁了哈克的立场!这是发动进攻最好的时机，通过高架桥夺回铸造厂。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>准备好两个小队，指挥官。我们会使用墨境之门对敌人进行埋伏。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>哈克肯定在墨境中使用了某种变形装置。我们无法穿过墨境之门。你只能通过地下通道前进了。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>这个人！为什么每次都让我们做这么复杂的事情？一次简单点的都不行吗？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>情况变得更糟了。我们的间谍报告说，有一伙人对占据铁架桥的军队似乎有想法。确切地说，是三个人。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>他们是谁？</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>一个是被指控犯有战争罪的血色队长。第二个是藏在军中的连环杀手，防毒面具。第三个是试制军事机器人。这种阿尔法原型机会散发出有毒的辐射。你必须解决他们。</CHS>
+				</Desc>
+			</node7>
+		</DLG_MQ22_Counter_offensive>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_RM_Introduction_Upyr>
+			<node1>
+				<Desc>
+					<CHS>我是乌佩王子。我是冰谷之怒！我是伟大与糟糕的综合体！很高兴见到你，范海辛。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我也是。听说你会考虑在此加入我们。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>你的人很有说服力。我对那些科学魔物的恨之入骨，还有我应该让我的愤怒肆意发泄。我是平凡和神秘的专家。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>他很熟悉翻盘。他个人在过去镇压了很多次农民暴动。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>那确实是真的。我对你的反抗军来说会很有用。</CHS>
+				</Desc>
+			</node5>
+		</DLG_RM_Introduction_Upyr>
+	</Quest>
+</Root>

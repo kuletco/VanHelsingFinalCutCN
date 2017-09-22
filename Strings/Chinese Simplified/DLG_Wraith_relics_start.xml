@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Wraith_relics_start>
+			<node1>
+				<Desc>
+					<CHS>由拥有屏障的遗迹保卫者守护着的古老神殿。我就知道你有兴趣！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>这屏障的能量似乎来自于那四个大门。我之前见过这个。这可能是由特殊的仪式带来的。</CHS>
+				</Desc>
+			</node2>
+		</DLG_Wraith_relics_start>
+	</Quest>
+</Root>

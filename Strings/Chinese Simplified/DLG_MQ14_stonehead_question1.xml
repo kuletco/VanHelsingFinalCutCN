@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ14_stonehead_question1>
+			<node1>
+				<Desc>
+					<CHS>大头派你来的！我知道！我才是最聪明的人！哇哈哈！现在回答我的问题吧。谁是最强的人？火，水，石头还是风？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>风，因为即使是山也会被风磨平。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>石头，因为石头是最硬的。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>火，因为火的热度会将石头粉碎。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>水，因为水流来去自如，石头也无法阻拦。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>说得好，小东西！你现在可以走了！</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>你觉得石头很弱？你是觉得我弱！真是遭罪！</CHS>
+				</Desc>
+			</node7>
+		</DLG_MQ14_stonehead_question1>
+	</Quest>
+</Root>

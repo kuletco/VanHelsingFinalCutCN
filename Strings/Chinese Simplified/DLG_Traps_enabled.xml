@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Traps_enabled>
+			<node1>
+				<Desc>
+					<CHS>干得不错，和以前一样。说说看，你认为我的极具想象力的陷阱怎样？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>当然不好。它们很有用的。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我很高兴你这么想。我建议专注于防御。如果你需要新的陷阱，告诉我。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>他害怕这些机械奇迹会代替人类捕猎者。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我不怎么相信，你是知道的。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>我理解你有疑惑，但我还是建议专注于防御之上。你不可能无处不在。如果你需要新的陷阱，告诉我。</CHS>
+				</Desc>
+			</node6>
+		</DLG_Traps_enabled>
+	</Quest>
+</Root>

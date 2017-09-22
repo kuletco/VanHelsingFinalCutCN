@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_katona_hulla2>
+			<node1>
+				<Desc>
+					<CHS>又是死去的士兵。看那些创伤！这条鸿沟确实是在博格维亚溃烂的创伤。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>有东西扭曲了地面。蜘蛛，岩石……一切。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>有东西？一定是你迫切要找的那个埋藏的神器！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>你见过那东西对这个地方做了什么吗?试想一下，要是哈克得到它会发生什么！</CHS>
+				</Desc>
+			</node4>
+		</DLG_katona_hulla2>
+	</Quest>
+</Root>

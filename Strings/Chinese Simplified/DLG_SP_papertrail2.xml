@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SP_papertrail2>
+			<node1>
+				<Desc>
+					<CHS>呃，有人害怕了。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>他留下了一叠血迹斑斑的便条。有什么有意思的吗？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>这个或许有点意思：""研究正在进行中：当地人称呼有关于墨境梦游者素材的实验为腐蚀。我们建造的原型能近距离改变墨境的流动从而形成异界。冯·斯特姆十分乐观。这个星期我们已经失去4个科学家了。"</CHS>
+				</Desc>
+			</node3>
+		</DLG_SP_papertrail2>
+	</Quest>
+</Root>

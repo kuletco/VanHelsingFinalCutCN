@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_1DLC_tukorvaros_patkanyfogo>
+			<node1>
+				<Desc>
+					<CHS>待那儿别动，猎人！在你做任何冲动的事之前，听我说。这是个大误会。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>这可能听着不太有说服力，当这些可怜的孩子在身边的时候。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>不是的！他们请我带他们离开这个遗忘之地！你看，如果你让我们离开，我会慷慨报答你的。我可以给你我的力量的源泉！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>你想让我相信这种无稽之谈？我受伤了。准备受死吧！</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>听着真新鲜。说下去。</CHS>
+				</Desc>
+			</node5>
+		</DLG_1DLC_tukorvaros_patkanyfogo>
+	</Quest>
+</Root>

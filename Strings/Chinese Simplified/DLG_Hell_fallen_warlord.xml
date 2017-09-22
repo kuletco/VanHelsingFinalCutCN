@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Hell_fallen_warlord>
+			<node1>
+				<Desc>
+					<CHS>站在那里，英勇的骑士！我是奈何姆大人，钢铁军团的最高指挥官。我正在执行一个神圣的任务，那就是获得并使用泰坦的收割者之剑。你见过它吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>抱歉。你的军团400多年前就被摧毁了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>不，我没见过收割者之剑。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>快看，那个剑至少有你四个高。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>胡说！你会为你的恶劣行径付出沉重地代价！</CHS>
+				</Desc>
+			</node5>
+		</DLG_Hell_fallen_warlord>
+	</Quest>
+</Root>

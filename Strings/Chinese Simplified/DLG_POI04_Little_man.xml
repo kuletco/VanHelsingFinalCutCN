@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI04_Little_man>
+			<node1>
+				<Desc>
+					<CHS>这个小家伙一定是死于疲惫。他是谁？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>这些字迹或许会有提示。听好："我只是个厨师，并不是矿工，我没能说服科学家...他们让我不要在撒谎了..."我的族人"总是歌唱着黄金以及矿工..."</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>他们把他当成矮人了?矮人并不存在。愚蠢的科学家。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>等等，还没完。"他们把我留在这里。我非常虚弱，我只能用石头凿出一对碎片。他们再也没有回来。由于狗头人，我无法离开。"</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>可怜的东西！他只是个子比较小。但这个岩石真的含有丰富的矿物。你应该试着挖挖。</CHS>
+				</Desc>
+			</node5>
+		</DLG_POI04_Little_man>
+	</Quest>
+</Root>

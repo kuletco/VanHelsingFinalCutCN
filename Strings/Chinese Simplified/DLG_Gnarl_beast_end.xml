@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Gnarl_beast_end>
+			<node1>
+				<Desc>
+					<CHS>你还活着？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我需要你解释很多事情，侏儒！打开门，现在！</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>杀斯克利姆兽的时候要温柔一点，否则的话它们的肉容易变酸。这个已经毁坏了。你可以再给我一个吗？快到午饭时间了！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>你这个无礼的小......</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>让它走，范海辛。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>我们的汤怎么办？我们还需要调料！嘿，嘿！</CHS>
+				</Desc>
+			</node6>
+		</DLG_Gnarl_beast_end>
+	</Quest>
+</Root>

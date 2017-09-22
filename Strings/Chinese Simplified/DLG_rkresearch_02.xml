@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_rkresearch_02>
+			<node1>
+				<Desc>
+					<CHS>我有十分有趣的细节与你分享！当你有空时，翻翻普罗米修斯卷宗吧。</CHS>
+				</Desc>
+			</node1>
+		</DLG_rkresearch_02>
+	</Quest>
+</Root>

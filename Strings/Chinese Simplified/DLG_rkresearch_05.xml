@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_rkresearch_05>
+			<node1>
+				<Desc>
+					<CHS>我们在试验设施里获得的记录都是有关于诡异科学的诞生。这怎么会没意思？顺便一提，我在普罗米修斯档案里又发现了一个新的条目。</CHS>
+				</Desc>
+			</node1>
+		</DLG_rkresearch_05>
+	</Quest>
+</Root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_alchemist04_end>
+			<node1>
+				<Desc>
+					<CHS>太好了！谢谢你！我又能做SCIENCE了！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>别客气。</CHS>
+				</Desc>
+			</node2>
+		</DLG_mar_alchemist04_end>
+	</Quest>
+</Root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_After_fight>
+			<node1>
+				<Desc>
+					<CHS>棒极了！结果已经确定。你有能力打败暴脾气教授。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>呵，这就是你说的试验？我觉得就跟晨练差不多吧。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>够了，先注意手边的问题把，我们怎样穿过force walls？</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我说过了，不行。不过你可以用我的Inkhopping Modulator避过它们。这东西可以打开通往墨镜的一扇小门。等你到那儿之后，就能找到另一扇通往Old Town的门了，就在防御后面。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>停下！原谅我的粗鲁，猎人！我可以把你想知道的都告诉你！</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>真是太好了，可是我很不喜欢你的自大。或许我该折磨折磨你，让你改掉。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>够了，先注意手边的问题把，我们怎样穿过force walls？</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>是啊，是啊，force walls！你没法穿过force walls，不过你可以用我的Inkhopping Modulator避过它们…这东西可以打开通往Ink的一扇小门。等你到那儿之后，就能找到另一扇通往Old Town的门了，就在防御后面。</CHS>
+				</Desc>
+			</node8>
+		</DLG_After_fight>
+	</Quest>
+</Root>

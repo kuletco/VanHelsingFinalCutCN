@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ13_sewers_defense>
+			<node1>
+				<Desc>
+					<CHS>哈克将军已经向地下通道派出了他的军队。他们仍然在寻找巢穴。如果现在不阻止他们，总有一天我们会死在他们的手上。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>就这样吧，指挥官。我会自己守卫通道的。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>这是展现我们精英战士的最好的舞台。他们会去防守通道。</CHS>
+				</Desc>
+			</node3>
+		</DLG_MQ13_sewers_defense>
+	</Quest>
+</Root>

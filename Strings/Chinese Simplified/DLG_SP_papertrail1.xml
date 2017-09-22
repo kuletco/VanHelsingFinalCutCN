@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SP_papertrail1>
+			<node1>
+				<Desc>
+					<CHS>这一个已经灭绝很久了。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>没什么有用的，只是一些他邹巴巴的笔记。看看这个条目！</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>上面写着："苦乐参半的周年纪念日。在墨境降临的五年之后。我们灵活地运用我们的时间。探险，在探险队员内弥漫的科学怒火，造出了能连接到博格维亚的信号传送器。目前还没成功。"</CHS>
+				</Desc>
+			</node3>
+		</DLG_SP_papertrail1>
+	</Quest>
+</Root>

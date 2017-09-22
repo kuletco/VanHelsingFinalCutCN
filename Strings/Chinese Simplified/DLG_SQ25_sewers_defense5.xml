@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SQ25_sewers_defense5>
+			<node1>
+				<Desc>
+					<CHS>他非常想找到巢穴的地下入口。他的部队正在穿过暴脾气建造的地下工厂。我们应该尽快出手。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>总有一天哈克的士兵会死完的。在那之前，我会一次又一次的阻止他们。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>反抗军战士们有足够的经验对付他们。</CHS>
+				</Desc>
+			</node3>
+		</DLG_SQ25_sewers_defense5>
+	</Quest>
+</Root>

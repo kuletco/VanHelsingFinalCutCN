@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ14_stonehead_question4>
+			<node1>
+				<Desc>
+					<CHS>在让你过去之前，你要先回答我的问题。告诉我，什么比树还高？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>世界之树。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>天空。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>山。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>说得好，小东西！我喜欢你。你可以过去了。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>非常抱歉，但是你不应该在这里。</CHS>
+				</Desc>
+			</node6>
+		</DLG_MQ14_stonehead_question4>
+	</Quest>
+</Root>

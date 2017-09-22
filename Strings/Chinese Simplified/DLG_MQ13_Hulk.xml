@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ13_Hulk>
+			<node1>
+				<Desc>
+					<CHS>该死！让！我！出去！该死！我是无辜的！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我真有点怀疑。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我只是个……普通的图书管理员……啊额……除了……喝的有点多了……Hrrr……Jekyll博士的以毒攻毒的饮料……快拿走它！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>每个人都想要第二次机会。你可以走了。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我怎么确定你会变正常呢？我真搞不懂你。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ13_Hulk>
+	</Quest>
+</Root>

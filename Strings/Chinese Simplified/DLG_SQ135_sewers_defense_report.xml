@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SQ135_sewers_defense_report>
+			<node1>
+				<Desc>
+					<CHS>那么，这个两条腿的害虫怎么样，范海辛？你在地道里打败过鼠人吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我想他们短期内是不会再尝试进攻了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我们刚丢掉了地道内的重要据点。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>干得好。我想将军下一次和怪物做交易的时候就会三四了。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>真不幸，范海辛。我们必须为下次进攻做准备。</CHS>
+				</Desc>
+			</node5>
+		</DLG_SQ135_sewers_defense_report>
+	</Quest>
+</Root>

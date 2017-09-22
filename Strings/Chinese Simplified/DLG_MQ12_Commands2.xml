@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ12_Commands2>
+			<node1>
+				<Desc>
+					<CHS>先生！我们已加强我们的阵地！我发誓，没人可以通过那里。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>好消息，队长。该来一场鼓舞人心的演讲了，你不觉得吗？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>派出一个巡逻队支援邻近的阵地！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>随便提一句就够了，队长，你过于自信了。如果太自大，就连猎人也会被杀。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我要先去调查阵地，然后再下命令。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands2>
+	</Quest>
+</Root>

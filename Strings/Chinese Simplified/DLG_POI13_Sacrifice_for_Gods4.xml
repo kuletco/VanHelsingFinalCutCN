@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI13_Sacrifice_for_Gods4>
+			<node1>
+				<Desc>
+					<CHS>一个带有奇怪怪物的头骨的祭祀祭坛。博格维亚家庭中最完美的装饰。我们要拿走这个头骨吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>那是当然的。我们的科学家就爱测试这些东西。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我还是收集到了我自己的奖杯，非常感谢你。就放那吧。</CHS>
+				</Desc>
+			</node3>
+		</DLG_POI13_Sacrifice_for_Gods4>
+	</Quest>
+</Root>

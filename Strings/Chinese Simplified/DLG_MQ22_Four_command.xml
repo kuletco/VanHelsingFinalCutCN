@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ22_Four_command>
+			<node1>
+				<Desc>
+					<CHS>长官！我们已经掌控了发射塔。等候您的命令。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>干得好！让炮兵战局阵地，然后返回这里守卫发射塔。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>干的漂亮！附近有一个轨道炮。摧毁那个武器，然后回来防守。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>待在这里守卫发射塔！不能让敌人占领这里！</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>三个抵抗军士兵跟我走！其他人待着这里守卫发射塔！</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ22_Four_command>
+	</Quest>
+</Root>

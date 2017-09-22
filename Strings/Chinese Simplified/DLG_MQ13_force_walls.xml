@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ13_force_walls>
+			<node1>
+				<Desc>
+					<CHS>我很感激，猎人。我上次明智的决定帮助你真的给我带来了很大的回报。尽管你看起来很难赢得这场战争，对吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你是靠着出色的主观去判断营救的犯人的，是吗？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我们需要你的帮助。你能够关掉哈克的力场吗？</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我很早之前就告诉过你了我们没有工具能摧毁这些墙，从那以来科学并没有发展的特别迅速。我很高兴能将你的反抗军加入到我的王牌中，但是我对那个也无能为力。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我知道那是猎人的活。好吧。稍后在巢穴见，我会想其他办法的。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ13_force_walls>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SQ31_sewers_defense6_report>
+			<node1>
+				<Desc>
+					<CHS>范海辛？你击败哈克的部队了吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>是的。他们真的很累了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>没有。我们不得不撤退。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>真棒。我真的希望那是他们最后的一次赏识了。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>外面的情况正在升级。但愿他们没办法享受这次胜利。</CHS>
+				</Desc>
+			</node5>
+		</DLG_SQ31_sewers_defense6_report>
+	</Quest>
+</Root>

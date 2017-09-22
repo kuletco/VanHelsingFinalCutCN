@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_All_city_quest_done>
+			<node1>
+				<Desc>
+					<CHS>你又做到了！你能回来博格维亚真是太好了，范海辛！你到底有什么秘诀？你现在应该90岁了把。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>总是有些战争是你赢不了的。</CHS>
+				</Desc>
+			</node2>
+		</DLG_All_city_quest_done>
+	</Quest>
+</Root>

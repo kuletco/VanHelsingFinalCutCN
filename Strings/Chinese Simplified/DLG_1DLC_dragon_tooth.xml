@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_1DLC_dragon_tooth>
+			<node1>
+				<Desc>
+					<CHS>你在干嘛？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>看看这骨架!这么说来，曾经博格维亚是有龙的。真令人神往！我要将尖牙作为纪念品。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>纪念品，当然。哦，你这个讨厌的男孩！我敢打赌,你迫不及待地要把它磨成细粉!</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>什么？我为什么要那样做？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>别怕，范海辛，我不会把你的秘密泄漏出去的。让我们开始吧！</CHS>
+				</Desc>
+			</node5>
+		</DLG_1DLC_dragon_tooth>
+	</Quest>
+</Root>

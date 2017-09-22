@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_TD1>
+			<node1>
+				<Desc>
+					<CHS>在它的表面有一大群不死奴隶的部落。如果不能阻止它们的话，他们会在整个城市里肆虐。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>好像情况还不够糟似的。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>幸运的是，他们会穿过我们的一个旧前哨站，那里有陷阱网和防御设施。目前那里没有人，因此我们需要派些人过去。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我会亲自解决这群奴隶部落。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>好的，那我就派一队人增加防御。</CHS>
+				</Desc>
+			</node5>
+		</DLG_TD1>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ13_sewers_defense_report>
+			<node1>
+				<Desc>
+					<CHS>事情如何，范海辛？我希望你将哈克的士兵们从通道拖了回来。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我们胜利了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>抱歉，但事情进展的不是很顺利。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>干的漂亮！终于让哈克学到了教训。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>你不可能战无不胜的，范海辛。但是今天，我们丢失了通道系统最重要的部分。哈克离巢穴已经只有一步之遥了。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ13_sewers_defense_report>
+	</Quest>
+</Root>

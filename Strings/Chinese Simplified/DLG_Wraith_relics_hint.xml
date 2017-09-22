@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Wraith_relics_hint>
+			<node1>
+				<Desc>
+					<CHS>这个雕像上的铭文写到：</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>"追寻钟上的走针/穿过四个拱门/然后走向你来的路/为了恩典。"</CHS>
+				</Desc>
+			</node2>
+		</DLG_Wraith_relics_hint>
+	</Quest>
+</Root>

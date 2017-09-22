@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_frozen_encounter>
+			<node1>
+				<Desc>
+					<CHS>另一个想要毁灭我们的人类。我有所有你可能需要的东西！鱼皮外套、胡子油脂！铁锹、木凉鞋、炸药！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>不，谢谢你。这是一条正确的通往正在毁坏你的土地的大球的路吗？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>谁在乎呢？买点什么！被偷走的开矿装置？真便宜！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我需要消息，不是你无用的垃圾。墨境之球在哪？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>你在那些花哨的齿轮上昂首阔步地走着，而且还期待我和你一起玩？在科学家让我们陷入了痛苦之后？</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>听着……</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>我唾弃你！你什么都得不到，甚至连我的鳗鱼布丁都得不到！</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>别杀了他，范海辛。走吧。</CHS>
+				</Desc>
+			</node8>
+		</DLG_frozen_encounter>
+	</Quest>
+</Root>

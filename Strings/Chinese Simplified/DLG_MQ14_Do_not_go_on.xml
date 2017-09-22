@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ14_Do_not_go_on>
+			<node1>
+				<Desc>
+					<CHS>回去吧，旅行者。这里是禁止进入的，我无法让你通过。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你错了。我通过了石之守卫的考验，只要我想，没人能拦住我。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>守卫？那些愚蠢的岩石？谁在乎他们所说的话。我才是这里真正的守卫。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>还记得我说过过分保护的话吗？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>不打一场你是无法过去的！</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ14_Do_not_go_on>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Vlados_banter3>
+			<node1>
+				<Desc>
+					<CHS>我怎么帮你呢，梅斯特·范海辛？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你为什么要送这封信给我们？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>反抗军无法应对这样的威胁。我们尝试过，但失败了。但你的父亲很有资历。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>至今还有？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>这么说吧，他曾经打败过我们。</CHS>
+				</Desc>
+			</node5>
+		</DLG_Vlados_banter3>
+	</Quest>
+</Root>

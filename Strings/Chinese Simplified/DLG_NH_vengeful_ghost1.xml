@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_NH_vengeful_ghost1>
+			<node1>
+				<Desc>
+					<CHS>我诅咒你，克什！我如此忠诚地为你效力，你却还要把我的灵魂束缚在这坟墓之中。即使是在坟墓之下我也会诅咒你拒绝了我的复仇。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我记得他。他是个贵族，曾经预谋屠杀竞争对手一家，但被抓了。他的死刑持续了几个星期。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>凡人，我们对无面沙皇怀着相同的怨恨。如果你解开我的诅咒，我会是一个强大的盟友！联合起来，我们可以毁掉拉维尼亚斯家族的余党！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>屠杀整个家族？对于一个疯狂的鬼魂来说，听起来不太公平啊。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>那个家族死了很久了。范海辛。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>哦。呵呵……</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>你到底需不需要一个来去自如，有仇必报的鬼魂做为盟友。</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>我想我会毁了你，然后解开诅咒。</CHS>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<CHS>你应该受尽永世的折磨。再见。</CHS>
+				</Desc>
+			</node9>
+		</DLG_NH_vengeful_ghost1>
+	</Quest>
+</Root>

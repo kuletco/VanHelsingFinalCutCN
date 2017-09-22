@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_1DLC_Dragontooth_Dampf>
+			<node1>
+				<Desc>
+					<CHS>啊，范海辛！我看见你找到了巨龙的尖牙。别担心，我会把它弄碎，你很快会痊愈的！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你说什么?我没病。它可是神兽的战利品啊。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>啊，误会了！呃呵呵！那让我买下它吧。有个……严重心脏问题的人……要斥资巨额买它！</CHS>
+				</Desc>
+			</node3>
+		</DLG_1DLC_Dragontooth_Dampf>
+	</Quest>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_TD2_Report>
+			<node1>
+				<Desc>
+					<CHS>我迫切想知道事情在苍天周界进展得怎么样了。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我已经击退了入侵者。你可以在需要的时候派些军力去增强与提升防御工事。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>它们有些已经损坏了。我们必须增强提升防御工事，增强其防御能力以面对将来可能会遇到的入侵。</CHS>
+				</Desc>
+			</node3>
+		</DLG_TD2_Report>
+	</Quest>
+</Root>

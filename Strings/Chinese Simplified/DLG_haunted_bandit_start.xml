@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_haunted_bandit_start>
+			<node1>
+				<Desc>
+					<CHS>对不起，先生。作为一个职业强盗，同时也是一个骄傲的拦路强盗，我请求你的帮助！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>一个遇难的强盗？听上去很有趣!</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>由于显著增加的怪物活动，每日11小时驿站马车抢劫活动的地点现在已经不对公众开放了。当地人在抱怨！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>当地人想被抢劫？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>这里的一个优良传统，先生。你能处理那些野兽吗？这是为了孩子。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>你想打孩子牌，是吧？给我带路。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>对不起，我们还要去拯救博格维亚。为了孩子，你懂得。</CHS>
+				</Desc>
+			</node7>
+		</DLG_haunted_bandit_start>
+	</Quest>
+</Root>

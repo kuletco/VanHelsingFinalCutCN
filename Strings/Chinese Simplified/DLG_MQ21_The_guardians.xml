@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ21_The_guardians>
+			<node1>
+				<Desc>
+					<CHS>一堆笔记。这些肯定是新草案。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>让我看看…  "为了将喀迈拉变成忠诚的守卫，未来的主人必须在特殊的战斗圈中击败他们。如果他或她失败了，这些生物就自由了。"</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>不要告诉我失败的后果。请继续。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>“如果有人进入战斗圈，法术会立刻感应到，并且召唤出新的喀迈拉。"</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我们必须马上找到这个战斗圈。我想要一只喀迈拉。我会叫它绒绒。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>我不懂了。你已经击败了那个喀迈拉。那为什么还是看不到我的绒绒？</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>或许它是害羞了。</CHS>
+				</Desc>
+			</node7>
+		</DLG_MQ21_The_guardians>
+	</Quest>
+</Root>

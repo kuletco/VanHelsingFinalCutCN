@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI03_The_gold_fish>
+			<node1>
+				<Desc>
+					<CHS>看见了吗？我真是不敢相信！我的愿望成真了！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>卡特琳娜，你是在说我的速冻晚餐。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>只是一条金鱼，傻瓜！它会满足你三个愿望！许愿吧！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>值得一试。我希望我的伙伴是长相甜美，懂得礼仪的幽灵。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>哦，我就知道！你这讨厌的烦人！</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>看到了吗？没有用。我拿它当饭了。</CHS>
+				</Desc>
+			</node6>
+		</DLG_POI03_The_gold_fish>
+	</Quest>
+</Root>

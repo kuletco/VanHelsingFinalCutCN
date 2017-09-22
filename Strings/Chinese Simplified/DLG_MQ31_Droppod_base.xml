@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ31_Droppod_base>
+			<node1>
+				<Desc>
+					<CHS>发生了什么？巢穴坍塌了吗？给我一个明确的答复！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>如你所愿。哈克对在地下追捕巢穴感到厌倦了。他建造了一台巨大的钻孔机。那个钻机会把整个地区扯开，直到它冲破你的天花板。你满意了？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>听懂了吗，范海辛？我告诉过你哈克正在建造一个末日工具！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>冷静点，卡特琳娜。这是一台钻机，它又不能带来末日。我应该带多少士兵？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>"巨大"这个词在这里可不是夸张的用法，范海辛。即使日夜不停的炮击那里，它还是能运作。并且你还无法通过那里的防御。那里除了有魔法跟科学仪器守卫外，还有一整支部队。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>这就是我不喜欢你的原因！当你给我吗建议的时候，你总是把事情变的更复杂！</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>你太武断了。有一条简单的路。哈克在墨境有一个浮台。他们在那里发射破壳炮弹。如果你能拿下那个浮台，你就可以直接从机器上方进入。</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>然后呢？我们用扳手就能关闭那个东西？</CHS>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<CHS>你的科学家有蓝图。当你清理浮台的时候，他们肯定能找出这个机器的弱点。不要忘记，卡特琳娜夫人…所有事物都会有弱点的。</CHS>
+				</Desc>
+			</node9>
+		</DLG_MQ31_Droppod_base>
+	</Quest>
+</Root>

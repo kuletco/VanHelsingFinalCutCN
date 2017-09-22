@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ12_Wave_starter2>
+			<node1>
+				<Desc>
+					<CHS>Are the troops ready to move out?</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>I still have to give out orders to some of the captains.</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>Absolutely.  They are all ready.</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>Do you want me to take over?</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>Much appreciated, but I can manage that much.</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>谢谢你。将前线的士兵调回来。我会在他们进攻就前往前线并等着他们。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>那你呢？你准备好打一架了吗？</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>我会再进行一轮来确保一切保持正常。</CHS>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<CHS>我一直在为战斗做准备，指挥官。将前线的士兵调回来。我会在他们进攻就前往前线并等着他们。</CHS>
+				</Desc>
+			</node9>
+		</DLG_MQ12_Wave_starter2>
+	</Quest>
+</Root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Battle>
+		<GUI>
+			<map>
+				<terep_ink_hive>
+					<name>
+						<CHS>巢穴</CHS>
+					</name>
+				</terep_ink_hive>
+				<terep_ink_mechanic>
+					<name>
+						<CHS>机械蜂房</CHS>
+					</name>
+				</terep_ink_mechanic>
+				<terep_csatorna_hosszu>
+					<name>
+						<CHS>实验箱</CHS>
+					</name>
+				</terep_csatorna_hosszu>
+				<terep_csatorna_nekro>
+					<name>
+						<CHS>地下总部</CHS>
+					</name>
+				</terep_csatorna_nekro>
+			</map>
+		</GUI>
+		<GameObject>
+			<Info>
+				<terep_csatorna_nekro>
+					<Waypoint_nekro>
+						<CHS>地下总部</CHS>
+					</Waypoint_nekro>
+				</terep_csatorna_nekro>
+				<Lift_1>
+					<CHS>电梯</CHS>
+				</Lift_1>
+				<Lift_2>
+					<CHS>电梯</CHS>
+				</Lift_2>
+				<lift_nekro1>
+					<CHS>电梯</CHS>
+				</lift_nekro1>
+				<lift_nekro2>
+					<CHS>电梯</CHS>
+				</lift_nekro2>
+				<Lift_nekro3>
+					<CHS>电梯</CHS>
+				</Lift_nekro3>
+			</Info>
+		</GameObject>
+	</Battle>
+</Root>

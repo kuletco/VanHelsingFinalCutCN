@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SQ31_sewers_defense6>
+			<node1>
+				<Desc>
+					<CHS>哈克的军队打开了一扇通往神圣地下室的大门。他们出于某些神秘的原因正在拆除回忆大厅。他们不断靠近巢穴，令人很不安。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我们不能让他们拆掉会议大厅。我来对付他们。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我们的反抗军战士会教训他们的。</CHS>
+				</Desc>
+			</node3>
+		</DLG_SQ31_sewers_defense6>
+	</Quest>
+</Root>

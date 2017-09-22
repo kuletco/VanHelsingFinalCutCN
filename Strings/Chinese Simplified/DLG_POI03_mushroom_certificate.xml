@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI03_mushroom_certificate>
+			<node1>
+				<Desc>
+					<CHS>祝你过的愉快！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你总是那个抱怨由于没有文凭所以没人认真看待你的人，对吗？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>可悲的事实。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>好的，那么一个作为蘑菇专家的证书你认为如何？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>真的吗？有证书吗？我一直想成为一个蘑菇专家，但我不够聪明无法通过考试。我愿意为此付出努力。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>反抗军的医护人员非常可靠，我明白了。</CHS>
+				</Desc>
+			</node6>
+		</DLG_POI03_mushroom_certificate>
+	</Quest>
+</Root>

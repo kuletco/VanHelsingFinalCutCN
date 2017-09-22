@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_major02>
+			<node1>
+				<Desc>
+					<CHS>噢，猎人又来了！真高兴见到你！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>在你再一次逃跑之前，请告诉我怎么去博格维亚。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>如果你要到博格维亚，必须穿过老矿山到山的另一边。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我觉得又会有个“但是”了。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>但是你得使用沼泽中古老的墨境之门。打开它进入隧道。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>在这附近找路并不容易。</CHS>
+				</Desc>
+			</node6>
+		</DLG_mar_major02>
+	</Quest>
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SQ14_Ancient_clock>
+			<node1>
+				<Desc>
+					<CHS>好极了！你还活着！呃，至少是你们其中一个。你找到钟表装置了吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>看，我不是吹，不过在你击败一个疯狂科学家之后狗头人就没那么厉害了。没错，我们找到了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我感激不尽，我的女士。现在轮到我实现我的诺言了。我会加入你的反抗军。</CHS>
+				</Desc>
+			</node3>
+		</DLG_SQ14_Ancient_clock>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_alchemist02>
+			<node1>
+				<Desc>
+					<CHS>我猜你是那个帮助我的人，是吗？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我有出于自私的考虑。我要知道博格维亚发生了什么。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>科学发生了！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>这意味着……</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>有人做实验创造……怪物！博格维亚现在是个怪物了。</CHS>
+				</Desc>
+			</node5>
+		</DLG_mar_alchemist02>
+	</Quest>
+</Root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_major04>
+			<node1>
+				<Desc>
+					<CHS>你做到了！你永远地驱逐了Rusalkas！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>怪物们永远不会消失。但是你们这段时间会很安全。</CHS>
+				</Desc>
+			</node2>
+		</DLG_mar_major04>
+	</Quest>
+</Root>

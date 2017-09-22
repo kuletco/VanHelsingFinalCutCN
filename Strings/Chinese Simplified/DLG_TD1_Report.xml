@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_TD1_Report>
+			<node1>
+				<Desc>
+					<CHS>范海辛，你回来了！你阻止了部落了么？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>那些部落不会再麻烦到我们了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>他们中的一些突破进来了，指挥官。你得转移一些兵力来解决他们。</CHS>
+				</Desc>
+			</node3>
+		</DLG_TD1_Report>
+	</Quest>
+</Root>

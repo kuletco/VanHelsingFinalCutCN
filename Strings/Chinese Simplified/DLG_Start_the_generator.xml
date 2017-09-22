@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Start_the_generator>
+			<node1>
+				<Desc>
+					<CHS>真棒！你有了全部的线圈！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>总有一天你真得告诉我它们是怎么运作的。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>啊，居然有猎人会对纯粹的毁灭之外的事情有兴趣。真新鲜。以后再说吧，我的朋友。现在我要启动发电机。</CHS>
+				</Desc>
+			</node3>
+		</DLG_Start_the_generator>
+	</Quest>
+</Root>

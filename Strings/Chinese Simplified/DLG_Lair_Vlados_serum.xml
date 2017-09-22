@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_Lair_Vlados_serum>
+			<node1>
+				<Desc>
+					<CHS>你对这炮台了解多少？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>作为这项研究前一个科目的参与者，我对它还是有所了解的。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>什么？你能一直站在阳光下？</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我以为你注意到了！</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我们是注意到了些事情，但是承认吧，你总是很奇怪。</CHS>
+				</Desc>
+			</node5>
+		</DLG_Lair_Vlados_serum>
+	</Quest>
+</Root>

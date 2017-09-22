@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ12_Commands3>
+			<node1>
+				<Desc>
+					<CHS>先生，我们正遭受冲击扑翼机的袭击！我怕我们坚持不了多久了。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你必须坚守阵地！至少我们能够保证女人和孩子的安全！</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>使用自动炮塔并坚守阵地！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>撤退到第二道防线，并且守卫阵地！</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我要先去调查阵地，然后再下命令。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands3>
+	</Quest>
+</Root>

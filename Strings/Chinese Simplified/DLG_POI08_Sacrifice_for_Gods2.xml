@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_POI08_Sacrifice_for_Gods2>
+			<node1>
+				<Desc>
+					<CHS>看看那个！骨头做成的闪亮饰品！我们要不要？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>当然。这是一个古老的奖章。它们在这里应该很有用。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>这是一个灵魂行者的祭坛。我可不想然他们诅咒我。我可能最终会成为一个无法安息的灵魂，虽然这听起来很惨。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>谢谢你，范海辛。非常感谢你！</CHS>
+				</Desc>
+			</node4>
+		</DLG_POI08_Sacrifice_for_Gods2>
+	</Quest>
+</Root>

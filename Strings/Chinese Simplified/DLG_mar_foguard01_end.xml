@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_foguard01_end>
+			<node1>
+				<Desc>
+					<CHS>欢迎，陌生人……我的女士。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>祝你过得愉快！我们必须到博格维亚去。桥塌了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>那么你得找村长，他知道穿过树林的路。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>去哪能找到他?</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>他出去调查在林道和一些贵重物品一起丢失的马车了。他还没回来。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>这并不容易，我亲爱的范海辛。</CHS>
+				</Desc>
+			</node6>
+		</DLG_mar_foguard01_end>
+	</Quest>
+</Root>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_lab_mindswap_activate2>
+			<node1>
+				<Desc>
+					<CHS>感觉这个生物非常强大，不过它散发着死亡的气息。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我非常怕猫!再也不能忍受了！救命！</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我现在正在吃饭。让我很饿。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>喵？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>不同的尸体，同样的问题。剩下两个插座。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>让我们把电容器放在白色的插座上。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>这次试试红色的电容器。准备好。</CHS>
+				</Desc>
+			</node7>
+		</DLG_lab_mindswap_activate2>
+	</Quest>
+</Root>

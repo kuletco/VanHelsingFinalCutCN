@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ12_Vlados_missing>
+			<node1>
+				<Desc>
+					<CHS>You certainly live up to our expectations, sir! You saved us in the last minute.</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>What happened to you, captain?  And where is Count Vlados?</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>Count Vlados is gone, sir.</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>What do you mean, “gone”? Did he crumble to dust, or did he just slip away to throw a doomsday party… again?</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>You really shouldn’t question his dedication to the cause, my lady. He led his unit to one of the elyctricity works to disable the Force Domes from there. Then suddenly Harker’s specialists swarmed the area. We had no choice but retreat.</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>I'll take it from here, captain. Go back to the front line!</CHS>
+				</Desc>
+			</node6>
+		</DLG_MQ12_Vlados_missing>
+	</Quest>
+</Root>

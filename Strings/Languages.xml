@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
 		<eng>English</eng>
-		<CN>SimplifiedChinese</CN>
+		<CHS>Chinese Simplified</CHS>
 		<ES>Espanol</ES>
 		<FR>French</FR>
 		<DE>German</DE>
@@ -12,6 +12,6 @@
 		<PT>Portugese</PT>
 		<RU>Russian</RU>
 	</LanguageName>
-	<Languages>eng;CN;ES;FR;DE;HU;IT;PL;PT;RU</Languages>
+	<Languages>eng;CHS;ES;FR;DE;HU;IT;PL;PT;RU</Languages>
 </Root>
 

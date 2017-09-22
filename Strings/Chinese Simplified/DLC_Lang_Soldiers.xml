@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Soldiers>
+		<harpy_queen>
+			<Name>
+				<CHS>鹰身女妖女王</CHS>
+			</Name>
+		</harpy_queen>
+		<pale_gentleman>
+			<Name>
+				<CHS>苍白绅士</CHS>
+			</Name>
+		</pale_gentleman>
+		<Ancient_ghoul>
+			<Name>
+				<CHS>远古食尸鬼</CHS>
+			</Name>
+		</Ancient_ghoul>
+		<DLC_ATD_machine_king>
+			<Name>
+				<CHS>机器之王</CHS>
+			</Name>
+		</DLC_ATD_machine_king>		
+	</Soldiers>
+</Root>

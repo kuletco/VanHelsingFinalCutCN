@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_major01>
+			<node1>
+				<Desc>
+					<CHS>哎呀！真是惊人的救援，猎人。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>而且完全没有意义，至少看上去是。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>别这么说！做好事永远不会没有意义。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>这么说来，你会回答我的问题，对么？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>当然！但是我得立刻回村庄。那儿见！</CHS>
+				</Desc>
+			</node5>
+		</DLG_mar_major01>
+	</Quest>
+</Root>

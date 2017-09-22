@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ12_Commands7>
+			<node1>
+				<Desc>
+					<CHS>长官！如果你不介意的话，我想说这地方太过开阔了。我们的防线会太过单薄。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>然而，你必须不惜一切代价守好这里。向巢穴求援！</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>在高处部署自动炮塔，守好你的位置！</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>你必须不惜一切代价守好这些位置！</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我先去调查下位置，稍后再想你汇报。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ12_Commands7>
+	</Quest>
+</Root>

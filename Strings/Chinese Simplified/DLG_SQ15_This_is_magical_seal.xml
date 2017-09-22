@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_SQ15_This_is_magical_seal>
+			<node1>
+				<Desc>
+					<CHS>范海辛！我从没感受到过如此强大的东西。肯定是那些魔法封印之一的东西。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>它们确实有着奇怪的形态和形状……那它就没法摧毁它了。甚至连拯救一群被抛弃的鬼魂也办不到。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我们也不能让那些可怜的鬼混继续受苦了。图腾必须被摧毁。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>你在干什么？我还以为我们会不管那些魔法封印1</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>别担心。我只是想知道它到底有多强大。非常强，我不得不说。</CHS>
+				</Desc>
+			</node5>
+		</DLG_SQ15_This_is_magical_seal>
+	</Quest>
+</Root>

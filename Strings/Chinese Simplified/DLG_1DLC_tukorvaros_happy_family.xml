@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_1DLC_tukorvaros_happy_family>
+			<node1>
+				<Desc>
+					<CHS>谢谢你，猎人！我怎么才能报答你呢？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>答应我，再也不召唤强大的实体来解决问题，我们就安心了。</CHS>
+				</Desc>
+			</node2>
+		</DLG_1DLC_tukorvaros_happy_family>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_1DLC_Angry_ghosts>
+			<node1>
+				<Desc>
+					<CHS>你在干嘛？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我在找钥匙。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>你不应该打扰死者，他们可能会怒气冲冲地醒来。这点你要相信我，范海辛。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>我们不能让那个可怜人腐烂在笼子里。我会找到钥匙的。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我相信你的经验。不管它。</CHS>
+				</Desc>
+			</node5>
+		</DLG_1DLC_Angry_ghosts>
+	</Quest>
+</Root>

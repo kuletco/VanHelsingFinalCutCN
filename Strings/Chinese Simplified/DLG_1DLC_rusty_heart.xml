@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_1DLC_rusty_heart>
+			<node1>
+				<Desc>
+					<CHS>我该怎么帮你？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你知道Rustblight的治疗吗？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>别告诉我你见过有人患这种秘法疾病！只有在墨境才能被感染，你知道的。是啊，我可以胡乱捏造一个疗法的，但是……</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>但是什么？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>这种疗法有可能会把他变为行尸走肉，而且会传播！那我只能遗憾地建议你把他杀了。不过随后要把他的心带给我！它会对研究有所帮助。我将感激不尽。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>我会抓住机会的。给我治疗吧。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>那太可怕了。但我要把必须做的事办了才能对付他。</CHS>
+				</Desc>
+			</node7>
+		</DLG_1DLC_rusty_heart>
+	</Quest>
+</Root>

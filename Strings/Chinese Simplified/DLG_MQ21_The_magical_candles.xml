@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ21_The_magical_candles>
+			<node1>
+				<Desc>
+					<CHS>如果你对喀迈拉感兴趣，这个图书馆绝对是一个知识的宝库。看见了这个了吗？"如何训练喀迈拉"。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>我希望这不是一个关于被囚禁的喀迈拉和一个小男孩友谊的故事。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>冒险故事的书架一定在一个角落里。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>让我看看。我找到了有趣的东西。"喀迈拉是魔法生物，因此他们的身体会受到秘法的影响。把魔法蜡烛放在召唤的圆圈中可以修改它的能力。"</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>这些新能力有什么作用呢？</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>那可真是多了。"更强壮的身体，移动更快，皮毛更加厚实，对魔法的抵抗力更强，进阶的战斗技巧..."</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>就是这样!我想要自己的喀迈拉!现在。</CHS>
+				</Desc>
+			</node7>
+		</DLG_MQ21_The_magical_candles>
+	</Quest>
+</Root>

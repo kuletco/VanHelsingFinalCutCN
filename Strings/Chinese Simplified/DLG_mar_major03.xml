@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_major03>
+			<node1>
+				<Desc>
+					<CHS>我们被Rusalkas所困扰。这些邪恶的仙女回到树林，不停地袭击村庄。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>如果这次有人反击，会怎么样？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>让我猜猜。你指的是我，对吧？</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>你会吗？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我可是范海辛。我会帮你的。</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>一会再说。</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>啊？你准备好对抗Rusalkas了吗？</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>准备好了。开始行动吧。</CHS>
+				</Desc>
+			</node8>
+			<node9>
+				<Desc>
+					<CHS>我还在忙呢。以后再说吧。</CHS>
+				</Desc>
+			</node9>
+		</DLG_mar_major03>
+	</Quest>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_rkresearch_01>
+			<node1>
+				<Desc>
+					<CHS>先生，是有关于那一大堆我们在试验设施发现的研究文件的事情。"普罗米修斯档案"，我喜欢这样称呼它。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>你确定这些材料符合这浮夸的名字么？</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>毫无疑问，先生。这本私人研究日志不是别人的，正是暴脾气教授的。匆匆瞥上一眼就足以明白这材料可以改变我们对诡异科学的看法。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>那你想用它做些什么？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>当然了，我打算尽可能透彻地研究这些文件。把心得记录在研究日志，即普罗米修斯的档案中。每当有新条目加入我会及时让你知道。（进入日志，见普罗米修斯）</CHS>
+				</Desc>
+			</node5>
+		</DLG_rkresearch_01>
+	</Quest>
+</Root>

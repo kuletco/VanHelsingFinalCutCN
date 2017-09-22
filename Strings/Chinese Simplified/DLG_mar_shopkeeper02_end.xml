@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_mar_shopkeeper02_end>
+			<node1>
+				<Desc>
+					<CHS>让我看看你有什么给我。是的，这些真不错！这是给你的奖励！</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>很高兴与你合作。</CHS>
+				</Desc>
+			</node2>
+		</DLG_mar_shopkeeper02_end>
+	</Quest>
+</Root>

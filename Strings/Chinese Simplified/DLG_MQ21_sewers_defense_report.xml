@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_MQ21_sewers_defense_report>
+			<node1>
+				<Desc>
+					<CHS>那么，范海辛？你在通道里击败了哈克的部队了？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>没错。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>我该怎么说这个？我们必须重整旗鼓。从战略意义上讲。应该到别的地方去。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>恭喜！这场胜利会提升士气。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>太糟了。幸运的是，他们仍然找到了秘密入口。</CHS>
+				</Desc>
+			</node5>
+		</DLG_MQ21_sewers_defense_report>
+	</Quest>
+</Root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_cro_ghost01>
+			<node1>
+				<Desc>
+					<CHS>我在哪儿？如果我迟到，Marina会杀了我的。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>*唉* 他真是容易忘记自己的处境啊。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>你嫉妒了？</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>胡说八道，他太弱了，我甚至可以用意念控制他。</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>你可以控制其他幽灵？</CHS>
+				</Desc>
+			</node5>
+			<node6>
+				<Desc>
+					<CHS>虚弱的当然没问题，要我向你展示吗？</CHS>
+				</Desc>
+			</node6>
+			<node7>
+				<Desc>
+					<CHS>天呐，不用。</CHS>
+				</Desc>
+			</node7>
+			<node8>
+				<Desc>
+					<CHS>让他跟着我们，我知道怎样帮他。</CHS>
+				</Desc>
+			</node8>
+		</DLG_cro_ghost01>
+	</Quest>
+</Root>

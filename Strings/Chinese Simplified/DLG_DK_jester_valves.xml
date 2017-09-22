@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_DK_jester_valves>
+			<node1>
+				<Desc>
+					<CHS>这些阀门控制着锅炉设施。如果我们按照正确的顺序将这个系统堵塞，不好的事情将会发生。</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>别被一股喷射出的热糊切断了脑袋！</CHS>
+				</Desc>
+			</node2>
+		</DLG_DK_jester_valves>
+	</Quest>
+</Root>

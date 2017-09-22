@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CHS>Chinese Simplified</CHS>
+	</LanguageName>
+	<Languages>CHS</Languages>
+	<Quest>
+		<DLG_katona_hulla3>
+			<node1>
+				<Desc>
+					<CHS>这儿发生了什么？</CHS>
+				</Desc>
+			</node1>
+			<node2>
+				<Desc>
+					<CHS>这些尸体被荆棘所鞭打。连当地的植物也被污染了。</CHS>
+				</Desc>
+			</node2>
+			<node3>
+				<Desc>
+					<CHS>这听起来很糟糕，想想这地区有一度是属于森林女神的。</CHS>
+				</Desc>
+			</node3>
+			<node4>
+				<Desc>
+					<CHS>树的灵魂?树皮做的肉，树枝做的四肢，和平的大自然？</CHS>
+				</Desc>
+			</node4>
+			<node5>
+				<Desc>
+					<CHS>我想它们不再那么和平了。更不用说一些其它的变化……</CHS>
+				</Desc>
+			</node5>
+		</DLG_katona_hulla3>
+	</Quest>
+</Root>
