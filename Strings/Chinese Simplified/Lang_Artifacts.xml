@@ -6180,7 +6180,7 @@
 			</SpellLevelToArcaneHealing>
 			<SpellLevelToRage>
 				<desc>
-					<CHS>$VALUE$额外等级到狂怒</CHS>
+					<CHS>$VALUE$ 额外的怒气等级</CHS>
 				</desc>
 			</SpellLevelToRage>
 			<SpellLevelToTreasureHunter>
@@ -6855,17 +6855,17 @@
 			</EnemiesClose_CritDamageNocap>
 			<MaxRage_Damage>
 				<Desc>
-					<CHS>狂怒值达到上限时，伤害增加$VALUE$%</CHS>
+					<CHS>怒气达到上限时，伤害增加 $VALUE$%</CHS>
 				</Desc>
 			</MaxRage_Damage>
 			<MaxRage_CritHitNocap>
 				<Desc>
-					<CHS>狂怒值达到上限时，暴击上限增加$VALUE$%</CHS>
+					<CHS>怒气达到上限时，暴击上限增加 $VALUE$%</CHS>
 				</Desc>
 			</MaxRage_CritHitNocap>
 			<MaxRage_CritDamageNocap>
 				<Desc>
-					<CHS>狂怒值达到上限时，暴击伤害上限增加$VALUE$%</CHS>
+					<CHS>怒气达到上限时，暴击伤害上限增加 $VALUE$%</CHS>
 				</Desc>
 			</MaxRage_CritDamageNocap>
 			<Standing_DamageReduce>
@@ -7032,78 +7032,78 @@
 		</hitpoints>
 		<casted_freeze_duration>
 			<Desc>
-				<CHS>冰冻时间增加$SIGN$$VALUE$%</CHS>
+				<CHS>冰冻持续时间额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</casted_freeze_duration>
 		<casted_slow_duration>
 			<Desc>
-				<CHS>减速时间增加$SIGN$$VALUE$%</CHS>
+				<CHS>减速持续时间额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</casted_slow_duration>
 		<defense_ranged>
 			<Desc>
-				<CHS>对远程伤害的防御增加$SIGN$$VALUE$%</CHS>
+				<CHS>范围伤害防御额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</defense_ranged>
 		<heal_per_rage_spent>
 			<Desc>
-				<CHS>每消耗一点狂怒，恢复$SIGN$$VALUE$ HP</CHS>
+				<CHS>每消耗 1 点怒气，恢复 $SIGN$$VALUE$ 生命值</CHS>
 			</Desc>
 		</heal_per_rage_spent>
 		<powerup_cost>
 			<reduce>
 				<Desc>
-					<CHS>强化消耗点数减少$SIGN$$VALUE$</CHS>
+					<CHS>强化技能消耗 $SIGN$$VALUE$</CHS>
 				</Desc>
 			</reduce>
 		</powerup_cost>
 		<bloody_mess_up_chance>
 			<Desc>
-				<CHS>敌人的特殊死亡几率增加$SIGN$$VALUE$%</CHS>
+				<CHS>敌人的特殊死亡几率额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</bloody_mess_up_chance>
 		<free_powerup_chance>
 			<Desc>
-				<CHS>获得免费强化的几率增加$SIGN$$VALUE$%</CHS>
+				<CHS>获得免费强化的几率额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</free_powerup_chance>
 		<mana_per_rage_spent>
 			<Desc>
-				<CHS>每消耗一点狂怒，增加$SIGN$$VALUE$魔法</CHS>
+				<CHS>每消耗 1 点怒气，额外恢复 $SIGN$$VALUE$ 魔法值</CHS>
 			</Desc>
 		</mana_per_rage_spent>
 		<minion_speed>
 			<Desc>
-				<CHS>喽啰移动速度增加$SIGN$$VALUE$%</CHS>
+				<CHS>仆从移动速度额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</minion_speed>
 		<knockdown_chance>
 			<Desc>
-				<CHS>击倒几率增加$SIGN$$VALUE$%</CHS>
+				<CHS>击倒几率额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</knockdown_chance>
 		<katarina_respawn_time>
 			<reduce>
 				<Desc>
-					<CHS>卡特琳娜的重生时间缩短$SIGN$$VALUE$%</CHS>
+					<CHS>卡特琳娜的重生时间额外 $SIGN$$VALUE$%</CHS>
 				</Desc>
 			</reduce>
 		</katarina_respawn_time>
 		<mana_reserve>
 			<Desc>
-				<CHS>保留$SIGN$$VALUE$%的魔法上限（惩罚）</CHS>
+				<CHS>保留 $SIGN$$VALUE$% 的魔法上限（惩罚）</CHS>
 			</Desc>
 		</mana_reserve>
 		<enchant_cost>
 			<reduce>
 				<Desc>
-					<CHS>附魔花费减少$SIGN$$VALUE$%</CHS>
+					<CHS>附魔花费减少 $SIGN$$VALUE$%</CHS>
 				</Desc>
 			</reduce>
 		</enchant_cost>
 		<attack_rate_nocap>
 			<Desc>
-				<CHS>最大攻击速度提升$SIGN$$VALUE$%</CHS>
+				<CHS>最大攻击速度提升 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</attack_rate_nocap>
 		<mana_potion_disable>
@@ -7118,47 +7118,47 @@
 		</potion_disable>
 		<dot_duration>
 			<Desc>
-				<CHS>持续效果延长$SIGN$$VALUE$%</CHS>
+				<CHS>DoT 效果持续时间额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</dot_duration>
 		<dot_damage>
 			<Desc>
-				<CHS>持续伤害增加$SIGN$$VALUE$%</CHS>
+				<CHS>DoT 伤害额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</dot_damage>
 		<blockpool_max>
 			<Desc>
-				<CHS>格挡池增加$SIGN$$VALUE$（仅限守卫者）</CHS>
+				<CHS>格挡池额外 $SIGN$$VALUE$（仅限守卫者）</CHS>
 			</Desc>
 		</blockpool_max>
 		<blockpool_gain_mul>
 			<Desc>
-				<CHS>额外获得$SIGN$$VALUE$%的反击点数（仅限守卫者）</CHS>
+				<CHS>额外获得 $SIGN$$VALUE$% 反击点数（仅限守卫者）</CHS>
 			</Desc>
 		</blockpool_gain_mul>
 		<casted_burning_duration>
 			<Desc>
-				<CHS>被点燃的敌人燃烧延长$SIGN$$VALUE$%</CHS>
+				<CHS>被点燃的敌人燃烧额外延长 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</casted_burning_duration>
 		<critical_hit_nocap>
 			<Desc>
-				<CHS>最大暴击率增加$SIGN$$VALUE$%</CHS>
+				<CHS>最大暴击率额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</critical_hit_nocap>
 		<critical_damage_mul_nocap>
 			<Desc>
-				<CHS>最大暴击伤害增加$SIGN$$VALUE$%</CHS>
+				<CHS>最大暴击伤害额外 $SIGN$$VALUE$%</CHS>
 			</Desc>
 		</critical_damage_mul_nocap>
 		<damage_reflect_ranged>
 			<Desc>
-				<CHS>$SIGN$$VALUE$%远程伤害反射</CHS>
+				<CHS>$SIGN$$VALUE$% 远程伤害反射</CHS>
 			</Desc>
 		</damage_reflect_ranged>
 		<shield_maxHP>
 			<Desc>
-				<CHS>力场的HP增加$SIGN$$VALUE$</CHS>
+				<CHS>力场的生命值额外 $SIGN$$VALUE$</CHS>
 			</Desc>
 		</shield_maxHP>
 		<cast_rate>

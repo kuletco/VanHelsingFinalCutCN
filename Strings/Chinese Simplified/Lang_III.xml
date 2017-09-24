@@ -87,7 +87,7 @@
 								<CHS>百发百中</CHS>
 							</label>
 							<popup>
-								<CHS>此能力决定你对远程武器的精通。提升你的伤害（%s%%）和你的狂怒上限（%s）</CHS>
+								<CHS>此能力决定你对远程武器的精通。提升你的伤害（%s%%）和你的怒气上限（%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
@@ -165,7 +165,7 @@
 								<CHS>人机搭配</CHS>
 							</label>
 							<popup>
-								<CHS>此能力代表你对机械物品的掌控度。提升傀儡的伤害（%s%%）和你的狂怒上限（%s）</CHS>
+								<CHS>此能力代表你对机械物品的掌控度。提升傀儡的伤害（%s%%）和你的怒气上限（%s）</CHS>
 							</popup>
 						</ability_2>
 						<ability_3>
@@ -247,7 +247,7 @@
 			<companion>
 				<shopping>
 					<popup_vh3>
-						<CHS>拍你的同伴去出售其物品栏中的所有物品。</CHS>
+						<CHS>派遣你的同伴去出售其物品栏中的所有物品。</CHS>
 					</popup_vh3>
 				</shopping>
 				<HPPotionThreshold>

@@ -169,7 +169,7 @@
 				<CHS>冒险模式可以让你以特殊规则在单独的地图上进行随机生成的迷你战役.\n\n- 角色等级需求：%d\n-有关此游戏模式的更多信息请参考日志</CHS>
 			</scenario_popup_vh2>
 			<buy_vh1>
-				<CHS>在Steam上购买范海辛的奇妙冒险！（译者：望玩家多多支持正版）</CHS>
+				<CHS>在 Steam 上购买范海辛的奇妙冒险！</CHS>
 			</buy_vh1>
 		</Main>
 		<Campaign>
@@ -282,7 +282,7 @@
 					<CHS>合作游戏模式</CHS>
 				</pve>
 				<pvp>
-					<CHS>PvP游戏模式</CHS>
+					<CHS>PvP 游戏模式</CHS>
 				</pvp>
 				<waiting>
 					<CHS>等待中...</CHS>
@@ -295,13 +295,13 @@
 				<CHS>当前游戏中</CHS>
 			</friend_in_game>
 			<msg_invalid_character_norepair>
-				<CHS>这个角色被确定为无效。你不能用一个无效的角色来玩PVP游戏模式。</CHS>
+				<CHS>这个角色被确定为无效。你不能用一个无效的角色来玩 PVP 游戏模式。</CHS>
 			</msg_invalid_character_norepair>
 		</GameList>
 		<DLC>
 			<steames_elorendelo>
 				<name>
-					<CHS>Steam预定包</CHS>
+					<CHS>Steam 预定包</CHS>
 				</name>
 				<desc>
 					<CHS>这是我们送给所有预定玩家的礼物, 你将得到一对独特的套装物品:削除者护甲和削除者戒指。欢迎加入消除者的行列!</CHS>
@@ -312,7 +312,7 @@
 					<CHS>魔力包</CHS>
 				</name>
 				<desc>
-					<CHS>非常有用的魔力包裹包含以下好处:\n- 神秘搞价专精 (给你20%的附魔折扣), 支配者头盔, Steam支持者成就</CHS>
+					<CHS>非常有用的魔力包裹包含以下好处:\n- 神秘搞价专精 (给你 20% 的附魔折扣), 支配者头盔, Steam 支持者成就</CHS>
 				</desc>		
 			</magic_pack>
 			<domovoy_iljich>
@@ -320,7 +320,7 @@
 					<CHS>稀有包</CHS>
 				</name>
 				<desc>
-					<CHS>一个让怪物猎人心潮澎湃的包裹,有以下好处:\n- 德默沃伊专精 (给你+5%魔法物品寻找加成以及 +10% 黄金寻找加成),德默沃伊稀有小宠物, 梅菲斯特头盔</CHS>
+					<CHS>一个让怪物猎人心潮澎湃的包裹,有以下好处:\n- 德默沃伊专精 (给你 +5% 魔法物品寻找加成以及 +10% 黄金寻找加成),德默沃伊稀有小宠物, 梅菲斯特头盔</CHS>
 				</desc>		
 			</domovoy_iljich>
 			<goofzilla>
@@ -328,7 +328,7 @@
 					<CHS>史诗包</CHS>
 				</name>
 				<desc>
-					<CHS>奖励给那些计划去承担博加维亚最为黑暗一面的人, 有以下好处:\n- 哥痴拉专精 (+3%暴击几率, 战斗会更加血腥), 哥痴拉史诗小宠物, 异种恶魔头盔</CHS>
+					<CHS>奖励给那些计划去承担博加维亚最为黑暗一面的人, 有以下好处:\n- 哥斯拉专精 (+3% 暴击几率, 战斗会更加血腥), 哥斯拉史诗小宠物, 异种恶魔头盔</CHS>
 				</desc>		
 			</goofzilla>
 			<that_rabbit>
@@ -361,7 +361,7 @@
 		<GUI>
 			<chapter>
 				<title>
-					<CHS>%d的章节已完成！</CHS>
+					<CHS>%d 章节已完成！</CHS>
 				</title>
 				<playtime>
 					<CHS>游戏时间:</CHS>

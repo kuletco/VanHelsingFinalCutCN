@@ -4573,10 +4573,10 @@
 				</disconnected>
 			</user>
 			<restart_steam>
-				<CHS>游戏未从Steam启动，因此将不能解锁成就。DLC与网络游戏服务器也将变为不可用。你想通过Steam重启游戏吗？</CHS>
+				<CHS>游戏未从 Steam 启动，因此将不能解锁成就。DLCs 与网络游戏服务器也将变为不可用。你想通过 Steam 重启游戏吗？</CHS>
 			</restart_steam>
 			<restart_steam_failed>
-				<CHS>未能通过Steam启动。请确保已正确安装Steam。</CHS>
+				<CHS>未能通过 Steam 启动。请确保已正确安装 Steam。</CHS>
 			</restart_steam_failed>
 			<character_limit>
 				<CHS>已达到角色数量最大值</CHS>
@@ -5058,7 +5058,7 @@
 				<CHS>延迟限度：</CHS>
 			</Character_Cloud>
 			<character_cloudpopup>
-				<CHS>在线角色只存储在Steam云端，不能在本地操作。在线人物只能在多人模式中与其他玩家的在线角色进行游戏，以确保没有人作弊。</CHS>
+				<CHS>在线角色只存储在 Steam 云端，不能在本地操作。在线人物只能在多人模式中与其他玩家的在线角色进行游戏，以确保没有人作弊。</CHS>
 			</character_cloudpopup>
 			<select_scenario>
 				<CHS>选择冒险</CHS>

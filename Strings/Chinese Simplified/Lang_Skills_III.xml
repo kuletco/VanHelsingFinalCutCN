@@ -787,7 +787,7 @@
 				<CHS>盾墙</CHS>
 			</Name>
 			<Desc>
-				<CHS>每招架一击都有 %ragechance_ 几率获得狂怒值</CHS>
+				<CHS>每次格挡攻击时都有 %ragechance_ 几率获得怒气</CHS>
 			</Desc>			
 		</block_slowDecrease>
 		<block_blockPoints>
@@ -846,7 +846,7 @@
 				<CHS>愤怒意志</CHS>
 			</Name>
 			<Desc>
-				<CHS>启动强化将减少 %powerupcost_ 狂怒值消耗</CHS>
+				<CHS>激活强化将减少 %powerupcost_ 怒气消耗</CHS>
 			</Desc>					
 		</gigaBash_powerupCost>
 		<gigaBash_heal>
@@ -862,7 +862,7 @@
 				<CHS>狂怒猛击</CHS>
 			</Name>
 			<Desc>
-				<CHS>击杀额外增加 %rageperkill_ 狂怒值</CHS>
+				<CHS>击杀额外获得 %rageperkill_ 怒气</CHS>
 			</Desc>						
 		</gigaBash_ragePerKill>
 		<gigaBash_massSlow>
@@ -1946,7 +1946,7 @@
 				<CHS>洒脱之魂</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次跳跃获得 %rage_ 狂怒值</CHS>
+				<CHS>每次跳跃获得 %rage_ 怒气</CHS>
 			</Desc>						
 		</FedaksariTeleport_rage>
 		<FedaksariTeleport_heal>
@@ -2304,7 +2304,7 @@
 				<CHS>分子暴怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>爆炸击杀获得额外 %rage_ 狂怒值</CHS>
+				<CHS>爆炸击杀额外获得 %rage_ 怒气</CHS>
 			</Desc>					
 		</GeppokRobbantas_rage>
 		<GeppokRobbantas_knockback>
@@ -2898,7 +2898,7 @@
 				<CHS>无影暴怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>强化技能消耗的狂怒值降低 %powerupcostdecrease_</CHS>
+				<CHS>强化技能消耗的怒气降低 %powerupcostdecrease_</CHS>
 			</Desc>			
 		</shadowComboStrike_powerupCost>
 		<shadowComboStrike_rageChance>
@@ -2906,7 +2906,7 @@
 				<CHS>幽灵狂怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>每击有 %ragechance_ 几率获得额外的狂怒值</CHS>
+				<CHS>每次打击有 %ragechance_ 几率获得额外的怒气</CHS>
 			</Desc>			
 		</shadowComboStrike_rageChance>
 		<shadowHydraStrike>
@@ -3024,7 +3024,7 @@
 				<CHS>黑暗狂怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次击杀获得 %rage_ 额外狂怒值</CHS>
+				<CHS>每次击杀额外获得 %rage_ 怒气</CHS>
 			</Desc>			
 		</shadowAssassinStrike_rage>
 		<shadowAssassinStrike_manaCost>
@@ -3466,7 +3466,7 @@
 				<CHS>爆炸抗击</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次击杀 +%ragePerKill_ 狂怒值</CHS>
+				<CHS>击杀获得怒气 +%ragePerKill_</CHS>
 			</Desc>			
 		</decoyFelrobbantas_m4>
 		<precisionShot>
@@ -3794,7 +3794,7 @@
 				<CHS>无尽暴怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>每次击杀获得 %ragebonus_ 狂怒值</CHS>
+				<CHS>击杀获得 %ragebonus_ 怒气</CHS>
 			</Desc>			
 		</sphereOfTimelessness_m2>
 		<sphereOfTimelessness_m3>
@@ -3959,7 +3959,7 @@
 				<CHS>红雾</CHS>
 			</Name>
 			<Desc>
-				<CHS>当怒气值达到90%时，可获得该加成</CHS>
+				<CHS>当怒气达到 90% 时，可获得该加成</CHS>
 			</Desc>
 		</aura__Rampage_limit>
 		<aura__Rampage_critchance>
@@ -3967,7 +3967,7 @@
 				<CHS>狂暴</CHS>
 			</Name>
 			<Desc>
-				<CHS>在怒气值满的时候增加1%的暴击几率</CHS>
+				<CHS>在怒气达到上限时 +1% 暴击几率</CHS>
 			</Desc>
 		</aura__Rampage_critchance>
 
@@ -3998,12 +3998,12 @@
 				<CHS>内心之火</CHS>
 			</Name>
 			<Desc>
-				<CHS>在使用道具的时候，有5%的几率能恢复花费掉的怒气值</CHS>
+				<CHS>当激活强化技能时，有 5% 的几率恢复所消耗的怒气</CHS>
 			</Desc>
 		</aura__HiddenReserves_powerup>
 		<aura__HiddenReserves_manaperrage>
 			<Name>
-				<CHS>怒气值转化</CHS>
+				<CHS>怒气转化</CHS>
 			</Name>
 			<Desc>
 				<CHS>每消耗1点怒气，获得1点魔力</CHS>
@@ -4561,7 +4561,7 @@
 					<CHS>精确分裂</CHS>
 				</Name>
 				<Desc>
-					<CHS>强化技能消耗的狂怒值降低 %powerupcostdecrease_</CHS>
+					<CHS>强化技能消耗的怒气 -%powerupcostdecrease_</CHS>
 				</Desc>
 			</Master>
 		</shadowRend>
@@ -4912,7 +4912,7 @@
 					<CHS>无情怒火</CHS>
 				</Name>
 				<Desc>
-					<CHS>获得怒气值增加2</CHS>
+					<CHS>获得怒气 +2</CHS>
 				</Desc>
 			</Master>
 		</shadowfury>
@@ -4924,14 +4924,14 @@
 				<CHS>你的所有随从都会获得一个自我修复模块，使其每秒都会获得一定量的生命值。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>你的随从每秒恢复最大生命值的%hpregen_</CHS>
+				<CHS>你的随从每秒恢复其最大生命值的 %hpregen_</CHS>
 			</effect0>			
 			<Expert>
 				<Name>
 					<CHS>奇妙工具箱</CHS>
 				</Name>
 				<Desc>
-					<CHS>你的随从每5秒有5%的几率恢复所有生命值</CHS>
+					<CHS>你的随从每 5 秒有 5% 的几率恢复所有生命值</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -4939,7 +4939,7 @@
 					<CHS>伟大工具箱</CHS>
 				</Name>
 				<Desc>
-					<CHS>你的随从恢复所有生命值的几率再提高5%</CHS>
+					<CHS>你的随从恢复所有生命值的几率再 +5%</CHS>
 				</Desc>
 			</Master>
 		</hpregenminion>
@@ -4949,17 +4949,17 @@
 				<CHS>串通一气</CHS>
 			</Name>
 			<Desc>
-				<CHS>你5米内的所有随从（不管是炮塔类的还是可移动的）获得伤害加成</CHS>
+				<CHS>你 5 米内的所有随从（不管是炮塔类的还是可移动的）获得伤害加成</CHS>
 			</Desc>
 			<effect0>
-				<CHS>随从伤害+%damagebonus_</CHS>
+				<CHS>随从伤害 +%damagebonus_</CHS>
 			</effect0>			
 			<Expert>
 				<Name>
 					<CHS>互帮互助</CHS>
 				</Name>
 				<Desc>
-					<CHS>范围内的所有随从每秒恢复最大生命值的1%</CHS>
+					<CHS>视野范围内的所有随从每秒恢复其最大生命值的 1%</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -4967,7 +4967,7 @@
 					<CHS>杀戮地带</CHS>
 				</Name>
 				<Desc>
-					<CHS>影响区域扩大1米</CHS>
+					<CHS>影响区域扩大 1 米</CHS>
 				</Desc>
 			</Master>
 		</pasztorkodas>
@@ -4976,25 +4976,25 @@
 				<CHS>隐藏的储备品</CHS>
 			</Name>
 			<Desc>
-				<CHS>你的每一点愤怒都会治疗你。</CHS>
+				<CHS>你消耗的每点怒气都会治疗你。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每花费一点怒气值则生命值增加%heal_</CHS>
+				<CHS>每消耗 1 点怒气恢复生命值 +%heal_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
 					<CHS>内心之火</CHS>
 				</Name>
 				<Desc>
-					<CHS>在使用道具的时候，有5%的几率能恢复花费掉的怒气值</CHS>
+					<CHS>当激活强化技能时，有 5% 的几率能恢复所消耗的怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>怒气值转化</CHS>
+					<CHS>怒气转化</CHS>
 				</Name>
 				<Desc>
-					<CHS>每用掉一点怒气值，获得一点魔法值</CHS>
+					<CHS>每消耗 1 点怒气获得 1 点魔法值</CHS>
 				</Desc>
 			</Master>
 		</aura__HiddenReserves>

@@ -58,7 +58,7 @@
 				<CHS>协同奖励</CHS>
 			</SynergyPrefixText>
 			<SynergyDamage>
-				<CHS>%s: +%.3g%% 伤害(每级+%.3g%%)</CHS>
+				<CHS>%s: +%.3g%% 伤害(每级 +%.3g%%)</CHS>
 			</SynergyDamage>
 			<Powerup>
 				<CHS>强化</CHS>
@@ -196,14 +196,14 @@
 				<CHS>你的基础近战伤害值由你的近战武器决定</CHS>
 			</Desc>
 			<effect0>
-				<CHS>造成%attack_ 点物理伤害(%weapondamage_ 武器伤害 )</CHS>
+				<CHS>造成 %attack_ 点物理伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>精准打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>使自己的攻击能忽视敌军%physicalresistance_%点物理抗性并额外造成+%damagebonus_ 点伤害。</CHS>
+					<CHS>使自己的攻击能忽视敌人 %physicalresistance_% 点物理抗性并额外造成 +%damagebonus_ 点伤害。</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -211,7 +211,7 @@
 					<CHS>击晕打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>将目标击晕%stunduration_ 秒。</CHS>
+					<CHS>将目标击晕 %stunduration_ 秒。</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -227,7 +227,7 @@
 					<CHS>愤怒打击</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次攻击都会使你获得%rageperkill_ 点额外的狂怒值</CHS>
+					<CHS>每次攻击都会使你额外获得 %rageperkill_ 点怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -235,7 +235,7 @@
 					<CHS>生命偷取</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次攻击可使你回复%hpperhit_ 点生命值</CHS>
+					<CHS>每次攻击可使你回复 %hpperhit_ 点生命值</CHS>
 				</Desc>
 			</Master>
 		</strike>
@@ -247,14 +247,14 @@
 				<CHS>你的基础远程伤害值由你的远程武器决定</CHS>
 			</Desc>
 			<effect0>
-				<CHS>%attack_ 物理伤害 （%weapondamage_ 的武器伤害)</CHS>
+				<CHS>%attack_ 物理伤害 (%weapondamage_ 的武器伤害)</CHS>
 			</effect0>
 			<Powerup0>
 				<Name>
 					<CHS>爆炸弹</CHS>
 				</Name>
 				<Desc>
-					<CHS>射出的子弹将在接触时炸裂开来，对%blastradius_米范围内的所有目标造成%blastdamage_ 点伤害。</CHS>
+					<CHS>射出的子弹将在接触时炸裂开来，对 %blastradius_ 米范围内的所有目标造成 %blastdamage_ 点伤害。</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -262,7 +262,7 @@
 					<CHS>柏油射击</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标将在%slowduration_秒内被减速%slow_ </CHS>
+					<CHS>目标将在 %slowduration_ 秒内被减速 %slow_ </CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -278,7 +278,7 @@
 					<CHS>魔力水蛭</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次射击都将回复%manaperhit_ 点魔法值</CHS>
+					<CHS>每次射击都将回复 %manaperhit_ 点魔法值</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -286,7 +286,7 @@
 					<CHS>快枪手</CHS>
 				</Name>
 				<Desc>
-					<CHS>射击速度增加%attackratebonus_</CHS>
+					<CHS>射击速度增加 %attackratebonus_</CHS>
 				</Desc>
 			</Master>
 		</shot>
@@ -298,14 +298,14 @@
 				<CHS>对你面前的敌人进行3次连续攻击。如果只有一个敌人，那3次都将攻击在他身上</CHS>
 			</Desc>
 			<effect0>
-				<CHS>每次攻击造成%attack_点物理伤害(%weapondamage_ 武器伤害)</CHS>
+				<CHS>每次攻击造成 %attack_ 点物理伤害(%weapondamage_ 武器伤害)</CHS>
 			</effect0>			
 			<Powerup0>
 				<Name>
 					<CHS>眩晕一击</CHS>
 				</Name>
 				<Desc>
-					<CHS>使目标眩晕%stunduration_秒</CHS>
+					<CHS>使目标眩晕 %stunduration_ 秒</CHS>
 				</Desc>
 			</Powerup0>
 			<Powerup1>
@@ -313,7 +313,7 @@
 					<CHS>深度切口</CHS>
 				</Name>
 				<Desc>
-					<CHS>目标将持续流血10秒，每秒失去相当于%bleeding_武器伤害的血量，不能叠加。</CHS>
+					<CHS>目标将持续流血10秒，每秒失去相当于 %bleeding_ 武器伤害的血量，不能叠加。</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -329,7 +329,7 @@
 					<CHS>排山倒海</CHS>
 				</Name>
 				<Desc>
-					<CHS>每次击杀都将回复你最大生命值的%hpperkill_ </CHS>
+					<CHS>每次击杀都将回复你最大生命值的 %hpperkill_ </CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -585,7 +585,7 @@
 					<CHS>震射</CHS>
 				</Name>
 				<Desc>
-					<CHS>使用此技能完成的每一次击杀都将提供%rageperkill_ 点狂怒值。</CHS>
+					<CHS>使用此技能完成的击杀都将提供 %rageperkill_ 点怒气。</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -758,7 +758,7 @@
 				<CHS>怒气</CHS>
 			</Name>
 			<Desc>
-				<CHS>提升你的最大狂怒值</CHS>
+				<CHS>提升你的怒气上限。</CHS>
 			</Desc>
 			<effect0>
 				<CHS>+%modifiervalue_(rage) 最大愤怒</CHS>
@@ -1075,7 +1075,7 @@
 					<CHS>充能火焰</CHS>
 				</Name>
 				<Desc>
-					<CHS>使用此技能的加强技能所需消耗的狂怒值减少%powerupcostdecrease_点。</CHS>
+					<CHS>使用此技能的强化技能消耗的怒气减少 %powerupcostdecrease_ 点。</CHS>
 				</Desc>
 			</Master>
 		</fireRing>
@@ -1507,19 +1507,19 @@
 				<CHS>你的每一点愤怒都会治疗你。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>花费狂怒值，每秒回复你最大生命值的+%heal_</CHS>
+				<CHS>每消耗 1 点怒气将恢复你最大生命值 +%heal_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
 					<CHS>内心之火</CHS>
 				</Name>
 				<Desc>
-					<CHS>当你激活加强技能时，有%freepowerupchance_的几率可以立即返还你所花费的狂怒值。</CHS>
+					<CHS>当你激活强化技能时，有 %freepowerupchance_ 的几率可以立即恢复你所消耗的怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
 				<Name>
-					<CHS>怒气值转化</CHS>
+					<CHS>怒气转化</CHS>
 				</Name>
 				<Desc>
 					<CHS>每花费一点狂怒，则会获得%manaperrage_ 点魔法值</CHS>
@@ -1655,14 +1655,14 @@
 				<CHS>在你充满狂怒时提升你的暴击伤害</CHS>
 			</Desc>
 			<effect0>
-				<CHS>在最大怒气值的时候增加%modifiervalue_(critical_damage_mul)%的暴击伤害加成</CHS>
+				<CHS>当怒气达到上限时 +%modifiervalue_(critical_damage_mul)% 的暴击伤害加成</CHS>
 			</effect0>
 			<Expert>
 				<Name>
 					<CHS>红雾</CHS>
 				</Name>
 				<Desc>
-					<CHS>在怒气值达到90%的时候就能获得加成</CHS>
+					<CHS>当达到怒气上限的 90% 时，获得额外加成</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -1670,7 +1670,7 @@
 					<CHS>狂暴</CHS>
 				</Name>
 				<Desc>
-					<CHS>在怒气值满的时候增加1%的暴击几率</CHS>
+					<CHS>当怒气达到上限时 +1% 的暴击几率</CHS>
 				</Desc>
 			</Master>
 		</aura__Rampage>
@@ -2314,7 +2314,7 @@
 					<CHS>卓越之怒</CHS>
 				</Name>
 				<Desc>
-					<CHS>你每花掉一点怒气值，卡特琳娜的伤害值就提高1%，持续时间5秒</CHS>
+					<CHS>你每消耗 1 点怒气，卡特琳娜将提高 1% 的伤害值，持续5秒</CHS>
 				</Desc>
 			</Master>
 		</aura__AuraOfCounterbalance>
@@ -2745,7 +2745,7 @@
 					<CHS>施法控制</CHS>
 				</Name>
 				<Desc>
-					<CHS>此技能的所有加强所需消耗的狂怒值减1</CHS>
+					<CHS>此技能的所有强化技能消耗的怒气 -1</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -4724,7 +4724,7 @@
 					<CHS>意念狂暴</CHS>
 				</Name>
 				<Desc>
-					<CHS>你所遭受的远程伤害将会使你的狂怒值增加%rageperstruck_点</CHS>
+					<CHS>你受到远程伤害时将获得 %rageperstruck_ 点怒气</CHS>
 				</Desc>
 			</Master>
 		</rangedDamageReduction>
@@ -6008,27 +6008,27 @@
 		</Mana>
 		<hp_per_hit>
 			<desc>
-				<CHS>$SIGN$$VALUE$ 每击所需生命值</CHS>
+				<CHS>$SIGN$$VALUE$ 每次攻击获得生命值</CHS>
 			</desc>
 		</hp_per_hit>
 		<mana_per_hit>
 			<desc>
-				<CHS>$SIGN$$VALUE$ 每击所需魔法值</CHS>
+				<CHS>$SIGN$$VALUE$ 每次攻击获得魔法值</CHS>
 			</desc>
 		</mana_per_hit>
 		<hp_per_kill>
 			<desc>
-				<CHS>$SIGN$$VALUE$ 击杀一个敌人所需生命值</CHS>
+				<CHS>$SIGN$$VALUE$ 每次击杀获得生命值</CHS>
 			</desc>
 		</hp_per_kill>
 		<mana_per_kill>
 			<desc>
-				<CHS>$SIGN$$VALUE$ 没杀死一个敌人的魔法值</CHS>
+				<CHS>$SIGN$$VALUE$ 每次击杀获得魔法值</CHS>
 			</desc>
 		</mana_per_kill>
 		<rage_per_kill>
 			<desc>
-				<CHS>$SIGN$$VALUE$ 每次击杀的愤怒</CHS>
+				<CHS>$SIGN$$VALUE$ 每次击杀获得愤怒值</CHS>
 			</desc>
 		</rage_per_kill>
 		<Weapon_Damage>
@@ -6043,7 +6043,7 @@
 		</hitpoints_per_level>
 		<life_steal>
 			<desc>
-				<CHS>每击伤害的$SIGN$$VALUE$%将治疗你</CHS>
+				<CHS>每击伤害的 $SIGN$$VALUE$% 将治疗你</CHS>
 			</desc>
 		</life_steal>
 		<rage>

@@ -1383,7 +1383,7 @@
 					<CHS>火焰狂怒</CHS>
 				</Name>
 				<Desc>
-					<CHS>用这个技能每杀死一名敌人+1点狂怒值</CHS>
+					<CHS>用此技能击杀敌人时获得 1 点怒气</CHS>
 				</Desc>
 			</Master>
 		</FieryShape>
@@ -1660,7 +1660,7 @@
 					<CHS>发射熵</CHS>
 				</Name>
 				<Desc>
-					<CHS>前三藐+%damagebonus_ 伤害</CHS>
+					<CHS>前三秒 +%damagebonus_ 伤害</CHS>
 				</Desc>
 			</Powerup1>
 			<Powerup2>
@@ -2333,7 +2333,7 @@
 					<CHS>狂怒上勾</CHS>
 				</Name>
 				<Desc>
-					<CHS>使用上勾拳每杀死一个敌人获得1点狂怒值。</CHS>
+					<CHS>使用上勾拳击杀敌人时获得 1 点怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -2897,7 +2897,7 @@
 					<CHS>鬼魂感应器</CHS>
 				</Name>
 				<Desc>
-					<CHS>当无人机死亡或消失后，会给你带来15怒气值。</CHS>
+					<CHS>当无人机死亡或消失后，会为你生成 15 怒气</CHS>
 				</Desc>
 			</Expert>
 			<Master>
@@ -3730,7 +3730,7 @@
 					<CHS>红眼</CHS>
 				</Name>
 				<Desc>
-					<CHS>额外加成现在可作用于最大怒气值的90%</CHS>
+					<CHS>当达到怒气上限的 90% 时，获得额外加成</CHS>
 				</Desc>
 			</Master>
 		</RagingBull>
@@ -4180,7 +4180,7 @@
 					<CHS>愤怒击打</CHS>
 				</Name>
 				<Desc>
-					<CHS>同时获得 %ragepercrit_ 狂怒值。</CHS>
+					<CHS>同时受到其他效果影响时获得 %ragepercrit_ 点怒气</CHS>
 				</Desc>
 			</Master>
 		</invigoratingHit>
@@ -4391,7 +4391,7 @@
 				<CHS>当愤怒值满后，你将获得额外的移动速度。</CHS>
 			</Desc>
 			<effect0>
-				<CHS>狂怒值满时+%speed_ 移动速度</CHS>
+				<CHS>当怒气达到上限时移动速度 +%speed_</CHS>
 			</effect0>
 			<Expert>
 				<Name>
@@ -4676,7 +4676,7 @@
 				<CHS>超级愤怒</CHS>
 			</Name>
 			<Desc>
-				<CHS>你从卡特琳娜的攻击中获得一种能力，这种能力提高了你每次从她的攻击中获得1点怒气值的概率。</CHS>
+				<CHS>卡特琳娜的每次攻击，你有小概率获得 1 点怒气。</CHS>
 			</Desc>
 			<effect0>
 				<CHS>%chance_% 的几率获得1点怒气。</CHS>
