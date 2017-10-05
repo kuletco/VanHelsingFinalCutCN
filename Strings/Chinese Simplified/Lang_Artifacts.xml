@@ -9,7 +9,7 @@
 			<CHS>可通过实验室插入任何具有精华容量的物品</CHS>
 		</ComponentDesc>
 		<BagDesc>
-			<CHS>Open this bag to find some amazing loot! (Can't be used on the Adventure Map!)</CHS>
+			<CHS>打开这个袋子发现一些惊人的战利品！(不能用于冒险地图！)</CHS>
 		</BagDesc>
 		<AvailableTypesForEnchant>
 			<CHS>在下列物品中可用：</CHS>
@@ -7208,35 +7208,35 @@
 		</unique_find_chance>
 		<hp_potion_cooldown>
 			<Desc>
-				<CHS>生命药剂冷却加快$SIGN$$VALUE$</CHS>
+				<CHS>生命药剂冷却加快 $SIGN$$VALUE$</CHS>
 			</Desc>
 			<reduce>
 				<Desc>
-					<CHS>生命药剂冷却加快$SIGN$$VALUE$</CHS>
+					<CHS>生命药剂冷却加快 $SIGN$$VALUE$</CHS>
 				</Desc>
 			</reduce>
 		</hp_potion_cooldown>
 		<mana_potion_cooldown>
 			<Desc>
-				<CHS>魔法药剂冷却加快$SIGN$$VALUE$</CHS>
+				<CHS>魔法药剂冷却加快 $SIGN$$VALUE$</CHS>
 			</Desc>
 			<reduce>
 				<Desc>
-					<CHS>魔法药剂冷却加快$SIGN$$VALUE$</CHS>
+					<CHS>魔法药剂冷却加快 $SIGN$$VALUE$</CHS>
 				</Desc>
 			</reduce>
 		</mana_potion_cooldown>
 		<gold_find_amount>
 			<desc>
-				<CHS>$SIGN$$VALUE$%金钱掉落</CHS>
+				<CHS>$SIGN$$VALUE$% 金钱掉落</CHS>
 			</desc>
 		</gold_find_amount>
 		<property_format>
 			<allies>
-				<CHS>for allies</CHS>
+				<CHS>给盟友</CHS>
 			</allies>
 			<enemies>
-				<CHS>for enemies</CHS>
+				<CHS>给敌人</CHS>
 			</enemies>
 		</property_format>
 	</Property>

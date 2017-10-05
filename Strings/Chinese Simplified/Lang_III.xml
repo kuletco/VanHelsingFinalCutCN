@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -31,6 +32,9 @@
 				<InfinitePotionType1>
 					<CHS>喝药水可以回复全部魔法值。</CHS>
 				</InfinitePotionType1>
+				<PotionTypeBlocked>
+					<CHS>此类药水正处于冷却中。</CHS>
+				</PotionTypeBlocked>
 			</popup>
 			<charactersheet>
 				<Armor>

@@ -3881,6 +3881,9 @@
 				<disenchant>
 					<CHS>去除附魔</CHS>
 				</disenchant>
+				<go_shopping>
+					<CHS>去购物</CHS>
+				</go_shopping>
 				<hold_position>
 					<CHS>站定</CHS>
 				</hold_position>
