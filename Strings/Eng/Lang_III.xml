@@ -1,3 +1,4 @@
+﻿
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -31,6 +32,9 @@
 				<InfinitePotionType1>
 					<eng>Drinking a potion will fully restore your Mana.</eng>
 				</InfinitePotionType1>
+				<PotionTypeBlocked>
+					<eng>This type of potion is currently blocked.</eng>
+				</PotionTypeBlocked>
 			</popup>
 			<charactersheet>
 				<Armor>

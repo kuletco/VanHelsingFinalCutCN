@@ -1,3 +1,4 @@
+﻿
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
@@ -229,7 +230,7 @@
 					<eng>Inhuman Ordeal 1</eng>
 				</name>
 				<Popup>
-					<eng>Enemies have +600% Health and +285% damage\n\nBenefits:\n  +200% Gold Find\n  +200% Xp\n  +50% chance to find epic items\n  Maximum Fate Points per day: 60</eng>
+					<eng>Enemies have +600% Health and +285% damage\n\nBenefits:\n  +200% Gold Find\n  +200% Xp\n  +50% chance to find epic items\n  Maximum Fate Points per day: 65</eng>
 				</Popup>
 			</Endgame_1>
 			<Endgame_2>
@@ -237,7 +238,7 @@
 					<eng>Inhuman Ordeal 2</eng>
 				</name>
 				<Popup>
-					<eng>Enemies have +1200% Health and +470% damage\n\nBenefits:\n  +300% Gold Find\n  +300% Xp\n  +100% chance to find epic items\n  Maximum Fate Points per day: 70</eng>
+					<eng>Enemies have +1200% Health and +470% damage\n\nBenefits:\n  +300% Gold Find\n  +300% Xp\n  +100% chance to find epic items\n  Maximum Fate Points per day: 80</eng>
 				</Popup>
 			</Endgame_2>
 			<Endgame_3>
@@ -245,7 +246,7 @@
 					<eng>Inhuman Ordeal 3</eng>
 				</name>
 				<Popup>
-					<eng>Enemies have +2400% Health and +685% damage\n\nBenefits:\n  +450% Gold Find\n  +450% Xp\n  +200% chance to find epic items\n  Maximum Fate Points per day: 80</eng>
+					<eng>Enemies have +2400% Health and +685% damage\n\nBenefits:\n  +450% Gold Find\n  +450% Xp\n  +200% chance to find epic items\n  Maximum Fate Points per day: 110</eng>
 				</Popup>
 			</Endgame_3>
 			<Endgame_4>
@@ -253,7 +254,7 @@
 					<eng>Inhuman Ordeal 4</eng>
 				</name>
 				<Popup>
-					<eng>Enemies have +3700% Health and +970% damage\n\nBenefits:\n  +600% Gold Find\n  +600% Xp\n  +400% chance to find epic items\n  Maximum Fate Points per day: 90</eng>
+					<eng>Enemies have +3700% Health and +970% damage\n\nBenefits:\n  +600% Gold Find\n  +600% Xp\n  +400% chance to find epic items\n  Maximum Fate Points per day: 150</eng>
 				</Popup>
 			</Endgame_4>
 			<Endgame_5>
@@ -261,7 +262,7 @@
 					<eng>Inhuman Ordeal 5</eng>
 				</name>
 				<Popup>
-					<eng>Enemies have +9000% Health and +1500% damage\n\nBenefits:\n  +1000% Gold Find\n  +1000% Xp\n  +600% chance to find epic items\n  Maximum Fate Points per day: 100</eng>
+					<eng>Enemies have +9000% Health and +1500% damage\n\nBenefits:\n  +1000% Gold Find\n  +1000% Xp\n  +600% chance to find epic items\n  Maximum Fate Points per day: 200</eng>
 				</Popup>
 			</Endgame_5>
 		</Difficulty>
@@ -907,7 +908,7 @@
 					<name>
 						<eng>Reset Perks</eng>
 					</name>
-				</reset_perks>
+				</reset_perks>				
 				<Godlike_Forge>
 					<name>
 						<eng>Meta Forge</eng>

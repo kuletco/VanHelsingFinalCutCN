@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<LanguageName>
 		<eng>English</eng>
@@ -24,7 +24,7 @@
 				</terep_csatorna_hosszu>
 				<terep_csatorna_nekro>
 					<name>
-						<eng>Underground Headquarters</eng>
+						<eng>Underground HQ</eng>
 					</name>
 				</terep_csatorna_nekro>
 			</map>
@@ -33,7 +33,7 @@
 			<Info>
 				<terep_csatorna_nekro>
 					<Waypoint_nekro>
-						<eng>Underground Headquarters</eng>
+						<eng>Headquarters</eng>
 					</Waypoint_nekro>
 				</terep_csatorna_nekro>
 				<Lift_1>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Root>
 	<GC>
 		<KillRobbers>
@@ -3881,6 +3881,9 @@
 				<disenchant>
 					<eng>Disenchant</eng>
 				</disenchant>
+				<go_shopping>
+					<eng>Go Shopping</eng>
+				</go_shopping>
 				<hold_position>
 					<eng>Hold position</eng>
 				</hold_position>
@@ -4793,7 +4796,7 @@
 					<eng>Casual</eng>
 				</Name>
 				<Popup>
-					<eng>A new hunter in Borgovia! So you know your way around action-RPGS, but you prefer a balance between action and RPG, battles and storytelling? Then this might be a good start for you.\n\nEnemies have -40 % Health and -30% damage\n\n  Maximum Fate Points per day: 10</eng>
+					<eng>A new hunter in Borgovia! So you know your way around action-RPGS, but you prefer a balance between action and RPG, battles and storytelling? Then this might be a good start for you.\n\nEnemies have -40 % Health and -30% damage\n\n  Maximum Fate Points per day: 5</eng>
 				</Popup>
 			</Casual>
 			<Normal>
@@ -4801,7 +4804,7 @@
 					<eng>Normal</eng>
 				</Name>
 				<Popup>
-					<eng>Suggested for Action-RPG enthusiasts, who are ready to enter the dangerous world of Van Helsing for the first time.\n\nEnemies have +0 % Health and +0% damage\n\nBenefits:\n  +10% Gold\n  Maximum Fate Points per day: 20</eng>
+					<eng>Suggested for Action-RPG enthusiasts, who are ready to enter the dangerous world of Van Helsing for the first time.\n\nEnemies have +0 % Health and +0% damage\n\nBenefits:\n  +10% Gold\n  Maximum Fate Points per day: 15</eng>
 				</Popup>
 			</Normal>
 			<Hard>
@@ -4809,7 +4812,7 @@
 					<eng>Hard</eng>
 				</Name>
 				<Popup>
-					<eng>Recommended for veteran ARPG-players, who have mastered the genre and need new challenges. Enter at your own peril!\n\nEnemies have +60 % Health and +30% damage\n\nBenefits:\n  +40% Gold Find\n  +15% Xp\n  Maximum Fate Points per day: 30</eng>
+					<eng>Recommended for veteran ARPG-players, who have mastered the genre and need new challenges. Enter at your own peril!\n\nEnemies have +60 % Health and +30% damage\n\nBenefits:\n  +40% Gold Find\n  +15% Xp\n  Maximum Fate Points per day: 25</eng>
 				</Popup>
 			</Hard>
 			<Heroic>
@@ -4817,7 +4820,7 @@
 					<eng>Heroic</eng>
 				</Name>
 				<Popup>
-					<eng>This is for all those hardcore ARPG-fans who think they’ve seen it all: we are ready to show you that Borgovia can offer new challenges even for you!\n\nEnemies have +150 % Health and +70% damage\n\nBenefits:\n  +80% Gold Find\n  +80% Xp\n  Maximum Fate Points per day: 40</eng>
+					<eng>This is for all those hardcore ARPG-fans who think they’ve seen it all: we are ready to show you that Borgovia can offer new challenges even for you!\n\nEnemies have +150 % Health and +70% damage\n\nBenefits:\n  +80% Gold Find\n  +80% Xp\n  Maximum Fate Points per day: 35</eng>
 				</Popup>
 			</Heroic>
 			<Hardcore>
@@ -5361,7 +5364,7 @@
 					<eng>Forgot your password?</eng>
 				</lost_password>
 				<not_verified>
-					<eng>E-mail not verified!</eng>
+				  <eng>E-mail not verified!</eng>
 				</not_verified>
 				<pass_missmatch>
 					<eng>Password missmatch!</eng>
