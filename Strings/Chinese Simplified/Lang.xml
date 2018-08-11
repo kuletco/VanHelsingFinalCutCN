@@ -4133,7 +4133,7 @@
 				</mapopacity>
 
 				<force32bit>
-					<CHS>强制游戏以_x86之行为ujian启动，无视当前操作系统类型。</CHS>
+					<CHS>强制游戏以32位启动，无视当前操作系统类型。</CHS>
 				</force32bit>
 				<Subtitles>
 					<CHS>动画时显示字幕</CHS>
@@ -4257,19 +4257,19 @@
 				<CHS>地图不透明度</CHS>
 			</mapopacity>
 			<SmoothAnimations>
-				<CHS>动画流畅</CHS>
+				<CHS>平滑动画</CHS>
 			</SmoothAnimations>
 			<Reflections>
-				<CHS>反应</CHS>
+				<CHS>反光</CHS>
 			</Reflections>
 			<OrganicsPhysics>
-				<CHS>有机物理</CHS>
+				<CHS>物体物理效果</CHS>
 			</OrganicsPhysics>
 			<SmoothShadows>
-				<CHS>阴影流畅</CHS>
+				<CHS>平滑阴影</CHS>
 			</SmoothShadows>
 			<Master>
-				<CHS>精通：</CHS>
+				<CHS>主音量：</CHS>
 			</Master>
 			<Music>
 				<CHS>音乐：</CHS>
@@ -4281,7 +4281,7 @@
 				<CHS>对话：</CHS>
 			</Speech>
 			<Terrainsounds>
-				<CHS>地形音效：</CHS>
+				<CHS>环境音效：</CHS>
 			</Terrainsounds>
 			<Texturedetail>
 				<CHS>纹理细节：</CHS>
@@ -4293,22 +4293,22 @@
 				<CHS>垂直同步</CHS>
 			</VSync>
 			<MultiGPU>
-				<CHS>SLI\CrossFire 优化</CHS>
+				<CHS>多显卡协同优化</CHS>
 			</MultiGPU>
 			<NoSoftCoronas>
-				<CHS>无软光环</CHS>
+				<CHS>无软光晕</CHS>
 			</NoSoftCoronas>
 			<ForceWaitGPU>
 				<CHS>同步CPU到GPU</CHS>
 			</ForceWaitGPU>
 			<OrganicsAnimation>
-				<CHS>有机动物</CHS>
+				<CHS>物体动画</CHS>
 			</OrganicsAnimation>
 			<HighEffects>
 				<CHS>高特效</CHS>
 			</HighEffects>
 			<DetailedEnvironment>
-				<CHS>详细环境</CHS>
+				<CHS>环境细节</CHS>
 			</DetailedEnvironment>
 			<Veryhigh>
 				<CHS>很高</CHS>
@@ -4326,7 +4326,7 @@
 				<CHS>Direct3D 9</CHS>
 			</dx9>
 			<gl>
-				<CHS>Open GL (32bit)</CHS>
+				<CHS>Open GL (32位)</CHS>
 			</gl>
 			<willtakeffectonnextstartmsg>
 				<CHS>这次更改会在下次启动游戏生效。你确定吗？</CHS>
