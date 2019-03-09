@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 WORKDIR=$(pwd)
 ENGDIR="${WORKDIR}/Eng"
